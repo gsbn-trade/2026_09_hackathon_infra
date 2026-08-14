@@ -1,11 +1,11 @@
 variable "region" {
-  description = "AliCloud region. cn-shanghai keeps latency to the venue and to Bailian low."
+  description = "AliCloud region. cn-hongkong, not cn-shanghai: a mainland China region would require ICP filing (MIIT-registered domain + 3-month-minimum subscription + 1-3 week approval) before Alibaba Cloud will even resolve traffic to the domain, which doesn't fit a few-day hackathon. Hong Kong needs no ICP filing and is still low-latency from Shanghai (~30-50ms)."
   type        = string
-  default     = "cn-shanghai"
+  default     = "cn-hongkong"
 }
 
 variable "zone_id" {
-  description = "Specific zone, e.g. cn-shanghai-b. Leave blank to auto-pick one with capacity."
+  description = "Specific zone, e.g. cn-hongkong-b. Leave blank to auto-pick one with capacity."
   type        = string
   default     = ""
 }
@@ -28,9 +28,9 @@ variable "ssh_public_key_path" {
 }
 
 variable "instance_type" {
-  description = "ECS instance type. g8i.xlarge (4 vCPU / 16GB) is plenty for one LiteLLM + one bolt.diy instance behind Caddy — no model weights run on this box, every call is an API call out."
+  description = "ECS instance type. g9i.xlarge (4 vCPU / 16GB) is plenty for one LiteLLM + one bolt.diy instance behind Caddy — no model weights run on this box, every call is an API call out."
   type        = string
-  default     = "ecs.g8i.xlarge"
+  default     = "ecs.g9i.xlarge"
 }
 
 variable "eip_bandwidth" {

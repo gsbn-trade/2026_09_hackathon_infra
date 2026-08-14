@@ -52,13 +52,54 @@ unmodified with `terraform` too, if that ever changes.
 - A Bailian (Model Studio) API key — covers Qwen + DeepSeek + GLM.
 - A Moonshot platform API key — Kimi (separate account, not on Bailian).
 
+### Configuration steps log
+1. Created a [RAM user](https://ram.console.alibabacloud.com/users) and Users > [User] > Permissions: `AliyunRAMFullAccess` and `AliyunSTSAssumeRoleAccess`.
+2. Following [Oauth credentials](https://www.alibabacloud.com/help/en/cli/oauth-credentials?spm=a2c63.p38356.help-menu-29991.d_1_0_0.1886d384ZFYCWJ), run
+```
+aliyun configure --mode OAuth --profile OAuthProfile
+
+OAuth Site Type (CN: 0 or INTL: 1, default: CN): 
+1
+Please open the following URL in your browser to authorize:
+<link redacted>
+If the browser does not open automatically, use the following URL to complete the login process:
+
+SignIn url: <link redacted>
+
+Now you can login to your account with OAuth configuration in the browser.
+OAuth configuration completed. The temporary Access Key Id and Access Key Secret have been set in the profile.
+Default Region Id []: cn-hongkong
+Default Output Format [json]: json (Only support json)
+Default Language [zh|en] en: en
+Saving profile[OAuthProfile] ...Done.
+```
+3. For this to work, needed to open [Integrations > OAuth (Preview) > "official-cli"](https://ram.console.alibabacloud.com/applications/4103531455503354461?appType=ThirdPartyApp) 3P application and add created RAM user to [Allowed Identities](https://ram.console.alibabacloud.com/applications/4103531455503354461?appType=ThirdPartyApp&activeTab=Assignments).
+
+```
+# Set Role based access
+aliyun configure set --ram-role-arn acs:ram::5489273919625675:role/smdg-hackathon-sts-role
+
+# Verify identity
+aliyun sts get-caller-identity
+```
+
+NOTE: it was difficult to figure out how to assume role with oatuh or sts login. Instead, created AccessId/Secrte for a user and assigned them `AliyunECSFullAccess` and `AliyunVPCFullAccess` roles.
+
+```
+# Set region to Hong Kong to avoid ICP license filing
+aliyun configure set --profile default --region cn-hongkong
+aliyun configure list
+Profile   | Credential         | Valid   | Region           | Language
+--------- | ------------------ | ------- | ---------------- | --------
+default * | AK:***uVB          | Valid   | cn-hongkong      | en
+```
+
 ## 1. Provision the VM
 
 First, store your AccessKey once via the CLI instead of exporting it raw —
 `aliyun configure` prompts interactively (AccessKey ID, AccessKey Secret,
-region `cn-shanghai`, default output format), and writes it to
-`~/.aliyun/config.json`, which OpenTofu's alicloud provider reads
-automatically:
+region `cn-hongkong`, default output format), and writes it to
+`~/.aliyun/config.json`:
 
 ```bash
 aliyun configure
@@ -69,12 +110,29 @@ If you're scripting this non-interactively instead (CI, no TTY):
 
 ```bash
 aliyun configure set --profile default --mode AK \
-  --access-key-id "..." --access-key-secret "..." --region cn-shanghai
+  --access-key-id "..." --access-key-secret "..." --region cn-hongkong
 ```
 
-(The raw `export ALICLOUD_ACCESS_KEY=... / ALICLOUD_SECRET_KEY=...` env-var
-route from the provider docs still works too, if you'd rather not touch the
-CLI — it just leaves the secret sitting in shell history.)
+The alicloud provider does **not** pick up `~/.aliyun/config.json`
+automatically just because it exists — it needs to be told which profile to
+use. `versions.tf` sets `profile = "default"` in the `provider "alicloud"`
+block to match what `aliyun configure` writes by default. If you used a
+different profile name, override it without editing code:
+
+```bash
+export ALIBABA_CLOUD_PROFILE="<your-profile-name>"
+```
+
+(The raw env-var route still works too, if you'd rather not touch the CLI
+config at all — it just leaves the secret sitting in shell history. Note the
+current provider version expects the newer variable names, not the legacy
+`ALICLOUD_*` ones:)
+
+```bash
+export ALIBABA_CLOUD_ACCESS_KEY_ID="..."
+export ALIBABA_CLOUD_ACCESS_KEY_SECRET="..."
+export ALIBABA_CLOUD_REGION="cn-hongkong"
+```
 
 ```bash
 cd infra

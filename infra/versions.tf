@@ -15,13 +15,21 @@ terraform {
   }
 }
 
-# Credentials are NOT set here. Recommended: run `aliyun configure` once
-# (see README) — it writes ~/.aliyun/config.json, which this provider reads
-# automatically. The alternative, raw env vars, works too but puts the
-# secret directly in your shell history:
-#   export ALICLOUD_ACCESS_KEY="..."
-#   export ALICLOUD_SECRET_KEY="..."
-#   export ALICLOUD_REGION="cn-shanghai"
+# Credentials are NOT set here directly. Recommended: run `aliyun configure`
+# once (see README) — it writes ~/.aliyun/config.json. The provider does NOT
+# read that file automatically just because it exists; it needs to be told
+# which profile to use, hence `profile = "default"` below (matches the
+# profile name `aliyun configure` writes unless you pass --profile).
+# If you used a different profile name, override with:
+#   export ALIBABA_CLOUD_PROFILE="<your-profile-name>"
+# (this env var takes precedence over the `profile` argument here.)
+#
+# The alternative, raw env vars, works too but puts the secret directly in
+# your shell history:
+#   export ALIBABA_CLOUD_ACCESS_KEY_ID="..."
+#   export ALIBABA_CLOUD_ACCESS_KEY_SECRET="..."
+#   export ALIBABA_CLOUD_REGION="cn-hongkong"
 provider "alicloud" {
-  region = var.region
+  region  = var.region
+  profile = "default"
 }

@@ -28,7 +28,7 @@ flowchart TB
 
     P --> RP["Caddy reverse proxy\nTLS via Let's Encrypt"]
 
-    subgraph CoreVM["AliCloud ECS — core VM · cn-shanghai"]
+    subgraph CoreVM["AliCloud ECS — core VM · cn-hongkong (avoids ICP filing)"]
         RP --> BD["bolt.diy\nwebsite generation, live iterative edits"]
         RP --> OW["Open WebUI\nchat · data analysis · marketing"]
         RP --> DY["Dify\nmulti-agent workflow showcase"]
