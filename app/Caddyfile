@@ -1,0 +1,23 @@
+# Replace gateway.example.com / build.example.com with real subdomains once
+# DNS is pointed at the EIP from `terraform output public_ip`. Caddy issues
+# and renews Let's Encrypt certs for these automatically — nothing else to do.
+#
+# bolt.diy's in-browser sandbox (WebContainers) requires a genuine HTTPS
+# secure context to work at all — a bare IP over plain HTTP will not run it.
+# A domain name is not optional for the build.* host.
+
+gateway.example.com {
+    reverse_proxy litellm:4000
+}
+
+build.example.com {
+    reverse_proxy boltdiy:5173
+}
+
+# --- No domain yet? Uncomment this for a quick LAN/IP-only smoke test of
+# LiteLLM only (the API itself doesn't need HTTPS the way WebContainers do).
+# Comment the two blocks above while using this.
+#
+# :80 {
+#     reverse_proxy litellm:4000
+# }

@@ -1,0 +1,76 @@
+name: hackathon
+
+services:
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - litellm
+      - boltdiy
+
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: litellm
+      POSTGRES_USER: litellm
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+  # litellm-database (not plain litellm) is the variant wired for Postgres —
+  # it's what persists teams/virtual-keys/spend across restarts instead of
+  # only reading the static model_list from config.yaml.
+  litellm:
+    image: ghcr.io/berriai/litellm-database:main-stable
+    restart: unless-stopped
+    depends_on:
+      - postgres
+    volumes:
+      - ./litellm-config.yaml:/app/config.yaml:ro
+    environment:
+      DATABASE_URL: postgresql://litellm:${POSTGRES_PASSWORD}@postgres:5432/litellm
+      LITELLM_MASTER_KEY: ${LITELLM_MASTER_KEY}
+      LITELLM_SALT_KEY: ${LITELLM_SALT_KEY}
+      DASHSCOPE_API_KEY: ${DASHSCOPE_API_KEY}
+      MOONSHOT_API_KEY: ${MOONSHOT_API_KEY}
+    command: ["--config", "/app/config.yaml", "--port", "4000"]
+    expose:
+      - "4000"
+
+  # Prebuilt image from the bolt.diy project itself — no local build step.
+  boltdiy:
+    image: ghcr.io/stackblitz-labs/bolt.diy:latest
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      # Single custom OpenAI-compatible slot, pointed at our own gateway.
+      # LiteLLM is what actually fans this out to Qwen/DeepSeek/GLM/Kimi —
+      # bolt.diy just sees one endpoint and a model-name dropdown.
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM_VIRTUAL_KEY}
+    # The published :latest image's own `dockerstart` script shells out to
+    # `wrangler` (it serves via `wrangler pages dev`, a leftover of bolt.diy's
+    # Cloudflare Pages tooling) but the image ships without wrangler
+    # installed — confirmed by running it as-is, which crash-loops on
+    # "wrangler: not found". Installing it at container start is the
+    # smallest fix; verified working locally before this was written.
+    command: sh -c "npm install -g wrangler@3 && pnpm run dockerstart"
+    expose:
+      - "5173"
+
+volumes:
+  caddy_data:
+  caddy_config:
+  pg_data:
