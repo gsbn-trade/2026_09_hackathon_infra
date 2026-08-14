@@ -1,5 +1,8 @@
 # Shanghai hackathon — LiteLLM + bolt.diy on AliCloud
 
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the target system, diagrams, and
+what's built vs. still planned — this file is the hands-on deploy guide.
+
 One VM, provisioned with OpenTofu; one Docker Compose stack on top (Caddy →
 LiteLLM + bolt.diy, Postgres backing LiteLLM). The same `app/` directory
 also runs unmodified on the Mac Mini backup — that's the point.
