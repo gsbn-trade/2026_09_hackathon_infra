@@ -15,7 +15,10 @@ terraform {
   }
 }
 
-# Credentials are NOT set here. Export before running tofu:
+# Credentials are NOT set here. Recommended: run `aliyun configure` once
+# (see README) — it writes ~/.aliyun/config.json, which this provider reads
+# automatically. The alternative, raw env vars, works too but puts the
+# secret directly in your shell history:
 #   export ALICLOUD_ACCESS_KEY="..."
 #   export ALICLOUD_SECRET_KEY="..."
 #   export ALICLOUD_REGION="cn-shanghai"

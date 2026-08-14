@@ -22,6 +22,23 @@ unmodified with `terraform` too, if that ever changes.
 
 - An AliCloud account with an **AccessKey ID/Secret** for a RAM user scoped
   to ECS/VPC/EIP (not your root account key).
+- The Alibaba Cloud CLI (`aliyun`), used once to store that AccessKey
+  locally so it never has to be typed into a shell command or a chat.
+  On macOS, per the [official install guide](https://www.alibabacloud.com/help/en/cli/install-update-alibaba-cloud-cli#h2-install-macos-en-001):
+
+  ```bash
+  brew install aliyun-cli
+  ```
+
+  or, without Homebrew:
+
+  ```bash
+  curl https://aliyuncli.alicdn.com/aliyun-cli-macosx-latest-universal.tgz -o aliyun-cli-macosx-latest-universal.tgz
+  tar xzvf aliyun-cli-macosx-latest-universal.tgz
+  sudo mv ./aliyun /usr/local/bin
+  ```
+
+  Verify with `aliyun version`.
 - OpenTofu installed locally: `brew install opentofu` (installs the `tofu`
   command)
 - A domain (or subdomain) you can point DNS at — **required**, not optional:
@@ -34,10 +51,29 @@ unmodified with `terraform` too, if that ever changes.
 
 ## 1. Provision the VM
 
-```bash
-export ALICLOUD_ACCESS_KEY="..."
-export ALICLOUD_SECRET_KEY="..."
+First, store your AccessKey once via the CLI instead of exporting it raw —
+`aliyun configure` prompts interactively (AccessKey ID, AccessKey Secret,
+region `cn-shanghai`, default output format), and writes it to
+`~/.aliyun/config.json`, which OpenTofu's alicloud provider reads
+automatically:
 
+```bash
+aliyun configure
+# → writes a profile named "default" unless you pass --profile <name>
+```
+
+If you're scripting this non-interactively instead (CI, no TTY):
+
+```bash
+aliyun configure set --profile default --mode AK \
+  --access-key-id "..." --access-key-secret "..." --region cn-shanghai
+```
+
+(The raw `export ALICLOUD_ACCESS_KEY=... / ALICLOUD_SECRET_KEY=...` env-var
+route from the provider docs still works too, if you'd rather not touch the
+CLI — it just leaves the secret sitting in shell history.)
+
+```bash
 cd infra
 cp terraform.tfvars.example terraform.tfvars
 # edit terraform.tfvars: set admin_cidr to your IP (https://ifconfig.me),
