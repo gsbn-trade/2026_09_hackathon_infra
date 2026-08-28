@@ -357,6 +357,16 @@ mounted config files and env vars are **not** hot-reloaded:
   missing setting. Mitigation: `WEBUI_BANNERS` (see `docker-compose.yml`)
   shows an in-app reminder on every chat, since a README note alone won't
   reach participants mid-hackathon.
+- **Dify's HTTP Request node silently drops fetched content into a file
+  attachment instead of `body` text whenever the response's `Content-Type`
+  isn't a text type** — bit us twice on the same fetch, from two different
+  layers (nginx's default MIME type for unknown extensions, then a stale
+  cache in Dify's own outbound `ssrf_proxy` that kept serving the
+  pre-fix response even after nginx was corrected). Also: Dify's Code
+  node sandbox is deliberately seccomp-hardened and can't read local files
+  even when a path is bind-mounted into it — full write-up, including the
+  admin-account bootstrap (no browser wizard needed) and model-provider
+  plugin install: [docs/dify-research-agent/](docs/dify-research-agent/).
 - **PARKED, unresolved: generated chart images don't render inline in the
   chat**, even with Code Interpreter on and the backend genuinely producing
   and saving valid images (traced multiple charts all the way to real

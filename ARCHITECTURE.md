@@ -99,7 +99,7 @@ own team's budget, never the sponsor's real account.
 | Website generation, live iterative editing | **bolt.diy** | In-browser sandboxed Node runtime (WebContainers); diff-based edits patch the running app instead of regenerating it | ✅ Implemented |
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
 | Chat / data analysis / marketing text & images | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend | ✅ Implemented |
-| Agentic multi-agent showcase | **Dify** | Visual multi-agent workflow builder; one team = one workspace, which is also its credential boundary | 🔲 Planned |
+| Agentic multi-agent showcase | **Dify** | Visual multi-agent workflow builder; one team = one workspace, which is also its credential boundary | ✅ Implemented |
 | Advanced/optional track | **OpenHands** | Autonomous coding agent with sub-agent delegation; isolated on its own VM since its Docker-in-Docker sandboxing is the riskiest piece | 🔲 Planned, optional |
 
 ## Model sourcing
@@ -124,6 +124,14 @@ Both are wired into `app/litellm-config.yaml` today. See
       hackathon tracks) mounted read-only, so any team can `pd.read_csv()`
       their track without uploading anything — team-to-track assignment
       isn't known ahead of time, so every team's instance gets all of them
+- [x] One Dify instance (`app/dify/`, vendored + reusing the main stack's
+      Postgres/pgvector/Redis, see [docs/dify-research-agent/](docs/dify-research-agent/)),
+      admin account bootstrapped, LiteLLM wired in as an
+      `openai_api_compatible` model provider, plus a template "Track
+      Research Agent" workflow that pulls a track's full brief.md
+      (`data-server`, an internal-only static file service) straight into
+      the LLM prompt — full-text, no embeddings (unavailable in this
+      workspace, see the doc)
 - [ ] Dify with 5 per-team workspaces
 - [ ] Replicate bolt.diy (and Open WebUI) to one instance per team, each
       with its own baked-in virtual key and subdomain
