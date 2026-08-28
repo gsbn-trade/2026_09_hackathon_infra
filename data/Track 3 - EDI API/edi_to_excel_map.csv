@@ -1,0 +1,29 @@
+edit_to_excel_map_target,SMDG D:95B structure,COPRAR BGM+45 load/BGM+43 discharge,MessageType,map BGM type to Load/Discharge
+COPRAR,UNH+COPRAR:D:95B:UN:ITG12,message type header,MessageType,fixed
+COPRAR,BGM+45/+43,message type (load/discharge),Operation,fixed (Load=45 Discharge=43)
+COPRAR,RFF+XXX:1,formal dummy ref (header),DocumentRef,custom label
+COPRAR,TDT+20,details of transport (vessel/voyage),VesselService,custom column
+COPRAR,LOC+11,port/berth (header),PortOfCall,rename
+COPRAR,DTM+132,ETA,VesselArrival,date format choice
+COPRAR,DTM+133,ETD,VesselDeparture,date format choice
+COPRAR,NAD+CA,carrier,Carrier,rename + code/name toggle
+COPRAR,EQD+CN+---eq---,equipment encoded,ContainerNo,align col width
+COPRAR,EQD ISO code (c224),ISO 6346 numeric size/type,ContainerSizeType,human-readable expansion toggle
+COPRAR,RFF+BN,booking reference,BookingRef,rename
+COPRAR,TMD,movement (11/33),Movement,translate code
+COPRAR,LOC+11 (per-container),port of loading,PortOfLoading,rename
+COPRAR,LOC+147,stowage cell (bay/row/tier),StowagePosition,bay/row/tier into 3 cols
+COPRAR,MEA+AAE gross weight,GrossWeightKg,weight unit toggle
+COPRAR,FTX+AAA,commodity,Commodity,custom
+BAPLIE,UNH+BAPLIE:D:95B:UN,message type header,MessageType,fixed
+BAPLIE,BGM+21,plan reference,PlanRef,custom label
+BAPLIE,DTM+137,plan date/time,PlanDate,date format choice
+BAPLIE,TDT+20,vessel/service,VesselService,custom column
+BAPLIE,LOC+5,port of departure,PortOfDeparture,rename
+BAPLIE,LOC+147,stowage cell,StowagePosition,bay/row/tier into 3 cols
+BAPLIE,MEA+VGM,verified gross mass,VGMKg,weight unit toggle
+BAPLIE,LOC+9,port of loading,PortOfLoading,rename
+BAPLIE,LOC+11,port of discharge,PortOfDischarge,rename
+BAPLIE,RFF+BM:1,dummy ref,PlanRef2,custom
+BAPLIE,EQD+CN+---eq---,container number + alpha size/type,ContainerNo,align
+note,validation,invalid rows to exclude/flag,Status,custom (e.g. "OK" / error text)

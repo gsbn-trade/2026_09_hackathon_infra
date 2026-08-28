@@ -12,9 +12,13 @@ fi
 IP=$(tofu -chdir=infra output -raw public_ip)
 echo "Target: root@${IP}"
 
-ssh -o StrictHostKeyChecking=accept-new root@"${IP}" "mkdir -p /opt/app"
+ssh -o StrictHostKeyChecking=accept-new root@"${IP}" "mkdir -p /opt/app /opt/data"
 rsync -avz --exclude '.env' --exclude 'docker-compose.override.yml' app/ root@"${IP}":/opt/app/
 scp app/.env root@"${IP}":/opt/app/.env
+# data/ is a sibling of app/, not inside it — Open WebUI's jupyter service
+# mounts it via a relative ../data, which resolves to /opt/data here,
+# matching the local repo-root/app + repo-root/data layout.
+rsync -avz data/ root@"${IP}":/opt/data/
 # boltdiy is now a custom-built image (Dockerfile.boltdiy), not pulled from
 # a registry — `--build` rebuilds it from whatever's in patches/ on every
 # deploy; `up -d` still pulls the other services' images as before.
@@ -24,3 +28,4 @@ echo
 echo "Deployed. Once DNS for your domain points at ${IP}:"
 echo "  LiteLLM gateway:  https://gateway.<your-domain>"
 echo "  bolt.diy:         https://build.<your-domain>"
+echo "  Open WebUI:       https://analyze.<your-domain>"

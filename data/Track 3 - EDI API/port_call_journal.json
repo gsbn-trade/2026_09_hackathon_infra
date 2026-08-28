@@ -1,0 +1,47 @@
+{
+  "source_message": "COPRAR_20260801.edi",
+  "parsed_at": "2026-08-01T12:00:00Z",
+  "validation": {
+    "status": "PASS",
+    "syntax_errors": [],
+    "semantic_errors": [],
+    "warnings": []
+  },
+  "port_call": {
+    "port": "CNSH",
+    "vessel_arrival": "2026-08-01T12:00:00Z",
+    "loading_complete": "2026-08-02T06:00:00Z",
+    "document_ref": "COPREF20260801"
+  },
+  "containers": [
+    {
+      "container_ref": "CMAU3322118",
+      "iso_size_type": "45G1",
+      "action": "CLS",
+      "action_text": "load",
+      "port": "CNSH",
+      "check_digit_valid": true
+    },
+    {
+      "container_ref": "TCLU7719006",
+      "iso_size_type": "45R1",
+      "action": "CLS",
+      "action_text": "load",
+      "port": "CNSH",
+      "check_digit_valid": true
+    },
+    {
+      "container_ref": "CMAU8831440",
+      "iso_size_type": "42G1",
+      "action": "DSC",
+      "action_text": "discharge",
+      "port": "SGSIN",
+      "check_digit_valid": true
+    }
+  ],
+  "summary": {
+    "total_containers": 10,
+    "to_load": 7,
+    "to_discharge": 3
+  }
+}

@@ -12,3 +12,15 @@ services:
   boltdiy:
     ports:
       - "5173:5173"
+
+  open-webui:
+    ports:
+      - "3000:8080"
+
+  # Not for participant use even locally — exposed here only so you can
+  # open http://localhost:8888 yourself to sanity-check a notebook runs
+  # against the mounted data/ before trusting Open WebUI's interpreter to
+  # use it correctly.
+  jupyter:
+    ports:
+      - "8888:8888"

@@ -81,7 +81,66 @@ services:
     expose:
       - "5173"
 
+  # Code-execution backend for Open WebUI's interpreter — its own built-in
+  # (Pyodide) interpreter runs client-side in-browser and can't see server
+  # files, so real pandas-on-the-data-folder work needs an actual kernel.
+  # Never exposed to participants directly (no Caddy route, no host port in
+  # prod) — Open WebUI proxies to it server-to-server on the internal
+  # network only. scipy-notebook (not minimal-notebook) so pandas/numpy/
+  # matplotlib are already there — every track's data is CSV.
+  jupyter:
+    image: jupyter/scipy-notebook:latest
+    restart: unless-stopped
+    environment:
+      JUPYTER_TOKEN: ${JUPYTER_TOKEN}
+    volumes:
+      - ../data:/home/jovyan/data:ro
+    expose:
+      - "8888"
+
+  # Data understanding/analysis tool — chat UI + Jupyter-backed code
+  # interpreter, same LiteLLM gateway as bolt.diy. /home/jovyan/data (via
+  # the jupyter service) has every track's brief + CSVs mounted read-only,
+  # so any team can pd.read_csv() their assigned track without uploading
+  # anything — teams don't know their track assignment ahead of time, and
+  # the files are small enough it's simplest to just give everyone all of
+  # them.
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    restart: unless-stopped
+    depends_on:
+      - litellm
+      - jupyter
+    environment:
+      OPENAI_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_API_KEY: ${OPENWEBUI_VIRTUAL_KEY}
+      ENABLE_CODE_INTERPRETER: "True"
+      CODE_EXECUTION_ENGINE: jupyter
+      CODE_EXECUTION_JUPYTER_URL: http://jupyter:8888
+      CODE_EXECUTION_JUPYTER_AUTH: token
+      CODE_EXECUTION_JUPYTER_AUTH_TOKEN: ${JUPYTER_TOKEN}
+      CODE_EXECUTION_JUPYTER_TIMEOUT: "60"
+      CODE_INTERPRETER_ENGINE: jupyter
+      CODE_INTERPRETER_JUPYTER_URL: http://jupyter:8888
+      CODE_INTERPRETER_JUPYTER_AUTH: token
+      CODE_INTERPRETER_JUPYTER_AUTH_TOKEN: ${JUPYTER_TOKEN}
+      CODE_INTERPRETER_JUPYTER_TIMEOUT: "60"
+      # Open WebUI's own accounts/chat history/settings — separate from
+      # LiteLLM's Postgres, this is its own SQLite via the volume below.
+      WEBUI_SECRET_KEY: ${OPENWEBUI_SECRET_KEY}
+      # No per-participant signup/login — matches bolt.diy's "just open the
+      # URL" pattern. Only takes effect on a genuinely fresh instance (no
+      # existing users) — confirmed working against ours before relying on
+      # it, since this flag has a history of not fully applying in some
+      # versions/setups.
+      WEBUI_AUTH: "False"
+    volumes:
+      - openwebui_data:/app/backend/data
+    expose:
+      - "8080"
+
 volumes:
   caddy_data:
   caddy_config:
   pg_data:
+  openwebui_data:

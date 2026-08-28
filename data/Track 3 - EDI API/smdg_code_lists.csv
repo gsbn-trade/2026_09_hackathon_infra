@@ -1,0 +1,34 @@
+code_list,code,meaning,notes
+Message_version,D:95B,SMDG directory for COPRAR+BAPLIE,use this not D:96A
+Message_agency,ITG12,COPRAR controlling agency (D:95B),UNH+COPRAR:D:95B:UN:ITG12
+UNB_syntax,UNOA:2,EDIFACT syntax level A v2,mandated by SMDG
+COPRAR_BGM,45,Loading order message type,BGM+45 (not +40)
+COPRAR_BGM,43,Discharge order message type,BGM+43
+ISO6346,2200,20ft general purpose (numeric),COPRAR uses numeric codes
+ISO6346,2210,20ft high-cube GP (numeric),-
+ISO6346,2230,20ft open-top (numeric),-
+ISO6346,2250,40ft general purpose (numeric),-
+ISO6346,42G1,40ft GP (alpha),BAPLIE uses alpha codes
+ISO6346,45G1,40ft high-cube GP (alpha),BAPLIE
+ISO6346,45R1,40ft high-cube reefer (alpha),BAPLIE
+ISO6346,22G1,20ft GP (alpha),BAPLIE
+ISO6346,52G1,INVALID size/type,validator must flag
+UNLOCODE,CNSHA,Shanghai,"note: 5-char CNSHA, not CNSH"
+UNLOCODE,SGSIN,Singapore,valid
+UNLOCODE,KRPUS,Busan (South Korea),valid
+UNLOCODE,LKCOL,Colombo,valid
+UNLOCODE,ZZZ,INVALID,flag
+EDIFACT_RFF,BN,Booking reference,COPRAR per-container
+EDIFACT_RFF,XXX,Formal dummy reference,header,after BGM
+EDIFACT_RFF,BM,Bill of lading dummy,BAPLIE
+EDIFACT_TMD,33,Pier/pier transport movement,COPRAR TMD
+EDIFACT_TMD,11,House/house,COPRAR TMD
+EDIFACT_MEA,VGM,Verified gross mass,BAPLIE MEA
+EDIFACT_DTM,132,ETA (arrival),COPRAR
+EDIFACT_DTM,133,ETD (departure),COPRAR
+EDIFACT_DTM,137,Document date,generic
+EDIFACT_LOC,147,Stowage position/cell,7-digit bay(3)row(2)tier(2)
+EDIFACT_LOC,9,Port of loading,BAPLIE per-container
+EDIFACT_LOC,11,Port of discharge,BAPLIE/COPRAR
+Stowage_cell,0020082,Example cell = bay002 row08 tier2,7-digit format
+SMDG_authoritative,smdg.org MIGs,COPRAR v1.6 + BAPLIE 2.2.1,sources for this diff

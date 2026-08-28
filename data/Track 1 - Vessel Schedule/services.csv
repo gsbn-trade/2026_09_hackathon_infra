@@ -1,0 +1,4 @@
+service_id,rotation,port_sequence
+SE1,Shanghai->Busan->Singapore->Colombo,"['CNSH', 'KRPUS', 'SGSIN', 'LKCOL']"
+EU1,Shanghai->Busan->Rotterdam->Hamburg,"['CNSH', 'KRPUS', 'NLROT', 'DEHAM']"
+IP1,Shanghai->Ningbo->Busan,"['CNSH', 'CNNGB', 'KRPUS']"

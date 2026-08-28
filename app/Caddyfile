@@ -14,6 +14,13 @@ build.hack.gsbn.trade {
     reverse_proxy boltdiy:5173
 }
 
+# Data understanding/analysis (Open WebUI). New subdomain — needs its own
+# DNS A record pointed at the EIP before Caddy can issue a cert for it,
+# same as the two above.
+analyze.hack.gsbn.trade {
+    reverse_proxy open-webui:8080
+}
+
 # --- No domain yet? Uncomment this for a quick LAN/IP-only smoke test of
 # LiteLLM only (the API itself doesn't need HTTPS the way WebContainers do).
 # Comment the two blocks above while using this.

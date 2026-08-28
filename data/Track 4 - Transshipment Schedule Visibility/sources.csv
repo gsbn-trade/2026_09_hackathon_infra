@@ -1,0 +1,4 @@
+source_id,role,channel,horizon_hrs,cadence_hrs,freeze_hrs,typical_accuracy
+S_ML,mainliner,website,336,36,4,62%
+S_FE,feeder,website,96,6,12,74%
+S_TE,terminal,website,48,3,6,91%

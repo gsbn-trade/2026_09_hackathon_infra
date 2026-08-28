@@ -224,8 +224,20 @@ enough.) Take the returned `key` value, put it in `app/.env` as
   provider and is pre-selected (patched, see Known quirks below); the model
   dropdown should show `qwen3.7-plus` / `kimi-k2.7-code` /
   `deepseek-v4-flash-0731`.
+- `https://analyze.<your-domain>` — Open WebUI, for data understanding
+  before building: chat + a real Python/pandas code interpreter (Jupyter
+  backend) with every `data/` track mounted read-only at `~/data` — no
+  upload needed, `pd.read_csv('data/Track 1 - Vessel Schedule/bookings.csv')`
+  just works. No login required (`WEBUI_AUTH=False`, same "just open the
+  URL" pattern as bolt.diy).
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
+
+Needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as step 5's
+`TEAM_VIRTUAL_KEY` (separate key so its spend/budget tracks independently),
+plus `OPENWEBUI_SECRET_KEY` and `JUPYTER_TOKEN` (`openssl rand -hex 32` /
+`-hex 24`) in `app/.env` — see `.env.example`. Needs its own DNS A record
+for `analyze.<your-domain>` too, same as `gateway`/`build`.
 
 ## Testing the stack locally first (no AliCloud needed)
 
@@ -297,6 +309,20 @@ mounted config files and env vars are **not** hot-reloaded:
   workspace-binding problem but is really just a wrong URL. See
   [docs/alicloud-api-key/](docs/alicloud-api-key/) for the full debugging
   path and ready-to-run scripts.
+- **`WEBUI_AUTH=False` (Open WebUI's no-login mode) only takes effect on a
+  genuinely fresh instance** — if it already has a user account (e.g. from
+  testing before setting this), it silently keeps requiring login. Confirmed
+  working against a fresh instance here (`/api/config` reports
+  `"auth": false`), but this has a documented history of not fully applying
+  in some versions — verify it in an actual browser rather than trusting
+  the config flag alone, especially after any upgrade.
+- **Open WebUI's own code interpreter (Pyodide) can't see server files** —
+  it runs client-side in-browser, sandboxed, same category of limitation as
+  bolt.diy's WebContainers. Real access to `data/` needs the Jupyter
+  backend wired in via `CODE_EXECUTION_ENGINE=jupyter` (see
+  `docker-compose.yml`'s `open-webui`/`jupyter` services) — without it, the
+  interpreter works but can't `pd.read_csv()` anything you haven't manually
+  uploaded through the chat.
 
 ## Tearing down after the event
 

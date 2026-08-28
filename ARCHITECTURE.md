@@ -98,7 +98,7 @@ own team's budget, never the sponsor's real account.
 |---|---|---|---|
 | Website generation, live iterative editing | **bolt.diy** | In-browser sandboxed Node runtime (WebContainers); diff-based edits patch the running app instead of regenerating it | ✅ Implemented |
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
-| Chat / data analysis / marketing text & images | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend | 🔲 Planned |
+| Chat / data analysis / marketing text & images | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend | ✅ Implemented |
 | Agentic multi-agent showcase | **Dify** | Visual multi-agent workflow builder; one team = one workspace, which is also its credential boundary | 🔲 Planned |
 | Advanced/optional track | **OpenHands** | Autonomous coding agent with sub-agent delegation; isolated on its own VM since its Docker-in-Docker sandboxing is the riskiest piece | 🔲 Planned, optional |
 
@@ -119,7 +119,11 @@ Both are wired into `app/litellm-config.yaml` today. See
 - [x] One bolt.diy instance, wired to the gateway via its OpenAI-Like provider slot (`app/`)
 - [x] Verified locally end-to-end before first cloud deploy (see README's
       "Known quirks" — the published bolt.diy image needed a runtime fix)
-- [ ] Open WebUI instance(s)
+- [x] One Open WebUI instance (`app/`), wired to the gateway with its own
+      virtual key; Jupyter-backed code interpreter with `data/` (all 4
+      hackathon tracks) mounted read-only, so any team can `pd.read_csv()`
+      their track without uploading anything — team-to-track assignment
+      isn't known ahead of time, so every team's instance gets all of them
 - [ ] Dify with 5 per-team workspaces
 - [ ] Replicate bolt.diy (and Open WebUI) to one instance per team, each
       with its own baked-in virtual key and subdomain
