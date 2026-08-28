@@ -125,6 +125,54 @@ services:
       CODE_INTERPRETER_JUPYTER_AUTH: token
       CODE_INTERPRETER_JUPYTER_AUTH_TOKEN: ${JUPYTER_TOKEN}
       CODE_INTERPRETER_JUPYTER_TIMEOUT: "60"
+      # Code Interpreter is a per-chat manual toggle in Open WebUI, off by
+      # default, with no config path to default it on — confirmed the hard
+      # way (backend config, model capability declarations, and user
+      # settings all checked; none of them affect it, and neither does the
+      # model actually having the capability — same is true for Web Search
+      # and Image Generation, so this looks like a deliberate opt-in-per-
+      # message design, not a bug). This banner is the mitigation: an
+      # in-app reminder shown to everyone, since a README note alone won't
+      # reach participants mid-hackathon.
+      WEBUI_BANNERS: >-
+        [{"id": "code-interpreter-reminder", "type": "info",
+        "title": "Before asking about your data",
+        "content": "Click the **Code Interpreter** toggle (in the tools menu next to the message box) at the start of each new chat — it defaults off and does not carry over from previous chats. Without it, questions about files in ~/data will fail.",
+        "dismissible": true, "timestamp": 1787942400}]
+      # Open WebUI's built-in default prompt tells the model the interpreter
+      # "runs directly in the user's browser" — true for the Pyodide engine,
+      # false for ours (a real server-side Jupyter kernel), and it never
+      # mentions mounted server directories at all for the Jupyter case (that
+      # guidance only gets appended for Pyodide, per Open WebUI's own source).
+      # Left as-is, the model reasons "the sandbox can't see the user's local
+      # ~/data" and refuses without ever trying — confirmed via a real chat's
+      # own recorded reasoning trace. This override keeps every instruction
+      # that makes execution actually trigger, fixing only the wrong/missing
+      # parts.
+      CODE_INTERPRETER_PROMPT_TEMPLATE: |
+        #### Code Interpreter
+
+        You have access to a Python code interpreter via: `<code_interpreter type="code" lang="python"></code_interpreter>`
+
+        - This runs in a real, persistent Python (Jupyter) kernel on the server — not a browser sandbox, and not isolated from server-side files.
+        - A read-only directory of hackathon track data is mounted at `~/data` (i.e. `/home/jovyan/data`) — every track's brief.md plus its CSV/JSON files are there. Never assume a file is inaccessible: run `import os; os.listdir(os.path.expanduser('~/data'))` first to see what's actually there.
+        - You can use a wide array of libraries for data manipulation, visualization, API calls, or any computational task. Think outside the box and harness Python's full potential.
+        - **You must enclose your code within `<code_interpreter type="code" lang="python">` XML tags** and stop right away. If you don't, the code won't execute.
+        - Do NOT use triple backticks (```py ... ```) inside the XML tags — that is markdown formatting, not executable Python code.
+        - **Always print meaningful outputs** (results, tables, summaries, visuals). Avoid implicit outputs; use explicit print statements.
+        - After obtaining output, **provide a concise analysis, interpretation, or next steps** to help the user understand the findings.
+        - If results are unclear or unexpected, refine the code and re-execute. Iterate until you deliver meaningful insights.
+        - **If a link to an image, audio, or any file appears in the output, display it exactly as-is** in your response so the user can access it. Do not modify the link.
+        - **This is not optional, and describing the image in words is not a substitute: the user cannot see anything you don't literally paste into your reply.** The chat UI does not automatically show the interpreter's own output panel — if you don't copy the `![Output Image](/api/v1/files/.../content)` markdown into your final answer, verbatim, the user sees text only and no chart at all, even though you generated one. Copy it exactly as it appeared in the tool result; do not paraphrase, rename, or describe it as already visible.
+        - Example of correct behavior — if the code's output included `result: "![Output Image](/api/v1/files/abc123/content)"`, your reply must contain that literal line, e.g.:
+          "Here's the distribution:
+
+          ![Output Image](/api/v1/files/abc123/content)
+
+          The data is right-skewed, with..."
+        - Respond in the chat's primary language. Default to English if multilingual.
+
+        Ensure the code interpreter is effectively utilized to achieve the highest-quality analysis for the user.
       # Open WebUI's own accounts/chat history/settings — separate from
       # LiteLLM's Postgres, this is its own SQLite via the volume below.
       WEBUI_SECRET_KEY: ${OPENWEBUI_SECRET_KEY}

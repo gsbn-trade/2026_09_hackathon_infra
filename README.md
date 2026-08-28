@@ -309,20 +309,70 @@ mounted config files and env vars are **not** hot-reloaded:
   workspace-binding problem but is really just a wrong URL. See
   [docs/alicloud-api-key/](docs/alicloud-api-key/) for the full debugging
   path and ready-to-run scripts.
-- **`WEBUI_AUTH=False` (Open WebUI's no-login mode) only takes effect on a
-  genuinely fresh instance** — if it already has a user account (e.g. from
-  testing before setting this), it silently keeps requiring login. Confirmed
-  working against a fresh instance here (`/api/config` reports
-  `"auth": false`), but this has a documented history of not fully applying
-  in some versions — verify it in an actual browser rather than trusting
-  the config flag alone, especially after any upgrade.
+- **Open WebUI's env vars only seed config on a genuinely fresh instance —
+  once a value's been written to its SQLite `config` table, later env var
+  changes are silently ignored on restart.** Bit us twice: `WEBUI_AUTH=False`
+  (confirmed working against a truly fresh instance — `/api/config` reports
+  `"auth": false`, but re-verify in-browser after any upgrade, since this
+  also has its own documented history of not fully applying in some
+  versions) and `CODE_INTERPRETER_PROMPT_TEMPLATE` (see next bullet — had to
+  be patched directly into the DB with a one-off `sqlite3 UPDATE`, since the
+  instance already had real chat history by the time the env var was added,
+  and restarting alone didn't pick it up). If a `docker-compose.yml` env var
+  change to `open-webui` doesn't seem to be taking effect, this is why —
+  either patch the `config` table row directly, or wipe the
+  `openwebui_data` volume to force a real fresh seed (loses chat history).
 - **Open WebUI's own code interpreter (Pyodide) can't see server files** —
   it runs client-side in-browser, sandboxed, same category of limitation as
   bolt.diy's WebContainers. Real access to `data/` needs the Jupyter
   backend wired in via `CODE_EXECUTION_ENGINE=jupyter` (see
-  `docker-compose.yml`'s `open-webui`/`jupyter` services) — without it, the
-  interpreter works but can't `pd.read_csv()` anything you haven't manually
-  uploaded through the chat.
+  `docker-compose.yml`'s `open-webui`/`jupyter` services).
+- **Code Interpreter is an opt-in toggle per chat, not automatic** — even
+  with the backend fully configured, the model only gets the
+  `execute_code` tool when the "Code Interpreter" switch (in the message
+  input's tools menu, alongside Web Search/Image Generation) is on for that
+  chat. Confirmed via `middleware.py`: gated on a `features.code_interpreter`
+  flag sent per-message from the frontend, checked independently of the
+  backend `code_interpreter.enable` config.
+- **Even with the toggle on, the model may still refuse, believing it has
+  no server-file access — this is a prompt problem, not a backend one.**
+  Open WebUI's *default* code-interpreter system prompt describes it
+  generically as running "directly in the user's browser" (accurate for the
+  Pyodide engine, false for ours), and its guidance about a persistent
+  mounted directory is — per Open WebUI's own source — only ever appended
+  for the Pyodide engine, never Jupyter. Left as default, the model reasons
+  its way to "the sandbox can't see the user's local files" and refuses
+  without ever trying `os.listdir()` — confirmed by reading a real chat's
+  own recorded reasoning trace. Fixed via a custom
+  `CODE_INTERPRETER_PROMPT_TEMPLATE` (see `docker-compose.yml`) that keeps
+  the execution-triggering instructions but corrects the engine description
+  and explicitly states `~/data`'s mounted, browsable path.
+- **The Code Interpreter toggle can't be defaulted on — confirmed, not just
+  unfound.** Checked backend config, an explicit per-model `capabilities`
+  declaration (`meta.capabilities.code_interpreter: true` via the `model`
+  DB table — Open WebUI's own designed mechanism for model-level defaults),
+  and user settings; none affect the per-message toggle's initial state.
+  Web Search and Image Generation behave identically. This looks like a
+  deliberate always-manual-opt-in UX choice in this version, not a bug or a
+  missing setting. Mitigation: `WEBUI_BANNERS` (see `docker-compose.yml`)
+  shows an in-app reminder on every chat, since a README note alone won't
+  reach participants mid-hackathon.
+- **PARKED, unresolved: generated chart images don't render inline in the
+  chat**, even with Code Interpreter on and the backend genuinely producing
+  and saving valid images (traced multiple charts all the way to real
+  bytes on disk — this part works reliably). The model's final visible
+  answer just never includes the `![Output Image](...)` markdown the tool
+  result contains, describing the chart in prose instead — true across
+  every attempt, tightening `CODE_INTERPRETER_PROMPT_TEMPLATE`'s instruction
+  to be explicit and non-optional didn't fix it. Next things to try if this
+  gets picked back up: check whether the *tool call's own output panel*
+  (separate from the model's final message) renders the image somewhere
+  not yet checked in the UI; consider that `/api/v1/files/{id}/content`
+  requires an authenticated session and a plain markdown-rendered `<img>`
+  tag may not carry that auth (cookie-fallback exists in `auth.py` but
+  wasn't confirmed working end-to-end — verifying this needs a real
+  browser session, which local testing here couldn't simulate without
+  forging credentials).
 
 ## Tearing down after the event
 
