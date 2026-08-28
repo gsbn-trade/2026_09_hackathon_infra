@@ -1,9 +1,15 @@
 name: hackathon
 
 services:
+  # Only needed where there's a real domain to get a cert for. Activated by
+  # setting COMPOSE_PROFILES=cloud in .env (see .env.example) — locally, plain
+  # `docker compose up -d` skips it and docker-compose.override.yml exposes
+  # litellm/boltdiy on host ports directly instead (browsers treat
+  # http://localhost as a secure context on its own, no TLS needed).
   caddy:
     image: caddy:2-alpine
     restart: unless-stopped
+    profiles: ["cloud"]
     ports:
       - "80:80"
       - "443:443"
@@ -40,14 +46,20 @@ services:
       LITELLM_MASTER_KEY: ${LITELLM_MASTER_KEY}
       LITELLM_SALT_KEY: ${LITELLM_SALT_KEY}
       DASHSCOPE_API_KEY: ${DASHSCOPE_API_KEY}
-      MOONSHOT_API_KEY: ${MOONSHOT_API_KEY}
     command: ["--config", "/app/config.yaml", "--port", "4000"]
     expose:
       - "4000"
 
-  # Prebuilt image from the bolt.diy project itself — no local build step.
+  # Custom-built from the published bolt.diy image (see Dockerfile.boltdiy) —
+  # bakes in two source patches (locks the provider dropdown to just
+  # OpenAI-Like; makes it read real per-model token limits from LiteLLM
+  # instead of hardcoding 8000 for everything) and pre-installs wrangler, so
+  # none of that has to happen at container start anymore. See
+  # docs/bolt-provider-lock/README.md for the full why.
   boltdiy:
-    image: ghcr.io/stackblitz-labs/bolt.diy:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
     restart: unless-stopped
     depends_on:
       - litellm
@@ -55,18 +67,17 @@ services:
       NODE_ENV: production
       PORT: "5173"
       RUNNING_IN_DOCKER: "true"
+      # wrangler pages dev (the actual server) is itself a Node process
+      # with Node's default V8 heap ceiling — a chat response that
+      # generates several files was enough to OOM it under the default,
+      # crashing the container (browser saw a bare "network error" because
+      # the backend process died mid-request, not a real network issue).
+      NODE_OPTIONS: "--max-old-space-size=4096"
       # Single custom OpenAI-compatible slot, pointed at our own gateway.
-      # LiteLLM is what actually fans this out to Qwen/DeepSeek/GLM/Kimi —
+      # LiteLLM is what actually fans this out to Qwen/Kimi/DeepSeek —
       # bolt.diy just sees one endpoint and a model-name dropdown.
       OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
       OPENAI_LIKE_API_KEY: ${TEAM_VIRTUAL_KEY}
-    # The published :latest image's own `dockerstart` script shells out to
-    # `wrangler` (it serves via `wrangler pages dev`, a leftover of bolt.diy's
-    # Cloudflare Pages tooling) but the image ships without wrangler
-    # installed — confirmed by running it as-is, which crash-loops on
-    # "wrangler: not found". Installing it at container start is the
-    # smallest fix; verified working locally before this was written.
-    command: sh -c "npm install -g wrangler@3 && pnpm run dockerstart"
     expose:
       - "5173"
 

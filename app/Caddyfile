@@ -6,11 +6,11 @@
 # secure context to work at all — a bare IP over plain HTTP will not run it.
 # A domain name is not optional for the build.* host.
 
-gateway.example.com {
+gateway.hack.gsbn.trade {
     reverse_proxy litellm:4000
 }
 
-build.example.com {
+build.hack.gsbn.trade {
     reverse_proxy boltdiy:5173
 }
 

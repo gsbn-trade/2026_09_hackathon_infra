@@ -1,0 +1,47 @@
+# Custom bolt.diy image: bakes in two source patches (see patches/ and
+# docs/bolt-provider-lock/README.md for why) on top of the published image,
+# then rebuilds so they actually take effect — dockerstart serves a bundle
+# compiled at image-build time, so a plain bind-mount over the source is
+# inert (confirmed the hard way). This build is the whole reason those
+# patches needed a Dockerfile instead of a docker-compose.yml bind mount.
+#
+# devDependencies are pruned from the published image, so build needs them
+# reinstalled — and the build itself needs a raised Node heap or it OOMs
+# under Node's default V8 ceiling (confirmed separately: crashes with
+# "JavaScript heap out of memory" at the default limit, regardless of how
+# much memory Docker itself has available).
+FROM ghcr.io/stackblitz-labs/bolt.diy:latest
+
+WORKDIR /app
+
+# Locks the provider dropdown to just OpenAI-Like (our LiteLLM gateway) —
+# see docs/bolt-provider-lock/README.md's first finding.
+COPY patches/registry.ts app/lib/modules/llm/registry.ts
+
+# Makes bolt.diy read real per-model token limits from LiteLLM's
+# /v1/model/info instead of hardcoding 8000 for everything — see
+# docs/bolt-provider-lock/README.md's second finding.
+COPY patches/openai-like.ts app/lib/modules/llm/providers/openai-like.ts
+
+# Baked in at build time now instead of installed at every container start
+# (the original fix for the image shipping without it — see the comment
+# that used to be on this in docker-compose.yml's command).
+RUN npm install -g wrangler@3
+
+# Full dev toolchain (remix CLI, vite, etc.) — absent from the production
+# image's node_modules by design; needed only for the build step below.
+RUN pnpm install --prod=false --frozen-lockfile
+
+# The actual rebuild that picks up the two patches above. 5120 leaves
+# headroom under Docker Desktop's typical ~7-8GB VM allocation for
+# postgres/litellm running alongside during `docker compose build`; raise
+# if this still OOMs on a smaller machine.
+RUN NODE_OPTIONS="--max-old-space-size=5120" pnpm run build
+
+# Drop devDependencies now that the build output exists — smaller image,
+# and dockerstart only ever needed the production deps + ./build/client.
+# --ignore-scripts: pnpm prune re-triggers package.json's "prepare" script
+# (husky) as a side effect, which fails since prune just removed husky.
+RUN pnpm prune --prod --ignore-scripts
+
+CMD ["pnpm", "run", "dockerstart"]

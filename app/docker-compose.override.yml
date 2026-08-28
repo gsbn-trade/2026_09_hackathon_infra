@@ -1,0 +1,14 @@
+# Auto-loaded by `docker compose` alongside docker-compose.yml — no extra
+# flags needed. Local-only: publishes litellm/boltdiy straight to host ports
+# so you can hit them without Caddy (which is skipped locally anyway, see
+# the profiles note on the caddy service). Never gets deployed to AliCloud —
+# deploy.sh excludes this filename from the rsync on purpose; if you rename
+# it, update deploy.sh's --exclude to match.
+services:
+  litellm:
+    ports:
+      - "4000:4000"
+
+  boltdiy:
+    ports:
+      - "5173:5173"

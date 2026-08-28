@@ -156,12 +156,19 @@ Note the `public_ip` in the output. Point two DNS A records at it:
 cd ../app
 cp .env.example .env
 # fill in POSTGRES_PASSWORD, LITELLM_MASTER_KEY, LITELLM_SALT_KEY
-# (openssl rand -hex 32 for the last two), DASHSCOPE_API_KEY, MOONSHOT_API_KEY
-# leave TEAM_VIRTUAL_KEY blank for now
+# (openssl rand -hex 32 for the last two), DASHSCOPE_API_KEY
+# set COMPOSE_PROFILES=cloud (turns Caddy on — see Testing locally below
+# for why it's off by default); leave TEAM_VIRTUAL_KEY blank for now
 ```
 
 Edit `Caddyfile`: replace `gateway.example.com` / `build.example.com` with
 your real subdomains.
+
+For getting/validating the DASHSCOPE_API_KEY specifically —
+issuing a Model Studio key, picking the right regional endpoint, debugging
+a rejected key — see [docs/alicloud-api-key/](docs/alicloud-api-key/), which
+has ready-to-run scripts for the whole cycle (`create-key.sh`,
+`smoke-test-provider.sh`, etc.), not just narrative docs.
 
 ## 3. First deploy
 
@@ -198,7 +205,7 @@ curl https://gateway.<your-domain>/key/generate \
   -d '{
         "team_id": "team-1",
         "max_budget": 20,
-        "models": ["qwen3.7-plus", "deepseek-v4", "glm-4.7", "kimi-k3"]
+        "models": ["qwen3.7-plus", "kimi-k2.7-code", "deepseek-v4-flash-0731"]
       }'
 ```
 
@@ -213,9 +220,10 @@ enough.) Take the returned `key` value, put it in `app/.env` as
 
 ## 6. Use it
 
-- `https://build.<your-domain>` — open bolt.diy, the model dropdown should
-  show `qwen3.7-plus` / `deepseek-v4` / `glm-4.7` / `kimi-k3` under the
-  "OpenAI-Like" provider.
+- `https://build.<your-domain>` — open bolt.diy. OpenAI-Like is the only
+  provider and is pre-selected (patched, see Known quirks below); the model
+  dropdown should show `qwen3.7-plus` / `kimi-k2.7-code` /
+  `deepseek-v4-flash-0731`.
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
 
@@ -223,28 +231,72 @@ enough.) Take the returned `key` value, put it in `app/.env` as
 
 Since this is just Docker Compose, you can sanity-check it on your own
 machine before ever touching AliCloud — useful for catching config typos
-cheaply, and it's the same rehearsal the Mac Mini backup plan relies on:
+cheaply, and it's the same rehearsal the Mac Mini backup plan relies on.
+This is also the recommended way to iterate day-to-day — cheaper and much
+faster than redeploying to the VM for every change.
 
 ```bash
 cd app
 cp .env.example .env   # fill in real provider keys if you want live calls;
-                        # containers still boot fine without them
+                        # containers still boot fine without them.
+                        # Leave COMPOSE_PROFILES blank (the default) — this
+                        # skips Caddy entirely.
 docker compose up -d
-curl http://localhost/health/liveliness   # if using the :80 fallback Caddyfile block
+curl http://localhost:4000/health/liveliness   # LiteLLM
+open http://localhost:5173                     # bolt.diy
 ```
+
+No TLS setup needed locally: `docker-compose.override.yml` (auto-loaded
+alongside `docker-compose.yml`, no flags needed, and excluded from
+`deploy.sh`'s rsync so it never reaches the cloud VM) publishes
+`litellm`/`boltdiy` straight to host ports. Browsers treat plain
+`http://localhost` as a secure context on their own, which is all
+bolt.diy's WebContainers actually need — no self-signed cert dance
+required. Caddy only turns on when `COMPOSE_PROFILES=cloud` is set in
+`.env` (that's what the VM's `.env` has).
+
+Whenever you change `litellm-config.yaml`, `Caddyfile`, or `.env`, remember
+mounted config files and env vars are **not** hot-reloaded:
+`docker compose restart <service>` after a config-file change,
+`docker compose up -d <service>` (a recreate, not just a restart) after an
+`.env` value or `docker-compose.yml` itself changes.
 
 ## Known quirks (found by running this stack locally before writing it up)
 
-- The published `ghcr.io/stackblitz-labs/bolt.diy:latest` image crash-loops
-  out of the box — its `dockerstart` script shells out to `wrangler`, which
-  isn't installed in that image. `docker-compose.yml` works around it by
-  installing `wrangler` at container start; this was verified working, not
-  assumed.
-- LiteLLM logs `not in built-in cost map` warnings for all four model
+- **bolt.diy is a custom-built image, not the published one directly.**
+  `docker-compose.yml`'s `boltdiy` service builds `Dockerfile.boltdiy`
+  (`FROM ghcr.io/stackblitz-labs/bolt.diy:latest` + two patches from
+  `patches/`), because the published image has two real problems beyond
+  the wrangler one below: its provider dropdown shows ~20 mostly-
+  unconfigured providers and defaults to Anthropic instead of our actual
+  LiteLLM backend, and it hardcodes every OpenAI-Like model's output limit
+  to ~8000 tokens regardless of what the model can really do — which
+  silently chops any longer generation (a whole landing page, easily) into
+  several slow sequential "continue" calls, sometimes leaving files like
+  `package.json` never written. Full writeup, including why a plain
+  bind-mount doesn't work and the exact fix: [docs/bolt-provider-lock/](docs/bolt-provider-lock/).
+- **The published `ghcr.io/stackblitz-labs/bolt.diy:latest` image
+  crash-loops out of the box** — its `dockerstart` script shells out to
+  `wrangler`, which isn't installed in that image. Fixed by installing it
+  in `Dockerfile.boltdiy` at build time (was previously a runtime
+  `command:` workaround; baking it into the image is both the fix for this
+  and a prerequisite for the patches above, since those need a real
+  `pnpm run build` to take effect).
+- LiteLLM logs `not in built-in cost map` warnings for all three model
   names at startup — harmless. It just means $-cost tracking per token
   defaults to 0 for models it doesn't recognize by name; team budgets
   (set via `max_budget` on the key/team) still enforce correctly by token
   count regardless.
+- **A DashScope Hong Kong workspace key only works against that
+  workspace's own dedicated endpoint**
+  (`https://<workspaceId>.cn-hongkong.maas.aliyuncs.com/compatible-mode/v1`),
+  not the shared `dashscope.aliyuncs.com` one (Beijing-region only — a
+  Hong Kong key gets a flat `401` there despite being completely valid).
+  And the path is `/compatible-mode/v1`, not `/api/v1` — the latter 400s
+  with a misleading `BadRequest.EmptyWorkspace` that reads like a
+  workspace-binding problem but is really just a wrong URL. See
+  [docs/alicloud-api-key/](docs/alicloud-api-key/) for the full debugging
+  path and ready-to-run scripts.
 
 ## Tearing down after the event
 

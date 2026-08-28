@@ -13,9 +13,12 @@ IP=$(tofu -chdir=infra output -raw public_ip)
 echo "Target: root@${IP}"
 
 ssh -o StrictHostKeyChecking=accept-new root@"${IP}" "mkdir -p /opt/app"
-rsync -avz --exclude '.env' app/ root@"${IP}":/opt/app/
+rsync -avz --exclude '.env' --exclude 'docker-compose.override.yml' app/ root@"${IP}":/opt/app/
 scp app/.env root@"${IP}":/opt/app/.env
-ssh root@"${IP}" "cd /opt/app && docker compose pull && docker compose up -d"
+# boltdiy is now a custom-built image (Dockerfile.boltdiy), not pulled from
+# a registry — `--build` rebuilds it from whatever's in patches/ on every
+# deploy; `up -d` still pulls the other services' images as before.
+ssh root@"${IP}" "cd /opt/app && docker compose up -d --build"
 
 echo
 echo "Deployed. Once DNS for your domain points at ${IP}:"
