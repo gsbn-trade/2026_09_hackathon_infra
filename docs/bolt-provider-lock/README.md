@@ -1,10 +1,13 @@
 # bolt.diy: provider lock + real per-model token limits
 
-**Status: implemented 2026-08-28**, via a custom-built image
-(`app/Dockerfile.boltdiy` + `app/patches/`). Both issues below turned out to
-need the same fix mechanism, so they were done together. This file is now a
-record of *why* it's built this way — useful when upstream changes something
-and this needs revisiting, not a live TODO.
+**Status: implemented and confirmed working 2026-08-28**, via a custom-built
+image (`app/Dockerfile.boltdiy` + `app/patches/`). Both issues below turned
+out to need the same fix mechanism, so they were done together. Confirmed
+live: a landing-page generation that previously crashed the container, then
+chained into multiple "continue" calls with a missing `package.json`, now
+completes in one shot. This file is now a record of *why* it's built this
+way — useful when upstream changes something and this needs revisiting, not
+a live TODO.
 
 ## What's actually running now
 
