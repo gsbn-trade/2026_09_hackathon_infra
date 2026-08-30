@@ -23,6 +23,12 @@ COPY patches/registry.ts app/lib/modules/llm/registry.ts
 # docs/bolt-provider-lock/README.md's second finding.
 COPY patches/openai-like.ts app/lib/modules/llm/providers/openai-like.ts
 
+# Stops the "select relevant files" step from hard-crashing the whole chat
+# whenever the model correctly selects no *new* files (a normal outcome
+# once the context buffer already has what it needs) — see
+# docs/bolt-provider-lock/README.md's third finding.
+COPY patches/select-context.ts app/lib/.server/llm/select-context.ts
+
 # Baked in at build time now instead of installed at every container start
 # (the original fix for the image shipping without it — see the comment
 # that used to be on this in docker-compose.yml's command).

@@ -1,13 +1,15 @@
-# bolt.diy: provider lock + real per-model token limits
+# bolt.diy: provider lock, real per-model token limits, context-select crash
 
-**Status: implemented and confirmed working 2026-08-28**, via a custom-built
-image (`app/Dockerfile.boltdiy` + `app/patches/`). Both issues below turned
-out to need the same fix mechanism, so they were done together. Confirmed
-live: a landing-page generation that previously crashed the container, then
-chained into multiple "continue" calls with a missing `package.json`, now
-completes in one shot. This file is now a record of *why* it's built this
-way — useful when upstream changes something and this needs revisiting, not
-a live TODO.
+**Status: implemented and confirmed working (issues 1-2: 2026-08-28, issue
+3: 2026-08-30)**, via a custom-built image (`app/Dockerfile.boltdiy` +
+`app/patches/`). All three issues below need the same fix mechanism, so they
+share one Dockerfile. Confirmed live: a landing-page generation that
+previously crashed the container, then chained into multiple "continue"
+calls with a missing `package.json`, now completes in one shot; a long-
+running chat that previously crash-looped on every follow-up turn once its
+context buffer already held what it needed now keeps going. This file is
+now a record of *why* it's built this way — useful when upstream changes
+something and this needs revisiting, not a live TODO.
 
 ## What's actually running now
 
@@ -16,9 +18,9 @@ of pulling `ghcr.io/stackblitz-labs/bolt.diy:latest` directly. That
 Dockerfile:
 
 1. Starts from the published image.
-2. Copies in two patched source files from `app/patches/`:
-   `registry.ts` and `providers/openai-like.ts` (destinations documented
-   inline in the Dockerfile).
+2. Copies in three patched source files from `app/patches/`:
+   `registry.ts`, `providers/openai-like.ts`, and `.server/llm/select-
+   context.ts` (destinations documented inline in the Dockerfile).
 3. Installs the dev toolchain (`pnpm install --prod=false`) — the published
    image ships with devDependencies pruned, no `remix` CLI at all.
 4. Rebuilds (`pnpm run build`) with a raised Node heap
@@ -90,6 +92,35 @@ Confirmed live via `/api/models/OpenAILike`: `qwen3.7-plus` →
 `deepseek-v4-flash-0731` → `128000`. `getCompletionTokenLimit()` prefers
 `maxCompletionTokens` when set (`> 0`), so `PROVIDER_COMPLETION_LIMITS` is
 no longer reached at all for these models.
+
+## Issue 3: "Custom error: Bolt failed to select files" crash-looped an ongoing chat
+
+Surfaced only after a chat had been running a while (11+ messages, several
+files already generated) — every follow-up turn started failing with this
+exact error and the preview stopped updating entirely.
+
+Traced to `app/lib/.server/llm/select-context.ts`: when "context
+optimization" is on (the default), each turn runs a *separate* LLM call
+that's shown the full project file list plus the current context buffer and
+asked to return an `<updateContextBuffer>` block naming files to
+include/exclude — its own system prompt explicitly says *"If no changes are
+needed, you can leave the response empty"*. But the handler code then
+computed `totalFiles = ` (newly-included files only) and unconditionally
+**threw** `Bolt failed to select files` whenever that count was `0` —
+including the fully valid case where the model correctly followed its own
+instructions and had nothing new to add because the existing context buffer
+already covered the request. Confirmed via container logs: `select-context
+Total files: 0` immediately preceded the crash, with no malformed-response
+warning anywhere above it — a well-formed, empty response, not a parsing
+failure.
+
+**Fix** (`patches/select-context.ts`): when `totalFiles == 0`, return the
+existing `contextFiles` (the buffer's current contents) instead of
+throwing, so a legitimate "no changes needed" turn just keeps the
+conversation going instead of crashing it. The genuine-failure path (no
+`<updateContextBuffer>` tag at all, i.e. the model didn't follow the format)
+is untouched and still throws `Invalid response. Please follow the response
+format`.
 
 ## Why this needed a real rebuild (previously deferred)
 

@@ -277,16 +277,22 @@ mounted config files and env vars are **not** hot-reloaded:
 
 - **bolt.diy is a custom-built image, not the published one directly.**
   `docker-compose.yml`'s `boltdiy` service builds `Dockerfile.boltdiy`
-  (`FROM ghcr.io/stackblitz-labs/bolt.diy:latest` + two patches from
-  `patches/`), because the published image has two real problems beyond
-  the wrangler one below: its provider dropdown shows ~20 mostly-
-  unconfigured providers and defaults to Anthropic instead of our actual
-  LiteLLM backend, and it hardcodes every OpenAI-Like model's output limit
-  to ~8000 tokens regardless of what the model can really do — which
-  silently chops any longer generation (a whole landing page, easily) into
-  several slow sequential "continue" calls, sometimes leaving files like
-  `package.json` never written. Full writeup, including why a plain
-  bind-mount doesn't work and the exact fix: [docs/bolt-provider-lock/](docs/bolt-provider-lock/).
+  (`FROM ghcr.io/stackblitz-labs/bolt.diy:latest` + three patches from
+  `patches/`), because the published image has real problems beyond the
+  wrangler one below: its provider dropdown shows ~20 mostly-unconfigured
+  providers and defaults to Anthropic instead of our actual LiteLLM
+  backend; it hardcodes every OpenAI-Like model's output limit to ~8000
+  tokens regardless of what the model can really do, which silently chops
+  any longer generation (a whole landing page, easily) into several slow
+  sequential "continue" calls, sometimes leaving files like `package.json`
+  never written; and its "select relevant files" step — a separate LLM
+  call that runs mid-turn once a chat has enough history —
+  unconditionally crashes the whole request with `Custom error: Bolt
+  failed to select files` whenever the model correctly selects zero *new*
+  files, which is a normal outcome once the context buffer already has
+  what it needs (the model's own instructions explicitly allow an empty
+  response in that case). Full writeup, including why a plain bind-mount
+  doesn't work and the exact fixes: [docs/bolt-provider-lock/](docs/bolt-provider-lock/).
 - **The published `ghcr.io/stackblitz-labs/bolt.diy:latest` image
   crash-loops out of the box** — its `dockerstart` script shells out to
   `wrangler`, which isn't installed in that image. Fixed by installing it
