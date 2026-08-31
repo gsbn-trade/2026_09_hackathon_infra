@@ -1,0 +1,17 @@
+# Runs as deepseek-harness-proxy, sharing deepseek-harness's network
+# namespace (see ../docker-compose.yml) — this is what actually listens on
+# an address other than 127.0.0.1, since dsh itself refuses to. No TLS, no
+# auth: this is reached only via docker-compose.override.yml's loopback-only
+# host port publish (local dev) or an SSH tunnel to the VM — never a public
+# Caddy route. See ../../docs/deepseek-harness/README.md before changing
+# that.
+#
+# Listens on 8080, not 3080: dsh itself already owns 127.0.0.1:3080 in this
+# same shared namespace (its own hardcoded default — see
+# ../../docs/deepseek-harness/README.md) — binding this to :3080 too raced
+# it for the port and one process lost with EADDRINUSE (confirmed the hard
+# way, first attempt). docker-compose.override.yml's host publish maps back
+# to 3080 externally, so `localhost:3080` still works from outside.
+:8080 {
+    reverse_proxy 127.0.0.1:3080
+}

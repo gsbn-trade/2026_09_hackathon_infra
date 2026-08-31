@@ -35,6 +35,7 @@ flowchart TB
         BD --> LL["LiteLLM gateway\nteam virtual keys · budgets · usage log"]
         OW --> LL
         DY --> LL
+        DS["DeepSeek Harness\nresearch/build agent · loopback-only, no Caddy route"] --> LL
     end
 
     subgraph SandboxVM["AliCloud ECS — sandbox VM · optional"]
@@ -48,9 +49,11 @@ flowchart TB
 
     classDef built fill:none,stroke:#2f9e6f,stroke-width:2.5px;
     classDef planned fill:none,stroke:#888888,stroke-width:1px,stroke-dasharray: 4 4;
+    classDef localonly fill:none,stroke:#2f9e6f,stroke-width:2.5px,stroke-dasharray: 2 2;
 
     class RP,BD,LL,BL,MS built
     class OW,DY,OH planned
+    class DS localonly
 ```
 
 Solid outline = implemented in this repo today. Dashed = designed, not yet
@@ -100,6 +103,7 @@ own team's budget, never the sponsor's real account.
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
 | Chat / data analysis / marketing text & images | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend | ✅ Implemented |
 | Agentic multi-agent showcase | **Dify** | Visual multi-agent workflow builder; one team = one workspace, which is also its credential boundary | ✅ Implemented |
+| Research/build agent (operator-only) | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI; deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall), so it's local-only here, not on a participant-facing subdomain | ✅ Implemented, local-only |
 | Advanced/optional track | **OpenHands** | Autonomous coding agent with sub-agent delegation; isolated on its own VM since its Docker-in-Docker sandboxing is the riskiest piece | 🔲 Planned, optional |
 
 ## Model sourcing
@@ -132,6 +136,16 @@ Both are wired into `app/litellm-config.yaml` today. See
       (`data-server`, an internal-only static file service) straight into
       the LLM prompt — full-text, no embeddings (unavailable in this
       workspace, see the doc)
+- [x] One DeepSeek Harness (`dsh`) instance (`app/deepseek-harness/`,
+      npm-installed, not vendored — no from-source build needed, see
+      [docs/deepseek-harness/](docs/deepseek-harness/)), same LiteLLM
+      instance as the rest of the stack via its own virtual key —
+      **local-only, on purpose**: `dsh`'s own CLI refuses to bind anything
+      but `127.0.0.1`, so a `deepseek-harness-proxy` sidecar shares its
+      network namespace (`network_mode: "service:deepseek-harness"`) to
+      make it reachable at all, and only `docker-compose.override.yml`
+      publishes it (loopback-only host port, excluded from the cloud
+      deploy) — no Caddy route, no public subdomain
 - [ ] Dify with 5 per-team workspaces
 - [ ] Replicate bolt.diy (and Open WebUI) to one instance per team, each
       with its own baked-in virtual key and subdomain

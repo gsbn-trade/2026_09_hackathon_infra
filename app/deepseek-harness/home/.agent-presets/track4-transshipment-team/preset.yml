@@ -1,0 +1,12 @@
+# Real, hand-authored preset (see docs/deepseek-harness/README.md for why
+# this is placed directly here rather than created through the UI's
+# copy-an-existing-preset flow — same "pre-seed the file directly" approach
+# as settings.yaml). Discovered from the default user root
+# ($DSH_HOME/.agent-presets), no config change needed.
+name: "Track 4 — Transshipment Reconciliation Team"
+description: >-
+  Spawns a small team (a mainliner view + a terminal view) to reconcile
+  disagreeing shipping-schedule data into one answer, the same way three
+  real stakeholders would have to. Data in /workspace/data is synthetic —
+  a plausible shape to demo against, not a real finding to report as fact.
+order: 10

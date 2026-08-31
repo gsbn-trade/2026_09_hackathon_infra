@@ -232,6 +232,13 @@ enough.) Take the returned `key` value, put it in `app/.env` as
   URL" pattern as bolt.diy).
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
+- `http://localhost:3080` — DeepSeek Harness, **operator-only, not for
+  participants**: it's part of this Compose project (`app/docker-compose.yml`)
+  but deliberately has no Caddy route — its own CLI refuses to bind
+  anything but loopback (a session gets real bash/filesystem access with
+  only a click-to-approve gate, no login wall). Reach it on the VM with
+  `ssh -L 3080:localhost:3080 root@<vm-ip>` if `docker-compose.override.yml`
+  is copied over by hand; see [docs/deepseek-harness/](docs/deepseek-harness/).
 
 Needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as step 5's
 `TEAM_VIRTUAL_KEY` (separate key so its spend/budget tracks independently),

@@ -1,1 +1,15 @@
 .env
+
+# Real runtime data — settings.yaml (has a live provider config, not just an
+# example), credentials, session/profile state, and the agent's own
+# read-write scratch space. See docs/deepseek-harness/README.md.
+#
+# Everything under home/ EXCEPT .agent-presets/ — those are hand-authored
+# content (the per-track team presets), not runtime data, and should be
+# tracked. Gitignore won't apply a `!` re-include inside an already-ignored
+# directory unless the directory itself is un-ignored too — confirmed the
+# hard way with `git check-ignore -v` before trusting this pattern.
+deepseek-harness/home/*
+!deepseek-harness/home/.agent-presets/
+!deepseek-harness/home/.agent-presets/**
+deepseek-harness/workspace/

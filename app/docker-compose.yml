@@ -221,6 +221,56 @@ services:
     expose:
       - "8080"
 
+  # Research/build agent, npm-installed (not built from source — see
+  # Dockerfile). Same litellm gateway as the other apps, different virtual
+  # key. No ports/networks of its own on purpose: dsh's web server refuses
+  # to bind anything but 127.0.0.1 inside its own container (a deliberate
+  # upstream safety choice — a session gets real bash/filesystem access
+  # with only a click-to-approve gate, no login wall), so
+  # deepseek-harness-proxy below is what makes it reachable at all — see
+  # docs/deepseek-harness/README.md.
+  deepseek-harness:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${DEEPSEEK_HARNESS_VIRTUAL_KEY}
+      # A genuinely different credential from the one above: web search
+      # (dsh-web-search-deepseek, the default provider behind tool-web) calls
+      # DeepSeek's own Anthropic-compatible API directly
+      # (api.deepseek.com/anthropic/v1/messages, native web_search server
+      # tool) — it does not route through LiteLLM/Bailian at all, so
+      # DEEPSEEK_HARNESS_VIRTUAL_KEY (a LiteLLM virtual key) can't satisfy
+      # it. Real DeepSeek platform key from platform.deepseek.com — see
+      # docs/deepseek-harness/README.md. Leave blank to leave web search
+      # disabled (confirmed failure mode: "no usable web provider is
+      # registered", not a crash).
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+    volumes:
+      - ./deepseek-harness/home:/data/.dsh
+      - ./deepseek-harness/workspace:/workspace
+      - ../data:/workspace/data:ro
+
+  # Sidecar proxy sharing deepseek-harness's network namespace (Compose's
+  # network_mode: "service:<name>") — the only way to reach dsh's
+  # loopback-only web server from outside its own container at all, let
+  # alone from another container or the host. Listens on every interface
+  # *inside that shared namespace*; the actual host-reachability decision
+  # (loopback-only for now, see docs/deepseek-harness/README.md) is made by
+  # whether docker-compose.override.yml publishes a port for
+  # deepseek-harness (the namespace owner — Compose requires `ports:` on
+  # whichever service created the namespace, not the one joining it).
+  deepseek-harness-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    network_mode: "service:deepseek-harness"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness
+
 volumes:
   caddy_data:
   caddy_config:
