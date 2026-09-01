@@ -333,6 +333,51 @@ elsewhere in `docs/`).
 
 ## Known quirks (found while wiring this up)
 
+- **A brand-new team instance shows "no workspace configured" and no
+  presets, and clicking "Select Workspace Directory" fails with
+  `transport failure for /api/host.listDirectory: HTTP 403`.** Confirmed
+  live (2026-09-02, first real participant-facing use of `team0` after
+  going always-on) — not a bug in this deployment, a deliberate upstream
+  restriction. Grepped the installed package's own docs
+  (`dsh-host-apiproxy`'s README, `node_modules/@deepseek-ai/dsh/node_modules/@deepseek-ai/dsh-host-apiproxy/`):
+  `host.listDirectory`/`host.pickDirectory` (the directory *browser*) and
+  the whole `settings.*`/`credentials.*` configuration plane are
+  explicitly restricted to loopback, same-origin requests — "the browser
+  carrier applies the same loopback, same-origin restriction... covers
+  all of these like every other `/api` request." Since every team's
+  instance is reachable only through Caddy on a public subdomain, that
+  check can never pass, for any team, regardless of Basic Auth,
+  `X-Forwarded-*` headers, or anything else adjustable from this side —
+  it isn't checking auth, it's checking that the request never left the
+  host at all.
+  
+  The fix isn't in the restricted `host.*` browse API at all: registering
+  an *already-known* path is a separate, unrestricted RPC,
+  `workspace.create` (see `@deepseek-ai/dsh-workspace`'s README — takes a
+  literal path, no directory listing involved, so the loopback rule
+  doesn't apply to it). Called directly against each container's own
+  `127.0.0.1:3080` (via `docker exec` + Node's built-in `fetch`, which
+  is itself loopback regardless — belt and suspenders even though the
+  method isn't gated), using the wire format documented in
+  `dsh-host-apiproxy`'s own `rpc.d.ts`:
+  ```js
+  fetch("http://127.0.0.1:3080/api/workspace.create", {
+    method: "POST",
+    headers: {"content-type": "application/json"},
+    body: JSON.stringify({
+      type: "client-request", rpcId: "seed-workspace-team0",
+      method: "workspace.create", payload: {path: "/workspace"}
+    }),
+  })
+  ```
+  Idempotent — a second call for a path already owned by a workspace
+  returns the existing one (`created: false`) instead of erroring, so
+  it's safe to run against every team unconditionally. Once a workspace
+  exists, the "no presets" symptom resolves on its own — the preset
+  picker was never broken, it just had nothing to attach a session to.
+  Automated in `scripts/seed-dsh-workspaces.sh` — run once after any
+  fresh deploy, or after resetting a team's `home-teamN/` state.
+
 - **The proxy sidecar can't listen on the same port dsh already owns in
   their shared namespace.** First attempt had `deepseek-harness-proxy`
   listen on `:3080` too (matching the externally-visible port, seemed
