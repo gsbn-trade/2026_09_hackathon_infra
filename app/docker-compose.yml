@@ -248,6 +248,23 @@ services:
       # disabled (confirmed failure mode: "no usable web provider is
       # registered", not a crash).
       DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      # dsh-sandbox-policy's default 'workspace-write' mode requires a real
+      # sandbox backend (bwrap on Linux, Landlock, Seatbelt on macOS) and
+      # refuses to run bash commands unconfined if none is usable — real
+      # error hit: "no sandbox backend is usable on this host". Confirmed
+      # the hard way that bwrap genuinely cannot function in this container
+      # even installed (`No permissions to create new namespace` — Docker's
+      # default profile blocks the unprivileged user-namespace syscall it
+      # needs) before setting this: granting CAP_SYS_ADMIN/--privileged just
+      # to unblock bwrap would be a *worse* trade than accepting this, since
+      # it would expand what the container could do to the host, not just
+      # to itself. This container is already the actual security boundary
+      # here (its own container, local-only, no Caddy route, no public
+      # exposure — see docs/deepseek-harness/README.md) — danger-full-access
+      # doesn't change that blast radius, it just stops a second internal
+      # sandbox layer from crashing every bash call. See the error message's
+      # own suggested resolution.
+      DSH_PERMISSION_MODE: danger-full-access
     volumes:
       - ./deepseek-harness/home:/data/.dsh
       - ./deepseek-harness/workspace:/workspace
