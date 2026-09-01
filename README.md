@@ -253,10 +253,9 @@ Every team-facing URL below is gated by HTTP Basic Auth — see "Scaling to
   passphrase (username `guest`) — see "Scaling to 5 teams".
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
-- `build0.<your-domain>` / `team0.<your-domain>` — **organizer
-  testing only**, same apps as above but not started by a plain
-  `docker compose up -d` (see "Scaling to 5 teams" for how to start them on
-  demand) — 502s until you do.
+- `build0.<your-domain>` / `team0.<your-domain>` — the organizer's own
+  instance of both apps, always-on just like team1-5 (same credentials
+  pattern, username `team0`).
 
 Open WebUI needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as
 step 5's team keys (separate key so its spend/budget tracks
@@ -300,6 +299,27 @@ mounted config files and env vars are **not** hot-reloaded:
 `.env` value or `docker-compose.yml` itself changes.
 
 ## Known quirks (found by running this stack locally before writing it up)
+
+- **First-time `docker compose up --build` on the full 5-team replication
+  can fail outright from network contention, not a real config problem.**
+  Compose builds all services with a `build:` key in parallel by default —
+  with 6 identical `boltdiy-teamN` and 6 identical `deepseek-harness-teamN`
+  blocks, that means up to 12 concurrent `pnpm install`/`npm install -g`
+  processes hitting their registries at once on a bandwidth-capped EIP
+  (20 Mbps in `terraform.tfvars`). Confirmed live (2026-09-02, first real
+  cloud deploy of the 5-team setup): `deepseek-harness-team4`'s build
+  failed with `npm error code ETIMEDOUT` under exactly this contention,
+  aborting the whole `docker compose up` (cancelling every other build mid-flight,
+  `hackathon_boltdiy-team5` included). None of the concurrent builds could
+  benefit from Docker's layer cache since none had finished yet. Fix:
+  force sequential builds for the first run —
+  `COMPOSE_PARALLEL_LIMIT=1 docker compose build && docker compose up -d`
+  — so only the first `boltdiy-teamN`/`deepseek-harness-teamN` build
+  actually touches the network; the other 5 of each hit the now-cached
+  layer instantly (confirmed: all 5 `deepseek-harness-teamN` images built
+  in the time it previously took one to time out). Only needed once per
+  fresh instance/image cache — an ordinary `docker compose up -d --build`
+  after that is fine, since every image already exists.
 
 - **A `.env` value containing a literal `$` (a bcrypt Basic Auth hash,
   specifically) breaks `scripts/_env.sh` unless it's single-quoted.** These
@@ -450,11 +470,12 @@ tofu destroy
 ## Scaling to 5 teams
 
 This started as **one** LiteLLM + **one** bolt.diy instance to prove the
-path end to end; `app/docker-compose.yml` now has the full 5-team
-replication built in — `boltdiy-team1`..`5` and
-`deepseek-harness-team1`..`5` (+ each one's `-proxy` sidecar), plus an
-organizer-only `team0` of both. `litellm`, `postgres`, `open-webui`, and
-`jupyter` stay single-instance — one shared gateway with per-team budgets
+path end to end; `app/docker-compose.yml` now has the full 6-instance
+replication built in — `boltdiy-team0`..`5` and
+`deepseek-harness-team0`..`5` (+ each one's `-proxy` sidecar), `team0`
+being the organizer's own always-on instance, same as team1-5. `litellm`,
+`postgres`, `open-webui`, and `jupyter` stay single-instance — one shared
+gateway with per-team budgets
 is simpler and more reliable than five gateways, and Open WebUI is a
 backup tool now, not a per-team primary (see
 [ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used) for what else was
@@ -466,7 +487,9 @@ Steps to actually stand this up, in order:
    / `terraform.tfvars` — `ecs.g9i.2xlarge`, 8 vCPU/32GB): apply it with
    `cd infra && tofu apply`. This resizes a running instance — expect a
    brief stop/start, not a full destroy/recreate. Do this at a moment
-   that can tolerate a minute or two of downtime, not mid-event.
+   that can tolerate a minute or two of downtime, not mid-event. For what
+   this size actually costs (and why an exact `cn-hongkong` figure took
+   some digging), see [docs/alicloud-pricing/](docs/alicloud-pricing/).
 2. **Generate Basic Auth passphrases**: `./scripts/generate-team-auth.sh`
    — writes bcrypt hashes into `app/.env` (`TEAMn_BASIC_AUTH_HASH`,
    `OPENWEBUI_BASIC_AUTH_HASH`) and prints the plaintext passphrases,
@@ -490,19 +513,11 @@ Steps to actually stand this up, in order:
    `gateway`, `build0`..`build5`, `team0`..`team5`,
    `analyze`.
 5. **Deploy**: `./deploy.sh`. LiteLLM/Caddy/bolt.diy/DeepSeek Harness for
-   team1-5 come up; each `boltdiy-teamN` / `deepseek-harness-teamN` 401s
-   /misbehaves on model calls until its virtual key is minted (next step).
-   `team0` doesn't start at all yet — it's gated behind Compose's
-   `organizer` profile (see step 7).
+   every team (0 through 5) come up; each `boltdiy-teamN` /
+   `deepseek-harness-teamN` 401s/misbehaves on model calls until its
+   virtual key is minted (next step).
 6. **Mint every team's virtual keys**: once the gateway is reachable,
    `./scripts/mint-team-keys.sh https://gateway.<your-domain>` — mints a
    LiteLLM team + a bolt.diy key + a DeepSeek Harness key for team0-5 (12
    keys total) and writes them into `app/.env`. Re-run `./deploy.sh` to
    push the filled-in `.env` and recreate the containers that needed a key.
-7. **Organizer testing (`team0`)**, on demand, before/after the event —
-   costs nothing while stopped:
-   ```bash
-   ssh root@<vm-ip> "cd /opt/app && docker compose --profile organizer up -d boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy"
-   # ... test via build0./team0.<your-domain> ...
-   ssh root@<vm-ip> "cd /opt/app && docker compose --profile organizer stop boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy"
-   ```

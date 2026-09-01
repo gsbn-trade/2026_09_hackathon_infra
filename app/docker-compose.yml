@@ -21,10 +21,8 @@ services:
     # Caddyfile via its {$VAR} substitution syntax — see ./Caddyfile and
     # scripts/generate-team-auth.sh (generates the passphrase + hash pair
     # for each team, writes the hash half here, keeps the plaintext half out
-    # of git). Team0 = organizer testing only; its containers aren't started
-    # by a plain `docker compose up -d` (see boltdiy-team0 below), but the
-    # Caddy route/credential can exist harmlessly either way — an unstarted
-    # backend just 502s.
+    # of git). Team0 (organizer) is always-on, same as team1-5 — see
+    # boltdiy-team0 below.
     environment:
       TEAM0_BASIC_AUTH_HASH: ${TEAM0_BASIC_AUTH_HASH}
       TEAM1_BASIC_AUTH_HASH: ${TEAM1_BASIC_AUTH_HASH}
@@ -107,28 +105,26 @@ services:
   # none of that has to happen at container start anymore. See
   # docs/bolt-provider-lock/README.md for the full why.
   #
-  # One instance per team (team0 = organizer testing only — see its
-  # `profiles` line below), each byte-for-byte the same build, differing
-  # only in which LiteLLM virtual key is baked into its environment: a
-  # leaked or misused key only spends that one team's budget, never anyone
-  # else's, and a team pasting a wrong key into a shared login is a support
-  # ticket at the worst possible moment (kickoff) — baking each team's key
-  # into its own container removes that failure mode entirely. Caddy (see
+  # One instance per team (team0 = organizer, always-on like the rest —
+  # see below), each byte-for-byte the same build, differing only in which
+  # LiteLLM virtual key is baked into its environment: a leaked or misused
+  # key only spends that one team's budget, never anyone else's, and a
+  # team pasting a wrong key into a shared login is a support ticket at
+  # the worst possible moment (kickoff) — baking each team's key into its
+  # own container removes that failure mode entirely. Caddy (see
   # ./Caddyfile) routes buildN.<domain> to each, gated by HTTP Basic
   # Auth (username "teamN") since these are public, internet-reachable URLs
   # handed to people this project has no accounts for.
+  #
+  # team0 was originally on-demand only (a Compose "organizer" profile,
+  # started/stopped by hand) to cost nothing during the event. Changed
+  # 2026-09-02 to always-on, same as team1-5 — no longer gated behind a
+  # profile, no special start/stop step.
   boltdiy-team0:
     build:
       context: .
       dockerfile: Dockerfile.boltdiy
     restart: unless-stopped
-    # Organizer testing only. Deliberately NOT part of the default profile
-    # set, so a plain `docker compose up -d` (what deploy.sh runs) never
-    # starts this — zero CPU/RAM/LLM-budget cost during the event itself.
-    # Start it on demand to test before/after the event:
-    #   docker compose --profile organizer up -d boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy
-    # and stop it the same way (`... stop` or `... down`) when done.
-    profiles: ["organizer"]
     depends_on:
       - litellm
     environment:
@@ -359,8 +355,8 @@ services:
   # each team's own -proxy sidecar below is what makes it reachable at all —
   # see docs/deepseek-harness/README.md.
   #
-  # One instance per team (team0 = organizer testing only, same `profiles`
-  # pattern as boltdiy-team0 above), each with its own home-teamN/
+  # One instance per team (team0 = organizer, always-on like the rest —
+  # see boltdiy-team0's comment above), each with its own home-teamN/
   # (settings/session state) and workspace-teamN/ (agent's read-write
   # working directory) bind mount so agent sessions and generated files
   # never leak between teams — seed a new team's home dir once with
@@ -385,9 +381,6 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
-    # Organizer testing only — see boltdiy-team0's comment above for the
-    # exact command to start/stop this on demand.
-    profiles: ["organizer"]
     depends_on:
       - litellm
     environment:
@@ -403,7 +396,6 @@ services:
   deepseek-harness-team0-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
-    profiles: ["organizer"]
     network_mode: "service:deepseek-harness-team0"
     volumes:
       - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro

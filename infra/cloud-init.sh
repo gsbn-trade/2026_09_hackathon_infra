@@ -33,3 +33,20 @@ if [ ! -f /swapfile ]; then
   swapon /swapfile
   echo '/swapfile none swap sw 0 0' >> /etc/fstab
 fi
+
+# Alternate SSH port, alongside the standard one — not a security
+# hardening measure, a connectivity workaround. Verified live (2026-09-02,
+# via RunCommand/Cloud Assistant, which doesn't traverse this same public
+# network path) against this exact VM: sshd on :22 was healthy and
+# correctly sending its banner the whole time (confirmed by a packet
+# capture on its own NIC), but real client connections over the public
+# internet consistently died with an immediate RST right after the
+# plaintext "SSH-2.0-..." banner exchange — the signature of on-path
+# protocol-based blocking keyed on the well-known port, not a
+# security-group, sshd, or instance problem (changing source IP, fixing
+# the NIC's MTU, and confirming empty host firewall rules all had zero
+# effect on it). See infra/main.tf's ssh_alt_port* security group rules
+# for the matching ingress allowance.
+grep -q '^Port 2222' /etc/ssh/sshd_config || echo 'Port 2222' >> /etc/ssh/sshd_config
+grep -q '^Port 22$' /etc/ssh/sshd_config || sed -i '1i Port 22' /etc/ssh/sshd_config
+systemctl restart ssh || systemctl restart sshd

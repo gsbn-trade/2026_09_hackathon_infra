@@ -35,6 +35,57 @@ resource "alicloud_security_group_rule" "ssh" {
   cidr_ip           = var.admin_cidr
 }
 
+# SSH: also from a VPN's static egress IP, when set — a second fixed
+# source alongside admin_cidr above, for when the admin's own ISP IP isn't
+# the one actually reaching the instance (e.g. connecting over a VPN).
+# Skipped entirely (count = 0) when vpn_cidr is left blank.
+resource "alicloud_security_group_rule" "ssh_vpn" {
+  count             = var.vpn_cidr != "" ? 1 : 0
+  type              = "ingress"
+  ip_protocol       = "tcp"
+  nic_type          = "intranet"
+  policy            = "accept"
+  port_range        = "22/22"
+  priority          = 1
+  security_group_id = alicloud_security_group.main.id
+  cidr_ip           = var.vpn_cidr
+}
+
+# Alternate SSH port (2222), same two sources as port 22 above. Added
+# 2026-09-02 after real SSH connections to :22 consistently died right
+# after the plaintext SSH banner exchange (TCP handshake fine, both sides
+# exchange "SSH-2.0-..." banners, then an immediate RST) — the signature
+# of on-path protocol-based blocking keyed on port 22 rather than payload,
+# not a security-group or instance problem (sshd itself was confirmed
+# healthy throughout via Cloud Assistant/RunCommand, which doesn't go
+# through this same network path). `cloud-init.sh` adds `Port 2222`
+# alongside `Port 22` in sshd_config for exactly this — see its own
+# comment for the live-instance verification this was based on (RunCommand
+# against the already-running VM, before this got written back into
+# cloud-init.sh so a fresh `tofu apply` reproduces it too).
+resource "alicloud_security_group_rule" "ssh_alt_port" {
+  type              = "ingress"
+  ip_protocol       = "tcp"
+  nic_type          = "intranet"
+  policy            = "accept"
+  port_range        = "2222/2222"
+  priority          = 1
+  security_group_id = alicloud_security_group.main.id
+  cidr_ip           = var.admin_cidr
+}
+
+resource "alicloud_security_group_rule" "ssh_alt_port_vpn" {
+  count             = var.vpn_cidr != "" ? 1 : 0
+  type              = "ingress"
+  ip_protocol       = "tcp"
+  nic_type          = "intranet"
+  policy            = "accept"
+  port_range        = "2222/2222"
+  priority          = 1
+  security_group_id = alicloud_security_group.main.id
+  cidr_ip           = var.vpn_cidr
+}
+
 # HTTP: open, but only used to redirect to HTTPS (Caddy does this automatically).
 resource "alicloud_security_group_rule" "http" {
   type              = "ingress"

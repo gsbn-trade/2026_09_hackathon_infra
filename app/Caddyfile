@@ -71,9 +71,7 @@ build5.hack.gsbn.trade {
 # service name (deepseek-harness-teamN), not its -proxy sidecar — the proxy
 # shares that service's network namespace instead of getting a network
 # identity of its own, so Docker's internal DNS only resolves the owner's
-# name (see docker-compose.yml's comment on this). team0 (organizer) will
-# 502 until it's actually started (`docker compose --profile organizer up
-# -d ...` — see docker-compose.yml) — expected, not a misconfiguration.
+# name (see docker-compose.yml's comment on this).
 
 team0.hack.gsbn.trade {
 	basic_auth {

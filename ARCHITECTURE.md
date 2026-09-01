@@ -47,12 +47,12 @@ flowchart TB
 ```
 
 **Update (2026-09-01): the `RP -.-> DS` edge is now solid.** `dsh` is
-replicated one instance per team (team1-5, same pattern as `boltdiy`) plus
-a `team0` reachable only via an explicit `organizer` Compose profile (zero
-cost during the event itself), each behind its own subdomain and gated by
-Caddy `basic_auth` — `dsh` itself still has no login wall of its own, so
-that gate lives in front of it, same reasoning as before, now built rather
-than planned. See [Status](#status) below for the checklist, and
+replicated one instance per team (team0-5, team0 being the organizer's own
+always-on instance, same pattern as `boltdiy`), each behind its own
+subdomain and gated by Caddy `basic_auth` — `dsh` itself still has no login
+wall of its own, so that gate lives in front of it, same reasoning as
+before, now built rather than planned. See [Status](#status) below for the
+checklist, and
 [Evaluated, not used](#evaluated-not-used) for Dify/DeerFlow/OpenHands —
 all three were built out or seriously evaluated, then deliberately dropped
 from the active plan (2026-09-01): DeepSeek Harness's per-track team
@@ -102,7 +102,7 @@ budget, never the sponsor's real account.
 | Website generation, live iterative editing | **bolt.diy** | In-browser sandboxed Node runtime (WebContainers); diff-based edits patch the running app instead of regenerating it | ✅ Implemented |
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
 | Chat / data analysis / marketing text & images — **backup** | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend; kept as a fallback, not a primary track tool | ✅ Implemented, backup |
-| Agentic multi-agent showcase | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI and four hand-authored per-track team presets; `dsh` itself is deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall), so each team's instance sits behind its own Caddy subdomain + Basic Auth | ✅ Implemented, one instance per team (team1-5) + one organizer-only `team0` |
+| Agentic multi-agent showcase | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI and four hand-authored per-track team presets; `dsh` itself is deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall), so each team's instance sits behind its own Caddy subdomain + Basic Auth | ✅ Implemented, one always-on instance per team (team0-5, team0 = organizer) |
 
 ## Evaluated, not used
 
@@ -152,18 +152,17 @@ is wired into `app/deepseek-harness`'s own env, separately. See
       make it reachable at all, and only `docker-compose.override.yml`
       publishes it (loopback-only host port, excluded from the cloud
       deploy) — no Caddy route, no public subdomain
-- [x] Replicated bolt.diy to one instance per team (`boltdiy-team1`..`5`,
-      plus organizer-only `boltdiy-team0`), each with its own baked-in
+- [x] Replicated bolt.diy to one instance per team (`boltdiy-team0`..`5`,
+      team0 = the organizer's own instance), each with its own baked-in
       virtual key and subdomain (`app/docker-compose.yml`, `app/Caddyfile`)
 - [x] Put DeepSeek Harness behind Caddy, one instance per team
-      (`deepseek-harness-team1`..`5`, plus organizer-only `team0`) — own
-      subdomain, own LiteLLM virtual key, own home/workspace bind mount —
-      gated by Caddy `basic_auth` (username `team1`..`team5`/`team0`),
-      since `dsh` itself has no login wall of its own
-- [x] `team0`: an organizer-only instance of both apps, gated behind
-      Compose's `organizer` profile so it costs zero CPU/RAM/LLM-budget
-      during the event itself — started on demand for pre/post-event
-      testing (`docker compose --profile organizer up -d ...`)
+      (`deepseek-harness-team0`..`5`) — own subdomain, own LiteLLM virtual
+      key, own home/workspace bind mount — gated by Caddy `basic_auth`
+      (username `team0`..`team5`), since `dsh` itself has no login wall of
+      its own
+- [x] `team0`: originally an on-demand-only organizer instance (gated
+      behind a Compose `organizer` profile), changed 2026-09-02 to
+      always-on, same as team1-5 — no longer a special case
 - [x] Open WebUI's own unauthenticated default (`WEBUI_AUTH=False`) gated
       from outside with Caddy `basic_auth` too (one shared passphrase,
       username `guest`) — it's a public URL sitting in front of a paid
@@ -176,9 +175,16 @@ is wired into `app/deepseek-harness`'s own env, separately. See
       passphrase per team) and `scripts/mint-team-keys.sh` (mints every
       team's pair of LiteLLM virtual keys) — automate what would otherwise
       be 12+ manual curl calls per redeploy
-- [ ] Not yet re-applied to the live VM: the `instance_type` bump needs a
-      deliberate `tofu apply` (brief instance stop/start) and the new
-      per-team services need a deploy — see README's "Scaling to 5 teams"
+- [x] **Live on the VM** (2026-09-02): all 5 teams' `buildN`/`teamN`
+      subdomains confirmed responding `200` with real Basic Auth
+      credentials end to end; `gateway` confirmed alive; 12 virtual keys
+      minted. `instance_type` bump itself (the `ecs.g9i.2xlarge` resize)
+      still not applied — deployed onto the still-running `g9i.xlarge` via
+      SSH-free tooling (see [docs/ssh-connectivity/](docs/ssh-connectivity/)
+      for why: SSH from the operator's machine is blocked by a local
+      corporate endpoint-security policy, unrelated to this project).
+      Apply the resize with `cd infra && tofu apply` at a moment that can
+      tolerate a brief stop/start — see README's "Scaling to 5 teams"
 
 ## Design decisions
 

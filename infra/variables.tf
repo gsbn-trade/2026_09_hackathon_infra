@@ -21,6 +21,12 @@ variable "admin_cidr" {
   type        = string
 }
 
+variable "vpn_cidr" {
+  description = "Optional second SSH source, in CIDR form, e.g. a VPN's static egress IP — for when the admin isn't reaching the instance from admin_cidr directly (over a VPN, a different network, etc.). Leave blank to skip; see the ssh_vpn security group rule in main.tf."
+  type        = string
+  default     = ""
+}
+
 variable "ssh_public_key_path" {
   description = "Path to the local SSH public key that will be allowed to log in as root."
   type        = string
