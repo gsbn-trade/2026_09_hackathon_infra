@@ -4,12 +4,12 @@
 # 200 here means the key + workspace + endpoint are all correct, full stop.
 # Any failure is a provider-side problem, not something in this repo's stack.
 #
-# Usage: ./smoke-test-provider.sh [model-id]   (default: qwen3.7-plus)
+# Usage: ./smoke-test-provider.sh [model-id]   (default: qwen3.8-flash)
 set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/_env.sh"
 
-MODEL="${1:-qwen3.7-plus}"
+MODEL="${1:-qwen3.8-flash}"
 
 echo "POST $MS_API_BASE/chat/completions"
 echo "model: $MODEL"

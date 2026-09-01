@@ -1,7 +1,8 @@
 # Model Studio (Bailian/DashScope) API keys — issue, wire in, debug
 
-How to create and validate the API key `app/litellm-config.yaml`'s
-`qwen3.7-plus` entry uses, and how to debug it fast when something's wrong.
+How to create and validate the API key `app/litellm-config.yaml`'s model
+entries use (`DASHSCOPE_API_KEY`, shared by all five), and how to debug it
+fast when something's wrong.
 Everything here was learned the hard way getting the first key working —
 see "Gotchas" below before you re-derive them yourself.
 

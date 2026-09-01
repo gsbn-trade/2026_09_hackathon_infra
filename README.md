@@ -49,8 +49,14 @@ unmodified with `terraform` too, if that ever changes.
   context to run at all, so a bare IP over `http://` will not work for the
   build track. Caddy handles the certificate automatically once DNS points
   at the VM.
-- A Bailian (Model Studio) API key — covers Qwen + DeepSeek + GLM.
-- A Moonshot platform API key — Kimi (separate account, not on Bailian).
+- A Bailian (Model Studio) API key — covers Qwen + DeepSeek + GLM + Kimi.
+  This is the only LLM provider; no separate Moonshot platform account is
+  used (Bailian hosts Kimi itself).
+- A real DeepSeek platform API key (`platform.deepseek.com`) — separate
+  from the Bailian key above, used only by DeepSeek Harness's web-search
+  tool (calls DeepSeek's own API directly, not through Bailian/LiteLLM).
+  See [docs/deepseek-harness/](docs/deepseek-harness/). Optional: the app
+  runs fine without it, just with web search disabled.
 
 ### Configuration steps log
 1. Created a [RAM user](https://ram.console.alibabacloud.com/users) and Users > [User] > Permissions: `AliyunRAMFullAccess` and `AliyunSTSAssumeRoleAccess`.
@@ -189,7 +195,7 @@ curl https://gateway.<your-domain>/health/liveliness
 curl https://gateway.<your-domain>/v1/chat/completions \
   -H "Authorization: Bearer <LITELLM_MASTER_KEY>" \
   -H "Content-Type: application/json" \
-  -d '{"model": "qwen3.7-plus", "messages": [{"role":"user","content":"ping"}]}'
+  -d '{"model": "qwen3.8-flash", "messages": [{"role":"user","content":"ping"}]}'
 ```
 
 If a model 404s, its id likely shifted on Bailian's side — check the Model
@@ -205,7 +211,7 @@ curl https://gateway.<your-domain>/key/generate \
   -d '{
         "team_id": "team-1",
         "max_budget": 20,
-        "models": ["qwen3.7-plus", "kimi-k2.7-code", "deepseek-v4-flash-0731"]
+        "models": ["qwen3.8-flash", "deepseek-v4-flash-0731", "deepseek-v4-pro-0813", "kimi-k2.7-code", "glm-5.2"]
       }'
 ```
 
@@ -222,23 +228,27 @@ enough.) Take the returned `key` value, put it in `app/.env` as
 
 - `https://build.<your-domain>` — open bolt.diy. OpenAI-Like is the only
   provider and is pre-selected (patched, see Known quirks below); the model
-  dropdown should show `qwen3.7-plus` / `kimi-k2.7-code` /
-  `deepseek-v4-flash-0731`.
-- `https://analyze.<your-domain>` — Open WebUI, for data understanding
-  before building: chat + a real Python/pandas code interpreter (Jupyter
-  backend) with every `data/` track mounted read-only at `~/data` — no
-  upload needed, `pd.read_csv('data/Track 1 - Vessel Schedule/bookings.csv')`
-  just works. No login required (`WEBUI_AUTH=False`, same "just open the
-  URL" pattern as bolt.diy).
+  dropdown should show `qwen3.8-flash` / `deepseek-v4-flash-0731` /
+  `deepseek-v4-pro-0813` / `kimi-k2.7-code` / `glm-5.2`.
+- `https://analyze.<your-domain>` — Open WebUI, **kept as a backup, not a
+  primary track tool** (see [ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used)):
+  chat + a real Python/pandas code interpreter (Jupyter backend) with every
+  `data/` track mounted read-only at `~/data` — no upload needed,
+  `pd.read_csv('data/Track 1 - Vessel Schedule/bookings.csv')` just works.
+  No login required (`WEBUI_AUTH=False`, same "just open the URL" pattern
+  as bolt.diy).
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
-- `http://localhost:3080` — DeepSeek Harness, **operator-only, not for
-  participants**: it's part of this Compose project (`app/docker-compose.yml`)
-  but deliberately has no Caddy route — its own CLI refuses to bind
-  anything but loopback (a session gets real bash/filesystem access with
-  only a click-to-approve gate, no login wall). Reach it on the VM with
-  `ssh -L 3080:localhost:3080 root@<vm-ip>` if `docker-compose.override.yml`
-  is copied over by hand; see [docs/deepseek-harness/](docs/deepseek-harness/).
+- `http://localhost:3080` — DeepSeek Harness, **operator-only for now, not
+  yet for participants**: it's part of this Compose project
+  (`app/docker-compose.yml`) but deliberately has no Caddy route yet — its
+  own CLI refuses to bind anything but loopback (a session gets real
+  bash/filesystem access with only a click-to-approve gate, no login
+  wall). Reach it on the VM with `ssh -L 3080:localhost:3080 root@<vm-ip>`
+  if `docker-compose.override.yml` is copied over by hand; see
+  [docs/deepseek-harness/](docs/deepseek-harness/). **Target, not yet
+  built**: one instance per team behind Caddy with `basic_auth` — see
+  [ARCHITECTURE.md](ARCHITECTURE.md#target-architecture)'s diagram.
 
 Needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as step 5's
 `TEAM_VIRTUAL_KEY` (separate key so its spend/budget tracks independently),
@@ -408,8 +418,12 @@ tofu destroy
 
 This repo intentionally deploys **one** LiteLLM + **one** bolt.diy instance
 to prove the path end to end. For the event itself: bump `instance_type` up
-a size, replicate the `boltdiy` (and `openwebui`) service block per team
-with each team's own virtual key baked into its environment, and give each
-its own Caddy subdomain (`build-team1.`, `build-team2.`, …) — same pattern
-as the `litellm` service above of environment-only forking, no new
-OpenTofu needed unless you split it across a second VM for OpenHands.
+a size, replicate the `boltdiy` service block per team with each team's own
+virtual key baked into its environment, and give each its own Caddy
+subdomain (`build-team1.`, `build-team2.`, …) — same pattern as the
+`litellm` service above of environment-only forking, no new OpenTofu
+needed. `openwebui` and `deepseek-harness` stay single-instance — Open
+WebUI is a backup tool now, not a per-team primary, and DeepSeek Harness is
+deliberately local-only (see [docs/deepseek-harness/](docs/deepseek-harness/)).
+See [ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used) for what was
+evaluated and dropped from this plan (Dify, DeerFlow, OpenHands).

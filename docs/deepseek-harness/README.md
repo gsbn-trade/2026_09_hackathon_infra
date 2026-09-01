@@ -91,10 +91,16 @@ llm-pi-ai:
         supportsDeveloperRole: false
         maxTokensField: max_tokens
       models:
-        - id: qwen3.7-plus
-        - id: kimi-k2.7-code
+        - id: qwen3.8-flash
         - id: deepseek-v4-flash-0731
+        - id: deepseek-v4-pro-0813
+        - id: glm-5.2
 ```
+
+`kimi-k2.7-code` deliberately isn't in this list (2026-09-01): it's the
+strongest of the roster for coding, which is bolt.diy's job — the other
+four already cover what DeepSeek Harness needs, no reason to offer it here
+too. It stays wired in `litellm-config.yaml` for bolt.diy.
 
 `apiKeyEnv` is a credential *reference* (an env var name), not a literal
 secret in the file — same shape as `os.environ/DASHSCOPE_API_KEY` in
@@ -102,9 +108,10 @@ secret in the file — same shape as `os.environ/DASHSCOPE_API_KEY` in
 own docs call out that a custom OpenAI-compatible gateway usually fails on
 two things a reasoning model triggers — the system prompt sent as
 `role: "developer"`, and the output cap sent as `max_completion_tokens` —
-both of which Bailian/Moonshot (what LiteLLM actually proxies to here)
-don't understand. Set once on the route rather than discovered per-model
-the hard way.
+both of which Alibaba Cloud Bailian (what LiteLLM actually proxies to
+here — the only LLM provider in this stack; Kimi is Bailian-hosted too, no
+separate Moonshot account) don't understand. Set once on the route rather
+than discovered per-model the hard way.
 
 `settings.yaml` is real, gitignored data, not an upstream-shipped example
 (unlike DeerFlow's `config.example.yaml`) — the app itself may rewrite parts

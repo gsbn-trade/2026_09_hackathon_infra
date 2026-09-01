@@ -9,8 +9,9 @@ today, and why it's shaped the way it is. For hands-on deploy steps, see
 - 25 participants, 5 teams, one half-day event, Shanghai.
 - **Zero local installs** — participants reach everything through a browser
   URL on a locked-down corporate laptop.
-- **Chinese models only**: DeepSeek, Qwen (Tongyi), GLM (Zhipu), Kimi
-  (Moonshot).
+- **Chinese models only**: DeepSeek, Qwen (Tongyi), GLM (Zhipu), Kimi —
+  all sourced through one Alibaba Cloud Bailian account; no separate
+  Moonshot platform account is used or needed (Bailian hosts Kimi itself).
 - The website track needs **iterative editing, not full regeneration** —
   "make the nav sticky" should patch the running app, not rebuild it.
 - At least one track should make the case for **agentic multi-agent
@@ -30,43 +31,45 @@ flowchart TB
 
     subgraph CoreVM["AliCloud ECS — core VM · cn-hongkong (avoids ICP filing)"]
         RP --> BD["bolt.diy\nwebsite generation, live iterative edits"]
-        RP --> OW["Open WebUI\nchat · data analysis · marketing"]
-        RP --> DY["Dify\nmulti-agent workflow showcase"]
+        RP --> OW["Open WebUI\nbackup: chat · data analysis · marketing"]
+        RP -.->|Basic Auth, one instance per team — planned| DS["DeepSeek Harness\nagentic multi-agent showcase"]
         BD --> LL["LiteLLM gateway\nteam virtual keys · budgets · usage log"]
         OW --> LL
-        DY --> LL
-        DS["DeepSeek Harness\nresearch/build agent · loopback-only, no Caddy route"] --> LL
+        DS --> LL
     end
 
-    subgraph SandboxVM["AliCloud ECS — sandbox VM · optional"]
-        OH["OpenHands\nautonomous coding agent"]
-    end
-    RP -.-> OH
-    OH -.-> LL
-
-    LL --> BL["Alibaba Cloud Bailian\nQwen · DeepSeek · GLM · Qwen-Image · Wanxiang"]
-    LL --> MS["Moonshot platform\nKimi K3 / K2.x"]
+    LL --> BL["Alibaba Cloud Bailian\nQwen · DeepSeek · GLM · Kimi"]
+    DS --> DK["DeepSeek platform API\napi.deepseek.com — native web_search only, bypasses LiteLLM"]
 
     classDef built fill:none,stroke:#2f9e6f,stroke-width:2.5px;
-    classDef planned fill:none,stroke:#888888,stroke-width:1px,stroke-dasharray: 4 4;
-    classDef localonly fill:none,stroke:#2f9e6f,stroke-width:2.5px,stroke-dasharray: 2 2;
 
-    class RP,BD,LL,BL,MS built
-    class OW,DY,OH planned
-    class DS localonly
+    class RP,BD,LL,BL,OW,DS,DK built
 ```
 
-Solid outline = implemented in this repo today. Dashed = designed, not yet
-built. See [Status](#status) below for the checklist version.
+Today, `DS`'s box is solid (the app itself, its LiteLLM wiring, and its
+`DK` web-search connection are all built and confirmed working) but the
+dotted `RP -.-> DS` edge is the one piece still planned, not built: right
+now `dsh` is reachable only loopback-only/local (see
+[docs/deepseek-harness/](docs/deepseek-harness/)), not through Caddy at
+all. Turning that dotted edge solid means: one `deepseek-harness` instance
+per team (same replication pattern as `boltdiy`), each behind its own
+subdomain, gated by Caddy `basic_auth` — `dsh` itself has no login wall of
+its own, so that gate has to live in front of it. See [Status](#status)
+below for the checklist version, and
+[Evaluated, not used](#evaluated-not-used) for Dify/DeerFlow/OpenHands —
+all three were built out or seriously evaluated, then deliberately dropped
+from the active plan (2026-09-01): DeepSeek Harness's per-track team
+presets cover the "agentic multi-agent, visibly and live" goal below, and
+Open WebUI stays only as a backup.
 
-**Why a gateway in front of the model providers, instead of each app
-calling Bailian/Moonshot directly:** four apps × two-to-three providers is a
-lot of places to leak or mismanage a real API key. LiteLLM holds the real
-upstream keys once and issues a **virtual key per team**, each with its own
-token budget, rate limit, and model allow-list. Every app just points at
+**Why a gateway in front of the model provider, instead of each app calling
+Bailian directly:** four apps sharing one real API key is a lot of places
+to leak or mismanage it. LiteLLM holds the real upstream key once and
+issues a **virtual key per team**, each with its own token budget, rate
+limit, and model allow-list. Every app just points at
 `http://litellm:4000/v1` as if it were one OpenAI-compatible provider with a
 model picker — and you get one dashboard to watch spend live during the
-event instead of four provider consoles.
+event instead of juggling the Bailian console directly.
 
 ## Who's issuing what to whom
 
@@ -74,9 +77,9 @@ event instead of four provider consoles.
 sequenceDiagram
     actor Admin
     participant LiteLLM as LiteLLM gateway
-    participant App as bolt.diy / Open WebUI / Dify
+    participant App as bolt.diy / Open WebUI
     actor Team as Participant (team)
-    participant Provider as Bailian / Moonshot
+    participant Provider as Bailian
 
     Admin->>LiteLLM: POST /team/new (budget, rate limit, model allow-list)
     Admin->>LiteLLM: POST /key/generate (team_id)
@@ -91,9 +94,9 @@ sequenceDiagram
     App-->>Team: rendered result
 ```
 
-The real Bailian/Moonshot secrets exist in exactly one place — the
-`litellm` container's environment. A leaked virtual key exposes only its
-own team's budget, never the sponsor's real account.
+The real Bailian secret exists in exactly one place — the `litellm`
+container's environment. A leaked virtual key exposes only its own team's
+budget, never the sponsor's real account.
 
 ## Components
 
@@ -101,19 +104,30 @@ own team's budget, never the sponsor's real account.
 |---|---|---|---|
 | Website generation, live iterative editing | **bolt.diy** | In-browser sandboxed Node runtime (WebContainers); diff-based edits patch the running app instead of regenerating it | ✅ Implemented |
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
-| Chat / data analysis / marketing text & images | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend | ✅ Implemented |
-| Agentic multi-agent showcase | **Dify** | Visual multi-agent workflow builder; one team = one workspace, which is also its credential boundary | ✅ Implemented |
-| Research/build agent (operator-only) | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI; deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall), so it's local-only here, not on a participant-facing subdomain | ✅ Implemented, local-only |
-| Advanced/optional track | **OpenHands** | Autonomous coding agent with sub-agent delegation; isolated on its own VM since its Docker-in-Docker sandboxing is the riskiest piece | 🔲 Planned, optional |
+| Chat / data analysis / marketing text & images — **backup** | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend; kept as a fallback, not a primary track tool | ✅ Implemented, backup |
+| Agentic multi-agent showcase | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI and four hand-authored per-track team presets; `dsh` itself is deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall) | ✅ App implemented, local-only; 🔲 per-team Caddy + Basic Auth exposure planned, not built |
+
+## Evaluated, not used
+
+Reviewed and deliberately dropped from the active plan (2026-09-01), kept
+here rather than silently deleted — each was either built out or seriously
+evaluated, and the reasoning is worth keeping alongside the decision:
+
+| Tool | What it was for | Status | Where the work lives |
+|---|---|---|---|
+| **Dify** | Original agentic multi-agent showcase — visual workflow builder, one team = one workspace | Built and confirmed working (admin bootstrap, LiteLLM model provider, a template research-agent workflow), then dropped: DeepSeek Harness's team presets cover the same "agentic, visibly and live" goal directly in a chat interface, without a second app to deploy and operate per team | [docs/dify-research-agent/](docs/dify-research-agent/) |
+| **DeerFlow** | Research → plan → build super-agent, an alternative/complementary agentic showcase | Fully vendored and verified working end-to-end (see its own doc), but never merged into `main` — superseded by the same DeepSeek Harness decision above before it was ever deployed alongside the others | `deerflow` branch (not on `main`); [docs/deerflow/](docs/deerflow/) |
+| **OpenHands** | Advanced/optional track — autonomous coding agent, isolated on its own VM | Evaluated at the planning stage, never built — the second-VM isolation cost (Docker-in-Docker sandboxing) wasn't justified once DeepSeek Harness covered the agentic-showcase goal from a single VM | Nothing to link; this file's own git history is the record |
 
 ## Model sourcing
 
 | Provider | Models | Notes |
 |---|---|---|
-| **Alibaba Cloud Bailian (Model Studio)** | Qwen 3.7/3.8, DeepSeek V4, GLM text models, Qwen-Image, Tongyi Wanxiang (video) | One account/key covers 3 of 4 model families plus image and video gen — the backbone |
-| **Moonshot (Kimi)** | Kimi K3, K2.6/K2.7-Code | Separate account, not on Bailian |
+| **Alibaba Cloud Bailian (Model Studio)** | `qwen3.8-flash`, `deepseek-v4-flash-0731`, `deepseek-v4-pro-0813`, `kimi-k2.7-code`, `glm-5.2` | **The only LLM provider.** One account/key (`DASHSCOPE_API_KEY`) covers every model in use, Kimi included — no separate Moonshot platform account exists or is needed. `kimi-k2.7-code` stays in the roster for bolt.diy (it's the strongest of the five for coding); DeepSeek Harness's own model list drops it — the other four cover its use case and there's no reason to offer it there too. |
+| **DeepSeek platform (`api.deepseek.com`)** | N/A — no chat model routed through it | **Not a LiteLLM provider at all.** A second, genuinely separate credential (`DEEPSEEK_API_KEY`), used only by DeepSeek Harness's web-search tool, which calls DeepSeek's own native `web_search` server tool directly — bypasses LiteLLM/Bailian entirely, confirmed working end to end. See [docs/deepseek-harness/](docs/deepseek-harness/). |
 
-Both are wired into `app/litellm-config.yaml` today. See
+Bailian is wired into `app/litellm-config.yaml`; the DeepSeek platform key
+is wired into `app/deepseek-harness`'s own env, separately. See
 [README.md](README.md) for where to get each key.
 
 ## Status
@@ -127,15 +141,10 @@ Both are wired into `app/litellm-config.yaml` today. See
       virtual key; Jupyter-backed code interpreter with `data/` (all 4
       hackathon tracks) mounted read-only, so any team can `pd.read_csv()`
       their track without uploading anything — team-to-track assignment
-      isn't known ahead of time, so every team's instance gets all of them
-- [x] One Dify instance (`app/dify/`, vendored + reusing the main stack's
-      Postgres/pgvector/Redis, see [docs/dify-research-agent/](docs/dify-research-agent/)),
-      admin account bootstrapped, LiteLLM wired in as an
-      `openai_api_compatible` model provider, plus a template "Track
-      Research Agent" workflow that pulls a track's full brief.md
-      (`data-server`, an internal-only static file service) straight into
-      the LLM prompt — full-text, no embeddings (unavailable in this
-      workspace, see the doc)
+      isn't known ahead of time, so every team's instance gets all of them.
+      **Kept only as a backup** (2026-09-01) — see
+      [Evaluated, not used](#evaluated-not-used) for why it's no longer a
+      primary track tool
 - [x] One DeepSeek Harness (`dsh`) instance (`app/deepseek-harness/`,
       npm-installed, not vendored — no from-source build needed, see
       [docs/deepseek-harness/](docs/deepseek-harness/)), same LiteLLM
@@ -146,10 +155,14 @@ Both are wired into `app/litellm-config.yaml` today. See
       make it reachable at all, and only `docker-compose.override.yml`
       publishes it (loopback-only host port, excluded from the cloud
       deploy) — no Caddy route, no public subdomain
-- [ ] Dify with 5 per-team workspaces
-- [ ] Replicate bolt.diy (and Open WebUI) to one instance per team, each
-      with its own baked-in virtual key and subdomain
-- [ ] Optional: second VM + OpenHands for the advanced track
+- [ ] Replicate bolt.diy to one instance per team, each with its own
+      baked-in virtual key and subdomain
+- [ ] Put DeepSeek Harness behind Caddy, one instance per team (own
+      subdomain, own LiteLLM virtual key — same replication pattern as
+      bolt.diy) gated by Caddy `basic_auth`, since `dsh` itself has no
+      login wall of its own — see the target-architecture diagram above
+- [ ] Open WebUI stays single-instance, backup-only — not part of the
+      per-team replication
 
 ## Design decisions
 
@@ -164,7 +177,7 @@ Both are wired into `app/litellm-config.yaml` today. See
   Mac Mini backup unmodified.
 - **One LiteLLM + one bolt.diy instance first**, not all five tracks at
   once — proves the full request path (DNS → Caddy → app → LiteLLM →
-  Bailian/Moonshot) end to end before replicating it five ways.
+  Bailian) end to end before replicating it five ways.
 - **Per-team app instances over shared-instance BYO-key** for the scale-out
   step — a team pasting the wrong key into a shared login is a support
   ticket at the worst possible moment (kickoff); baking each team's key
