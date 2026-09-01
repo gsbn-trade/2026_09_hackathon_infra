@@ -381,6 +381,19 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # dsh's own /api browser-trust fence (dsh-client-connection) 403s every
+    # request whose Host header isn't a loopback authority or an explicitly
+    # trusted one (WHATWG-normalized comparison — DNS-rebinding defense,
+    # not authentication; see its own README's "/api browser-trust fence"
+    # section). Since this is reached via Caddy on a public subdomain, the
+    # browser's Host header is always that subdomain, never
+    # localhost/127.0.0.1 — confirmed live (2026-09-02) as 403s on
+    # host.describe/llm.providers/etc. even *after* fixing the separate
+    # "no workspace" issue (see docs/deepseek-harness/README.md). Declaring
+    # this team's own subdomain as a trusted authority is the documented,
+    # supported fix (`--trusted-host`), not a workaround — port-less so it
+    # matches any port, which is what a plain HTTPS-on-443 request sends.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team0.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
@@ -406,6 +419,8 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # See deepseek-harness-team0's comment above for why this is needed.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team1.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
@@ -439,6 +454,8 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # See deepseek-harness-team0's comment above for why this is needed.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team2.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
@@ -464,6 +481,8 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # See deepseek-harness-team0's comment above for why this is needed.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team3.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
@@ -489,6 +508,8 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # See deepseek-harness-team0's comment above for why this is needed.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team4.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
@@ -514,6 +535,8 @@ services:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
+    # See deepseek-harness-team0's comment above for why this is needed.
+    command: ["dsh", "web", "--no-open", "--trusted-host", "team5.hack.gsbn.trade"]
     depends_on:
       - litellm
     environment:
