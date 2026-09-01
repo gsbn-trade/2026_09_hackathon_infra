@@ -32,7 +32,7 @@ flowchart TB
     subgraph CoreVM["AliCloud ECS — core VM · cn-hongkong (avoids ICP filing)"]
         RP --> BD["bolt.diy\nwebsite generation, live iterative edits"]
         RP --> OW["Open WebUI\nbackup: chat · data analysis · marketing"]
-        RP -.->|Basic Auth, one instance per team — planned| DS["DeepSeek Harness\nagentic multi-agent showcase"]
+        RP -->|Basic Auth, one instance per team| DS["DeepSeek Harness\nagentic multi-agent showcase"]
         BD --> LL["LiteLLM gateway\nteam virtual keys · budgets · usage log"]
         OW --> LL
         DS --> LL
@@ -46,16 +46,13 @@ flowchart TB
     class RP,BD,LL,BL,OW,DS,DK built
 ```
 
-Today, `DS`'s box is solid (the app itself, its LiteLLM wiring, and its
-`DK` web-search connection are all built and confirmed working) but the
-dotted `RP -.-> DS` edge is the one piece still planned, not built: right
-now `dsh` is reachable only loopback-only/local (see
-[docs/deepseek-harness/](docs/deepseek-harness/)), not through Caddy at
-all. Turning that dotted edge solid means: one `deepseek-harness` instance
-per team (same replication pattern as `boltdiy`), each behind its own
-subdomain, gated by Caddy `basic_auth` — `dsh` itself has no login wall of
-its own, so that gate has to live in front of it. See [Status](#status)
-below for the checklist version, and
+**Update (2026-09-01): the `RP -.-> DS` edge is now solid.** `dsh` is
+replicated one instance per team (team1-5, same pattern as `boltdiy`) plus
+a `team0` reachable only via an explicit `organizer` Compose profile (zero
+cost during the event itself), each behind its own subdomain and gated by
+Caddy `basic_auth` — `dsh` itself still has no login wall of its own, so
+that gate lives in front of it, same reasoning as before, now built rather
+than planned. See [Status](#status) below for the checklist, and
 [Evaluated, not used](#evaluated-not-used) for Dify/DeerFlow/OpenHands —
 all three were built out or seriously evaluated, then deliberately dropped
 from the active plan (2026-09-01): DeepSeek Harness's per-track team
@@ -105,7 +102,7 @@ budget, never the sponsor's real account.
 | Website generation, live iterative editing | **bolt.diy** | In-browser sandboxed Node runtime (WebContainers); diff-based edits patch the running app instead of regenerating it | ✅ Implemented |
 | Model gateway | **LiteLLM** | Holds real provider keys, issues per-team virtual keys with budgets/rate limits, one spend dashboard | ✅ Implemented |
 | Chat / data analysis / marketing text & images — **backup** | **Open WebUI** | Chat UI, file upload, built-in Python/Jupyter code interpreter, pluggable image-gen backend; kept as a fallback, not a primary track tool | ✅ Implemented, backup |
-| Agentic multi-agent showcase | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI and four hand-authored per-track team presets; `dsh` itself is deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall) | ✅ App implemented, local-only; 🔲 per-team Caddy + Basic Auth exposure planned, not built |
+| Agentic multi-agent showcase | **DeepSeek Harness** | Plugin-first agent harness with a plan/goal/subagent UI and four hand-authored per-track team presets; `dsh` itself is deliberately loopback-only (upstream safety choice — real bash/filesystem access, no login wall), so each team's instance sits behind its own Caddy subdomain + Basic Auth | ✅ Implemented, one instance per team (team1-5) + one organizer-only `team0` |
 
 ## Evaluated, not used
 
@@ -155,14 +152,33 @@ is wired into `app/deepseek-harness`'s own env, separately. See
       make it reachable at all, and only `docker-compose.override.yml`
       publishes it (loopback-only host port, excluded from the cloud
       deploy) — no Caddy route, no public subdomain
-- [ ] Replicate bolt.diy to one instance per team, each with its own
-      baked-in virtual key and subdomain
-- [ ] Put DeepSeek Harness behind Caddy, one instance per team (own
-      subdomain, own LiteLLM virtual key — same replication pattern as
-      bolt.diy) gated by Caddy `basic_auth`, since `dsh` itself has no
-      login wall of its own — see the target-architecture diagram above
-- [ ] Open WebUI stays single-instance, backup-only — not part of the
-      per-team replication
+- [x] Replicated bolt.diy to one instance per team (`boltdiy-team1`..`5`,
+      plus organizer-only `boltdiy-team0`), each with its own baked-in
+      virtual key and subdomain (`app/docker-compose.yml`, `app/Caddyfile`)
+- [x] Put DeepSeek Harness behind Caddy, one instance per team
+      (`deepseek-harness-team1`..`5`, plus organizer-only `team0`) — own
+      subdomain, own LiteLLM virtual key, own home/workspace bind mount —
+      gated by Caddy `basic_auth` (username `team1`..`team5`/`team0`),
+      since `dsh` itself has no login wall of its own
+- [x] `team0`: an organizer-only instance of both apps, gated behind
+      Compose's `organizer` profile so it costs zero CPU/RAM/LLM-budget
+      during the event itself — started on demand for pre/post-event
+      testing (`docker compose --profile organizer up -d ...`)
+- [x] Open WebUI's own unauthenticated default (`WEBUI_AUTH=False`) gated
+      from outside with Caddy `basic_auth` too (one shared passphrase,
+      username `guest`) — it's a public URL sitting in front of a paid
+      model budget, and this project doesn't have accounts for every
+      hackathon participant to log in with
+- [x] Bumped `instance_type` to `ecs.g9i.2xlarge` (8 vCPU/32GB) and added an
+      8GB swap file (`infra/cloud-init.sh`) to size for all replicas
+      running at once, prioritizing reliability over cost efficiency
+- [x] `scripts/generate-team-auth.sh` (mints + hashes a memorable
+      passphrase per team) and `scripts/mint-team-keys.sh` (mints every
+      team's pair of LiteLLM virtual keys) — automate what would otherwise
+      be 12+ manual curl calls per redeploy
+- [ ] Not yet re-applied to the live VM: the `instance_type` bump needs a
+      deliberate `tofu apply` (brief instance stop/start) and the new
+      per-team services need a deploy — see README's "Scaling to 5 teams"
 
 ## Design decisions
 

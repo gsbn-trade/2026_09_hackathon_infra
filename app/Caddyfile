@@ -1,29 +1,139 @@
-# Replace gateway.example.com / build.example.com with real subdomains once
-# DNS is pointed at the EIP from `terraform output public_ip`. Caddy issues
-# and renews Let's Encrypt certs for these automatically — nothing else to do.
+# Replace hack.gsbn.trade with your real domain once DNS is pointed at the
+# EIP from `terraform output public_ip`. Caddy issues and renews Let's
+# Encrypt certs for these automatically — nothing else to do.
 #
 # bolt.diy's in-browser sandbox (WebContainers) requires a genuine HTTPS
 # secure context to work at all — a bare IP over plain HTTP will not run it.
-# A domain name is not optional for the build.* host.
+# A domain name is not optional for the buildN.* hosts.
+#
+# Every team-facing subdomain below is gated by HTTP Basic Auth (one
+# username/passphrase per team: "team1".."team5", plus "team0" for
+# organizer testing) — these are public, internet-reachable URLs handed to
+# people this project has no accounts for, and DeepSeek Harness in
+# particular has no login wall of its own (see docs/deepseek-harness/).
+# Passphrase hashes come from app/.env via Caddy's {$VAR} substitution
+# (resolved from the caddy service's own environment, see
+# docker-compose.yml) — generate them with scripts/generate-team-auth.sh,
+# which also prints the plaintext passphrases to share with teams
+# out-of-band (never commit them; see app/.gitignore).
 
 gateway.hack.gsbn.trade {
-    reverse_proxy litellm:4000
+	reverse_proxy litellm:4000
 }
 
-build.hack.gsbn.trade {
-    reverse_proxy boltdiy:5173
+# --- bolt.diy: one subdomain per team, same Basic Auth username as its
+# DeepSeek Harness subdomain below, so each team only has to remember one
+# passphrase for both of its tools.
+
+build0.hack.gsbn.trade {
+	basic_auth {
+		team0 {$TEAM0_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team0:5173
 }
 
-# Data understanding/analysis (Open WebUI). New subdomain — needs its own
-# DNS A record pointed at the EIP before Caddy can issue a cert for it,
-# same as the two above.
+build1.hack.gsbn.trade {
+	basic_auth {
+		team1 {$TEAM1_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team1:5173
+}
+
+build2.hack.gsbn.trade {
+	basic_auth {
+		team2 {$TEAM2_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team2:5173
+}
+
+build3.hack.gsbn.trade {
+	basic_auth {
+		team3 {$TEAM3_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team3:5173
+}
+
+build4.hack.gsbn.trade {
+	basic_auth {
+		team4 {$TEAM4_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team4:5173
+}
+
+build5.hack.gsbn.trade {
+	basic_auth {
+		team5 {$TEAM5_BASIC_AUTH_HASH}
+	}
+	reverse_proxy boltdiy-team5:5173
+}
+
+# --- DeepSeek Harness: one subdomain per team. Routes to the *owner*
+# service name (deepseek-harness-teamN), not its -proxy sidecar — the proxy
+# shares that service's network namespace instead of getting a network
+# identity of its own, so Docker's internal DNS only resolves the owner's
+# name (see docker-compose.yml's comment on this). team0 (organizer) will
+# 502 until it's actually started (`docker compose --profile organizer up
+# -d ...` — see docker-compose.yml) — expected, not a misconfiguration.
+
+team0.hack.gsbn.trade {
+	basic_auth {
+		team0 {$TEAM0_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team0:8080
+}
+
+team1.hack.gsbn.trade {
+	basic_auth {
+		team1 {$TEAM1_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team1:8080
+}
+
+team2.hack.gsbn.trade {
+	basic_auth {
+		team2 {$TEAM2_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team2:8080
+}
+
+team3.hack.gsbn.trade {
+	basic_auth {
+		team3 {$TEAM3_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team3:8080
+}
+
+team4.hack.gsbn.trade {
+	basic_auth {
+		team4 {$TEAM4_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team4:8080
+}
+
+team5.hack.gsbn.trade {
+	basic_auth {
+		team5 {$TEAM5_BASIC_AUTH_HASH}
+	}
+	reverse_proxy deepseek-harness-team5:8080
+}
+
+# Data understanding/analysis (Open WebUI) — single shared/backup instance,
+# not per-team. Gated with one shared passphrase (username "guest") rather
+# than left wide open: it's a public, unauthenticated-by-default app
+# (WEBUI_AUTH=False, see docker-compose.yml) sitting in front of a paid
+# model budget, and this project doesn't know every hackathon participant
+# ahead of time — anyone who finds the URL without this gate could spend
+# against the shared LiteLLM budget.
 analyze.hack.gsbn.trade {
-    reverse_proxy open-webui:8080
+	basic_auth {
+		guest {$OPENWEBUI_BASIC_AUTH_HASH}
+	}
+	reverse_proxy open-webui:8080
 }
 
 # --- No domain yet? Uncomment this for a quick LAN/IP-only smoke test of
 # LiteLLM only (the API itself doesn't need HTTPS the way WebContainers do).
-# Comment the two blocks above while using this.
+# Comment the blocks above while using this.
 #
 # :80 {
 #     reverse_proxy litellm:4000

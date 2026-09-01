@@ -1,0 +1,7 @@
+name: "Track 1 — Schedule Recovery Team"
+description: >-
+  Spawns a small team (voyage risk + capacity) to find where a shipping
+  schedule is about to break and recommend the edits that would recover
+  it. Data in /workspace/data is synthetic — a plausible shape to demo
+  against, not a real finding to report as fact.
+order: 7

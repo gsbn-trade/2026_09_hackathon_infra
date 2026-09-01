@@ -1,0 +1,232 @@
+# Track 4 preset — a copy of the shipped `standard` preset's tool
+# composition (bash, fs, web, skills, goal, plan mode, delegation,
+# ask-user, todo — see the vendored copy this was derived from,
+# @deepseek-ai/dsh-agent-presets/presets/standard/agent.cordis.yml, for the
+# full row-by-row rationale of each entry below) with one change: the
+# persona.
+#
+# "Teammates" here means the STABLE subagent tools already in `standard`
+# (tool-subagent/tool-subagent-fork spawn a named child; tool-subagent-
+# control's send_message/interrupt_agent/list_agents talk to it mid-task;
+# tool-subagent-report is how it reports back) — hub-and-spoke through the
+# Lead, not true peer-to-peer messaging. The experimental Agent Teams
+# feature (real peer-to-peer + a shared task board) was attempted and
+# reverted — see docs/deepseek-harness/README.md's "Tier 2" section for why
+# (a const-enum/tsx incompatibility in the upstream source build, not
+# something wrong with this preset) — revisit this file's persona wording
+# ("spawn teammates... message them") if Tier 2 ever gets unblocked, since
+# the vocabulary was written with true peer messaging in mind.
+
+# ── identity ────────────────────────────────────────────────────────────────
+- id: persona
+  name: '@deepseek-ai/dsh-persona'
+  config:
+    text: >-
+      You are the Reconciliation Lead for a shipping-line transshipment
+      visibility investigation, powered by the {{model}} model. Working
+      directory: {{cwd}}.
+
+      THE REAL PROBLEM: a transshipment connection only works if the
+      mainliner, the feeder operator, and the terminal operator agree on
+      one vessel schedule. In the real world they often don't — different
+      voyage codes, different planning horizons, updates that travel by
+      email and Excel. Your job is to expose and quantify that disagreement
+      and recommend a concrete fix.
+
+      THE DATA IS SYNTHETIC — SAY SO. /workspace/data/Track 4 - Transshipment
+      Schedule Visibility/ is realistic-shaped sample data, not a real
+      port's real records. Two defects are deliberately planted in it to
+      test whether you catch them rather than pass them through. Investigate
+      it fully, but never present a finding from it as a real-world fact —
+      frame conclusions as "this is the kind of issue this data shape would
+      surface" or "if this were live data, this is what I'd flag," not as
+      "Shanghai really has this problem." The parts of your work that ARE
+      real and should be treated as authoritative: web research (ground
+      terminology, standards, and context in the actual SMDG/UN-CEFACT
+      transshipment white paper and real UN/LOCODE and SMDG references, not
+      invented ones) and the user's own answers to your questions.
+
+      WORK AS A TEAM WHEN IT'S WARRANTED. This problem has three natural
+      viewpoints (mainliner, feeder, terminal). For a real investigation —
+      not a one-line lookup — spawn teammates with clearly different
+      angles (e.g. a teammate reading the mainliner's-eye view of
+      schedule_updates.csv, one reading the terminal's freeze-window
+      behavior in sources.csv) rather than doing every angle yourself.
+      Message them, wait for their findings, and only write a final answer
+      once their numbers agree or you can explain exactly why they don't —
+      that reconciliation IS the deliverable, not theater on top of it.
+
+      ASK BEFORE ASSUMING. If the business focus is unclear — which
+      connection or port pair, a working prototype vs. a written brief,
+      how deep to go — ask, don't guess.
+
+      THE DELIVERABLE. End with either a short written brief (problem,
+      evidence, recommendation) or, if a prototype was requested, files
+      staged in /workspace ready to hand to a build tool: a clear
+      PRODUCT_BRIEF.md is enough for someone to paste into another coding
+      agent and say "build this."
+
+- id: agent-instructions
+  name: '@deepseek-ai/dsh-agent-instructions'
+  config:
+    maxBytes: 65536
+
+# ── shell ───────────────────────────────────────────────────────────────────
+- id: tool-bash
+  name: '@deepseek-ai/dsh-tool-bash'
+  disabled: !!js process.platform === 'win32'
+
+- id: tool-pwsh
+  name: '@deepseek-ai/dsh-tool-pwsh'
+  disabled: !!js process.platform !== 'win32'
+
+# ── filesystem ──────────────────────────────────────────────────────────────
+- id: tool-fs
+  name: '@deepseek-ai/dsh-tool-fs'
+
+- id: tool-fs-search
+  name: '@deepseek-ai/dsh-tool-fs-search'
+  config:
+    sampleOverCapGlobResults: false
+
+# ── background jobs ────────────────────────────────────────────────────────
+- id: tool-jobs
+  name: '@deepseek-ai/dsh-tool-jobs'
+
+# ── skills ──────────────────────────────────────────────────────────────────
+- id: skill-filesystem
+  name: '@deepseek-ai/dsh-skill-filesystem'
+
+- id: tool-skill
+  name: '@deepseek-ai/dsh-tool-skill'
+
+# ── goals ───────────────────────────────────────────────────────────────────
+- id: command-goal
+  name: '@deepseek-ai/dsh-command-goal'
+
+- id: tool-goal
+  name: '@deepseek-ai/dsh-tool-goal'
+
+# ── plan mode ───────────────────────────────────────────────────────────────
+- id: planning
+  name: cordis:group
+  group: true
+  isolate:
+    planMode: true
+  config:
+    - id: plan-mode
+      name: '@deepseek-ai/dsh-plan-mode'
+      config:
+        section: |
+              You are in plan mode. Stay in plan mode until exit_plan_mode succeeds or the user switches the session mode. Imperative language to implement changes means plan the implementation, not execute it. A user's conversational agreement — including an answer confirming something you asked — approves nothing and does not end plan mode; fold the confirmed decision into the plan and submit it through exit_plan_mode.
+
+              Explore first. Read the relevant track's brief.md and data files, and identify the natural viewpoints for a team before proposing a plan. Do not spawn teammates, edit files, or produce a deliverable yet — that happens after the plan is approved.
+
+              Resolve discoverable facts by inspection. Use ask_user_question only for user-owned choices or material ambiguity that inspection cannot answer — which connection/port pair, prototype vs. written brief, how deep to go. Do not ask about things you can just read.
+
+              Make the plan decision-complete: state what you'll investigate, which teammates (if any) you'll spawn and their distinct angles, what "reconciled" looks like for this task, and what the final deliverable will be. Keep it concise enough to review but detailed enough that someone else could follow it.
+
+              When ready, call exit_plan_mode with the complete plan markdown, starting with a # title. Make exit_plan_mode the only and final tool call in that assistant response. Do not paste the final plan as a plain reply or ask "should I proceed?" through prose. If review rejects it, incorporate the feedback and present again.
+
+# ── compaction ──────────────────────────────────────────────────────────────
+- id: compaction
+  name: cordis:group
+  group: true
+  isolate:
+    compaction: true
+    toolResultPruner: true
+  config:
+    - id: compaction-basic
+      name: '@deepseek-ai/dsh-compaction-basic'
+
+    - id: command-compact
+      name: '@deepseek-ai/dsh-command-compact'
+
+    - id: tool-result-pruner
+      name: '@deepseek-ai/dsh-compaction-tool-result-pruner'
+      config:
+        thresholdChars: 8192
+        headChars: 4096
+        tailChars: 1024
+
+# ── delegation and workflows ────────────────────────────────────────────────
+# Left exactly as the standard preset defines it — stable tool-subagent /
+# tool-subagent-fork (spawn a named child) + tool-subagent-control
+# (send_message / interrupt_agent / list_agents while it runs) +
+# tool-subagent-report (child reports back). This is the hub-and-spoke
+# delegation the persona above's "spawn teammates... message them" actually
+# runs on — see the header comment for why (not the experimental
+# peer-to-peer Agent Teams feature).
+- id: delegation
+  name: cordis:group
+  group: true
+  isolate:
+    workflowEngine: true
+  config:
+    - id: tool-subagent-control
+      name: '@deepseek-ai/dsh-tool-subagent-control'
+
+    - id: tool-subagent-list-agents
+      name: '@deepseek-ai/dsh-tool-subagent-control/list-agents'
+
+    - id: tool-subagent
+      name: '@deepseek-ai/dsh-tool-subagent'
+      config:
+        provider: spawn
+        toolName: subagent
+        modelSelectionSettings: true
+        backgroundMode: continuable
+
+    - id: tool-subagent-fork
+      name: '@deepseek-ai/dsh-tool-subagent'
+      config:
+        provider: fork
+        toolName: subagent_fork
+        backgroundMode: continuable
+
+    - id: tool-subagent-codex
+      name: '@deepseek-ai/dsh-tool-subagent'
+      disabled: true
+      config:
+        provider: codex
+        toolName: subagent_codex
+        backgroundMode: one-shot
+        maxDepth: provider-managed
+
+    - id: tool-subagent-claude-code
+      name: '@deepseek-ai/dsh-tool-subagent'
+      disabled: true
+      config:
+        provider: claude-code
+        toolName: subagent_claude_code
+        backgroundMode: one-shot
+        maxDepth: provider-managed
+
+    - id: workflow-worker-thread
+      name: '@deepseek-ai/dsh-workflow-worker-thread'
+      config:
+        provider: spawn
+
+    - id: tool-workflow
+      name: '@deepseek-ai/dsh-tool-workflow'
+
+    - id: tool-ralph
+      name: '@deepseek-ai/dsh-tool-ralph'
+      config:
+        subagentProvider: spawn
+        maxRounds: 64
+
+# ── remaining model-facing rows ─────────────────────────────────────────────
+- id: tool-ask-user
+  name: '@deepseek-ai/dsh-tool-ask-user'
+
+- id: tool-todo
+  name: '@deepseek-ai/dsh-tool-todo'
+  config:
+    allowParallelInProgress: true
+
+- id: tool-web
+  name: '@deepseek-ai/dsh-tool-web'
+  config:
+    fetch: true
+    searchTimeoutMs: 60000

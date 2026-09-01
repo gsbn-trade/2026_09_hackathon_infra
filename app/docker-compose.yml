@@ -17,9 +17,25 @@ services:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - caddy_data:/data
       - caddy_config:/config
+    # bcrypt password hashes for each subdomain's HTTP Basic Auth, read into
+    # Caddyfile via its {$VAR} substitution syntax — see ./Caddyfile and
+    # scripts/generate-team-auth.sh (generates the passphrase + hash pair
+    # for each team, writes the hash half here, keeps the plaintext half out
+    # of git). Team0 = organizer testing only; its containers aren't started
+    # by a plain `docker compose up -d` (see boltdiy-team0 below), but the
+    # Caddy route/credential can exist harmlessly either way — an unstarted
+    # backend just 502s.
+    environment:
+      TEAM0_BASIC_AUTH_HASH: ${TEAM0_BASIC_AUTH_HASH}
+      TEAM1_BASIC_AUTH_HASH: ${TEAM1_BASIC_AUTH_HASH}
+      TEAM2_BASIC_AUTH_HASH: ${TEAM2_BASIC_AUTH_HASH}
+      TEAM3_BASIC_AUTH_HASH: ${TEAM3_BASIC_AUTH_HASH}
+      TEAM4_BASIC_AUTH_HASH: ${TEAM4_BASIC_AUTH_HASH}
+      TEAM5_BASIC_AUTH_HASH: ${TEAM5_BASIC_AUTH_HASH}
+      OPENWEBUI_BASIC_AUTH_HASH: ${OPENWEBUI_BASIC_AUTH_HASH}
     depends_on:
       - litellm
-      - boltdiy
+      - boltdiy-team1
 
   # Plain static file server for data/ over HTTP — internal only (no host
   # port, no Caddy route). Exists specifically so Dify's workflow HTTP
@@ -90,7 +106,47 @@ services:
   # instead of hardcoding 8000 for everything) and pre-installs wrangler, so
   # none of that has to happen at container start anymore. See
   # docs/bolt-provider-lock/README.md for the full why.
-  boltdiy:
+  #
+  # One instance per team (team0 = organizer testing only — see its
+  # `profiles` line below), each byte-for-byte the same build, differing
+  # only in which LiteLLM virtual key is baked into its environment: a
+  # leaked or misused key only spends that one team's budget, never anyone
+  # else's, and a team pasting a wrong key into a shared login is a support
+  # ticket at the worst possible moment (kickoff) — baking each team's key
+  # into its own container removes that failure mode entirely. Caddy (see
+  # ./Caddyfile) routes buildN.<domain> to each, gated by HTTP Basic
+  # Auth (username "teamN") since these are public, internet-reachable URLs
+  # handed to people this project has no accounts for.
+  boltdiy-team0:
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
+    restart: unless-stopped
+    # Organizer testing only. Deliberately NOT part of the default profile
+    # set, so a plain `docker compose up -d` (what deploy.sh runs) never
+    # starts this — zero CPU/RAM/LLM-budget cost during the event itself.
+    # Start it on demand to test before/after the event:
+    #   docker compose --profile organizer up -d boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy
+    # and stop it the same way (`... stop` or `... down`) when done.
+    profiles: ["organizer"]
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      NODE_OPTIONS: "--max-old-space-size=4096"
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM0_VIRTUAL_KEY}
+    # Hard memory ceiling, on top of NODE_OPTIONS' V8 heap cap above — stops
+    # one team's heavy generation from pressuring the whole host (and every
+    # other team's container on it) instead of just that one container.
+    # Reliability over efficiency, per this deployment's own priorities.
+    mem_limit: "4g"
+    expose:
+      - "5173"
+
+  boltdiy-team1:
     build:
       context: .
       dockerfile: Dockerfile.boltdiy
@@ -111,7 +167,80 @@ services:
       # LiteLLM is what actually fans this out to Qwen/Kimi/DeepSeek —
       # bolt.diy just sees one endpoint and a model-name dropdown.
       OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
-      OPENAI_LIKE_API_KEY: ${TEAM_VIRTUAL_KEY}
+      OPENAI_LIKE_API_KEY: ${TEAM1_VIRTUAL_KEY}
+    mem_limit: "4g"
+    expose:
+      - "5173"
+
+  boltdiy-team2:
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      NODE_OPTIONS: "--max-old-space-size=4096"
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM2_VIRTUAL_KEY}
+    mem_limit: "4g"
+    expose:
+      - "5173"
+
+  boltdiy-team3:
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      NODE_OPTIONS: "--max-old-space-size=4096"
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM3_VIRTUAL_KEY}
+    mem_limit: "4g"
+    expose:
+      - "5173"
+
+  boltdiy-team4:
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      NODE_OPTIONS: "--max-old-space-size=4096"
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM4_VIRTUAL_KEY}
+    mem_limit: "4g"
+    expose:
+      - "5173"
+
+  boltdiy-team5:
+    build:
+      context: .
+      dockerfile: Dockerfile.boltdiy
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      NODE_ENV: production
+      PORT: "5173"
+      RUNNING_IN_DOCKER: "true"
+      NODE_OPTIONS: "--max-old-space-size=4096"
+      OPENAI_LIKE_API_BASE_URL: http://litellm:4000/v1
+      OPENAI_LIKE_API_KEY: ${TEAM5_VIRTUAL_KEY}
+    mem_limit: "4g"
     expose:
       - "5173"
 
@@ -223,70 +352,196 @@ services:
 
   # Research/build agent, npm-installed (not built from source — see
   # Dockerfile). Same litellm gateway as the other apps, different virtual
-  # key. No ports/networks of its own on purpose: dsh's web server refuses
-  # to bind anything but 127.0.0.1 inside its own container (a deliberate
-  # upstream safety choice — a session gets real bash/filesystem access
-  # with only a click-to-approve gate, no login wall), so
-  # deepseek-harness-proxy below is what makes it reachable at all — see
-  # docs/deepseek-harness/README.md.
-  deepseek-harness:
+  # key per team. No ports/networks of its own on purpose: dsh's web server
+  # refuses to bind anything but 127.0.0.1 inside its own container (a
+  # deliberate upstream safety choice — a session gets real bash/filesystem
+  # access with only a click-to-approve gate, no login wall of its own), so
+  # each team's own -proxy sidecar below is what makes it reachable at all —
+  # see docs/deepseek-harness/README.md.
+  #
+  # One instance per team (team0 = organizer testing only, same `profiles`
+  # pattern as boltdiy-team0 above), each with its own home-teamN/
+  # (settings/session state) and workspace-teamN/ (agent's read-write
+  # working directory) bind mount so agent sessions and generated files
+  # never leak between teams — seed a new team's home dir once with
+  # `cp -r deepseek-harness/home/settings.yaml deepseek-harness/home/.agent-presets deepseek-harness/home-teamN/`
+  # (see README's "Scaling to 5 teams" section).
+  #
+  # UPDATED RISK NOTE (now exposed via Caddy, not local-only): the
+  # DSH_PERMISSION_MODE=danger-full-access reasoning below ("this container
+  # is already the actual security boundary... danger-full-access doesn't
+  # change that blast radius") was written when this was local-only/
+  # loopback-only. It's now reachable over the public internet by anyone
+  # holding that team's Basic Auth passphrase (see ./Caddyfile) — which
+  # means every member of a team, sharing one passphrase, gets real
+  # bash/filesystem access *inside that team's own container* (never another
+  # team's, never the host) behind only a click-to-approve prompt. That's
+  # the accepted trade for exposing dsh at all: contain it per-team
+  # (separate container, separate credential, separate bind mounts) rather
+  # than not exposing it — matches upstream's own guidance to "prefer a
+  # disposable virtual machine, container, or dedicated environment," which
+  # is exactly what each team gets here.
+  deepseek-harness-team0:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    # Organizer testing only — see boltdiy-team0's comment above for the
+    # exact command to start/stop this on demand.
+    profiles: ["organizer"]
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM0_DSH_VIRTUAL_KEY}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
+    volumes:
+      - ./deepseek-harness/home-team0:/data/.dsh
+      - ./deepseek-harness/workspace-team0:/workspace
+      - ../data:/workspace/data:ro
+
+  deepseek-harness-team0-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    profiles: ["organizer"]
+    network_mode: "service:deepseek-harness-team0"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness-team0
+
+  deepseek-harness-team1:
     build:
       context: ./deepseek-harness
     restart: unless-stopped
     depends_on:
       - litellm
     environment:
-      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${DEEPSEEK_HARNESS_VIRTUAL_KEY}
-      # A genuinely different credential from the one above: web search
-      # (dsh-web-search-deepseek, the default provider behind tool-web) calls
-      # DeepSeek's own Anthropic-compatible API directly
-      # (api.deepseek.com/anthropic/v1/messages, native web_search server
-      # tool) — it does not route through LiteLLM/Bailian at all, so
-      # DEEPSEEK_HARNESS_VIRTUAL_KEY (a LiteLLM virtual key) can't satisfy
-      # it. Real DeepSeek platform key from platform.deepseek.com — see
-      # docs/deepseek-harness/README.md. Leave blank to leave web search
-      # disabled (confirmed failure mode: "no usable web provider is
-      # registered", not a crash).
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM1_DSH_VIRTUAL_KEY}
       DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
-      # dsh-sandbox-policy's default 'workspace-write' mode requires a real
-      # sandbox backend (bwrap on Linux, Landlock, Seatbelt on macOS) and
-      # refuses to run bash commands unconfined if none is usable — real
-      # error hit: "no sandbox backend is usable on this host". Confirmed
-      # the hard way that bwrap genuinely cannot function in this container
-      # even installed (`No permissions to create new namespace` — Docker's
-      # default profile blocks the unprivileged user-namespace syscall it
-      # needs) before setting this: granting CAP_SYS_ADMIN/--privileged just
-      # to unblock bwrap would be a *worse* trade than accepting this, since
-      # it would expand what the container could do to the host, not just
-      # to itself. This container is already the actual security boundary
-      # here (its own container, local-only, no Caddy route, no public
-      # exposure — see docs/deepseek-harness/README.md) — danger-full-access
-      # doesn't change that blast radius, it just stops a second internal
-      # sandbox layer from crashing every bash call. See the error message's
-      # own suggested resolution.
       DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
     volumes:
-      - ./deepseek-harness/home:/data/.dsh
-      - ./deepseek-harness/workspace:/workspace
+      - ./deepseek-harness/home-team1:/data/.dsh
+      - ./deepseek-harness/workspace-team1:/workspace
       - ../data:/workspace/data:ro
 
-  # Sidecar proxy sharing deepseek-harness's network namespace (Compose's
-  # network_mode: "service:<name>") — the only way to reach dsh's
+  # Sidecar proxy sharing deepseek-harness-teamN's network namespace
+  # (Compose's network_mode: "service:<name>") — the only way to reach dsh's
   # loopback-only web server from outside its own container at all, let
-  # alone from another container or the host. Listens on every interface
-  # *inside that shared namespace*; the actual host-reachability decision
-  # (loopback-only for now, see docs/deepseek-harness/README.md) is made by
-  # whether docker-compose.override.yml publishes a port for
-  # deepseek-harness (the namespace owner — Compose requires `ports:` on
-  # whichever service created the namespace, not the one joining it).
-  deepseek-harness-proxy:
+  # alone from another container. Listens on every interface *inside that
+  # shared namespace* on :8080 (see deepseek-harness/Caddyfile); Caddy (the
+  # top-level one, ./Caddyfile) reaches it at deepseek-harness-teamN:8080 —
+  # the *owner* service's name, since the proxy container joins that
+  # namespace rather than getting a network identity of its own.
+  deepseek-harness-team1-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
-    network_mode: "service:deepseek-harness"
+    network_mode: "service:deepseek-harness-team1"
     volumes:
       - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
     depends_on:
-      - deepseek-harness
+      - deepseek-harness-team1
+
+  deepseek-harness-team2:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM2_DSH_VIRTUAL_KEY}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
+    volumes:
+      - ./deepseek-harness/home-team2:/data/.dsh
+      - ./deepseek-harness/workspace-team2:/workspace
+      - ../data:/workspace/data:ro
+
+  deepseek-harness-team2-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    network_mode: "service:deepseek-harness-team2"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness-team2
+
+  deepseek-harness-team3:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM3_DSH_VIRTUAL_KEY}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
+    volumes:
+      - ./deepseek-harness/home-team3:/data/.dsh
+      - ./deepseek-harness/workspace-team3:/workspace
+      - ../data:/workspace/data:ro
+
+  deepseek-harness-team3-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    network_mode: "service:deepseek-harness-team3"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness-team3
+
+  deepseek-harness-team4:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM4_DSH_VIRTUAL_KEY}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
+    volumes:
+      - ./deepseek-harness/home-team4:/data/.dsh
+      - ./deepseek-harness/workspace-team4:/workspace
+      - ../data:/workspace/data:ro
+
+  deepseek-harness-team4-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    network_mode: "service:deepseek-harness-team4"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness-team4
+
+  deepseek-harness-team5:
+    build:
+      context: ./deepseek-harness
+    restart: unless-stopped
+    depends_on:
+      - litellm
+    environment:
+      DEEPSEEK_HARNESS_VIRTUAL_KEY: ${TEAM5_DSH_VIRTUAL_KEY}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY}
+      DSH_PERMISSION_MODE: danger-full-access
+    mem_limit: "1g"
+    volumes:
+      - ./deepseek-harness/home-team5:/data/.dsh
+      - ./deepseek-harness/workspace-team5:/workspace
+      - ../data:/workspace/data:ro
+
+  deepseek-harness-team5-proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    network_mode: "service:deepseek-harness-team5"
+    volumes:
+      - ./deepseek-harness/Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      - deepseek-harness-team5
 
 volumes:
   caddy_data:

@@ -13,5 +13,5 @@
 # way, first attempt). docker-compose.override.yml's host publish maps back
 # to 3080 externally, so `localhost:3080` still works from outside.
 :8080 {
-    reverse_proxy 127.0.0.1:3080
+	reverse_proxy 127.0.0.1:3080
 }

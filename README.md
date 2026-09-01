@@ -204,6 +204,11 @@ then `./deploy.sh` again.
 
 ## 5. Mint a team virtual key
 
+For the full 5-team setup, `scripts/mint-team-keys.sh` does this 12 times
+over (see "Scaling to 5 teams" below) — the manual version here is worth
+knowing for a single test key, or for debugging what that script does
+under the hood:
+
 ```bash
 curl https://gateway.<your-domain>/key/generate \
   -H "Authorization: Bearer <LITELLM_MASTER_KEY>" \
@@ -218,7 +223,7 @@ curl https://gateway.<your-domain>/key/generate \
 (Create the team first with `POST /team/new` if you want team-level budget
 aggregation across multiple keys — for a single test key this step alone is
 enough.) Take the returned `key` value, put it in `app/.env` as
-`TEAM_VIRTUAL_KEY`, then:
+`TEAM1_VIRTUAL_KEY`, then:
 
 ```bash
 ./deploy.sh
@@ -226,35 +231,39 @@ enough.) Take the returned `key` value, put it in `app/.env` as
 
 ## 6. Use it
 
-- `https://build.<your-domain>` — open bolt.diy. OpenAI-Like is the only
-  provider and is pre-selected (patched, see Known quirks below); the model
-  dropdown should show `qwen3.8-flash` / `deepseek-v4-flash-0731` /
-  `deepseek-v4-pro-0813` / `kimi-k2.7-code` / `glm-5.2`.
+Every team-facing URL below is gated by HTTP Basic Auth — see "Scaling to
+5 teams" for how credentials get generated.
+
+- `https://build1.<your-domain>` .. `build5.<your-domain>` —
+  bolt.diy, one instance per team. OpenAI-Like is the only provider and is
+  pre-selected (patched, see Known quirks below); the model dropdown should
+  show `qwen3.8-flash` / `deepseek-v4-flash-0731` / `deepseek-v4-pro-0813`
+  / `kimi-k2.7-code` / `glm-5.2`.
+- `https://team1.<your-domain>` .. `team5.<your-domain>` —
+  DeepSeek Harness, one instance per team, four hand-authored per-track
+  presets to pick from (see
+  [docs/deepseek-harness/](docs/deepseek-harness/)).
 - `https://analyze.<your-domain>` — Open WebUI, **kept as a backup, not a
   primary track tool** (see [ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used)):
   chat + a real Python/pandas code interpreter (Jupyter backend) with every
   `data/` track mounted read-only at `~/data` — no upload needed,
   `pd.read_csv('data/Track 1 - Vessel Schedule/bookings.csv')` just works.
-  No login required (`WEBUI_AUTH=False`, same "just open the URL" pattern
-  as bolt.diy).
+  The app itself has no login wall (`WEBUI_AUTH=False`, same "just open the
+  URL" pattern as bolt.diy), but Caddy gates it with one shared Basic Auth
+  passphrase (username `guest`) — see "Scaling to 5 teams".
 - `https://gateway.<your-domain>/ui` — LiteLLM's admin dashboard: spend,
   teams, keys, logs.
-- `http://localhost:3080` — DeepSeek Harness, **operator-only for now, not
-  yet for participants**: it's part of this Compose project
-  (`app/docker-compose.yml`) but deliberately has no Caddy route yet — its
-  own CLI refuses to bind anything but loopback (a session gets real
-  bash/filesystem access with only a click-to-approve gate, no login
-  wall). Reach it on the VM with `ssh -L 3080:localhost:3080 root@<vm-ip>`
-  if `docker-compose.override.yml` is copied over by hand; see
-  [docs/deepseek-harness/](docs/deepseek-harness/). **Target, not yet
-  built**: one instance per team behind Caddy with `basic_auth` — see
-  [ARCHITECTURE.md](ARCHITECTURE.md#target-architecture)'s diagram.
+- `build0.<your-domain>` / `team0.<your-domain>` — **organizer
+  testing only**, same apps as above but not started by a plain
+  `docker compose up -d` (see "Scaling to 5 teams" for how to start them on
+  demand) — 502s until you do.
 
-Needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as step 5's
-`TEAM_VIRTUAL_KEY` (separate key so its spend/budget tracks independently),
-plus `OPENWEBUI_SECRET_KEY` and `JUPYTER_TOKEN` (`openssl rand -hex 32` /
-`-hex 24`) in `app/.env` — see `.env.example`. Needs its own DNS A record
-for `analyze.<your-domain>` too, same as `gateway`/`build`.
+Open WebUI needs its own `OPENWEBUI_VIRTUAL_KEY` minted the same way as
+step 5's team keys (separate key so its spend/budget tracks
+independently), plus `OPENWEBUI_SECRET_KEY` and `JUPYTER_TOKEN`
+(`openssl rand -hex 32` / `-hex 24`) in `app/.env` — see `.env.example`.
+Needs its own DNS A record for `analyze.<your-domain>` too, same as
+`gateway`/`buildN`.
 
 ## Testing the stack locally first (no AliCloud needed)
 
@@ -292,6 +301,30 @@ mounted config files and env vars are **not** hot-reloaded:
 
 ## Known quirks (found by running this stack locally before writing it up)
 
+- **A `.env` value containing a literal `$` (a bcrypt Basic Auth hash,
+  specifically) breaks `scripts/_env.sh` unless it's single-quoted.** These
+  scripts `source` `app/.env` directly (same pattern as
+  `docs/alicloud-api-key/scripts/_env.sh`) — that's a real bash parse, not
+  a simple KEY=VALUE reader, so an unquoted `NAME=$2a$14$abc...` gets
+  bash's own `$2`/`$14`/... positional-parameter expansion applied to it,
+  which fails outright under `set -u` ("unbound variable"). Confirmed the
+  fix works for both readers that matter: `scripts/generate-team-auth.sh`
+  always writes hash values as `NAME='$2a$14$...'` (single-quoted), which
+  `source` treats as inert literal text, and separately confirmed via
+  `docker compose config` + an actual container's `printenv` that
+  Compose's own `.env` parser strips the quotes and hands the container the
+  correct unquoted value either way.
+- **Gitignore's `!` re-include does not actually un-ignore a genuinely
+  untracked file, despite `git check-ignore -v` implying otherwise for
+  already-tracked ones.** `app/.gitignore`'s `deepseek-harness/home/*` +
+  `!.../.agent-presets/**` pattern (and its `home-team*` copy, added for
+  the per-team replication) only reports correctly for paths already in
+  git's index — confirmed directly: a brand-new file under a freshly-seeded
+  `home-teamN/.agent-presets/` still shows as ignored to `git check-ignore`
+  and would be silently skipped by a plain `git add`, negation pattern
+  notwithstanding, until it's force-added once (`git add -f
+  home-teamN/.agent-presets`). After that one `-f`, it behaves like any
+  normally-tracked file. See `app/.gitignore`'s own comment on this.
 - **bolt.diy is a custom-built image, not the published one directly.**
   `docker-compose.yml`'s `boltdiy` service builds `Dockerfile.boltdiy`
   (`FROM ghcr.io/stackblitz-labs/bolt.diy:latest` + three patches from
@@ -414,16 +447,62 @@ cd infra
 tofu destroy
 ```
 
-## Scaling from this one test instance to the full 5-team setup
+## Scaling to 5 teams
 
-This repo intentionally deploys **one** LiteLLM + **one** bolt.diy instance
-to prove the path end to end. For the event itself: bump `instance_type` up
-a size, replicate the `boltdiy` service block per team with each team's own
-virtual key baked into its environment, and give each its own Caddy
-subdomain (`build-team1.`, `build-team2.`, …) — same pattern as the
-`litellm` service above of environment-only forking, no new OpenTofu
-needed. `openwebui` and `deepseek-harness` stay single-instance — Open
-WebUI is a backup tool now, not a per-team primary, and DeepSeek Harness is
-deliberately local-only (see [docs/deepseek-harness/](docs/deepseek-harness/)).
-See [ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used) for what was
-evaluated and dropped from this plan (Dify, DeerFlow, OpenHands).
+This started as **one** LiteLLM + **one** bolt.diy instance to prove the
+path end to end; `app/docker-compose.yml` now has the full 5-team
+replication built in — `boltdiy-team1`..`5` and
+`deepseek-harness-team1`..`5` (+ each one's `-proxy` sidecar), plus an
+organizer-only `team0` of both. `litellm`, `postgres`, `open-webui`, and
+`jupyter` stay single-instance — one shared gateway with per-team budgets
+is simpler and more reliable than five gateways, and Open WebUI is a
+backup tool now, not a per-team primary (see
+[ARCHITECTURE.md](ARCHITECTURE.md#evaluated-not-used) for what else was
+evaluated and dropped: Dify, DeerFlow, OpenHands).
+
+Steps to actually stand this up, in order:
+
+1. **Bump the VM size** (already done in this repo's `infra/variables.tf`
+   / `terraform.tfvars` — `ecs.g9i.2xlarge`, 8 vCPU/32GB): apply it with
+   `cd infra && tofu apply`. This resizes a running instance — expect a
+   brief stop/start, not a full destroy/recreate. Do this at a moment
+   that can tolerate a minute or two of downtime, not mid-event.
+2. **Generate Basic Auth passphrases**: `./scripts/generate-team-auth.sh`
+   — writes bcrypt hashes into `app/.env` (`TEAMn_BASIC_AUTH_HASH`,
+   `OPENWEBUI_BASIC_AUTH_HASH`) and prints the plaintext passphrases,
+   also saved to `app/team-credentials.txt` (gitignored — share these
+   with teams out-of-band, e.g. a slide at kickoff, never commit them).
+   Safe to run before the VM even exists; re-running only fills in
+   whatever's still blank.
+3. **Seed each team's DeepSeek Harness home directory** (skip any
+   `home-teamN/` that already has a `settings.yaml` — team1's is already
+   seeded in this repo):
+   ```bash
+   cd app/deepseek-harness
+   for n in 0 1 2 3 4 5; do
+     cp home/settings.yaml "home-team$n/settings.yaml"
+     cp -r home/.agent-presets "home-team$n/.agent-presets"
+     git add -f "home-team$n/.agent-presets"   # see app/.gitignore's note on why -f
+   done
+   ```
+4. **Point DNS** at the EIP (`tofu -chdir=infra output -raw public_ip`):
+   one A record per subdomain Caddy now serves —
+   `gateway`, `build0`..`build5`, `team0`..`team5`,
+   `analyze`.
+5. **Deploy**: `./deploy.sh`. LiteLLM/Caddy/bolt.diy/DeepSeek Harness for
+   team1-5 come up; each `boltdiy-teamN` / `deepseek-harness-teamN` 401s
+   /misbehaves on model calls until its virtual key is minted (next step).
+   `team0` doesn't start at all yet — it's gated behind Compose's
+   `organizer` profile (see step 7).
+6. **Mint every team's virtual keys**: once the gateway is reachable,
+   `./scripts/mint-team-keys.sh https://gateway.<your-domain>` — mints a
+   LiteLLM team + a bolt.diy key + a DeepSeek Harness key for team0-5 (12
+   keys total) and writes them into `app/.env`. Re-run `./deploy.sh` to
+   push the filled-in `.env` and recreate the containers that needed a key.
+7. **Organizer testing (`team0`)**, on demand, before/after the event —
+   costs nothing while stopped:
+   ```bash
+   ssh root@<vm-ip> "cd /opt/app && docker compose --profile organizer up -d boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy"
+   # ... test via build0./team0.<your-domain> ...
+   ssh root@<vm-ip> "cd /opt/app && docker compose --profile organizer stop boltdiy-team0 deepseek-harness-team0 deepseek-harness-team0-proxy"
+   ```

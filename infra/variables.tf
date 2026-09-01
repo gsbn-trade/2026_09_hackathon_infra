@@ -28,9 +28,9 @@ variable "ssh_public_key_path" {
 }
 
 variable "instance_type" {
-  description = "ECS instance type. g9i.xlarge (4 vCPU / 16GB) is plenty for one LiteLLM + one bolt.diy instance behind Caddy — no model weights run on this box, every call is an API call out."
+  description = "ECS instance type. g9i.2xlarge (8 vCPU / 32GB) sizes for the full 5-team replication (5x bolt.diy + 5x DeepSeek Harness + Open WebUI/Jupyter + LiteLLM/Postgres/Caddy on one box) with headroom to spare — still no model weights run on this box, every call is an API call out, so this is RAM/concurrency headroom, not compute. g9i.xlarge (4 vCPU / 16GB) was enough for the original one-bolt.diy proof-of-path deploy but is tight once all replicas can run at once."
   type        = string
-  default     = "ecs.g9i.xlarge"
+  default     = "ecs.g9i.2xlarge"
 }
 
 variable "eip_bandwidth" {

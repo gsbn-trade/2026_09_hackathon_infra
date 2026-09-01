@@ -1,0 +1,7 @@
+name: "Track 2 — Move Reconciliation Team"
+description: >-
+  Spawns a small team (operator view + crane view) that must independently
+  compute the same terminal move totals and agree — a checkable consensus,
+  not just a narrative one. Data in /workspace/data is synthetic — a
+  plausible shape to demo against, not a real finding to report as fact.
+order: 8

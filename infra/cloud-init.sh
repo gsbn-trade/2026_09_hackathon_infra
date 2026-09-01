@@ -19,3 +19,17 @@ apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin do
 
 systemctl enable --now docker
 mkdir -p /opt/app
+
+# 8GB swap: cheap insurance against a memory spike (e.g. several bolt.diy
+# instances generating at once) OOM-killing a container instead of just
+# slowing down — and this stack was explicitly told latency doesn't matter,
+# so occasional swapping is a fine trade for not losing a team's session.
+# Idempotent: skips if a swapfile already exists (re-running cloud-init, or
+# applying this after the fact).
+if [ ! -f /swapfile ]; then
+  fallocate -l 8G /swapfile
+  chmod 600 /swapfile
+  mkswap /swapfile
+  swapon /swapfile
+  echo '/swapfile none swap sw 0 0' >> /etc/fstab
+fi

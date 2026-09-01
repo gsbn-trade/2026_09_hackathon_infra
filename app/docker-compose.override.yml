@@ -1,15 +1,19 @@
 # Auto-loaded by `docker compose` alongside docker-compose.yml — no extra
-# flags needed. Local-only: publishes litellm/boltdiy straight to host ports
-# so you can hit them without Caddy (which is skipped locally anyway, see
-# the profiles note on the caddy service). Never gets deployed to AliCloud —
-# deploy.sh excludes this filename from the rsync on purpose; if you rename
-# it, update deploy.sh's --exclude to match.
+# flags needed. Local-only: publishes litellm/boltdiy-team1 straight to host
+# ports so you can hit them without Caddy (which is skipped locally anyway,
+# see the profiles note on the caddy service) — team1 stands in for "one
+# representative team instance" for local dev/rehearsal; the other four
+# team replicas plus team0 still start with `docker compose up -d`, just
+# without a host port of their own (reach them with
+# `docker compose exec boltdiy-team2 sh` or similar if you need to). Never
+# gets deployed to AliCloud — deploy.sh excludes this filename from the
+# rsync on purpose; if you rename it, update deploy.sh's --exclude to match.
 services:
   litellm:
     ports:
       - "4000:4000"
 
-  boltdiy:
+  boltdiy-team1:
     ports:
       - "5173:5173"
 
@@ -20,13 +24,13 @@ services:
   # Loopback-only, unlike the others above — see
   # docs/deepseek-harness/README.md for why (dsh's own web server refuses
   # non-loopback binding; this override is what makes it reachable at all,
-  # even locally). Published on the *owning* service (deepseek-harness),
-  # not deepseek-harness-proxy, which shares its network namespace and
-  # cannot independently publish a port. Excluded from the VM the same way
-  # this whole file is (deploy.sh's rsync) — reach it there via
-  # `ssh -L 3080:localhost:3080` instead, if this override is copied over
-  # by hand.
-  deepseek-harness:
+  # even locally). Published on the *owning* service
+  # (deepseek-harness-team1), not deepseek-harness-team1-proxy, which shares
+  # its network namespace and cannot independently publish a port. Excluded
+  # from the VM the same way this whole file is (deploy.sh's rsync) — reach
+  # it there via `ssh -L 3080:localhost:3080` instead, if this override is
+  # copied over by hand.
+  deepseek-harness-team1:
     ports:
       - "127.0.0.1:3080:8080"
 
