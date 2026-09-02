@@ -1,28 +1,61 @@
 # DeepSeek Harness — participant guide
 
-For whoever is at the keyboard during a demo (currently local-only — see
-[README.md](README.md)'s exposure decision — so this is an operator/demo
-script today, not a self-serve participant handout, unless that decision
-changes). One-time setup, then one example prompt per track.
+Self-serve, for real (updated 2026-09-02 — this used to be an
+operator-only demo script when `dsh` was local-only; it's now exposed one
+instance per team, and this is the actual handout). One-time setup per
+browser, then one example prompt per track.
+
+## Getting in
+
+- **URL**: `https://team<N>.hack.gsbn.trade` — use your own team's number
+  (e.g. team 3 → `team3.hack.gsbn.trade`).
+- **Login**: your browser will show a plain username/password prompt
+  (HTTP Basic Auth, not a page). Username is `team<N>` (e.g. `team3`);
+  the password is the one shared with your team at kickoff, same
+  passphrase as your team's bolt.diy instance
+  (`build<N>.hack.gsbn.trade`) — one thing to remember for both.
 
 ## Before the first prompt (once per browser/session)
 
-1. Open the app (`http://localhost:3080`, or an SSH tunnel to the VM).
+1. Open your team's URL and log in (above).
 2. **Pick a preset.** New-session preset selection lives in the composer's
    agent/preset picker (next to where you'd pick a model) — choose the
    track you want from the four below instead of the default "标准模式
    /Standard". This is a one-time choice per session: switching later
    requires a fresh session (a session can only change preset before it's
    produced anything).
-3. **Choose a workspace.** A fresh session has no workspace selected until
-   you add one — click **Choose workspace** and select `/workspace`
-   (that's the container's own working directory; the four track data
-   folders live read-only under `/workspace/data`). The composer stays
-   disabled until this is done.
-4. Now type a prompt. The agent will explore the data on its own, likely
+3. Now type a prompt. The agent will explore the data on its own, likely
    ask you one or two questions before doing serious work (that's expected
    — see each preset's own instructions), and may spawn a teammate you'll
    see reported in its replies.
+   (The workspace itself — `/workspace`, with the four track data folders
+   read-only under `/workspace/data` — is already set up for you; there's
+   no "choose a workspace" step to do.)
+
+## Downloading files the agent generates (index.html, reports, etc.)
+
+The UI's own "open this file" button (the little file-open action next to
+a generated file) **will not work** — it always fails with
+`transport failure for /api/host.openPath: HTTP 403`. That's not a bug in
+this deployment: DeepSeek Harness's own web app hard-restricts that
+action to a real local desktop, on purpose, and there isn't one here (see
+[README.md](README.md)'s Known quirks if you want the full why).
+
+**To actually get a file the agent created**, go to:
+
+```
+https://team<N>.hack.gsbn.trade/files/
+```
+
+**The trailing slash matters** — `/files` (no slash) does not work; it
+falls through to the app itself instead of the file browser and the page
+will look broken/blank. `/files/` (with the slash) shows a plain,
+clickable directory listing of your team's workspace — click into it to
+view or download `index.html`, a generated `.md` report, or anything else
+the agent wrote, including into subfolders it created.
+
+This is your team's own workspace only — no other team's files are
+reachable from it.
 
 **Reminder to say out loud during a demo**: the data in `/workspace/data`
 is synthetic — a plausible shape to explore, not real shipping records.
