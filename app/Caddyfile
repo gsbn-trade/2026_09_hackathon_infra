@@ -72,47 +72,95 @@ build5.hack.gsbn.trade {
 # shares that service's network namespace instead of getting a network
 # identity of its own, so Docker's internal DNS only resolves the owner's
 # name (see docker-compose.yml's comment on this).
+#
+# /files/* on each of these is a plain static browser over that team's own
+# workspace-teamN directory (mounted read-only into *this* caddy container,
+# see docker-compose.yml) — added 2026-09-02 because dsh's own
+# host.openPath (the UI's "open this generated file" action) is
+# permanently loopback-only by upstream design (not something
+# --trusted-host can unlock — see docs/deepseek-harness/README.md), and a
+# headless container has no desktop to open a file on anyway. This gives
+# teams an actual way to view/download what the agent generates
+# (index.html, .md reports, etc.) without touching that restricted API at
+# all — same Basic Auth as the rest of the host, since basic_auth applies
+# per-host regardless of path.
 
 team0.hack.gsbn.trade {
 	basic_auth {
 		team0 {$TEAM0_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team0:8080
+	handle_path /files/* {
+		root * /srv/files/team0
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team0:8080
+	}
 }
 
 team1.hack.gsbn.trade {
 	basic_auth {
 		team1 {$TEAM1_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team1:8080
+	handle_path /files/* {
+		root * /srv/files/team1
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team1:8080
+	}
 }
 
 team2.hack.gsbn.trade {
 	basic_auth {
 		team2 {$TEAM2_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team2:8080
+	handle_path /files/* {
+		root * /srv/files/team2
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team2:8080
+	}
 }
 
 team3.hack.gsbn.trade {
 	basic_auth {
 		team3 {$TEAM3_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team3:8080
+	handle_path /files/* {
+		root * /srv/files/team3
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team3:8080
+	}
 }
 
 team4.hack.gsbn.trade {
 	basic_auth {
 		team4 {$TEAM4_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team4:8080
+	handle_path /files/* {
+		root * /srv/files/team4
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team4:8080
+	}
 }
 
 team5.hack.gsbn.trade {
 	basic_auth {
 		team5 {$TEAM5_BASIC_AUTH_HASH}
 	}
-	reverse_proxy deepseek-harness-team5:8080
+	handle_path /files/* {
+		root * /srv/files/team5
+		file_server browse
+	}
+	handle {
+		reverse_proxy deepseek-harness-team5:8080
+	}
 }
 
 # Data understanding/analysis (Open WebUI) — single shared/backup instance,

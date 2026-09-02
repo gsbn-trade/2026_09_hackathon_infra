@@ -17,6 +17,18 @@ services:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - caddy_data:/data
       - caddy_config:/config
+      # Read-only mounts of each team's DeepSeek Harness workspace, for the
+      # /files/* static browser in ./Caddyfile — see its comment for why
+      # (host.openPath, the UI's own "open this file" action, is
+      # permanently loopback-only by upstream design, so this is the
+      # actual way to view/download generated files like index.html or a
+      # report .md).
+      - ./deepseek-harness/workspace-team0:/srv/files/team0:ro
+      - ./deepseek-harness/workspace-team1:/srv/files/team1:ro
+      - ./deepseek-harness/workspace-team2:/srv/files/team2:ro
+      - ./deepseek-harness/workspace-team3:/srv/files/team3:ro
+      - ./deepseek-harness/workspace-team4:/srv/files/team4:ro
+      - ./deepseek-harness/workspace-team5:/srv/files/team5:ro
     # bcrypt password hashes for each subdomain's HTTP Basic Auth, read into
     # Caddyfile via its {$VAR} substitution syntax — see ./Caddyfile and
     # scripts/generate-team-auth.sh (generates the passphrase + hash pair
