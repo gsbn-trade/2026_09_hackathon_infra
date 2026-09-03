@@ -7,6 +7,73 @@
 # matching where we host) rather than the shared dashscope.aliyuncs.com one —
 # that shared endpoint is Beijing-region only and rejects Hong Kong-scoped
 # keys outright. Note the path is /compatible-mode/v1, not /api/v1.
+#
+# Rate limits (account-wide, aggregated across every RAM user/workspace/key —
+# see https://www.alibabacloud.com/help/en/model-studio/rate-limit), Hong
+# Kong (China) deployment scope, as published 2026-09-03. These are what
+# actually tripped live during the event (see the 06:35-06:43 UTC
+# "Allocated quota exceeded" burst on deepseek-v4-flash-0731/pro-0813,
+# investigated the same day) — the per-team rate limits below
+# (scripts/mint-team-keys.sh's model_tpm_limit/model_rpm_limit) are sized off
+# these numbers, not guessed:
+#
+#   Model                    | RPM    | TPM
+#   -------------------------|--------|----------
+#   deepseek-v4-flash-0731   | 15,000 | 1,200,000
+#   deepseek-v4-pro-0813     | 15,000 | 1,200,000
+#   glm-5.2                  |    500 | 1,000,000
+#   kimi-k2.7-code           |    500 | 1,000,000  (bolt.diy only — not in
+#                                                    dsh's model list)
+#   qwen3.8-flash            | 15,000 | 2,500,000
+#
+# qwen3.8-flash's number above is confirmed directly (the two automated
+# fetches of Alibaba's own rate-limit page while first writing this comment
+# disagreed with each other — one said 30,000/5,000,000, another said the
+# model wasn't listed for Hong Kong at all — so this was checked by hand
+# rather than trusted from either). It's also the highest RPM and by far the
+# most headroom relative to actual usage of the five (across the 6-hour
+# window that caught 24 DeepSeek RateLimitErrors, qwen3.8-flash logged
+# zero), which is why it's the fallback target below rather than any of the
+# others.
+#
+# Per-token pricing (model_info.input_cost_per_token/output_cost_per_token
+# below), sourced from https://www.alibabacloud.com/help/en/model-studio/model-pricing
+# as of 2026-09-03. This is what makes /spend/logs, /team/daily/activity,
+# and — critically — max_budget enforcement actually work at all: without
+# these, LiteLLM logs "not in built-in cost map" at startup for every one of
+# these five custom model names and silently prices every call at $0,
+# forever (confirmed live: 653 real spend-log rows, 39M+ real tokens moved,
+# $0.00 total spend across every team, the day this was noticed — a team's
+# max_budget genuinely could not trigger before this).
+#
+#   Model                    | Region used  | Input $/1M | Output $/1M
+#   -------------------------|--------------|------------|------------
+#   qwen3.8-flash            | China        |      0.113 |       0.382
+#   kimi-k2.7-code           | China (HK)   |      0.894 |       3.713
+#   deepseek-v4-flash-0731   | China, peak  |      0.424 |       1.272
+#   deepseek-v4-pro-0813     | China, peak  |      1.272 |       3.816
+#   glm-5.2                  | (see note)   |      1.400 |       4.400
+#
+# Two things worth knowing before trusting these as exact:
+# 1. Only qwen3.8-flash and kimi-k2.7-code came back with an explicit
+#    "Hong Kong (China)" row on repeated fetches of that page — for
+#    deepseek-v4-flash-0731/pro-0813 only a "China (Beijing)" row was ever
+#    returned. Used anyway, on the pattern that qwen3.8-flash's and
+#    kimi-k2.7-code's Beijing and Hong Kong figures were identical every
+#    time both were fetched — i.e. "China" pricing looks to be one tier
+#    covering Beijing and Hong Kong alike, distinct from the pricier
+#    "Singapore (International)" tier, not three separate tiers. Inferred,
+#    not confirmed for the two DeepSeek models specifically.
+# 2. DeepSeek's two models are peak/off-peak priced (roughly 2x cheaper
+#    off-peak) — the peak rate is used here deliberately, so cost/budget
+#    tracking errs toward overestimating spend rather than under, which
+#    matters more once max_budget is actually enforcing something.
+#    glm-5.2 only ever returned one flat number, under "Singapore
+#    (International)" specifically — no separate China/Hong Kong row
+#    surfaced on any fetch, so this one is the least confidently regional
+#    of the five; used as the best available figure regardless.
+# Re-check directly in the console before trusting these beyond "roughly
+# right, and no longer literally zero."
 
 model_list:
   - model_name: qwen3.8-flash
@@ -25,9 +92,13 @@ model_list:
     # 131072 is DashScope's own confirmed ceiling for this model — sent
     # max_tokens=500000 and it replied with the real range:
     # "Range of max_tokens should be [1, 131072]".
+    # Cost per token: see this file's pricing comment above for source/
+    # caveats. $0.113 / $0.382 per 1M input/output tokens (China).
     model_info:
       max_tokens: 131072
       max_output_tokens: 131072
+      input_cost_per_token: 0.000000113
+      output_cost_per_token: 0.000000382
 
   - model_name: kimi-k2.7-code
     litellm_params:
@@ -37,9 +108,14 @@ model_list:
     # 262144 confirmed the same way as qwen3.8-flash above: DashScope
     # rejected max_tokens=500000 with "Range of max_tokens should be
     # [1, 262144]".
+    # Cost per token: see this file's pricing comment above for source/
+    # caveats. $0.894 / $3.713 per 1M input/output tokens (China, Hong
+    # Kong-confirmed explicitly).
     model_info:
       max_tokens: 262144
       max_output_tokens: 262144
+      input_cost_per_token: 0.000000894
+      output_cost_per_token: 0.000003713
 
   - model_name: deepseek-v4-flash-0731
     litellm_params:
@@ -52,9 +128,14 @@ model_list:
     # conservative, commonly-cited figure rather than the larger (384K+)
     # numbers floating around third-party sites, which weren't verifiable
     # against this endpoint.
+    # Cost per token: see this file's pricing comment above for source/
+    # caveats — peak-hour China rate used (inferred, not Hong Kong-
+    # confirmed): $0.424 / $1.272 per 1M input/output tokens.
     model_info:
       max_tokens: 128000
       max_output_tokens: 128000
+      input_cost_per_token: 0.000000424
+      output_cost_per_token: 0.000001272
 
   - model_name: deepseek-v4-pro-0813
     litellm_params:
@@ -65,9 +146,14 @@ model_list:
     # max_tokens=999999999, never rejected, so not provider-confirmed.
     # Same conservative figure applied for consistency, not because it's
     # been independently verified for the pro tier specifically.
+    # Cost per token: see this file's pricing comment above for source/
+    # caveats — peak-hour China rate used (inferred, not Hong Kong-
+    # confirmed): $1.272 / $3.816 per 1M input/output tokens.
     model_info:
       max_tokens: 128000
       max_output_tokens: 128000
+      input_cost_per_token: 0.000001272
+      output_cost_per_token: 0.000003816
 
   - model_name: glm-5.2
     litellm_params:
@@ -77,9 +163,15 @@ model_list:
     # 131072 is DashScope's own confirmed ceiling for this model — sent
     # max_tokens=500000 and it replied with the real range:
     # "Range of max_tokens should be [1, 131072]".
+    # Cost per token: see this file's pricing comment above for source/
+    # caveats — the least confidently regional of the five (only a flat,
+    # "Singapore (International)" figure ever surfaced, no China/Hong Kong
+    # row found): $1.400 / $4.400 per 1M input/output tokens.
     model_info:
       max_tokens: 131072
       max_output_tokens: 131072
+      input_cost_per_token: 0.0000014
+      output_cost_per_token: 0.0000044
 
 general_settings:
   master_key: os.environ/LITELLM_MASTER_KEY
@@ -87,3 +179,31 @@ general_settings:
 
 litellm_settings:
   drop_params: true
+  # Model fallback: when a call to any model fails (after num_retries below),
+  # retry it against qwen3.8-flash instead of surfacing the error to the
+  # team's app. `default_fallbacks` applies to every model_name in
+  # model_list above that isn't given its own specific `fallbacks` entry —
+  # which today means all four (kimi-k2.7-code, deepseek-v4-flash-0731,
+  # deepseek-v4-pro-0813, glm-5.2) fall back to qwen3.8-flash; qwen3.8-flash
+  # itself has nowhere further to fall back to, which is fine — see this
+  # file's rate-limit comment above for why it's the fallback target (no
+  # RateLimitErrors observed for it, unlike the other four).
+  # Real motivating case: the 2026-09-03 "Allocated quota exceeded" burst on
+  # deepseek-v4-flash-0731/pro-0813 (see docs/kickoff-presentation or that
+  # day's investigation) hard-failed every team calling those two models for
+  # several minutes — this would have instead quietly handed them a
+  # qwen3.8-flash response.
+  default_fallbacks: ["qwen3.8-flash"]
+  # One quick retry before falling back — a RateLimitError against an
+  # account-wide cap won't usually clear in the time a second immediate
+  # retry buys, so this is mostly for genuinely transient blips (the
+  # "Inference engine abort" case seen the same day), not the rate-limit
+  # case itself; the fallback above is what actually handles that one.
+  num_retries: 1
+  request_timeout: 30
+  # After 2 failures, cool down that model deployment for 30s (stop routing
+  # new requests to it, fallback picks up the slack) instead of hammering an
+  # already-throttled model repeatedly across many teams' near-simultaneous
+  # requests.
+  allowed_fails: 2
+  cooldown_time: 30
