@@ -418,6 +418,20 @@ services:
       - ./deepseek-harness/workspace-team0:/workspace
       - ../data:/workspace/data:ro
 
+  # CAUTION — network_mode: service:X below (same on all six -proxy sidecars):
+  # this sidecar shares its team's main container's network namespace rather
+  # than getting its own, because dsh itself only binds to 127.0.0.1. That
+  # binding is only resolved when THIS container is created — restarting or
+  # recreating deepseek-harness-team0 alone leaves this sidecar attached to
+  # the old, now-gone namespace, and Caddy's front door starts 502ing that
+  # team's whole subdomain (real incident, 2026-09-03, all six teams, ~30min
+  # before caught). A plain `restart` on this proxy container doesn't fix it
+  # either — it must be recreated (`up -d --force-recreate`) after its main
+  # container is. Never touch a `deepseek-harness-teamN` container without
+  # also recreating `deepseek-harness-teamN-proxy` in the same step — use
+  # `scripts/restart-dsh-team.sh <N>` (or `all`), which does both together
+  # and verifies the URL afterward, rather than typing docker compose
+  # commands by hand here.
   deepseek-harness-team0-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
@@ -453,6 +467,9 @@ services:
   # top-level one, ./Caddyfile) reaches it at deepseek-harness-teamN:8080 —
   # the *owner* service's name, since the proxy container joins that
   # namespace rather than getting a network identity of its own.
+  # CAUTION: network_mode below — see team0-proxy's comment above and
+  # scripts/restart-dsh-team.sh; never restart deepseek-harness-team1
+  # without recreating this sidecar too.
   deepseek-harness-team1-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
@@ -480,6 +497,9 @@ services:
       - ./deepseek-harness/workspace-team2:/workspace
       - ../data:/workspace/data:ro
 
+  # CAUTION: network_mode below — see team0-proxy's comment above and
+  # scripts/restart-dsh-team.sh; never restart deepseek-harness-team2
+  # without recreating this sidecar too.
   deepseek-harness-team2-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
@@ -507,6 +527,9 @@ services:
       - ./deepseek-harness/workspace-team3:/workspace
       - ../data:/workspace/data:ro
 
+  # CAUTION: network_mode below — see team0-proxy's comment above and
+  # scripts/restart-dsh-team.sh; never restart deepseek-harness-team3
+  # without recreating this sidecar too.
   deepseek-harness-team3-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
@@ -534,6 +557,9 @@ services:
       - ./deepseek-harness/workspace-team4:/workspace
       - ../data:/workspace/data:ro
 
+  # CAUTION: network_mode below — see team0-proxy's comment above and
+  # scripts/restart-dsh-team.sh; never restart deepseek-harness-team4
+  # without recreating this sidecar too.
   deepseek-harness-team4-proxy:
     image: caddy:2-alpine
     restart: unless-stopped
@@ -561,6 +587,9 @@ services:
       - ./deepseek-harness/workspace-team5:/workspace
       - ../data:/workspace/data:ro
 
+  # CAUTION: network_mode below — see team0-proxy's comment above and
+  # scripts/restart-dsh-team.sh; never restart deepseek-harness-team5
+  # without recreating this sidecar too.
   deepseek-harness-team5-proxy:
     image: caddy:2-alpine
     restart: unless-stopped

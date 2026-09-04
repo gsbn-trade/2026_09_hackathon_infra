@@ -55,17 +55,52 @@ DSH_MODELS='["qwen3.8-flash","deepseek-v4-flash-0731","deepseek-v4-pro-0813","gl
 # Per-team TPM/RPM ceilings, aggregated by LiteLLM across BOTH of a team's
 # keys (bolt.diy + dsh) since they share one team_id — sized off Bailian's
 # real Hong Kong account-wide limits (see litellm-config.yaml's rate-limit
-# comment for the source and numbers), at roughly 60-65% of an even 5-way
-# split so 5 teams going at once land around 60-75% of the account ceiling,
-# not 100%+. Goal: make one team's burst throttle *that team* well before it
-# can trip the shared account limit for everyone else (which is what
-# actually happened 2026-09-03 — see litellm-config.yaml's fallback comment)
-# — this is the first line of defense; `default_fallbacks: ["qwen3.8-flash"]`
-# in litellm-config.yaml is the second, for whenever the shared limit gets
-# hit anyway. qwen3.8-flash itself is deliberately NOT capped here — it's
-# the fallback target, so throttling it would undermine the whole point.
-MODEL_TPM_LIMIT='{"deepseek-v4-flash-0731":150000,"deepseek-v4-pro-0813":150000,"glm-5.2":120000,"kimi-k2.7-code":120000}'
-MODEL_RPM_LIMIT='{"deepseek-v4-flash-0731":2000,"deepseek-v4-pro-0813":2000,"glm-5.2":60,"kimi-k2.7-code":60}'
+# comment for the source and numbers).
+#
+# TPM: each model capped at 16% of THAT model's own account-wide TPM
+# ceiling (2026-09-04 — revised from an earlier flat "~60-65% of an even
+# 5-way split" scheme, replaced for being unexplained arithmetic rather than
+# a stated margin). 16% means 5 teams (team1-5; team0 is organizer testing,
+# lighter but non-zero real usage) going flat-out at once land at 80% of
+# each model's ceiling, leaving ~20% headroom for team0 plus the fact that
+# real usage isn't perfectly smooth/non-overlapping within any given
+# 60-second window. Goal unchanged from before: make one team's burst
+# throttle *that team* well before it can trip the shared account limit for
+# everyone else (what actually happened 2026-09-03 — see
+# litellm-config.yaml's fallback comment) — this is the first line of
+# defense; `default_fallbacks: ["qwen3.8-flash"]` in litellm-config.yaml is
+# the second, for whenever the shared limit gets hit anyway.
+#
+# qwen3.8-flash IS capped here (unlike the earlier scheme, which left it
+# uncapped on purpose as the fallback target) — 16% of its 2,500,000 TPM
+# ceiling is 400,000/team, well above what any single team's real traffic
+# has needed so far, so this isn't expected to bind in practice. It's
+# included mainly so *some* per-team ceiling exists on the model every
+# other model falls back to and that's now every team's own default model
+# too (see app/deepseek-harness/home*/settings.yaml) — a single team's bug
+# should still throttle at the team level rather than only ever being
+# caught by the account-wide wall or a dollar max_budget.
+# RPM (2026-09-04): same 16%-of-that-model's-own-account-wide-ceiling method
+# as TPM above, replacing the earlier ad hoc ~12-13.3% figures (2,000/15,000,
+# 60/500) so both dimensions are governed by one stated rule instead of two
+# different unexplained ones. qwen3.8-flash's RPM is now capped too, for the
+# same "some per-team ceiling should exist on the shared fallback/default
+# model" reason as its TPM cap above.
+#
+#   Model                    | Account TPM ceiling | 16% TPM cap | Account RPM ceiling | 16% RPM cap
+#   -------------------------|----------------------|-------------|----------------------|-------------
+#   qwen3.8-flash             |            2,500,000 |     400,000 |               15,000 |       2,400
+#   deepseek-v4-flash-0731    |            1,200,000 |     192,000 |               15,000 |       2,400
+#   deepseek-v4-pro-0813      |            1,200,000 |     192,000 |               15,000 |       2,400
+#   glm-5.2                   |            1,000,000 |     160,000 |                  500 |          80
+#   kimi-k2.7-code             |            1,000,000 |     160,000 |                  500 |          80
+#
+# Full account-wide ceilings + per-team quotas (this table plus the pricing
+# numbers) are also kept in docs/rate-limits/README.md as a standalone
+# reference, since that doc is where anyone would look first without
+# needing to read this script.
+MODEL_TPM_LIMIT='{"qwen3.8-flash":400000,"deepseek-v4-flash-0731":192000,"deepseek-v4-pro-0813":192000,"glm-5.2":160000,"kimi-k2.7-code":160000}'
+MODEL_RPM_LIMIT='{"qwen3.8-flash":2400,"deepseek-v4-flash-0731":2400,"deepseek-v4-pro-0813":2400,"glm-5.2":80,"kimi-k2.7-code":80}'
 
 api_post() {
   local path="$1" body="$2"

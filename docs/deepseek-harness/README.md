@@ -62,6 +62,23 @@ file. On the VM, reach it with an SSH tunnel
 (`ssh -L 3080:localhost:3080 root@<vm-ip>`) if this override is copied over
 by hand; there's no default cloud-reachable path, on purpose.
 
+**Operational consequence, learned the hard way (2026-09-03):** since the
+`-proxy` sidecar only resolves "which namespace do I join" at its own
+container-*creation* time, restarting or recreating a `deepseek-harness-
+teamN` container alone leaves that team's `-proxy` sidecar attached to the
+old, now-gone namespace — nothing is listening on the shared loopback port
+anymore, and Caddy's front door 502s that team's whole subdomain until the
+sidecar is recreated too. This took down all six teams' public URLs for
+about 30 minutes before it was caught (a config-only `docker compose
+restart` on the six main containers, proxies never touched). A plain
+`restart` on the proxy doesn't fix it either — it must be recreated (`up -d
+--force-recreate`) *after* its main container is up. Always use
+`scripts/restart-dsh-team.sh <N>` (or `all`) for any restart/recreate of a
+team's harness — it does both together and curls the URL afterward to
+confirm — rather than hand-typing `docker compose restart` against a single
+service. See the `CAUTION` comment on each `-proxy` block in
+`docker-compose.yml` for the same warning at the point of edit.
+
 ## Deployment approach: npm install, not a source vendor
 
 Unlike DeerFlow, `dsh` ships as a normal published npm release
