@@ -73,6 +73,29 @@ part is a genuine scarcity of this model's account quota (only bolt.diy
 uses kimi-k2.7-code, and its max_tokens is a full 2x qwen3.8-flash's own
 ceiling), not something any per-team number can fix.
 
+### The floor: a per-team TPM cap must clear what the client actually requests
+
+Generalizing the kimi-k2.7-code lesson above, since it applies to any model
+added to this config later, not just kimi-k2.7-code specifically: because
+LiteLLM's TPM limiter reserves `input_tokens + max_tokens` *upfront* (see
+above), **a per-team TPM cap that's lower than the `max_tokens` value the
+client actually sends on a call is not a tight-but-workable limit — it's a
+100%-failure-rate outage for that model**, indistinguishable from "the
+model is down" to whoever's using it, and (as seen here) invisible in the
+LiteLLM dashboard's usage numbers since the request never goes out.
+
+Before setting or changing any per-team TPM cap, know what `max_tokens`
+each real client actually sends for that model — not just the model's
+provider-confirmed ceiling (`app/litellm-config.yaml`'s `model_info.
+max_tokens`). For bolt.diy that's the same number (it always requests the
+full ceiling — `docs/bolt-provider-lock`'s issue 2), which is why the 16%
+rule breaks specifically on kimi-k2.7-code, the one model whose ceiling
+(262,144) is larger than 16% of its own account-wide TPM ceiling
+(160,000). It's the *ratio* of a model's max_tokens to its own account-wide
+TPM ceiling that determines whether the 16% rule is safe for it — worth
+rechecking this ratio for any newly-added model rather than assuming 16%
+just works.
+
 `qwen3.8-flash` is also every model's `default_fallbacks` target
 (`app/litellm-config.yaml`) and, since 2026-09-04, every team's own default
 model too (`app/deepseek-harness/home*/settings.yaml`) — it's the one model
