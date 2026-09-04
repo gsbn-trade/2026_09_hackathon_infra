@@ -26,21 +26,52 @@ lighter but non-zero real usage, not excluded from the pool) plus the fact
 that real traffic isn't perfectly smooth/non-overlapping within any given
 60-second window.
 
+`kimi-k2.7-code` is the one exception to the 16% rule — see "Why
+kimi-k2.7-code's TPM cap isn't 16%" below.
+
 ## Quota table
 
-| Model | Account TPM | Team TPM (16%) | Account RPM | Team RPM (16%) |
+| Model | Account TPM | Team TPM | Account RPM | Team RPM (16%) |
 |---|---:|---:|---:|---:|
-| `qwen3.8-flash` | 2,500,000 | 400,000 | 15,000 | 2,400 |
-| `deepseek-v4-flash-0731` | 1,200,000 | 192,000 | 15,000 | 2,400 |
-| `deepseek-v4-pro-0813` | 1,200,000 | 192,000 | 15,000 | 2,400 |
-| `glm-5.2` | 1,000,000 | 160,000 | 500 | 80 |
-| `kimi-k2.7-code` | 1,000,000 | 160,000 | 500 | 80 |
+| `qwen3.8-flash` | 2,500,000 | 400,000 (16%) | 15,000 | 2,400 |
+| `deepseek-v4-flash-0731` | 1,200,000 | 192,000 (16%) | 15,000 | 2,400 |
+| `deepseek-v4-pro-0813` | 1,200,000 | 192,000 (16%) | 15,000 | 2,400 |
+| `glm-5.2` | 1,000,000 | 160,000 (16%) | 500 | 80 |
+| `kimi-k2.7-code` | 1,000,000 | 350,000 (exception) | 500 | 80 |
 
 Same per-team caps apply identically to every team, team0 through team5 —
 there's no per-team variation today. `kimi-k2.7-code` is bolt.diy-only
 (deliberately excluded from DeepSeek Harness's own model list — see
 `app/deepseek-harness/home/settings.yaml`'s comment) but the team-level cap
 above still applies to it, since bolt.diy and dsh share one `team_id`.
+
+### Why kimi-k2.7-code's TPM cap isn't 16%
+
+Confirmed live 2026-09-04 (build0, bolt.diy team0): at 160,000 (the 16%
+figure), **every single** kimi-k2.7-code call from any team failed, 100% of
+the time — not intermittently under load. Symptom: team0 showed *zero*
+kimi-k2.7-code usage in the LiteLLM dashboard despite repeated real
+attempts.
+
+Root cause is in LiteLLM's own rate limiter
+(`parallel_request_limiter_v3.py`), not DashScope: it reserves
+`input_tokens + max_tokens` *upfront*, before the request is ever sent to
+the provider, and rejects immediately if that projected total exceeds the
+remaining per-key TPM budget — which is why the failed calls never showed
+up as real usage; they never went out. bolt.diy always requests each
+model's own real ceiling as `max_tokens` (see `docs/bolt-provider-lock`'s
+issue 2 — this is deliberate, avoiding the truncated multi-round-trip
+generations that fix was written for), so every kimi-k2.7-code call carries
+`max_tokens=262144`. That alone already exceeds 160,000, so no call could
+ever clear the reservation check regardless of actual usage or timing.
+
+350,000 clears the 262,144 floor with room for input/prompt tokens too.
+Trade-off: two teams bursting kimi-k2.7-code in the same 60-second window
+can now approach the shared 1,000,000 account ceiling (700,000 of it) —
+beyond that, DashScope's own real "Allocated quota exceeded" applies. That
+part is a genuine scarcity of this model's account quota (only bolt.diy
+uses kimi-k2.7-code, and its max_tokens is a full 2x qwen3.8-flash's own
+ceiling), not something any per-team number can fix.
 
 `qwen3.8-flash` is also every model's `default_fallbacks` target
 (`app/litellm-config.yaml`) and, since 2026-09-04, every team's own default

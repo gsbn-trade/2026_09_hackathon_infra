@@ -93,13 +93,31 @@ DSH_MODELS='["qwen3.8-flash","deepseek-v4-flash-0731","deepseek-v4-pro-0813","gl
 #   deepseek-v4-flash-0731    |            1,200,000 |     192,000 |               15,000 |       2,400
 #   deepseek-v4-pro-0813      |            1,200,000 |     192,000 |               15,000 |       2,400
 #   glm-5.2                   |            1,000,000 |     160,000 |                  500 |          80
-#   kimi-k2.7-code             |            1,000,000 |     160,000 |                  500 |          80
+#   kimi-k2.7-code             |            1,000,000 | 350,000 (*) |                  500 |          80
+#
+# (*) kimi-k2.7-code's TPM cap is a deliberate exception to the 16% rule
+# above, not a typo. Confirmed live 2026-09-04 (build0): LiteLLM's TPM
+# limiter reserves `input_tokens + max_tokens` *upfront*, before the call
+# ever reaches DashScope (litellm/proxy/hooks/parallel_request_limiter_v3.py
+# — see docs/rate-limits/README.md for the fuller writeup). bolt.diy always
+# requests each model's own real ceiling (docs/bolt-provider-lock's issue
+# 2), so every kimi-k2.7-code call carries max_tokens=262144 — which alone
+# already exceeds the 16% figure of 160,000, so at 160,000 *every single*
+# kimi-k2.7-code call from any team was rejected before dispatch, 100% of
+# the time (confirmed: zero kimi-k2.7-code usage ever showed in the LiteLLM
+# dashboard for the team hitting this, because the request never actually
+# went out). 350,000 clears that 262,144 floor with margin for input/prompt
+# tokens too. This does cost some of the account-wide 1,000,000 TPM ceiling
+# above: two teams bursting kimi-k2.7-code in the same 60-second window can
+# now approach it (700,000 of 1,000,000), at which point DashScope's own
+# real "Allocated quota exceeded" would apply — a genuine scarcity of this
+# model's account quota, not fixable by any per-team number here.
 #
 # Full account-wide ceilings + per-team quotas (this table plus the pricing
 # numbers) are also kept in docs/rate-limits/README.md as a standalone
 # reference, since that doc is where anyone would look first without
 # needing to read this script.
-MODEL_TPM_LIMIT='{"qwen3.8-flash":400000,"deepseek-v4-flash-0731":192000,"deepseek-v4-pro-0813":192000,"glm-5.2":160000,"kimi-k2.7-code":160000}'
+MODEL_TPM_LIMIT='{"qwen3.8-flash":400000,"deepseek-v4-flash-0731":192000,"deepseek-v4-pro-0813":192000,"glm-5.2":160000,"kimi-k2.7-code":350000}'
 MODEL_RPM_LIMIT='{"qwen3.8-flash":2400,"deepseek-v4-flash-0731":2400,"deepseek-v4-pro-0813":2400,"glm-5.2":80,"kimi-k2.7-code":80}'
 
 api_post() {
