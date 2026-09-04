@@ -183,17 +183,52 @@ litellm_settings:
   # retry it against qwen3.8-flash instead of surfacing the error to the
   # team's app. `default_fallbacks` applies to every model_name in
   # model_list above that isn't given its own specific `fallbacks` entry —
-  # which today means all four (kimi-k2.7-code, deepseek-v4-flash-0731,
-  # deepseek-v4-pro-0813, glm-5.2) fall back to qwen3.8-flash; qwen3.8-flash
-  # itself has nowhere further to fall back to, which is fine — see this
-  # file's rate-limit comment above for why it's the fallback target (no
-  # RateLimitErrors observed for it, unlike the other four).
+  # which today means deepseek-v4-flash-0731/pro-0813 and glm-5.2 fall back
+  # to qwen3.8-flash — see this file's rate-limit comment above for why it's
+  # the fallback target (no RateLimitErrors observed for it, unlike the
+  # other four).
   # Real motivating case: the 2026-09-03 "Allocated quota exceeded" burst on
   # deepseek-v4-flash-0731/pro-0813 (see docs/kickoff-presentation or that
   # day's investigation) hard-failed every team calling those two models for
   # several minutes — this would have instead quietly handed them a
   # qwen3.8-flash response.
   default_fallbacks: ["qwen3.8-flash"]
+  # Two explicit overrides of default_fallbacks above, both confirmed live
+  # 2026-09-04 (build0, bolt.diy team0):
+  #
+  # kimi-k2.7-code -> [] (no fallback): a fallback replays the *original*
+  # request body — including its max_tokens — against the fallback model,
+  # unchanged. bolt.diy always requests each model's own real ceiling (see
+  # patches/openai-like.ts / docs/bolt-provider-lock's issue 2), so every
+  # kimi-k2.7-code call carries max_tokens=262144. kimi-k2.7-code is the only
+  # model here with a ceiling above qwen3.8-flash's 131072 (glm-5.2 and both
+  # DeepSeek models are already <=131072, so they fall back to qwen3.8-flash
+  # fine) — so falling back from it to *any* of the other four is guaranteed
+  # to hit DashScope's "Range of max_tokens should be [1, 131072]" (or
+  # [1, 128000]) on every single occurrence, not as an edge case. Confirmed
+  # live: a kimi-k2.7-code call failed (root cause not itself logged at INFO
+  # level — likely transient/quota, kimi-k2.7-code's own account-wide cap is
+  # a comparatively tight 500 RPM/1,000,000 TPM per this file's rate-limit
+  # comment above), fell back to qwen3.8-flash still carrying
+  # max_tokens=262144, got rejected, and — see next point — fell back again
+  # from qwen3.8-flash to itself with the same oversized value, surfacing a
+  # confusing double 400 to the team that masked the real kimi-k2.7-code
+  # failure entirely. Disabling the fallback here just lets that real error
+  # through undisguised instead.
+  #
+  # qwen3.8-flash -> [] (no fallback): default_fallbacks applies to every
+  # model_name without its own override, including qwen3.8-flash itself —
+  # contrary to this file's older assumption (see the comment block above)
+  # that it had "nowhere further to fall back to". Left as the implicit
+  # default, a qwen3.8-flash failure "falls back" to a second call against
+  # qwen3.8-flash with the identical (already-failing) request, guaranteeing
+  # the same error twice for no benefit. Confirmed live in the same incident
+  # above: "Received Model Group=qwen3.8-flash Available Model Group
+  # Fallbacks=['qwen3.8-flash']" followed immediately by "Error doing the
+  # fallback" with the exact same message.
+  fallbacks:
+    - kimi-k2.7-code: []
+    - qwen3.8-flash: []
   # One quick retry before falling back — a RateLimitError against an
   # account-wide cap won't usually clear in the time a second immediate
   # retry buys, so this is mostly for genuinely transient blips (the
