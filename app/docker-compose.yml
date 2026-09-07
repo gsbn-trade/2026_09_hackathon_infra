@@ -29,6 +29,14 @@ services:
       - ./deepseek-harness/workspace-team3:/srv/files/team3:ro
       - ./deepseek-harness/workspace-team4:/srv/files/team4:ro
       - ./deepseek-harness/workspace-team5:/srv/files/team5:ro
+      # One shared, read-only mount (unlike the six per-team ones above) for
+      # the /training/* static browser in ./Caddyfile — same file_server
+      # pattern, but every team's subdomain points at this single directory
+      # instead of a team-specific one, since training material is the same
+      # for everyone. Content lives in git (app/training/), so updating it
+      # is just editing those files and redeploying — no re-mint, no key
+      # rotation, no new passphrase.
+      - ./training:/srv/training:ro
     # bcrypt password hashes for each subdomain's HTTP Basic Auth, read into
     # Caddyfile via its {$VAR} substitution syntax — see ./Caddyfile and
     # scripts/generate-team-auth.sh (generates the passphrase + hash pair

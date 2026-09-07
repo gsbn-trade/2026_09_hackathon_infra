@@ -84,6 +84,12 @@ build5.hack.gsbn.trade {
 # (index.html, .md reports, etc.) without touching that restricted API at
 # all — same Basic Auth as the rest of the host, since basic_auth applies
 # per-host regardless of path.
+#
+# /training/* (added 2026-09-07) is the same file_server pattern but points
+# every team at the *same* shared, read-only app/training/ directory
+# (mounted once in docker-compose.yml, not per-team like /files/* above) —
+# training material is identical for every team, unlike each team's own
+# generated workspace files.
 
 team0.hack.gsbn.trade {
 	basic_auth {
@@ -91,6 +97,10 @@ team0.hack.gsbn.trade {
 	}
 	handle_path /files/* {
 		root * /srv/files/team0
+		file_server browse
+	}
+	handle_path /training/* {
+		root * /srv/training
 		file_server browse
 	}
 	handle {
@@ -106,6 +116,10 @@ team1.hack.gsbn.trade {
 		root * /srv/files/team1
 		file_server browse
 	}
+	handle_path /training/* {
+		root * /srv/training
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team1:8080
 	}
@@ -117,6 +131,10 @@ team2.hack.gsbn.trade {
 	}
 	handle_path /files/* {
 		root * /srv/files/team2
+		file_server browse
+	}
+	handle_path /training/* {
+		root * /srv/training
 		file_server browse
 	}
 	handle {
@@ -132,6 +150,10 @@ team3.hack.gsbn.trade {
 		root * /srv/files/team3
 		file_server browse
 	}
+	handle_path /training/* {
+		root * /srv/training
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team3:8080
 	}
@@ -145,6 +167,10 @@ team4.hack.gsbn.trade {
 		root * /srv/files/team4
 		file_server browse
 	}
+	handle_path /training/* {
+		root * /srv/training
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team4:8080
 	}
@@ -156,6 +182,10 @@ team5.hack.gsbn.trade {
 	}
 	handle_path /files/* {
 		root * /srv/files/team5
+		file_server browse
+	}
+	handle_path /training/* {
+		root * /srv/training
 		file_server browse
 	}
 	handle {
