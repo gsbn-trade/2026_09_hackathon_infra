@@ -37,6 +37,11 @@ services:
       # is just editing those files and redeploying — no re-mint, no key
       # rotation, no new passphrase.
       - ./training:/srv/training:ro
+      # Read-only mount for the /uploads/* browse-and-download listing in
+      # ./Caddyfile — the write side (dsh-upload, below) mounts the same
+      # host directory read-write. Single shared folder, not per-team: see
+      # dsh-upload's comment for why.
+      - ./deepseek-harness/uploads:/srv/uploads:ro
     # bcrypt password hashes for each subdomain's HTTP Basic Auth, read into
     # Caddyfile via its {$VAR} substitution syntax — see ./Caddyfile and
     # scripts/generate-team-auth.sh (generates the passphrase + hash pair
@@ -54,6 +59,7 @@ services:
     depends_on:
       - litellm
       - boltdiy-team1
+      - dsh-upload
 
   # Plain static file server for data/ over HTTP — internal only (no host
   # port, no Caddy route). Exists specifically so Dify's workflow HTTP
@@ -397,6 +403,25 @@ services:
   # than not exposing it — matches upstream's own guidance to "prefer a
   # disposable virtual machine, container, or dedicated environment," which
   # is exactly what each team gets here.
+  # Shared upload drop folder for DeepSeek Harness — dsh itself has no
+  # upload/attachment RPC (confirmed by inspecting the installed package:
+  # its host.*/workspace.* methods only cover directory browsing and
+  # workspace registration, nothing that accepts file content from a
+  # browser). This tiny PUT-based endpoint (app/deepseek-harness/
+  # upload-server/) is the actual way a participant gets an external file
+  # into an agent's hands, reached at /upload/* on every team's own
+  # subdomain (see ./Caddyfile) — same Basic Auth gate as everything else.
+  # Deliberately one shared directory, not per-team: an upload from any
+  # team lands in every team's workspace at /workspace/uploads/<name> (see
+  # the read-write mount on each deepseek-harness-teamN service below) and
+  # is browsable read-only at /uploads/* via caddy's mount above.
+  dsh-upload:
+    build:
+      context: ./deepseek-harness/upload-server
+    restart: unless-stopped
+    volumes:
+      - ./deepseek-harness/uploads:/uploads
+
   deepseek-harness-team0:
     build:
       context: ./deepseek-harness
@@ -425,6 +450,7 @@ services:
       - ./deepseek-harness/home-team0:/data/.dsh
       - ./deepseek-harness/workspace-team0:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # CAUTION — network_mode: service:X below (same on all six -proxy sidecars):
   # this sidecar shares its team's main container's network namespace rather
@@ -466,6 +492,7 @@ services:
       - ./deepseek-harness/home-team1:/data/.dsh
       - ./deepseek-harness/workspace-team1:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # Sidecar proxy sharing deepseek-harness-teamN's network namespace
   # (Compose's network_mode: "service:<name>") — the only way to reach dsh's
@@ -504,6 +531,7 @@ services:
       - ./deepseek-harness/home-team2:/data/.dsh
       - ./deepseek-harness/workspace-team2:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # CAUTION: network_mode below — see team0-proxy's comment above and
   # scripts/restart-dsh-team.sh; never restart deepseek-harness-team2
@@ -534,6 +562,7 @@ services:
       - ./deepseek-harness/home-team3:/data/.dsh
       - ./deepseek-harness/workspace-team3:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # CAUTION: network_mode below — see team0-proxy's comment above and
   # scripts/restart-dsh-team.sh; never restart deepseek-harness-team3
@@ -564,6 +593,7 @@ services:
       - ./deepseek-harness/home-team4:/data/.dsh
       - ./deepseek-harness/workspace-team4:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # CAUTION: network_mode below — see team0-proxy's comment above and
   # scripts/restart-dsh-team.sh; never restart deepseek-harness-team4
@@ -594,6 +624,7 @@ services:
       - ./deepseek-harness/home-team5:/data/.dsh
       - ./deepseek-harness/workspace-team5:/workspace
       - ../data:/workspace/data:ro
+      - ./deepseek-harness/uploads:/workspace/uploads
 
   # CAUTION: network_mode below — see team0-proxy's comment above and
   # scripts/restart-dsh-team.sh; never restart deepseek-harness-team5

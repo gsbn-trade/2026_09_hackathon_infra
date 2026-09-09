@@ -103,6 +103,13 @@ team0.hack.gsbn.trade {
 		root * /srv/training
 		file_server browse
 	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team0:8080
 	}
@@ -118,6 +125,13 @@ team1.hack.gsbn.trade {
 	}
 	handle_path /training/* {
 		root * /srv/training
+		file_server browse
+	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
 		file_server browse
 	}
 	handle {
@@ -137,6 +151,13 @@ team2.hack.gsbn.trade {
 		root * /srv/training
 		file_server browse
 	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team2:8080
 	}
@@ -152,6 +173,13 @@ team3.hack.gsbn.trade {
 	}
 	handle_path /training/* {
 		root * /srv/training
+		file_server browse
+	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
 		file_server browse
 	}
 	handle {
@@ -171,6 +199,13 @@ team4.hack.gsbn.trade {
 		root * /srv/training
 		file_server browse
 	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
+		file_server browse
+	}
 	handle {
 		reverse_proxy deepseek-harness-team4:8080
 	}
@@ -186,6 +221,13 @@ team5.hack.gsbn.trade {
 	}
 	handle_path /training/* {
 		root * /srv/training
+		file_server browse
+	}
+	handle_path /upload/* {
+		reverse_proxy dsh-upload:8081
+	}
+	handle_path /uploads/* {
+		root * /srv/uploads
 		file_server browse
 	}
 	handle {
