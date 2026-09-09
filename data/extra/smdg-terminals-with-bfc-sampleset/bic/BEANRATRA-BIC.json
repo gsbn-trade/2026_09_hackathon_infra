@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.390827,
+                            51.270638
+                        ],
+                        [
+                            4.390785,
+                            51.269295
+                        ],
+                        [
+                            4.393504,
+                            51.269278
+                        ],
+                        [
+                            4.393515,
+                            51.269134
+                        ],
+                        [
+                            4.395693,
+                            51.269131
+                        ],
+                        [
+                            4.39572,
+                            51.271282
+                        ],
+                        [
+                            4.393574,
+                            51.271305
+                        ],
+                        [
+                            4.393553,
+                            51.270617
+                        ],
+                        [
+                            4.390827,
+                            51.270638
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRATRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-14",
+                "url": "https://www.bic-code.org/facility-codes/beanratra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.393111,
+                    51.270146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRATRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-14",
+                "url": "https://www.bic-code.org/facility-codes/beanratra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

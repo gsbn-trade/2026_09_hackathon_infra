@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.918,
+                            -12.4682
+                        ],
+                        [
+                            130.923,
+                            -12.4665
+                        ],
+                        [
+                            130.922,
+                            -12.4656
+                        ],
+                        [
+                            130.917,
+                            -12.4674
+                        ],
+                        [
+                            130.918,
+                            -12.4682
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUDRWRBGR",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/audrwrbgr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.9196,
+                    -12.46718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUDRWRBGR",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/audrwrbgr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

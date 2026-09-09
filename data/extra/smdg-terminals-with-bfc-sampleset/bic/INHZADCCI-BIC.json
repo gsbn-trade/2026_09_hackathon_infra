@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.646482,
+                            21.136308
+                        ],
+                        [
+                            72.646268,
+                            21.136368
+                        ],
+                        [
+                            72.646139,
+                            21.136248
+                        ],
+                        [
+                            72.645581,
+                            21.136528
+                        ],
+                        [
+                            72.644701,
+                            21.135367
+                        ],
+                        [
+                            72.64453,
+                            21.135277
+                        ],
+                        [
+                            72.645366,
+                            21.134727
+                        ],
+                        [
+                            72.646364,
+                            21.136238
+                        ],
+                        [
+                            72.646482,
+                            21.136308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHZADCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuvql",
+                "url": "https://www.bic-code.org/facility-codes/inhzadcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.646689,
+                            21.136025
+                        ],
+                        [
+                            72.646332,
+                            21.136245
+                        ],
+                        [
+                            72.646416,
+                            21.136336
+                        ],
+                        [
+                            72.646758,
+                            21.136121
+                        ],
+                        [
+                            72.646689,
+                            21.136025
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHZADCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuvql",
+                "url": "https://www.bic-code.org/facility-codes/inhzadcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.645768,
+                    21.13593
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHZADCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuvql",
+                "url": "https://www.bic-code.org/facility-codes/inhzadcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.646577,
+                    21.13615
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHZADCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuvql",
+                "url": "https://www.bic-code.org/facility-codes/inhzadcci/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

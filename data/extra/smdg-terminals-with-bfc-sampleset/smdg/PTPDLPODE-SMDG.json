@@ -1,0 +1,258 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -25.668489,
+                            37.735435,
+                            0
+                        ],
+                        [
+                            -25.664192,
+                            37.735234
+                        ],
+                        [
+                            -25.664186,
+                            37.735523
+                        ],
+                        [
+                            -25.66847,
+                            37.735725,
+                            0
+                        ],
+                        [
+                            -25.668489,
+                            37.735435,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -25.663995,
+                            37.734856
+                        ],
+                        [
+                            -25.663869,
+                            37.734608
+                        ],
+                        [
+                            -25.657947,
+                            37.736482
+                        ],
+                        [
+                            -25.658066,
+                            37.736732
+                        ],
+                        [
+                            -25.663995,
+                            37.734856
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -25.668491,
+                            37.735423,
+                            0
+                        ],
+                        [
+                            -25.668507,
+                            37.735195,
+                            0
+                        ],
+                        [
+                            -25.670036,
+                            37.735269,
+                            0
+                        ],
+                        [
+                            -25.670084,
+                            37.734892,
+                            0
+                        ],
+                        [
+                            -25.664581,
+                            37.734138,
+                            0
+                        ],
+                        [
+                            -25.664436,
+                            37.734121,
+                            0
+                        ],
+                        [
+                            -25.664237,
+                            37.734126,
+                            0
+                        ],
+                        [
+                            -25.664032,
+                            37.734155,
+                            0
+                        ],
+                        [
+                            -25.66297,
+                            37.734488,
+                            0
+                        ],
+                        [
+                            -25.660888,
+                            37.735153,
+                            0
+                        ],
+                        [
+                            -25.660088,
+                            37.735407,
+                            0
+                        ],
+                        [
+                            -25.658079,
+                            37.736066,
+                            0
+                        ],
+                        [
+                            -25.657841,
+                            37.736147,
+                            0
+                        ],
+                        [
+                            -25.65779,
+                            37.736161,
+                            0
+                        ],
+                        [
+                            -25.657942,
+                            37.736471,
+                            0
+                        ],
+                        [
+                            -25.663877,
+                            37.734598,
+                            0
+                        ],
+                        [
+                            -25.664194,
+                            37.735226,
+                            0
+                        ],
+                        [
+                            -25.668491,
+                            37.735423,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.666765,
+                    37.73547
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.661574,
+                    37.735507
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.663698,
+                    37.735137
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLPODE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

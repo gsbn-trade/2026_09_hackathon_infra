@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.169887,
+                            19.239049
+                        ],
+                        [
+                            -96.174144,
+                            19.238296
+                        ],
+                        [
+                            -96.174911,
+                            19.241074
+                        ],
+                        [
+                            -96.17563,
+                            19.240911
+                        ],
+                        [
+                            -96.174848,
+                            19.237853
+                        ],
+                        [
+                            -96.175847,
+                            19.23889
+                        ],
+                        [
+                            -96.175768,
+                            19.238553
+                        ],
+                        [
+                            -96.174809,
+                            19.23708
+                        ],
+                        [
+                            -96.174529,
+                            19.236025
+                        ],
+                        [
+                            -96.174415,
+                            19.236054
+                        ],
+                        [
+                            -96.17405,
+                            19.234202
+                        ],
+                        [
+                            -96.174456,
+                            19.234122
+                        ],
+                        [
+                            -96.174409,
+                            19.233149
+                        ],
+                        [
+                            -96.17182,
+                            19.23356
+                        ],
+                        [
+                            -96.171546,
+                            19.232346
+                        ],
+                        [
+                            -96.169117,
+                            19.232748
+                        ],
+                        [
+                            -96.169117,
+                            19.232453
+                        ],
+                        [
+                            -96.168635,
+                            19.232533
+                        ],
+                        [
+                            -96.169887,
+                            19.239049
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERICAVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.16987,
+                            19.239068
+                        ],
+                        [
+                            -96.168613,
+                            19.232519
+                        ],
+                        [
+                            -96.168273,
+                            19.232582
+                        ],
+                        [
+                            -96.169388,
+                            19.239157
+                        ],
+                        [
+                            -96.16987,
+                            19.239068
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERICAVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.173043,
+                    19.236208
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERICAVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.169203,
+                    19.236479
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERICAVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.25195,
+                            44.451102
+                        ],
+                        [
+                            12.25302,
+                            44.4531
+                        ],
+                        [
+                            12.254516,
+                            44.456267
+                        ],
+                        [
+                            12.249938,
+                            44.457399
+                        ],
+                        [
+                            12.247384,
+                            44.452271
+                        ],
+                        [
+                            12.25195,
+                            44.451102
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANSETA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-28",
+                "url": "https://www.bic-code.org/facility-codes/itranseta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25146,
+                    44.45354
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANSETA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-28",
+                "url": "https://www.bic-code.org/facility-codes/itranseta/"
+            }
+        }
+    ]
+}

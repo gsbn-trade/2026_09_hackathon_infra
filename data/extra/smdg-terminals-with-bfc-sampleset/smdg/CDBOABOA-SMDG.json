@@ -1,0 +1,257 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.051487,
+                            -5.854905
+                        ],
+                        [
+                            13.049288,
+                            -5.856291
+                        ],
+                        [
+                            13.049788,
+                            -5.857463
+                        ],
+                        [
+                            13.050306,
+                            -5.858649
+                        ],
+                        [
+                            13.050649,
+                            -5.858692
+                        ],
+                        [
+                            13.050906,
+                            -5.859001
+                        ],
+                        [
+                            13.055584,
+                            -5.860196
+                        ],
+                        [
+                            13.057033,
+                            -5.860901
+                        ],
+                        [
+                            13.057655,
+                            -5.860645
+                        ],
+                        [
+                            13.058846,
+                            -5.860826
+                        ],
+                        [
+                            13.060219,
+                            -5.860645
+                        ],
+                        [
+                            13.060133,
+                            -5.860271
+                        ],
+                        [
+                            13.059028,
+                            -5.860367
+                        ],
+                        [
+                            13.057905,
+                            -5.860346
+                        ],
+                        [
+                            13.057868,
+                            -5.860343
+                        ],
+                        [
+                            13.057871,
+                            -5.860241
+                        ],
+                        [
+                            13.057432,
+                            -5.860085
+                        ],
+                        [
+                            13.056963,
+                            -5.859938
+                        ],
+                        [
+                            13.056035,
+                            -5.859695
+                        ],
+                        [
+                            13.055316,
+                            -5.859513
+                        ],
+                        [
+                            13.053943,
+                            -5.859129
+                        ],
+                        [
+                            13.052559,
+                            -5.858777
+                        ],
+                        [
+                            13.051384,
+                            -5.858295
+                        ],
+                        [
+                            13.050892,
+                            -5.858073
+                        ],
+                        [
+                            13.051074,
+                            -5.857465
+                        ],
+                        [
+                            13.050906,
+                            -5.857391
+                        ],
+                        [
+                            13.050864,
+                            -5.857219
+                        ],
+                        [
+                            13.051315,
+                            -5.856092
+                        ],
+                        [
+                            13.051362,
+                            -5.855995
+                        ],
+                        [
+                            13.051624,
+                            -5.856015
+                        ],
+                        [
+                            13.051601,
+                            -5.855711
+                        ],
+                        [
+                            13.051573,
+                            -5.855415
+                        ],
+                        [
+                            13.051546,
+                            -5.85494
+                        ],
+                        [
+                            13.051487,
+                            -5.854905
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDBOABOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.050821,
+                            -5.858969
+                        ],
+                        [
+                            13.050713,
+                            -5.859353
+                        ],
+                        [
+                            13.055681,
+                            -5.860591
+                        ],
+                        [
+                            13.056968,
+                            -5.861274
+                        ],
+                        [
+                            13.057526,
+                            -5.861072
+                        ],
+                        [
+                            13.05759,
+                            -5.860666
+                        ],
+                        [
+                            13.057033,
+                            -5.86089
+                        ],
+                        [
+                            13.055659,
+                            -5.860239
+                        ],
+                        [
+                            13.053396,
+                            -5.859641
+                        ],
+                        [
+                            13.050821,
+                            -5.858969
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDBOABOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.053895,
+                    -5.858366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDBOABOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.054621,
+                    -5.860166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDBOABOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

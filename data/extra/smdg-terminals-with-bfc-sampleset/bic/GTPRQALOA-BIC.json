@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.788393,
+                            13.943944
+                        ],
+                        [
+                            -90.788444,
+                            13.942585
+                        ],
+                        [
+                            -90.78509,
+                            13.942626
+                        ],
+                        [
+                            -90.785099,
+                            13.943901
+                        ],
+                        [
+                            -90.788393,
+                            13.943944
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQALOA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtprqaloa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.787084,
+                    13.9434
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQALOA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtprqaloa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

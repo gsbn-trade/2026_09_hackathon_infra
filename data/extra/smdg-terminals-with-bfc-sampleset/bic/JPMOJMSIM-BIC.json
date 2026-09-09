@@ -1,0 +1,92 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.010842,
+                            33.965447
+                        ],
+                        [
+                            131.011208,
+                            33.964438
+                        ],
+                        [
+                            131.010031,
+                            33.963604
+                        ],
+                        [
+                            131.01099,
+                            33.962766
+                        ],
+                        [
+                            131.01139,
+                            33.963054
+                        ],
+                        [
+                            131.013939,
+                            33.962253
+                        ],
+                        [
+                            131.014007,
+                            33.962356
+                        ],
+                        [
+                            131.015456,
+                            33.961828
+                        ],
+                        [
+                            131.015993,
+                            33.96286
+                        ],
+                        [
+                            131.017252,
+                            33.962475
+                        ],
+                        [
+                            131.017565,
+                            33.96319
+                        ],
+                        [
+                            131.010842,
+                            33.965447
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJMSIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://www.bic-code.org/facility-codes/jpmojmsim/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.013293,
+                    33.96331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJMSIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://www.bic-code.org/facility-codes/jpmojmsim/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

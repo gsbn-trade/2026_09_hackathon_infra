@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.656935,
+                            44.094677
+                        ],
+                        [
+                            28.656767,
+                            44.094683
+                        ],
+                        [
+                            28.656262,
+                            44.094689
+                        ],
+                        [
+                            28.656273,
+                            44.094904
+                        ],
+                        [
+                            28.656027,
+                            44.094907
+                        ],
+                        [
+                            28.655995,
+                            44.09425
+                        ],
+                        [
+                            28.656901,
+                            44.094227
+                        ],
+                        [
+                            28.656935,
+                            44.094677
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDDDLT",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-07-09",
+                "url": "https://www.bic-code.org/facility-codes/rocndddlt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.656512,
+                    44.094627
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDDDLT",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-07-09",
+                "url": "https://www.bic-code.org/facility-codes/rocndddlt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

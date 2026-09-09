@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.65769,
+                            59.166222
+                        ],
+                        [
+                            17.657524,
+                            59.166399
+                        ],
+                        [
+                            17.65679,
+                            59.166341
+                        ],
+                        [
+                            17.656466,
+                            59.165958
+                        ],
+                        [
+                            17.65687,
+                            59.165575
+                        ],
+                        [
+                            17.65812,
+                            59.16588
+                        ],
+                        [
+                            17.657749,
+                            59.166216
+                        ],
+                        [
+                            17.65769,
+                            59.166222
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESOEDQFI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sesoedqfi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.656069,
+                            59.165226
+                        ],
+                        [
+                            17.657164,
+                            59.164953
+                        ],
+                        [
+                            17.657792,
+                            59.164034
+                        ],
+                        [
+                            17.657706,
+                            59.163499
+                        ],
+                        [
+                            17.657872,
+                            59.163302
+                        ],
+                        [
+                            17.658592,
+                            59.163177
+                        ],
+                        [
+                            17.660973,
+                            59.160729
+                        ],
+                        [
+                            17.661317,
+                            59.160688
+                        ],
+                        [
+                            17.66225,
+                            59.160407
+                        ],
+                        [
+                            17.662726,
+                            59.160515
+                        ],
+                        [
+                            17.66342,
+                            59.160573
+                        ],
+                        [
+                            17.662428,
+                            59.163299
+                        ],
+                        [
+                            17.662845,
+                            59.163339
+                        ],
+                        [
+                            17.662752,
+                            59.163488
+                        ],
+                        [
+                            17.663453,
+                            59.16361
+                        ],
+                        [
+                            17.663576,
+                            59.163443
+                        ],
+                        [
+                            17.663867,
+                            59.163487
+                        ],
+                        [
+                            17.663187,
+                            59.164248
+                        ],
+                        [
+                            17.662987,
+                            59.164182
+                        ],
+                        [
+                            17.662796,
+                            59.16441
+                        ],
+                        [
+                            17.661517,
+                            59.164132
+                        ],
+                        [
+                            17.660115,
+                            59.163833
+                        ],
+                        [
+                            17.658397,
+                            59.165734
+                        ],
+                        [
+                            17.656069,
+                            59.165226
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESOEDQFI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sesoedqfi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.657362,
+                    59.166102
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESOEDQFI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sesoedqfi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.660828,
+                    59.163314
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESOEDQFI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sesoedqfi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

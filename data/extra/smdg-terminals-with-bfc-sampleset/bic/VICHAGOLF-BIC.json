@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.948373,
+                            18.336897
+                        ],
+                        [
+                            -64.948612,
+                            18.336855
+                        ],
+                        [
+                            -64.949712,
+                            18.33676
+                        ],
+                        [
+                            -64.950098,
+                            18.336693
+                        ],
+                        [
+                            -64.950365,
+                            18.336522
+                        ],
+                        [
+                            -64.950603,
+                            18.336326
+                        ],
+                        [
+                            -64.950671,
+                            18.336388
+                        ],
+                        [
+                            -64.950823,
+                            18.33658
+                        ],
+                        [
+                            -64.95182,
+                            18.335871
+                        ],
+                        [
+                            -64.951474,
+                            18.335649
+                        ],
+                        [
+                            -64.951867,
+                            18.335266
+                        ],
+                        [
+                            -64.951263,
+                            18.334835
+                        ],
+                        [
+                            -64.951544,
+                            18.334451
+                        ],
+                        [
+                            -64.951226,
+                            18.334198
+                        ],
+                        [
+                            -64.951564,
+                            18.333418
+                        ],
+                        [
+                            -64.951382,
+                            18.333281
+                        ],
+                        [
+                            -64.949814,
+                            18.335424
+                        ],
+                        [
+                            -64.948212,
+                            18.335648
+                        ],
+                        [
+                            -64.948373,
+                            18.336897
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHAGOLF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/vichagolf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.95041,
+                    18.335682
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHAGOLF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/vichagolf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

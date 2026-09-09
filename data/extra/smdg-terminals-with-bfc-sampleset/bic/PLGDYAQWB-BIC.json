@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.49467,
+                            54.538188
+                        ],
+                        [
+                            18.494589,
+                            54.538273
+                        ],
+                        [
+                            18.49461,
+                            54.538317
+                        ],
+                        [
+                            18.494737,
+                            54.538447
+                        ],
+                        [
+                            18.495774,
+                            54.539407
+                        ],
+                        [
+                            18.496155,
+                            54.539872
+                        ],
+                        [
+                            18.496948,
+                            54.539178
+                        ],
+                        [
+                            18.497616,
+                            54.538383
+                        ],
+                        [
+                            18.498912,
+                            54.536934
+                        ],
+                        [
+                            18.499562,
+                            54.536205
+                        ],
+                        [
+                            18.498925,
+                            54.536245
+                        ],
+                        [
+                            18.498445,
+                            54.53624
+                        ],
+                        [
+                            18.498236,
+                            54.536207
+                        ],
+                        [
+                            18.498009,
+                            54.536245
+                        ],
+                        [
+                            18.498283,
+                            54.536578
+                        ],
+                        [
+                            18.496649,
+                            54.538433
+                        ],
+                        [
+                            18.495811,
+                            54.537714
+                        ],
+                        [
+                            18.494848,
+                            54.538122
+                        ],
+                        [
+                            18.49467,
+                            54.538188
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDYAQWB",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/plgdyaqwb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.496708,
+                    54.537746
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDYAQWB",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/plgdyaqwb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

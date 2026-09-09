@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.694928,
+                            41.213426
+                        ],
+                        [
+                            -8.695033,
+                            41.213342
+                        ],
+                        [
+                            -8.695396,
+                            41.212996
+                        ],
+                        [
+                            -8.695839,
+                            41.212639
+                        ],
+                        [
+                            -8.695615,
+                            41.212337
+                        ],
+                        [
+                            -8.694928,
+                            41.212204
+                        ],
+                        [
+                            -8.69452,
+                            41.213353
+                        ],
+                        [
+                            -8.694548,
+                            41.213418
+                        ],
+                        [
+                            -8.694928,
+                            41.213426
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIFSUS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/ptleifsus/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.695082,
+                    41.213016
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIFSUS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/ptleifsus/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

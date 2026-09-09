@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.1932,
+                            12.5085
+                        ],
+                        [
+                            -87.193,
+                            12.5087
+                        ],
+                        [
+                            -87.1928,
+                            12.5089
+                        ],
+                        [
+                            -87.1925,
+                            12.5093
+                        ],
+                        [
+                            -87.1941,
+                            12.5106
+                        ],
+                        [
+                            -87.1947,
+                            12.5099
+                        ],
+                        [
+                            -87.1934,
+                            12.5087
+                        ],
+                        [
+                            -87.1932,
+                            12.5085
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOQCUK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/nicioqcuk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.193363,
+                    12.509137
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOQCUK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/nicioqcuk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

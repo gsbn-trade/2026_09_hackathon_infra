@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.092663,
+                            18.429083
+                        ],
+                        [
+                            -66.088101,
+                            18.433862
+                        ],
+                        [
+                            -66.08938,
+                            18.435926
+                        ],
+                        [
+                            -66.090518,
+                            18.437751
+                        ],
+                        [
+                            -66.090548,
+                            18.437787
+                        ],
+                        [
+                            -66.098421,
+                            18.433017
+                        ],
+                        [
+                            -66.097139,
+                            18.430542
+                        ],
+                        [
+                            -66.097303,
+                            18.429706
+                        ],
+                        [
+                            -66.096346,
+                            18.428412
+                        ],
+                        [
+                            -66.096281,
+                            18.428453
+                        ],
+                        [
+                            -66.096048,
+                            18.427932
+                        ],
+                        [
+                            -66.09554,
+                            18.42779
+                        ],
+                        [
+                            -66.094662,
+                            18.426858
+                        ],
+                        [
+                            -66.092663,
+                            18.429083
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJUXKSE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/prsjuxkse/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.093972,
+                    18.431157
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJUXKSE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/prsjuxkse/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

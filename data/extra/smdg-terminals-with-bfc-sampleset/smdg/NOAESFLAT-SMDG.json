@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.189364,
+                            62.48049
+                        ],
+                        [
+                            6.189152,
+                            62.480282
+                        ],
+                        [
+                            6.194172,
+                            62.479213
+                        ],
+                        [
+                            6.194386,
+                            62.479438
+                        ],
+                        [
+                            6.189364,
+                            62.48049
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFLAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-10-23",
+                "remarks": "Adjust boundaries. See also map at www.eiendomspriser.no",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.192997,
+                            62.478026
+                        ],
+                        [
+                            6.194172,
+                            62.479209
+                        ],
+                        [
+                            6.189678,
+                            62.480166
+                        ],
+                        [
+                            6.189538,
+                            62.480042
+                        ],
+                        [
+                            6.189019,
+                            62.480158
+                        ],
+                        [
+                            6.189374,
+                            62.480509
+                        ],
+                        [
+                            6.188604,
+                            62.480682
+                        ],
+                        [
+                            6.188313,
+                            62.480361
+                        ],
+                        [
+                            6.188092,
+                            62.480258
+                        ],
+                        [
+                            6.187858,
+                            62.480179
+                        ],
+                        [
+                            6.187312,
+                            62.480087
+                        ],
+                        [
+                            6.187352,
+                            62.480009
+                        ],
+                        [
+                            6.186052,
+                            62.47995
+                        ],
+                        [
+                            6.185817,
+                            62.479931
+                        ],
+                        [
+                            6.18569,
+                            62.479906
+                        ],
+                        [
+                            6.185544,
+                            62.479848
+                        ],
+                        [
+                            6.185481,
+                            62.479817
+                        ],
+                        [
+                            6.185446,
+                            62.479743
+                        ],
+                        [
+                            6.185446,
+                            62.479688
+                        ],
+                        [
+                            6.185453,
+                            62.479657
+                        ],
+                        [
+                            6.185494,
+                            62.479615
+                        ],
+                        [
+                            6.185549,
+                            62.479577
+                        ],
+                        [
+                            6.185611,
+                            62.479551
+                        ],
+                        [
+                            6.192183,
+                            62.47802
+                        ],
+                        [
+                            6.192697,
+                            62.478
+                        ],
+                        [
+                            6.192997,
+                            62.478026
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFLAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "remarks": "Adjust boundaries. See also map at www.eiendomspriser.no",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.191288,
+                    62.479983
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFLAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "remarks": "Adjust boundaries. See also map at www.eiendomspriser.no",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.188145,
+                    62.479654
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFLAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "remarks": "Adjust boundaries. See also map at www.eiendomspriser.no",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

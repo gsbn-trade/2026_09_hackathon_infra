@@ -1,0 +1,91 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.316834,
+                            40.857555
+                        ],
+                        [
+                            14.316741,
+                            40.856974
+                        ],
+                        [
+                            14.316813,
+                            40.856579
+                        ],
+                        [
+                            14.317233,
+                            40.856176
+                        ],
+                        [
+                            14.317635,
+                            40.855735
+                        ],
+                        [
+                            14.3177,
+                            40.855813
+                        ],
+                        [
+                            14.317727,
+                            40.856136
+                        ],
+                        [
+                            14.317891,
+                            40.856802
+                        ],
+                        [
+                            14.31803,
+                            40.857265
+                        ],
+                        [
+                            14.318107,
+                            40.857406
+                        ],
+                        [
+                            14.317881,
+                            40.857449
+                        ],
+                        [
+                            14.316834,
+                            40.857555
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPIULA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "remarks": "Provided by C.I.S.Co.",
+                "url": "https://www.bic-code.org/facility-codes/itnapiula/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.317452,
+                    40.856787
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPIULA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "remarks": "Provided by C.I.S.Co.",
+                "url": "https://www.bic-code.org/facility-codes/itnapiula/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

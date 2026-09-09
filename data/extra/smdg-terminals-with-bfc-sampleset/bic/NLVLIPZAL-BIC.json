@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.706234,
+                            51.479492
+                        ],
+                        [
+                            3.70413,
+                            51.47861
+                        ],
+                        [
+                            3.710672,
+                            51.471805
+                        ],
+                        [
+                            3.711491,
+                            51.472148
+                        ],
+                        [
+                            3.712478,
+                            51.471226
+                        ],
+                        [
+                            3.714631,
+                            51.47063
+                        ],
+                        [
+                            3.715685,
+                            51.471951
+                        ],
+                        [
+                            3.714988,
+                            51.472145
+                        ],
+                        [
+                            3.714279,
+                            51.472877
+                        ],
+                        [
+                            3.713222,
+                            51.474007
+                        ],
+                        [
+                            3.711315,
+                            51.476169
+                        ],
+                        [
+                            3.71008,
+                            51.475705
+                        ],
+                        [
+                            3.708959,
+                            51.476859
+                        ],
+                        [
+                            3.708761,
+                            51.477055
+                        ],
+                        [
+                            3.709364,
+                            51.4773
+                        ],
+                        [
+                            3.709652,
+                            51.477041
+                        ],
+                        [
+                            3.711609,
+                            51.477708
+                        ],
+                        [
+                            3.710235,
+                            51.479138
+                        ],
+                        [
+                            3.706234,
+                            51.479492
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLVLIPZAL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-09",
+                "url": "https://www.bic-code.org/facility-codes/nlvlipzal/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.710738,
+                    51.475335
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLVLIPZAL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-09",
+                "url": "https://www.bic-code.org/facility-codes/nlvlipzal/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

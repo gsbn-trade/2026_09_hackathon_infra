@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.244867,
+                            44.446824
+                        ],
+                        [
+                            12.248504,
+                            44.445943
+                        ],
+                        [
+                            12.248891,
+                            44.445491
+                        ],
+                        [
+                            12.249116,
+                            44.445254
+                        ],
+                        [
+                            12.249341,
+                            44.445323
+                        ],
+                        [
+                            12.249277,
+                            44.446801
+                        ],
+                        [
+                            12.250296,
+                            44.446885
+                        ],
+                        [
+                            12.250511,
+                            44.448233
+                        ],
+                        [
+                            12.251927,
+                            44.45109
+                        ],
+                        [
+                            12.247388,
+                            44.452262
+                        ],
+                        [
+                            12.244867,
+                            44.446824
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANTCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.247329,
+                            44.452262
+                        ],
+                        [
+                            12.246579,
+                            44.452453
+                        ],
+                        [
+                            12.244137,
+                            44.446952
+                        ],
+                        [
+                            12.244875,
+                            44.446806
+                        ],
+                        [
+                            12.247329,
+                            44.452262
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANTCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.248635,
+                    44.447357
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANTCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.24605,
+                    44.450147
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANTCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

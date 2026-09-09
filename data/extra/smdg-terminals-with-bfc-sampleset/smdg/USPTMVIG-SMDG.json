@@ -1,0 +1,367 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.362998,
+                            36.879208
+                        ],
+                        [
+                            -76.362648,
+                            36.878007
+                        ],
+                        [
+                            -76.361046,
+                            36.878207
+                        ],
+                        [
+                            -76.360846,
+                            36.877273
+                        ],
+                        [
+                            -76.360645,
+                            36.877313
+                        ],
+                        [
+                            -76.359377,
+                            36.872387
+                        ],
+                        [
+                            -76.35916,
+                            36.872414
+                        ],
+                        [
+                            -76.358977,
+                            36.871799
+                        ],
+                        [
+                            -76.358476,
+                            36.871893
+                        ],
+                        [
+                            -76.358443,
+                            36.871573
+                        ],
+                        [
+                            -76.35901,
+                            36.871306
+                        ],
+                        [
+                            -76.35946,
+                            36.871265
+                        ],
+                        [
+                            -76.359327,
+                            36.871012
+                        ],
+                        [
+                            -76.35876,
+                            36.871119
+                        ],
+                        [
+                            -76.358226,
+                            36.870972
+                        ],
+                        [
+                            -76.357975,
+                            36.870518
+                        ],
+                        [
+                            -76.356123,
+                            36.871359
+                        ],
+                        [
+                            -76.355722,
+                            36.870838
+                        ],
+                        [
+                            -76.355706,
+                            36.870691
+                        ],
+                        [
+                            -76.352552,
+                            36.870918
+                        ],
+                        [
+                            -76.350483,
+                            36.871265
+                        ],
+                        [
+                            -76.350299,
+                            36.870438
+                        ],
+                        [
+                            -76.350466,
+                            36.870438
+                        ],
+                        [
+                            -76.350366,
+                            36.870144
+                        ],
+                        [
+                            -76.349331,
+                            36.870344
+                        ],
+                        [
+                            -76.349147,
+                            36.86977
+                        ],
+                        [
+                            -76.348547,
+                            36.869859
+                        ],
+                        [
+                            -76.348105,
+                            36.87
+                        ],
+                        [
+                            -76.348613,
+                            36.871746
+                        ],
+                        [
+                            -76.350833,
+                            36.880089
+                        ],
+                        [
+                            -76.353987,
+                            36.879595
+                        ],
+                        [
+                            -76.354321,
+                            36.880503
+                        ],
+                        [
+                            -76.358743,
+                            36.879836
+                        ],
+                        [
+                            -76.358843,
+                            36.879942
+                        ],
+                        [
+                            -76.362998,
+                            36.879208
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.350818,
+                            36.880118
+                        ],
+                        [
+                            -76.348071,
+                            36.869963
+                        ],
+                        [
+                            -76.347188,
+                            36.870107
+                        ],
+                        [
+                            -76.349836,
+                            36.880294
+                        ],
+                        [
+                            -76.350818,
+                            36.880118
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.361074,
+                            36.870283
+                        ],
+                        [
+                            -76.361104,
+                            36.870107
+                        ],
+                        [
+                            -76.361005,
+                            36.870138
+                        ],
+                        [
+                            -76.360898,
+                            36.870126
+                        ],
+                        [
+                            -76.360803,
+                            36.870073
+                        ],
+                        [
+                            -76.360558,
+                            36.869819
+                        ],
+                        [
+                            -76.360042,
+                            36.869292
+                        ],
+                        [
+                            -76.359808,
+                            36.869218
+                        ],
+                        [
+                            -76.359551,
+                            36.86924
+                        ],
+                        [
+                            -76.355975,
+                            36.870693
+                        ],
+                        [
+                            -76.356444,
+                            36.871433
+                        ],
+                        [
+                            -76.358087,
+                            36.870754
+                        ],
+                        [
+                            -76.358325,
+                            36.870146
+                        ],
+                        [
+                            -76.359549,
+                            36.869621
+                        ],
+                        [
+                            -76.35973,
+                            36.86959
+                        ],
+                        [
+                            -76.35996,
+                            36.869615
+                        ],
+                        [
+                            -76.360102,
+                            36.869678
+                        ],
+                        [
+                            -76.360244,
+                            36.869745
+                        ],
+                        [
+                            -76.360717,
+                            36.870231
+                        ],
+                        [
+                            -76.360828,
+                            36.870267
+                        ],
+                        [
+                            -76.360897,
+                            36.870286
+                        ],
+                        [
+                            -76.361074,
+                            36.870283
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "TRUCK_QUEUE",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.356016,
+                    36.873521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.349346,
+                    36.87612
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.359853,
+                    36.870029
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMVIG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-05-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

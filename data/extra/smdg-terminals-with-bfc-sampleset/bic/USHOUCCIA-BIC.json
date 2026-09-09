@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -95.243856,
+                            29.7283
+                        ],
+                        [
+                            -95.24385,
+                            29.729012
+                        ],
+                        [
+                            -95.243862,
+                            29.729124
+                        ],
+                        [
+                            -95.24385,
+                            29.730131
+                        ],
+                        [
+                            -95.246047,
+                            29.730105
+                        ],
+                        [
+                            -95.246017,
+                            29.726505
+                        ],
+                        [
+                            -95.243856,
+                            29.726515
+                        ],
+                        [
+                            -95.24385,
+                            29.72774
+                        ],
+                        [
+                            -95.243856,
+                            29.727827
+                        ],
+                        [
+                            -95.243862,
+                            29.728173
+                        ],
+                        [
+                            -95.243856,
+                            29.7283
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouccia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.244251,
+                    29.728339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouccia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

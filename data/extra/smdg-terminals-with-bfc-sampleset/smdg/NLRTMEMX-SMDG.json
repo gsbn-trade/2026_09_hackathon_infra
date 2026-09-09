@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.04533,
+                            51.972178
+                        ],
+                        [
+                            4.046542,
+                            51.974207
+                        ],
+                        [
+                            4.045299,
+                            51.974487
+                        ],
+                        [
+                            4.045213,
+                            51.974551
+                        ],
+                        [
+                            4.045186,
+                            51.974639
+                        ],
+                        [
+                            4.045854,
+                            51.97576
+                        ],
+                        [
+                            4.045991,
+                            51.975997
+                        ],
+                        [
+                            4.045846,
+                            51.976785
+                        ],
+                        [
+                            4.046436,
+                            51.977766
+                        ],
+                        [
+                            4.045428,
+                            51.978004
+                        ],
+                        [
+                            4.045557,
+                            51.978229
+                        ],
+                        [
+                            4.044038,
+                            51.978599
+                        ],
+                        [
+                            4.045541,
+                            51.981093
+                        ],
+                        [
+                            4.043698,
+                            51.981535
+                        ],
+                        [
+                            4.043823,
+                            51.981765
+                        ],
+                        [
+                            4.040197,
+                            51.982547
+                        ],
+                        [
+                            4.038411,
+                            51.97959
+                        ],
+                        [
+                            4.042488,
+                            51.978638
+                        ],
+                        [
+                            4.042123,
+                            51.978044
+                        ],
+                        [
+                            4.027049,
+                            51.981454
+                        ],
+                        [
+                            4.026829,
+                            51.981209
+                        ],
+                        [
+                            4.02319,
+                            51.981992
+                        ],
+                        [
+                            4.02241,
+                            51.981855
+                        ],
+                        [
+                            4.021803,
+                            51.981625
+                        ],
+                        [
+                            4.019786,
+                            51.97811
+                        ],
+                        [
+                            4.04533,
+                            51.972178
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMEMX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.020151,
+                            51.977982
+                        ],
+                        [
+                            4.019786,
+                            51.977307
+                        ],
+                        [
+                            4.044788,
+                            51.971497
+                        ],
+                        [
+                            4.04519,
+                            51.972173
+                        ],
+                        [
+                            4.020151,
+                            51.977982
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMEMX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.039592,
+                    51.978186
+                ]
+            },
+            "properties": {
+                "code": "NLRTMEMX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030013,
+                    51.975388
+                ]
+            },
+            "properties": {
+                "code": "NLRTMEMX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

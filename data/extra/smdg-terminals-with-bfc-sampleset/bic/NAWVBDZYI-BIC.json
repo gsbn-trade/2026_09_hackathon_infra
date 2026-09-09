@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.5117,
+                            -22.9414
+                        ],
+                        [
+                            14.5102,
+                            -22.9401
+                        ],
+                        [
+                            14.5081,
+                            -22.9421
+                        ],
+                        [
+                            14.5097,
+                            -22.9435
+                        ],
+                        [
+                            14.5117,
+                            -22.9414
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBDZYI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbdzyi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.51028,
+                    -22.9417
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBDZYI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbdzyi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

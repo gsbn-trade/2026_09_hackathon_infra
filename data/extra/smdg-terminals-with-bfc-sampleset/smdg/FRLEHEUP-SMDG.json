@@ -1,0 +1,789 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.174867,
+                            49.478313
+                        ],
+                        [
+                            0.175394,
+                            49.478066
+                        ],
+                        [
+                            0.183099,
+                            49.484473
+                        ],
+                        [
+                            0.182544,
+                            49.484706
+                        ],
+                        [
+                            0.174867,
+                            49.478313
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.182857,
+                            49.48518
+                        ],
+                        [
+                            0.183322,
+                            49.485072
+                        ],
+                        [
+                            0.184201,
+                            49.486675
+                        ],
+                        [
+                            0.183767,
+                            49.486751
+                        ],
+                        [
+                            0.182857,
+                            49.48518
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.161786,
+                            49.475591
+                        ],
+                        [
+                            0.161838,
+                            49.475196
+                        ],
+                        [
+                            0.168698,
+                            49.475669
+                        ],
+                        [
+                            0.168609,
+                            49.476074
+                        ],
+                        [
+                            0.161786,
+                            49.475591
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.167941,
+                            49.481976
+                        ],
+                        [
+                            0.167467,
+                            49.481744
+                        ],
+                        [
+                            0.167852,
+                            49.481374
+                        ],
+                        [
+                            0.169005,
+                            49.480272
+                        ],
+                        [
+                            0.16952,
+                            49.480208
+                        ],
+                        [
+                            0.169607,
+                            49.480129
+                        ],
+                        [
+                            0.169739,
+                            49.479869
+                        ],
+                        [
+                            0.169405,
+                            49.479722
+                        ],
+                        [
+                            0.168763,
+                            49.479438
+                        ],
+                        [
+                            0.167838,
+                            49.480318
+                        ],
+                        [
+                            0.16765,
+                            49.480236
+                        ],
+                        [
+                            0.167376,
+                            49.480486
+                        ],
+                        [
+                            0.167043,
+                            49.480325
+                        ],
+                        [
+                            0.167274,
+                            49.480122
+                        ],
+                        [
+                            0.167265,
+                            49.480082
+                        ],
+                        [
+                            0.167009,
+                            49.479978
+                        ],
+                        [
+                            0.166814,
+                            49.479856
+                        ],
+                        [
+                            0.166725,
+                            49.479767
+                        ],
+                        [
+                            0.164998,
+                            49.479109
+                        ],
+                        [
+                            0.164724,
+                            49.479067
+                        ],
+                        [
+                            0.164462,
+                            49.478606
+                        ],
+                        [
+                            0.164256,
+                            49.477708
+                        ],
+                        [
+                            0.164404,
+                            49.477444
+                        ],
+                        [
+                            0.164637,
+                            49.4758
+                        ],
+                        [
+                            0.168612,
+                            49.476077
+                        ],
+                        [
+                            0.168856,
+                            49.475637
+                        ],
+                        [
+                            0.168944,
+                            49.475659
+                        ],
+                        [
+                            0.168972,
+                            49.475614
+                        ],
+                        [
+                            0.169261,
+                            49.475689
+                        ],
+                        [
+                            0.169319,
+                            49.475774
+                        ],
+                        [
+                            0.169284,
+                            49.475849
+                        ],
+                        [
+                            0.169096,
+                            49.475994
+                        ],
+                        [
+                            0.169037,
+                            49.476068
+                        ],
+                        [
+                            0.168871,
+                            49.476409
+                        ],
+                        [
+                            0.168966,
+                            49.476521
+                        ],
+                        [
+                            0.16922,
+                            49.476593
+                        ],
+                        [
+                            0.169543,
+                            49.476389
+                        ],
+                        [
+                            0.169793,
+                            49.476551
+                        ],
+                        [
+                            0.170081,
+                            49.47643
+                        ],
+                        [
+                            0.170715,
+                            49.476549
+                        ],
+                        [
+                            0.171417,
+                            49.47668
+                        ],
+                        [
+                            0.171508,
+                            49.476718
+                        ],
+                        [
+                            0.171594,
+                            49.476789
+                        ],
+                        [
+                            0.171646,
+                            49.476853
+                        ],
+                        [
+                            0.171688,
+                            49.476938
+                        ],
+                        [
+                            0.171684,
+                            49.477019
+                        ],
+                        [
+                            0.171571,
+                            49.477218
+                        ],
+                        [
+                            0.170654,
+                            49.47778
+                        ],
+                        [
+                            0.16995,
+                            49.47833
+                        ],
+                        [
+                            0.168976,
+                            49.479237
+                        ],
+                        [
+                            0.169286,
+                            49.479368
+                        ],
+                        [
+                            0.169407,
+                            49.479405
+                        ],
+                        [
+                            0.169515,
+                            49.479367
+                        ],
+                        [
+                            0.169628,
+                            49.479132
+                        ],
+                        [
+                            0.170524,
+                            49.478185
+                        ],
+                        [
+                            0.172098,
+                            49.477147
+                        ],
+                        [
+                            0.172288,
+                            49.477088
+                        ],
+                        [
+                            0.172485,
+                            49.477065
+                        ],
+                        [
+                            0.172603,
+                            49.477077
+                        ],
+                        [
+                            0.172726,
+                            49.477103
+                        ],
+                        [
+                            0.173473,
+                            49.477301
+                        ],
+                        [
+                            0.174215,
+                            49.4779
+                        ],
+                        [
+                            0.174302,
+                            49.477749
+                        ],
+                        [
+                            0.174586,
+                            49.477817
+                        ],
+                        [
+                            0.174656,
+                            49.477735
+                        ],
+                        [
+                            0.175162,
+                            49.478162
+                        ],
+                        [
+                            0.174855,
+                            49.478313
+                        ],
+                        [
+                            0.182558,
+                            49.484732
+                        ],
+                        [
+                            0.182853,
+                            49.484588
+                        ],
+                        [
+                            0.183159,
+                            49.485095
+                        ],
+                        [
+                            0.182841,
+                            49.485172
+                        ],
+                        [
+                            0.18408,
+                            49.487311
+                        ],
+                        [
+                            0.184443,
+                            49.487461
+                        ],
+                        [
+                            0.184243,
+                            49.487743
+                        ],
+                        [
+                            0.18377,
+                            49.487583
+                        ],
+                        [
+                            0.183598,
+                            49.487536
+                        ],
+                        [
+                            0.182668,
+                            49.487459
+                        ],
+                        [
+                            0.182463,
+                            49.487403
+                        ],
+                        [
+                            0.182505,
+                            49.487323
+                        ],
+                        [
+                            0.182421,
+                            49.487294
+                        ],
+                        [
+                            0.182373,
+                            49.487372
+                        ],
+                        [
+                            0.182134,
+                            49.487307
+                        ],
+                        [
+                            0.182157,
+                            49.487268
+                        ],
+                        [
+                            0.182094,
+                            49.487248
+                        ],
+                        [
+                            0.182069,
+                            49.487288
+                        ],
+                        [
+                            0.181467,
+                            49.487104
+                        ],
+                        [
+                            0.181317,
+                            49.486985
+                        ],
+                        [
+                            0.181225,
+                            49.487046
+                        ],
+                        [
+                            0.180881,
+                            49.486849
+                        ],
+                        [
+                            0.180551,
+                            49.486722
+                        ],
+                        [
+                            0.180181,
+                            49.486627
+                        ],
+                        [
+                            0.178152,
+                            49.48598
+                        ],
+                        [
+                            0.175739,
+                            49.48528
+                        ],
+                        [
+                            0.171893,
+                            49.484156
+                        ],
+                        [
+                            0.171246,
+                            49.483913
+                        ],
+                        [
+                            0.169736,
+                            49.483123
+                        ],
+                        [
+                            0.169491,
+                            49.483015
+                        ],
+                        [
+                            0.169124,
+                            49.482917
+                        ],
+                        [
+                            0.168912,
+                            49.482896
+                        ],
+                        [
+                            0.16876,
+                            49.482891
+                        ],
+                        [
+                            0.168717,
+                            49.482937
+                        ],
+                        [
+                            0.168672,
+                            49.482924
+                        ],
+                        [
+                            0.168695,
+                            49.482884
+                        ],
+                        [
+                            0.168593,
+                            49.482898
+                        ],
+                        [
+                            0.168593,
+                            49.482847
+                        ],
+                        [
+                            0.168691,
+                            49.482715
+                        ],
+                        [
+                            0.169055,
+                            49.482511
+                        ],
+                        [
+                            0.169259,
+                            49.482343
+                        ],
+                        [
+                            0.169531,
+                            49.482427
+                        ],
+                        [
+                            0.169544,
+                            49.48247
+                        ],
+                        [
+                            0.169658,
+                            49.48245
+                        ],
+                        [
+                            0.169764,
+                            49.48268
+                        ],
+                        [
+                            0.170077,
+                            49.482783
+                        ],
+                        [
+                            0.170262,
+                            49.482833
+                        ],
+                        [
+                            0.170286,
+                            49.482804
+                        ],
+                        [
+                            0.170565,
+                            49.482871
+                        ],
+                        [
+                            0.170619,
+                            49.482795
+                        ],
+                        [
+                            0.17072,
+                            49.482783
+                        ],
+                        [
+                            0.176345,
+                            49.484455
+                        ],
+                        [
+                            0.176486,
+                            49.484274
+                        ],
+                        [
+                            0.176039,
+                            49.483825
+                        ],
+                        [
+                            0.176419,
+                            49.483651
+                        ],
+                        [
+                            0.176118,
+                            49.483336
+                        ],
+                        [
+                            0.175547,
+                            49.483045
+                        ],
+                        [
+                            0.175164,
+                            49.483245
+                        ],
+                        [
+                            0.174922,
+                            49.483064
+                        ],
+                        [
+                            0.174991,
+                            49.482975
+                        ],
+                        [
+                            0.17466,
+                            49.482872
+                        ],
+                        [
+                            0.174597,
+                            49.482951
+                        ],
+                        [
+                            0.174382,
+                            49.48289
+                        ],
+                        [
+                            0.17429,
+                            49.48302
+                        ],
+                        [
+                            0.173773,
+                            49.482866
+                        ],
+                        [
+                            0.173369,
+                            49.482746
+                        ],
+                        [
+                            0.173119,
+                            49.482839
+                        ],
+                        [
+                            0.172603,
+                            49.482823
+                        ],
+                        [
+                            0.16952,
+                            49.481933
+                        ],
+                        [
+                            0.169136,
+                            49.481787
+                        ],
+                        [
+                            0.168642,
+                            49.482
+                        ],
+                        [
+                            0.168429,
+                            49.482034
+                        ],
+                        [
+                            0.168199,
+                            49.482046
+                        ],
+                        [
+                            0.167941,
+                            49.481976
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.178154,
+                    49.480774
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.183401,
+                    49.485772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.164543,
+                    49.475624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.172482,
+                    49.481314
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHEUP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Revised geofence. Quai des Ameriques is shared by CNMP and GMP. Check gate area because CNMP and GMP overlap, no clear separation.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

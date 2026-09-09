@@ -1,0 +1,317 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            122.072482,
+                            30.62508
+                        ],
+                        [
+                            122.074178,
+                            30.623769
+                        ],
+                        [
+                            122.080587,
+                            30.619768
+                        ],
+                        [
+                            122.082689,
+                            30.618428
+                        ],
+                        [
+                            122.08279,
+                            30.618364
+                        ],
+                        [
+                            122.084192,
+                            30.617483
+                        ],
+                        [
+                            122.085681,
+                            30.616547
+                        ],
+                        [
+                            122.089674,
+                            30.614043
+                        ],
+                        [
+                            122.093405,
+                            30.611695
+                        ],
+                        [
+                            122.094036,
+                            30.611303
+                        ],
+                        [
+                            122.093948,
+                            30.611202
+                        ],
+                        [
+                            122.088775,
+                            30.604989
+                        ],
+                        [
+                            122.088433,
+                            30.604641
+                        ],
+                        [
+                            122.081761,
+                            30.608881
+                        ],
+                        [
+                            122.073851,
+                            30.613854
+                        ],
+                        [
+                            122.070664,
+                            30.615819
+                        ],
+                        [
+                            122.066136,
+                            30.618688
+                        ],
+                        [
+                            122.070808,
+                            30.62316
+                        ],
+                        [
+                            122.072482,
+                            30.62508
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            122.082814,
+                            30.618377
+                        ],
+                        [
+                            122.084155,
+                            30.617574
+                        ],
+                        [
+                            122.085228,
+                            30.618839
+                        ],
+                        [
+                            122.085668,
+                            30.619947
+                        ],
+                        [
+                            122.086215,
+                            30.620667
+                        ],
+                        [
+                            122.085689,
+                            30.620981
+                        ],
+                        [
+                            122.085078,
+                            30.62026
+                        ],
+                        [
+                            122.084026,
+                            30.619642
+                        ],
+                        [
+                            122.082814,
+                            30.618377
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            122.093618,
+                            30.611674
+                        ],
+                        [
+                            122.094069,
+                            30.611415
+                        ],
+                        [
+                            122.096128,
+                            30.613797
+                        ],
+                        [
+                            122.09585,
+                            30.613945
+                        ],
+                        [
+                            122.095592,
+                            30.613668
+                        ],
+                        [
+                            122.094712,
+                            30.612985
+                        ],
+                        [
+                            122.093618,
+                            30.611674
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            122.066088,
+                            30.618599
+                        ],
+                        [
+                            122.065487,
+                            30.617897
+                        ],
+                        [
+                            122.087889,
+                            30.604009
+                        ],
+                        [
+                            122.088361,
+                            30.604674
+                        ],
+                        [
+                            122.066088,
+                            30.618599
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.081399,
+                    30.615937
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.084632,
+                    30.619407
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.094798,
+                    30.612737
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.074783,
+                    30.612756
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSGICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-09-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

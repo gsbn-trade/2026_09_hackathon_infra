@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.257573,
+                            25.832228
+                        ],
+                        [
+                            -80.257593,
+                            25.832641
+                        ],
+                        [
+                            -80.257604,
+                            25.832855
+                        ],
+                        [
+                            -80.259124,
+                            25.832824
+                        ],
+                        [
+                            -80.259069,
+                            25.831184
+                        ],
+                        [
+                            -80.259058,
+                            25.830814
+                        ],
+                        [
+                            -80.25863,
+                            25.830831
+                        ],
+                        [
+                            -80.258491,
+                            25.830832
+                        ],
+                        [
+                            -80.258457,
+                            25.830835
+                        ],
+                        [
+                            -80.258328,
+                            25.83084
+                        ],
+                        [
+                            -80.25792,
+                            25.830852
+                        ],
+                        [
+                            -80.257954,
+                            25.831399
+                        ],
+                        [
+                            -80.258404,
+                            25.831381
+                        ],
+                        [
+                            -80.258423,
+                            25.831942
+                        ],
+                        [
+                            -80.257559,
+                            25.831957
+                        ],
+                        [
+                            -80.257568,
+                            25.832117
+                        ],
+                        [
+                            -80.257573,
+                            25.832228
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIADKDZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiadkdz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.258196,
+                    25.831633
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIADKDZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiadkdz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.286571,
+                            36.541907
+                        ],
+                        [
+                            -6.286846,
+                            36.542071
+                        ],
+                        [
+                            -6.287389,
+                            36.541621
+                        ],
+                        [
+                            -6.290251,
+                            36.539157
+                        ],
+                        [
+                            -6.290073,
+                            36.538914
+                        ],
+                        [
+                            -6.28922,
+                            36.53825
+                        ],
+                        [
+                            -6.288713,
+                            36.537614
+                        ],
+                        [
+                            -6.289869,
+                            36.536721
+                        ],
+                        [
+                            -6.289922,
+                            36.536371
+                        ],
+                        [
+                            -6.290767,
+                            36.535549
+                        ],
+                        [
+                            -6.290216,
+                            36.535057
+                        ],
+                        [
+                            -6.285593,
+                            36.538842
+                        ],
+                        [
+                            -6.286802,
+                            36.539742
+                        ],
+                        [
+                            -6.285335,
+                            36.54095
+                        ],
+                        [
+                            -6.286571,
+                            36.541907
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCADZGXI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/escadzgxi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.288276,
+                    36.538978
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCADZGXI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/escadzgxi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

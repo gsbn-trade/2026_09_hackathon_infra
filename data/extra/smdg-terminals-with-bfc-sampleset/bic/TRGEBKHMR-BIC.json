@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.495254,
+                            40.815415
+                        ],
+                        [
+                            29.494966,
+                            40.8153
+                        ],
+                        [
+                            29.494343,
+                            40.814865
+                        ],
+                        [
+                            29.49384,
+                            40.814585
+                        ],
+                        [
+                            29.494451,
+                            40.813821
+                        ],
+                        [
+                            29.495129,
+                            40.813104
+                        ],
+                        [
+                            29.495835,
+                            40.813406
+                        ],
+                        [
+                            29.496328,
+                            40.812619
+                        ],
+                        [
+                            29.497233,
+                            40.812594
+                        ],
+                        [
+                            29.497206,
+                            40.813008
+                        ],
+                        [
+                            29.495409,
+                            40.815124
+                        ],
+                        [
+                            29.495254,
+                            40.815415
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRGEBKHMR",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/trgebkhmr/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.495437,
+                    40.814105
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRGEBKHMR",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/trgebkhmr/"
+            }
+        }
+    ]
+}

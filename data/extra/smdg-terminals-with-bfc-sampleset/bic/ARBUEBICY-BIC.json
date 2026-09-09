@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.338014,
+                            -34.666652
+                        ],
+                        [
+                            -58.337974,
+                            -34.666094
+                        ],
+                        [
+                            -58.336821,
+                            -34.666091
+                        ],
+                        [
+                            -58.337068,
+                            -34.665413
+                        ],
+                        [
+                            -58.338871,
+                            -34.665479
+                        ],
+                        [
+                            -58.338904,
+                            -34.665773
+                        ],
+                        [
+                            -58.339417,
+                            -34.665804
+                        ],
+                        [
+                            -58.339424,
+                            -34.666606
+                        ],
+                        [
+                            -58.338014,
+                            -34.666652
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEBICY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-12-18",
+                "url": "https://www.bic-code.org/facility-codes/arbuebicy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.338279,
+                    -34.666063
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEBICY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://www.bic-code.org/facility-codes/arbuebicy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

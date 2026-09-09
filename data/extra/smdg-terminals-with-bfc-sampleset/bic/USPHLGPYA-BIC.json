@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -75.139891,
+                            39.91936
+                        ],
+                        [
+                            -75.138974,
+                            39.917888
+                        ],
+                        [
+                            -75.138441,
+                            39.917077
+                        ],
+                        [
+                            -75.138108,
+                            39.917188
+                        ],
+                        [
+                            -75.13751,
+                            39.917008
+                        ],
+                        [
+                            -75.136878,
+                            39.917183
+                        ],
+                        [
+                            -75.136972,
+                            39.917513
+                        ],
+                        [
+                            -75.134055,
+                            39.917092
+                        ],
+                        [
+                            -75.133985,
+                            39.917118
+                        ],
+                        [
+                            -75.134386,
+                            39.918039
+                        ],
+                        [
+                            -75.138247,
+                            39.918526
+                        ],
+                        [
+                            -75.13843,
+                            39.918646
+                        ],
+                        [
+                            -75.138656,
+                            39.91912
+                        ],
+                        [
+                            -75.138647,
+                            39.919233
+                        ],
+                        [
+                            -75.139891,
+                            39.91936
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPHLGPYA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-02-26",
+                "url": "https://www.bic-code.org/facility-codes/usphlgpya/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.137538,
+                    39.918023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPHLGPYA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-02-26",
+                "url": "https://www.bic-code.org/facility-codes/usphlgpya/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,233 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.324578,
+                            -6.126147
+                        ],
+                        [
+                            12.325061,
+                            -6.124734
+                        ],
+                        [
+                            12.324921,
+                            -6.123156
+                        ],
+                        [
+                            12.326038,
+                            -6.12072
+                        ],
+                        [
+                            12.330481,
+                            -6.122702
+                        ],
+                        [
+                            12.330862,
+                            -6.121566
+                        ],
+                        [
+                            12.32567,
+                            -6.119244
+                        ],
+                        [
+                            12.325518,
+                            -6.119345
+                        ],
+                        [
+                            12.325061,
+                            -6.118751
+                        ],
+                        [
+                            12.323246,
+                            -6.119837
+                        ],
+                        [
+                            12.323347,
+                            -6.12019
+                        ],
+                        [
+                            12.322878,
+                            -6.120531
+                        ],
+                        [
+                            12.322573,
+                            -6.120127
+                        ],
+                        [
+                            12.322459,
+                            -6.12014
+                        ],
+                        [
+                            12.322636,
+                            -6.120695
+                        ],
+                        [
+                            12.322154,
+                            -6.121225
+                        ],
+                        [
+                            12.321951,
+                            -6.121541
+                        ],
+                        [
+                            12.32157,
+                            -6.121339
+                        ],
+                        [
+                            12.321545,
+                            -6.120708
+                        ],
+                        [
+                            12.321151,
+                            -6.120682
+                        ],
+                        [
+                            12.321177,
+                            -6.121616
+                        ],
+                        [
+                            12.321583,
+                            -6.121604
+                        ],
+                        [
+                            12.321748,
+                            -6.121755
+                        ],
+                        [
+                            12.321545,
+                            -6.121894
+                        ],
+                        [
+                            12.320999,
+                            -6.121944
+                        ],
+                        [
+                            12.32138,
+                            -6.127157
+                        ],
+                        [
+                            12.321811,
+                            -6.127056
+                        ],
+                        [
+                            12.321824,
+                            -6.127523
+                        ],
+                        [
+                            12.321354,
+                            -6.128419
+                        ],
+                        [
+                            12.321875,
+                            -6.129353
+                        ],
+                        [
+                            12.322243,
+                            -6.129113
+                        ],
+                        [
+                            12.323017,
+                            -6.129365
+                        ],
+                        [
+                            12.324578,
+                            -6.126147
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOSZASZA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.321038,
+                            -6.122029
+                        ],
+                        [
+                            12.320391,
+                            -6.122067
+                        ],
+                        [
+                            12.320721,
+                            -6.12733
+                        ],
+                        [
+                            12.321394,
+                            -6.127216
+                        ],
+                        [
+                            12.321038,
+                            -6.122029
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOSZASZA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.323298,
+                    -6.122919
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOSZASZA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.320916,
+                    -6.124134
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOSZASZA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.623446,
+                            4.741952
+                        ],
+                        [
+                            -6.623451,
+                            4.741165
+                        ],
+                        [
+                            -6.623538,
+                            4.740787
+                        ],
+                        [
+                            -6.62377,
+                            4.740717
+                        ],
+                        [
+                            -6.62429,
+                            4.740857
+                        ],
+                        [
+                            -6.624582,
+                            4.740906
+                        ],
+                        [
+                            -6.625562,
+                            4.741019
+                        ],
+                        [
+                            -6.625703,
+                            4.739438
+                        ],
+                        [
+                            -6.624458,
+                            4.739568
+                        ],
+                        [
+                            -6.624193,
+                            4.740674
+                        ],
+                        [
+                            -6.623852,
+                            4.740631
+                        ],
+                        [
+                            -6.623521,
+                            4.740641
+                        ],
+                        [
+                            -6.623332,
+                            4.740879
+                        ],
+                        [
+                            -6.623283,
+                            4.741564
+                        ],
+                        [
+                            -6.623267,
+                            4.741936
+                        ],
+                        [
+                            -6.623446,
+                            4.741952
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYDEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispydepa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.623981,
+                    4.740918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYDEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispydepa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

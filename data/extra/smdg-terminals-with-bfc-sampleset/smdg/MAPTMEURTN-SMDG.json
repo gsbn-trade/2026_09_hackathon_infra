@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.489932,
+                            35.88972
+                        ],
+                        [
+                            -5.488614,
+                            35.890805
+                        ],
+                        [
+                            -5.487364,
+                            35.891929
+                        ],
+                        [
+                            -5.487044,
+                            35.892202
+                        ],
+                        [
+                            -5.486696,
+                            35.892476
+                        ],
+                        [
+                            -5.486022,
+                            35.893026
+                        ],
+                        [
+                            -5.485184,
+                            35.893717
+                        ],
+                        [
+                            -5.484665,
+                            35.894169
+                        ],
+                        [
+                            -5.484797,
+                            35.894262
+                        ],
+                        [
+                            -5.484845,
+                            35.894435
+                        ],
+                        [
+                            -5.484798,
+                            35.89446
+                        ],
+                        [
+                            -5.48485,
+                            35.894677
+                        ],
+                        [
+                            -5.484898,
+                            35.894881
+                        ],
+                        [
+                            -5.484882,
+                            35.894904
+                        ],
+                        [
+                            -5.484897,
+                            35.894984
+                        ],
+                        [
+                            -5.484953,
+                            35.895149
+                        ],
+                        [
+                            -5.48503,
+                            35.895258
+                        ],
+                        [
+                            -5.48516,
+                            35.895372
+                        ],
+                        [
+                            -5.485442,
+                            35.895588
+                        ],
+                        [
+                            -5.485619,
+                            35.895741
+                        ],
+                        [
+                            -5.485724,
+                            35.895887
+                        ],
+                        [
+                            -5.485788,
+                            35.896037
+                        ],
+                        [
+                            -5.485827,
+                            35.896196
+                        ],
+                        [
+                            -5.485891,
+                            35.89669
+                        ],
+                        [
+                            -5.486786,
+                            35.897407
+                        ],
+                        [
+                            -5.487691,
+                            35.8981
+                        ],
+                        [
+                            -5.4939,
+                            35.89284
+                        ],
+                        [
+                            -5.489932,
+                            35.88972
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMEURTN",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-30",
+                "remarks": "Provided by Ahmed Belkadi, Eurogate Tangier.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.493901,
+                            35.892852
+                        ],
+                        [
+                            -5.48771,
+                            35.898099
+                        ],
+                        [
+                            -5.488252,
+                            35.898529
+                        ],
+                        [
+                            -5.494439,
+                            35.893278
+                        ],
+                        [
+                            -5.493901,
+                            35.892852
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMEURTN",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-30",
+                "remarks": "Provided by Ahmed Belkadi, Eurogate Tangier.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.48633,
+                    35.894308
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMEURTN",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-30",
+                "remarks": "Provided by Ahmed Belkadi, Eurogate Tangier.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.491641,
+                    35.895122
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMEURTN",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-30",
+                "remarks": "Provided by Ahmed Belkadi, Eurogate Tangier.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

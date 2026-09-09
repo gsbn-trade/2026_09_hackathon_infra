@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.628915,
+                            31.848051
+                        ],
+                        [
+                            -116.627719,
+                            31.848673
+                        ],
+                        [
+                            -116.628756,
+                            31.850208
+                        ],
+                        [
+                            -116.628828,
+                            31.850528
+                        ],
+                        [
+                            -116.629026,
+                            31.850786
+                        ],
+                        [
+                            -116.628971,
+                            31.850934
+                        ],
+                        [
+                            -116.628889,
+                            31.850882
+                        ],
+                        [
+                            -116.628728,
+                            31.850972
+                        ],
+                        [
+                            -116.629005,
+                            31.851396
+                        ],
+                        [
+                            -116.628806,
+                            31.851525
+                        ],
+                        [
+                            -116.630463,
+                            31.853844
+                        ],
+                        [
+                            -116.632336,
+                            31.853472
+                        ],
+                        [
+                            -116.63251,
+                            31.853028
+                        ],
+                        [
+                            -116.631834,
+                            31.851969
+                        ],
+                        [
+                            -116.628915,
+                            31.848051
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEENSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseensa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.62958,
+                    31.850955
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEENSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseensa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

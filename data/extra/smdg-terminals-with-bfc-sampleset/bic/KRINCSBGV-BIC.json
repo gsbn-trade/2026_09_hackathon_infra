@@ -1,0 +1,91 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            126.600839,
+                            37.443643
+                        ],
+                        [
+                            126.600894,
+                            37.44204
+                        ],
+                        [
+                            126.601907,
+                            37.442056
+                        ],
+                        [
+                            126.602631,
+                            37.44234
+                        ],
+                        [
+                            126.603009,
+                            37.442541
+                        ],
+                        [
+                            126.603164,
+                            37.442954
+                        ],
+                        [
+                            126.603174,
+                            37.443688
+                        ],
+                        [
+                            126.603063,
+                            37.443687
+                        ],
+                        [
+                            126.602578,
+                            37.443534
+                        ],
+                        [
+                            126.601954,
+                            37.44336
+                        ],
+                        [
+                            126.601348,
+                            37.443456
+                        ],
+                        [
+                            126.600839,
+                            37.443643
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRINCSBGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by Evergreen",
+                "url": "https://www.bic-code.org/facility-codes/krincsbgv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.602117,
+                    37.443078
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRINCSBGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Evergreen",
+                "url": "https://www.bic-code.org/facility-codes/krincsbgv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

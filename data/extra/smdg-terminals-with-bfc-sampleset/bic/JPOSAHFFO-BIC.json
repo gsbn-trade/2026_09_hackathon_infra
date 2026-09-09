@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.392719,
+                            34.648869
+                        ],
+                        [
+                            135.394511,
+                            34.647678
+                        ],
+                        [
+                            135.396915,
+                            34.646051
+                        ],
+                        [
+                            135.404462,
+                            34.653688
+                        ],
+                        [
+                            135.400215,
+                            34.656617
+                        ],
+                        [
+                            135.392874,
+                            34.649028
+                        ],
+                        [
+                            135.392719,
+                            34.648869
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAHFFO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-03",
+                "remarks": "As per HiroakiHapag",
+                "url": "https://www.bic-code.org/facility-codes/jposahffo/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.396345,
+                    34.650114
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAHFFO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-03",
+                "remarks": "As per HiroakiHapag",
+                "url": "https://www.bic-code.org/facility-codes/jposahffo/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

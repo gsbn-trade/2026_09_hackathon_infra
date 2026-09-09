@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.168459,
+                            44.412788
+                        ],
+                        [
+                            12.168484,
+                            44.412754
+                        ],
+                        [
+                            12.169565,
+                            44.412568
+                        ],
+                        [
+                            12.170666,
+                            44.413021
+                        ],
+                        [
+                            12.170395,
+                            44.413397
+                        ],
+                        [
+                            12.170214,
+                            44.413486
+                        ],
+                        [
+                            12.17006,
+                            44.413482
+                        ],
+                        [
+                            12.168459,
+                            44.412788
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANSARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itransara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.166756,
+                            44.413191
+                        ],
+                        [
+                            12.166788,
+                            44.413109
+                        ],
+                        [
+                            12.166929,
+                            44.412999
+                        ],
+                        [
+                            12.167745,
+                            44.412738
+                        ],
+                        [
+                            12.168015,
+                            44.412765
+                        ],
+                        [
+                            12.168326,
+                            44.412849
+                        ],
+                        [
+                            12.168256,
+                            44.412912
+                        ],
+                        [
+                            12.169806,
+                            44.4136
+                        ],
+                        [
+                            12.169773,
+                            44.413711
+                        ],
+                        [
+                            12.169597,
+                            44.413961
+                        ],
+                        [
+                            12.169283,
+                            44.414037
+                        ],
+                        [
+                            12.16801,
+                            44.414357
+                        ],
+                        [
+                            12.16736,
+                            44.413634
+                        ],
+                        [
+                            12.167026,
+                            44.41368
+                        ],
+                        [
+                            12.166756,
+                            44.413191
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANSARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itransara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.169538,
+                    44.413035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANSARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itransara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.168028,
+                    44.413382
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITRANSARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itransara/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.321551,
+                            51.968216
+                        ],
+                        [
+                            1.321422,
+                            51.968203
+                        ],
+                        [
+                            1.321454,
+                            51.968037
+                        ],
+                        [
+                            1.321551,
+                            51.967738
+                        ],
+                        [
+                            1.321626,
+                            51.967393
+                        ],
+                        [
+                            1.321422,
+                            51.967008
+                        ],
+                        [
+                            1.321152,
+                            51.966543
+                        ],
+                        [
+                            1.321928,
+                            51.966125
+                        ],
+                        [
+                            1.323361,
+                            51.968362
+                        ],
+                        [
+                            1.321551,
+                            51.968216
+                        ]
+                    ]
+                ]
+            },
+            "id": 1,
+            "type": "Feature",
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "GBFXTJKMA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-07",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtjkma/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.321702,
+                    51.967584
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "GBFXTJKMA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-07",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtjkma/"
+            }
+        }
+    ]
+}

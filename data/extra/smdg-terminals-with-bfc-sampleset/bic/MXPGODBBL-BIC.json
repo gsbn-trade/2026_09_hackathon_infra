@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.651215,
+                            21.177782
+                        ],
+                        [
+                            -89.64914,
+                            21.177961
+                        ],
+                        [
+                            -89.6492,
+                            21.1789
+                        ],
+                        [
+                            -89.651315,
+                            21.1787
+                        ],
+                        [
+                            -89.651215,
+                            21.177782
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGODBBL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgodbbl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.650417,
+                    21.178225
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGODBBL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgodbbl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

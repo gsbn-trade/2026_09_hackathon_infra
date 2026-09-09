@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.075873,
+                            25.004618
+                        ],
+                        [
+                            55.078532,
+                            25.006988
+                        ],
+                        [
+                            55.081326,
+                            25.004004
+                        ],
+                        [
+                            55.081312,
+                            25.003262
+                        ],
+                        [
+                            55.070608,
+                            24.993944
+                        ],
+                        [
+                            55.071694,
+                            24.992908
+                        ],
+                        [
+                            55.071428,
+                            24.992674
+                        ],
+                        [
+                            55.071737,
+                            24.992382
+                        ],
+                        [
+                            55.072072,
+                            24.992472
+                        ],
+                        [
+                            55.072137,
+                            24.992507
+                        ],
+                        [
+                            55.07259,
+                            24.992115
+                        ],
+                        [
+                            55.060749,
+                            24.98182
+                        ],
+                        [
+                            55.060595,
+                            24.981836
+                        ],
+                        [
+                            55.05766,
+                            24.988889
+                        ],
+                        [
+                            55.075873,
+                            25.004618
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "AEJEAJUHG",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-14",
+                "url": "https://www.bic-code.org/facility-codes/aejeajuhg/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.071612,
+                    24.995002
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "AEJEAJUHG",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-14",
+                "url": "https://www.bic-code.org/facility-codes/aejeajuhg/"
+            }
+        }
+    ]
+}

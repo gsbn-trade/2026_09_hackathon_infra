@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.183155,
+                            38.770648
+                        ],
+                        [
+                            -9.183972,
+                            38.770388
+                        ],
+                        [
+                            -9.183516,
+                            38.770232
+                        ],
+                        [
+                            -9.182803,
+                            38.769076
+                        ],
+                        [
+                            -9.181971,
+                            38.76985
+                        ],
+                        [
+                            -9.182236,
+                            38.770193
+                        ],
+                        [
+                            -9.182446,
+                            38.770113
+                        ],
+                        [
+                            -9.182596,
+                            38.770379
+                        ],
+                        [
+                            -9.182914,
+                            38.770274
+                        ],
+                        [
+                            -9.183155,
+                            38.770648
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISPOLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptlispola/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.182876,
+                    38.77018
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISPOLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptlispola/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

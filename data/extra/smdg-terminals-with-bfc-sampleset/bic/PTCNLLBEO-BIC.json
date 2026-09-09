@@ -1,0 +1,127 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.734392,
+                            32.736103
+                        ],
+                        [
+                            -16.731601,
+                            32.737242
+                        ],
+                        [
+                            -16.731758,
+                            32.737522
+                        ],
+                        [
+                            -16.73196,
+                            32.737463
+                        ],
+                        [
+                            -16.732355,
+                            32.73831
+                        ],
+                        [
+                            -16.73159,
+                            32.739135
+                        ],
+                        [
+                            -16.730892,
+                            32.739797
+                        ],
+                        [
+                            -16.73066,
+                            32.739623
+                        ],
+                        [
+                            -16.730214,
+                            32.740213
+                        ],
+                        [
+                            -16.730549,
+                            32.740389
+                        ],
+                        [
+                            -16.732565,
+                            32.738434
+                        ],
+                        [
+                            -16.733502,
+                            32.738102
+                        ],
+                        [
+                            -16.733927,
+                            32.737728
+                        ],
+                        [
+                            -16.733885,
+                            32.737649
+                        ],
+                        [
+                            -16.734273,
+                            32.737511
+                        ],
+                        [
+                            -16.734552,
+                            32.737507
+                        ],
+                        [
+                            -16.73503,
+                            32.737583
+                        ],
+                        [
+                            -16.734947,
+                            32.737145
+                        ],
+                        [
+                            -16.73444,
+                            32.736248
+                        ],
+                        [
+                            -16.734459,
+                            32.736213
+                        ],
+                        [
+                            -16.734392,
+                            32.736103
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLLBEO",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://www.bic-code.org/facility-codes/ptcnllbeo/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.73295,
+                    32.737906
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLLBEO",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://www.bic-code.org/facility-codes/ptcnllbeo/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

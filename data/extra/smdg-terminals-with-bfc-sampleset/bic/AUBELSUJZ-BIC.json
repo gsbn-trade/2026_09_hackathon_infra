@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            146.861276,
+                            -41.131644
+                        ],
+                        [
+                            146.861217,
+                            -41.131694
+                        ],
+                        [
+                            146.862836,
+                            -41.133237
+                        ],
+                        [
+                            146.863703,
+                            -41.132682
+                        ],
+                        [
+                            146.862063,
+                            -41.131183
+                        ],
+                        [
+                            146.861276,
+                            -41.131644
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBELSUJZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubelsujz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.862062,
+                    -41.132014
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBELSUJZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubelsujz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

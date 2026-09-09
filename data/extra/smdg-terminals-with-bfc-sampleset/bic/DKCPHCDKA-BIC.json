@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.606912,
+                            55.719001
+                        ],
+                        [
+                            12.605249,
+                            55.719343
+                        ],
+                        [
+                            12.605196,
+                            55.719355
+                        ],
+                        [
+                            12.604685,
+                            55.719451
+                        ],
+                        [
+                            12.604036,
+                            55.718342
+                        ],
+                        [
+                            12.604003,
+                            55.718349
+                        ],
+                        [
+                            12.60393,
+                            55.718363
+                        ],
+                        [
+                            12.6034,
+                            55.71847
+                        ],
+                        [
+                            12.603318,
+                            55.718487
+                        ],
+                        [
+                            12.602612,
+                            55.718632
+                        ],
+                        [
+                            12.602532,
+                            55.718649
+                        ],
+                        [
+                            12.601877,
+                            55.718783
+                        ],
+                        [
+                            12.601834,
+                            55.718792
+                        ],
+                        [
+                            12.60105,
+                            55.718953
+                        ],
+                        [
+                            12.600924,
+                            55.71876
+                        ],
+                        [
+                            12.600837,
+                            55.718625
+                        ],
+                        [
+                            12.601121,
+                            55.718566
+                        ],
+                        [
+                            12.600525,
+                            55.717645
+                        ],
+                        [
+                            12.60338,
+                            55.717058
+                        ],
+                        [
+                            12.603967,
+                            55.717965
+                        ],
+                        [
+                            12.605973,
+                            55.717552
+                        ],
+                        [
+                            12.606912,
+                            55.719001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DKCPHCDKA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/dkcphcdka/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.603376,
+                    55.718552
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DKCPHCDKA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/dkcphcdka/"
+            }
+        }
+    ]
+}

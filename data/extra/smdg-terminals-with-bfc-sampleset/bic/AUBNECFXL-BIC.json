@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.17309,
+                            -27.384469
+                        ],
+                        [
+                            153.170322,
+                            -27.388432
+                        ],
+                        [
+                            153.169778,
+                            -27.389345
+                        ],
+                        [
+                            153.169836,
+                            -27.389896
+                        ],
+                        [
+                            153.170745,
+                            -27.39058
+                        ],
+                        [
+                            153.171141,
+                            -27.391193
+                        ],
+                        [
+                            153.171837,
+                            -27.390892
+                        ],
+                        [
+                            153.172972,
+                            -27.389851
+                        ],
+                        [
+                            153.173959,
+                            -27.38846
+                        ],
+                        [
+                            153.174452,
+                            -27.386717
+                        ],
+                        [
+                            153.175182,
+                            -27.385545
+                        ],
+                        [
+                            153.17309,
+                            -27.384469
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNECFXL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubnecfxl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1722,
+                    -27.388321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNECFXL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubnecfxl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

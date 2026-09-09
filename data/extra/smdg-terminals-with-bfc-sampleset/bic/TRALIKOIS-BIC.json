@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.954941,
+                            38.743914
+                        ],
+                        [
+                            26.953895,
+                            38.744724
+                        ],
+                        [
+                            26.95337,
+                            38.745134
+                        ],
+                        [
+                            26.953073,
+                            38.745357
+                        ],
+                        [
+                            26.952932,
+                            38.745504
+                        ],
+                        [
+                            26.952865,
+                            38.745526
+                        ],
+                        [
+                            26.952594,
+                            38.745449
+                        ],
+                        [
+                            26.95234,
+                            38.745392
+                        ],
+                        [
+                            26.951422,
+                            38.745302
+                        ],
+                        [
+                            26.951641,
+                            38.745088
+                        ],
+                        [
+                            26.951883,
+                            38.744893
+                        ],
+                        [
+                            26.951647,
+                            38.744863
+                        ],
+                        [
+                            26.951626,
+                            38.74452
+                        ],
+                        [
+                            26.951626,
+                            38.744353
+                        ],
+                        [
+                            26.952259,
+                            38.744407
+                        ],
+                        [
+                            26.952656,
+                            38.743365
+                        ],
+                        [
+                            26.952864,
+                            38.743006
+                        ],
+                        [
+                            26.953074,
+                            38.742656
+                        ],
+                        [
+                            26.953157,
+                            38.742495
+                        ],
+                        [
+                            26.954193,
+                            38.74274
+                        ],
+                        [
+                            26.954941,
+                            38.743914
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIKOIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/tralikois/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.952809,
+                    38.74441
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIKOIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/tralikois/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

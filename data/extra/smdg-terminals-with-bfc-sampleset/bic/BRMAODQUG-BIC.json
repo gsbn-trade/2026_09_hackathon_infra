@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.985366,
+                            -2.986346
+                        ],
+                        [
+                            -59.986751,
+                            -2.986308
+                        ],
+                        [
+                            -59.986598,
+                            -2.986559
+                        ],
+                        [
+                            -59.986323,
+                            -2.986928
+                        ],
+                        [
+                            -59.985963,
+                            -2.987206
+                        ],
+                        [
+                            -59.98574,
+                            -2.987273
+                        ],
+                        [
+                            -59.985417,
+                            -2.987287
+                        ],
+                        [
+                            -59.985366,
+                            -2.986346
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAODQUG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaodqug/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.98594,
+                    -2.986782
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAODQUG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaodqug/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

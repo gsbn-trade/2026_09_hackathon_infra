@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -43.739728,
+                            -22.882854
+                        ],
+                        [
+                            -43.741513,
+                            -22.88499
+                        ],
+                        [
+                            -43.740511,
+                            -22.885431
+                        ],
+                        [
+                            -43.738698,
+                            -22.883201
+                        ],
+                        [
+                            -43.739728,
+                            -22.882854
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSPBTIOH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/brspbtioh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.740036,
+                    -22.883866
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSPBTIOH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/brspbtioh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

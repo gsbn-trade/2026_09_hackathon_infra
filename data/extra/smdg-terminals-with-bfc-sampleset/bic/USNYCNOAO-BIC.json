@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.130199,
+                            40.706115
+                        ],
+                        [
+                            -74.130414,
+                            40.705806
+                        ],
+                        [
+                            -74.127989,
+                            40.704009
+                        ],
+                        [
+                            -74.124899,
+                            40.702227
+                        ],
+                        [
+                            -74.123708,
+                            40.704057
+                        ],
+                        [
+                            -74.127163,
+                            40.705351
+                        ],
+                        [
+                            -74.129963,
+                            40.706432
+                        ],
+                        [
+                            -74.130199,
+                            40.706115
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNOAO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnycnoao/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.128067,
+                    40.705014
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNOAO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnycnoao/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

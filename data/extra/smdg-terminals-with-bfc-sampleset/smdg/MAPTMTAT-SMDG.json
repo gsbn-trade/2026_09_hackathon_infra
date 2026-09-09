@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.528669,
+                            35.8729
+                        ],
+                        [
+                            -5.522971,
+                            35.87826
+                        ],
+                        [
+                            -5.523538,
+                            35.878706
+                        ],
+                        [
+                            -5.529252,
+                            35.873331
+                        ],
+                        [
+                            -5.528669,
+                            35.8729
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMTAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-04-30",
+                "remarks": "Outdated Mapbox satellite imagery and Google map view. Quay length 800 m according to TAT website. Adjacent to phase 3 of APMT Tanger Med 2.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.524856,
+                            35.870241
+                        ],
+                        [
+                            -5.523249,
+                            35.871853
+                        ],
+                        [
+                            -5.52275,
+                            35.871511
+                        ],
+                        [
+                            -5.520286,
+                            35.873025
+                        ],
+                        [
+                            -5.519717,
+                            35.873595
+                        ],
+                        [
+                            -5.519979,
+                            35.873971
+                        ],
+                        [
+                            -5.520237,
+                            35.874159
+                        ],
+                        [
+                            -5.520247,
+                            35.874252
+                        ],
+                        [
+                            -5.520339,
+                            35.874354
+                        ],
+                        [
+                            -5.520414,
+                            35.874432
+                        ],
+                        [
+                            -5.520336,
+                            35.874529
+                        ],
+                        [
+                            -5.520402,
+                            35.874564
+                        ],
+                        [
+                            -5.522436,
+                            35.877542
+                        ],
+                        [
+                            -5.522383,
+                            35.877752
+                        ],
+                        [
+                            -5.522963,
+                            35.878257
+                        ],
+                        [
+                            -5.52866,
+                            35.872892
+                        ],
+                        [
+                            -5.524856,
+                            35.870241
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMTAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-04-30",
+                "remarks": "Outdated Mapbox satellite imagery and Google map view. Quay length 800 m according to TAT website. Adjacent to phase 3 of APMT Tanger Med 2.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.52662,
+                    35.875219
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMTAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-30",
+                "remarks": "Outdated Mapbox satellite imagery and Google map view. Quay length 800 m according to TAT website. Adjacent to phase 3 of APMT Tanger Med 2.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.522006,
+                    35.873951
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMTAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-30",
+                "remarks": "Outdated Mapbox satellite imagery and Google map view. Quay length 800 m according to TAT website. Adjacent to phase 3 of APMT Tanger Med 2.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

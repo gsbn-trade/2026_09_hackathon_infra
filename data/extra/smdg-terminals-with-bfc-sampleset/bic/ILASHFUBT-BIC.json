@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.6655,
+                            31.8348
+                        ],
+                        [
+                            34.6665,
+                            31.8343
+                        ],
+                        [
+                            34.6675,
+                            31.8339
+                        ],
+                        [
+                            34.6685,
+                            31.8347
+                        ],
+                        [
+                            34.6661,
+                            31.8358
+                        ],
+                        [
+                            34.6655,
+                            31.8348
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHFUBT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/ilashfubt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.6666,
+                    31.834717
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHFUBT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/ilashfubt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

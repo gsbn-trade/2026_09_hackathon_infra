@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.412831,
+                            34.62802
+                        ],
+                        [
+                            135.412828,
+                            34.626671
+                        ],
+                        [
+                            135.412827,
+                            34.625867
+                        ],
+                        [
+                            135.416152,
+                            34.625862
+                        ],
+                        [
+                            135.416137,
+                            34.62803
+                        ],
+                        [
+                            135.412831,
+                            34.62802
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAFEVX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-03",
+                "url": "https://www.bic-code.org/facility-codes/jposafevx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.413934,
+                    34.627078
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAFEVX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-03",
+                "url": "https://www.bic-code.org/facility-codes/jposafevx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

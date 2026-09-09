@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -60.696758,
+                            -32.997129
+                        ],
+                        [
+                            -60.698649,
+                            -32.995649
+                        ],
+                        [
+                            -60.699106,
+                            -32.995665
+                        ],
+                        [
+                            -60.698947,
+                            -32.998667
+                        ],
+                        [
+                            -60.696713,
+                            -32.998582
+                        ],
+                        [
+                            -60.696758,
+                            -32.997129
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSTAGF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrostagf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.697822,
+                    -32.997137
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSTAGF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrostagf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

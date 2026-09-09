@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.750007,
+                            25.154619
+                        ],
+                        [
+                            121.749244,
+                            25.155707
+                        ],
+                        [
+                            121.743644,
+                            25.151791
+                        ],
+                        [
+                            121.744535,
+                            25.150831
+                        ],
+                        [
+                            121.750007,
+                            25.154619
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELDCFU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-10",
+                "url": "https://www.bic-code.org/facility-codes/twkeldcfu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.747487,
+                    25.153513
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELDCFU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-10",
+                "url": "https://www.bic-code.org/facility-codes/twkeldcfu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

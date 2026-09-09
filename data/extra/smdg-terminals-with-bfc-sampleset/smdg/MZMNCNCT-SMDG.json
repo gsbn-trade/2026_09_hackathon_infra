@@ -1,0 +1,333 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.669798,
+                            -14.537348
+                        ],
+                        [
+                            40.670544,
+                            -14.538232
+                        ],
+                        [
+                            40.666313,
+                            -14.541957
+                        ],
+                        [
+                            40.668917,
+                            -14.544246
+                        ],
+                        [
+                            40.66779,
+                            -14.545318
+                        ],
+                        [
+                            40.665279,
+                            -14.542963
+                        ],
+                        [
+                            40.665461,
+                            -14.542768
+                        ],
+                        [
+                            40.665085,
+                            -14.542373
+                        ],
+                        [
+                            40.664988,
+                            -14.542172
+                        ],
+                        [
+                            40.665163,
+                            -14.541871
+                        ],
+                        [
+                            40.665351,
+                            -14.541671
+                        ],
+                        [
+                            40.665205,
+                            -14.541473
+                        ],
+                        [
+                            40.665607,
+                            -14.541134
+                        ],
+                        [
+                            40.665568,
+                            -14.541021
+                        ],
+                        [
+                            40.669798,
+                            -14.537348
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.66973,
+                            -14.537308
+                        ],
+                        [
+                            40.66946,
+                            -14.536998
+                        ],
+                        [
+                            40.663945,
+                            -14.542229
+                        ],
+                        [
+                            40.667139,
+                            -14.545653
+                        ],
+                        [
+                            40.667765,
+                            -14.54532
+                        ],
+                        [
+                            40.665236,
+                            -14.54295
+                        ],
+                        [
+                            40.665456,
+                            -14.542724
+                        ],
+                        [
+                            40.66499,
+                            -14.542201
+                        ],
+                        [
+                            40.665076,
+                            -14.541963
+                        ],
+                        [
+                            40.665137,
+                            -14.541725
+                        ],
+                        [
+                            40.665321,
+                            -14.541606
+                        ],
+                        [
+                            40.665199,
+                            -14.541452
+                        ],
+                        [
+                            40.665653,
+                            -14.541166
+                        ],
+                        [
+                            40.665579,
+                            -14.540988
+                        ],
+                        [
+                            40.66973,
+                            -14.537308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.666832,
+                            -14.541428
+                        ],
+                        [
+                            40.67075,
+                            -14.544923
+                        ],
+                        [
+                            40.671843,
+                            -14.546563
+                        ],
+                        [
+                            40.671566,
+                            -14.546723
+                        ],
+                        [
+                            40.670362,
+                            -14.545321
+                        ],
+                        [
+                            40.668914,
+                            -14.544234
+                        ],
+                        [
+                            40.667623,
+                            -14.543109
+                        ],
+                        [
+                            40.666321,
+                            -14.54192
+                        ],
+                        [
+                            40.666832,
+                            -14.541428
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "ASSOCIATED_RAIL",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.668351,
+                            -14.542449
+                        ],
+                        [
+                            40.66815,
+                            -14.542623
+                        ],
+                        [
+                            40.666883,
+                            -14.541454
+                        ],
+                        [
+                            40.667053,
+                            -14.541285
+                        ],
+                        [
+                            40.668351,
+                            -14.542449
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "GATE",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.666724,
+                    -14.54146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.666361,
+                    -14.541439
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.669005,
+                    -14.543961
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.667758,
+                    -14.542052
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCNCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

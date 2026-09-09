@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.00152,
+                            6.42704
+                        ],
+                        [
+                            4.016262,
+                            6.424097
+                        ],
+                        [
+                            4.017013,
+                            6.42881
+                        ],
+                        [
+                            4.002271,
+                            6.431539
+                        ],
+                        [
+                            4.00152,
+                            6.42704
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGLKKLFTL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.00152,
+                            6.427082
+                        ],
+                        [
+                            4.001456,
+                            6.426443
+                        ],
+                        [
+                            4.00888,
+                            6.425035
+                        ],
+                        [
+                            4.008966,
+                            6.425547
+                        ],
+                        [
+                            4.00152,
+                            6.427082
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGLKKLFTL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.007717,
+                    6.427705
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGLKKLFTL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.004468,
+                    6.426238
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGLKKLFTL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

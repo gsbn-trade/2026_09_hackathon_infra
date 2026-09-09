@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.4285,
+                            50.896573
+                        ],
+                        [
+                            -1.428825,
+                            50.896504
+                        ],
+                        [
+                            -1.429059,
+                            50.89641
+                        ],
+                        [
+                            -1.429702,
+                            50.896079
+                        ],
+                        [
+                            -1.43045,
+                            50.895707
+                        ],
+                        [
+                            -1.430217,
+                            50.895518
+                        ],
+                        [
+                            -1.429811,
+                            50.895132
+                        ],
+                        [
+                            -1.429688,
+                            50.894637
+                        ],
+                        [
+                            -1.428828,
+                            50.894736
+                        ],
+                        [
+                            -1.428447,
+                            50.895498
+                        ],
+                        [
+                            -1.427839,
+                            50.896293
+                        ],
+                        [
+                            -1.4285,
+                            50.896573
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUHIQT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouhiqt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.429156,
+                    50.895805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUHIQT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouhiqt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.200016,
+                            19.229013
+                        ],
+                        [
+                            -96.20005,
+                            19.227798
+                        ],
+                        [
+                            -96.197217,
+                            19.227698
+                        ],
+                        [
+                            -96.197182,
+                            19.228952
+                        ],
+                        [
+                            -96.200016,
+                            19.229013
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxverdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.197621,
+                            19.228966
+                        ],
+                        [
+                            -96.197425,
+                            19.228958
+                        ],
+                        [
+                            -96.197427,
+                            19.228715
+                        ],
+                        [
+                            -96.197629,
+                            19.228721
+                        ],
+                        [
+                            -96.197621,
+                            19.228966
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxverdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.198896,
+                    19.228495
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxverdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.197545,
+                    19.228865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxverdcci/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

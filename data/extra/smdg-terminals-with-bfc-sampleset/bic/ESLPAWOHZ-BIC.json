@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.4144,
+                            28.136903
+                        ],
+                        [
+                            -15.414749,
+                            28.136891
+                        ],
+                        [
+                            -15.414737,
+                            28.137368
+                        ],
+                        [
+                            -15.414843,
+                            28.137478
+                        ],
+                        [
+                            -15.415194,
+                            28.137528
+                        ],
+                        [
+                            -15.415639,
+                            28.137523
+                        ],
+                        [
+                            -15.416072,
+                            28.13753
+                        ],
+                        [
+                            -15.416088,
+                            28.137253
+                        ],
+                        [
+                            -15.41696,
+                            28.137257
+                        ],
+                        [
+                            -15.416933,
+                            28.136733
+                        ],
+                        [
+                            -15.417458,
+                            28.136759
+                        ],
+                        [
+                            -15.417581,
+                            28.128738
+                        ],
+                        [
+                            -15.412096,
+                            28.128717
+                        ],
+                        [
+                            -15.411772,
+                            28.13682
+                        ],
+                        [
+                            -15.4144,
+                            28.136903
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAWOHZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/eslpawohz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.415261,
+                    28.136027
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAWOHZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/eslpawohz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

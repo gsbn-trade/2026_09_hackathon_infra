@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.676216,
+                            4.027421
+                        ],
+                        [
+                            9.677257,
+                            4.028106
+                        ],
+                        [
+                            9.678732,
+                            4.025821
+                        ],
+                        [
+                            9.677675,
+                            4.025088
+                        ],
+                        [
+                            9.676216,
+                            4.027421
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAZGBW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlazgbw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.677219,
+                    4.026771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAZGBW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlazgbw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

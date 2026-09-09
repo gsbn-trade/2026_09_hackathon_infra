@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            125.711599,
+                            7.297922
+                        ],
+                        [
+                            125.711121,
+                            7.297094
+                        ],
+                        [
+                            125.713183,
+                            7.295947
+                        ],
+                        [
+                            125.712841,
+                            7.295282
+                        ],
+                        [
+                            125.712084,
+                            7.293859
+                        ],
+                        [
+                            125.713119,
+                            7.293307
+                        ],
+                        [
+                            125.713526,
+                            7.293392
+                        ],
+                        [
+                            125.713783,
+                            7.293513
+                        ],
+                        [
+                            125.71417,
+                            7.293568
+                        ],
+                        [
+                            125.714765,
+                            7.29292
+                        ],
+                        [
+                            125.714091,
+                            7.292478
+                        ],
+                        [
+                            125.714149,
+                            7.292304
+                        ],
+                        [
+                            125.715124,
+                            7.293024
+                        ],
+                        [
+                            125.717978,
+                            7.29565
+                        ],
+                        [
+                            125.717578,
+                            7.296103
+                        ],
+                        [
+                            125.717279,
+                            7.296131
+                        ],
+                        [
+                            125.716315,
+                            7.295841
+                        ],
+                        [
+                            125.715252,
+                            7.295494
+                        ],
+                        [
+                            125.715017,
+                            7.295572
+                        ],
+                        [
+                            125.713169,
+                            7.297568
+                        ],
+                        [
+                            125.711599,
+                            7.297922
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOAIGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phdvoaiga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.714178,
+                    7.294995
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOAIGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phdvoaiga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

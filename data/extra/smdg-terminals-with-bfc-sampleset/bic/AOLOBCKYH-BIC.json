@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.5431,
+                            -12.3526
+                        ],
+                        [
+                            13.5421,
+                            -12.3525
+                        ],
+                        [
+                            13.5421,
+                            -12.356
+                        ],
+                        [
+                            13.5431,
+                            -12.356
+                        ],
+                        [
+                            13.5431,
+                            -12.3526
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLOBCKYH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aolobckyh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5427,
+                    -12.35394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLOBCKYH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aolobckyh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

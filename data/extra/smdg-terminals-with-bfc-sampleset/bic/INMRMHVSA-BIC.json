@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.793341,
+                            15.414294
+                        ],
+                        [
+                            73.796737,
+                            15.411963
+                        ],
+                        [
+                            73.797754,
+                            15.410967
+                        ],
+                        [
+                            73.798974,
+                            15.411661
+                        ],
+                        [
+                            73.799819,
+                            15.411073
+                        ],
+                        [
+                            73.800164,
+                            15.411586
+                        ],
+                        [
+                            73.794585,
+                            15.415787
+                        ],
+                        [
+                            73.793341,
+                            15.414294
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMHVSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inmrmhvsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.796839,
+                    15.412703
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMHVSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inmrmhvsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

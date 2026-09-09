@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.494338,
+                            -34.766455
+                        ],
+                        [
+                            138.493436,
+                            -34.767029
+                        ],
+                        [
+                            138.493209,
+                            -34.766817
+                        ],
+                        [
+                            138.487867,
+                            -34.770425
+                        ],
+                        [
+                            138.487665,
+                            -34.770572
+                        ],
+                        [
+                            138.487709,
+                            -34.770948
+                        ],
+                        [
+                            138.487116,
+                            -34.771404
+                        ],
+                        [
+                            138.487146,
+                            -34.771585
+                        ],
+                        [
+                            138.488181,
+                            -34.772495
+                        ],
+                        [
+                            138.488241,
+                            -34.772403
+                        ],
+                        [
+                            138.492203,
+                            -34.774306
+                        ],
+                        [
+                            138.494192,
+                            -34.77296
+                        ],
+                        [
+                            138.493931,
+                            -34.7727
+                        ],
+                        [
+                            138.491661,
+                            -34.771843
+                        ],
+                        [
+                            138.492128,
+                            -34.771534
+                        ],
+                        [
+                            138.49189,
+                            -34.771297
+                        ],
+                        [
+                            138.492613,
+                            -34.77081
+                        ],
+                        [
+                            138.493987,
+                            -34.769883
+                        ],
+                        [
+                            138.49535,
+                            -34.768965
+                        ],
+                        [
+                            138.494792,
+                            -34.768407
+                        ],
+                        [
+                            138.495671,
+                            -34.767802
+                        ],
+                        [
+                            138.494911,
+                            -34.767052
+                        ],
+                        [
+                            138.496046,
+                            -34.76631
+                        ],
+                        [
+                            138.496506,
+                            -34.766002
+                        ],
+                        [
+                            138.495951,
+                            -34.765426
+                        ],
+                        [
+                            138.494338,
+                            -34.766455
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFLACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.493177,
+                            -34.766805
+                        ],
+                        [
+                            138.492763,
+                            -34.766453
+                        ],
+                        [
+                            138.487368,
+                            -34.77024
+                        ],
+                        [
+                            138.487672,
+                            -34.770591
+                        ],
+                        [
+                            138.493177,
+                            -34.766805
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFLACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.492349,
+                    -34.769688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFLACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.490831,
+                    -34.768179
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFLACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

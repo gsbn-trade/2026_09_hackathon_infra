@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.68737,
+                            42.403529
+                        ],
+                        [
+                            -8.687739,
+                            42.403993
+                        ],
+                        [
+                            -8.687041,
+                            42.404185
+                        ],
+                        [
+                            -8.688778,
+                            42.405194
+                        ],
+                        [
+                            -8.688313,
+                            42.405447
+                        ],
+                        [
+                            -8.689366,
+                            42.406234
+                        ],
+                        [
+                            -8.689694,
+                            42.405921
+                        ],
+                        [
+                            -8.690199,
+                            42.406123
+                        ],
+                        [
+                            -8.690692,
+                            42.406123
+                        ],
+                        [
+                            -8.691088,
+                            42.405982
+                        ],
+                        [
+                            -8.691211,
+                            42.406164
+                        ],
+                        [
+                            -8.69642,
+                            42.404155
+                        ],
+                        [
+                            -8.696228,
+                            42.403832
+                        ],
+                        [
+                            -8.695941,
+                            42.404003
+                        ],
+                        [
+                            -8.693234,
+                            42.403418
+                        ],
+                        [
+                            -8.693084,
+                            42.403256
+                        ],
+                        [
+                            -8.693767,
+                            42.401702
+                        ],
+                        [
+                            -8.698359,
+                            42.402688
+                        ],
+                        [
+                            -8.699358,
+                            42.399988
+                        ],
+                        [
+                            -8.696436,
+                            42.399396
+                        ],
+                        [
+                            -8.692424,
+                            42.401292
+                        ],
+                        [
+                            -8.690913,
+                            42.400384
+                        ],
+                        [
+                            -8.690079,
+                            42.399719
+                        ],
+                        [
+                            -8.688073,
+                            42.400634
+                        ],
+                        [
+                            -8.686207,
+                            42.402121
+                        ],
+                        [
+                            -8.684647,
+                            42.40359
+                        ],
+                        [
+                            -8.684589,
+                            42.404517
+                        ],
+                        [
+                            -8.68737,
+                            42.403529
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.696444,
+                            42.404151
+                        ],
+                        [
+                            -8.691169,
+                            42.406163
+                        ],
+                        [
+                            -8.691416,
+                            42.406522
+                        ],
+                        [
+                            -8.696791,
+                            42.404645
+                        ],
+                        [
+                            -8.696444,
+                            42.404151
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.691022,
+                    42.403469
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.694453,
+                    42.405126
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.174438,
+                            19.23604
+                        ],
+                        [
+                            -96.174539,
+                            19.236034
+                        ],
+                        [
+                            -96.174482,
+                            19.235783
+                        ],
+                        [
+                            -96.174888,
+                            19.235597
+                        ],
+                        [
+                            -96.174482,
+                            19.234165
+                        ],
+                        [
+                            -96.174104,
+                            19.234246
+                        ],
+                        [
+                            -96.174438,
+                            19.23604
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mxverccia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.174482,
+                    19.235415
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mxverccia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

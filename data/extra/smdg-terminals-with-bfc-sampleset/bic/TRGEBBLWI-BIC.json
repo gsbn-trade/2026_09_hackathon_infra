@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.489705,
+                            40.81591
+                        ],
+                        [
+                            29.489479,
+                            40.816163
+                        ],
+                        [
+                            29.488836,
+                            40.815963
+                        ],
+                        [
+                            29.488269,
+                            40.815715
+                        ],
+                        [
+                            29.488049,
+                            40.814337
+                        ],
+                        [
+                            29.488023,
+                            40.813026
+                        ],
+                        [
+                            29.489252,
+                            40.813391
+                        ],
+                        [
+                            29.489891,
+                            40.813625
+                        ],
+                        [
+                            29.49019,
+                            40.814118
+                        ],
+                        [
+                            29.490304,
+                            40.814208
+                        ],
+                        [
+                            29.491028,
+                            40.814923
+                        ],
+                        [
+                            29.489705,
+                            40.81591
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBBLWI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trgebblwi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.489394,
+                    40.814774
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBBLWI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trgebblwi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

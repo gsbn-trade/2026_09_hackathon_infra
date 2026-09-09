@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.56534,
+                            -25.225701
+                        ],
+                        [
+                            -57.56467,
+                            -25.225596
+                        ],
+                        [
+                            -57.563161,
+                            -25.224823
+                        ],
+                        [
+                            -57.563874,
+                            -25.224461
+                        ],
+                        [
+                            -57.563796,
+                            -25.224391
+                        ],
+                        [
+                            -57.563928,
+                            -25.224258
+                        ],
+                        [
+                            -57.564317,
+                            -25.22401
+                        ],
+                        [
+                            -57.564854,
+                            -25.22389
+                        ],
+                        [
+                            -57.565869,
+                            -25.22366
+                        ],
+                        [
+                            -57.56666,
+                            -25.223497
+                        ],
+                        [
+                            -57.566888,
+                            -25.223448
+                        ],
+                        [
+                            -57.56894,
+                            -25.22297
+                        ],
+                        [
+                            -57.569394,
+                            -25.223476
+                        ],
+                        [
+                            -57.570132,
+                            -25.224224
+                        ],
+                        [
+                            -57.569892,
+                            -25.224332
+                        ],
+                        [
+                            -57.569824,
+                            -25.224385
+                        ],
+                        [
+                            -57.569567,
+                            -25.224499
+                        ],
+                        [
+                            -57.568954,
+                            -25.22463
+                        ],
+                        [
+                            -57.567993,
+                            -25.224882
+                        ],
+                        [
+                            -57.566638,
+                            -25.225294
+                        ],
+                        [
+                            -57.565807,
+                            -25.225678
+                        ],
+                        [
+                            -57.56534,
+                            -25.225701
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPFNX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.568951,
+                            -25.22297
+                        ],
+                        [
+                            -57.569193,
+                            -25.222867
+                        ],
+                        [
+                            -57.570308,
+                            -25.224162
+                        ],
+                        [
+                            -57.570132,
+                            -25.224229
+                        ],
+                        [
+                            -57.568951,
+                            -25.22297
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPFNX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.566629,
+                    -25.224446
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPFNX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.569507,
+                    -25.22344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPFNX",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

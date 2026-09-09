@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.742009,
+                            40.761958
+                        ],
+                        [
+                            29.744927,
+                            40.758781
+                        ],
+                        [
+                            29.745603,
+                            40.759034
+                        ],
+                        [
+                            29.745345,
+                            40.75934
+                        ],
+                        [
+                            29.75303,
+                            40.762136
+                        ],
+                        [
+                            29.75314,
+                            40.762192
+                        ],
+                        [
+                            29.753418,
+                            40.762335
+                        ],
+                        [
+                            29.753766,
+                            40.76259
+                        ],
+                        [
+                            29.754363,
+                            40.762902
+                        ],
+                        [
+                            29.755249,
+                            40.763424
+                        ],
+                        [
+                            29.756752,
+                            40.764309
+                        ],
+                        [
+                            29.756034,
+                            40.76502
+                        ],
+                        [
+                            29.755978,
+                            40.766202
+                        ],
+                        [
+                            29.75599,
+                            40.766331
+                        ],
+                        [
+                            29.756315,
+                            40.766543
+                        ],
+                        [
+                            29.75769,
+                            40.767634
+                        ],
+                        [
+                            29.757612,
+                            40.767684
+                        ],
+                        [
+                            29.757297,
+                            40.767885
+                        ],
+                        [
+                            29.756728,
+                            40.768248
+                        ],
+                        [
+                            29.756669,
+                            40.768242
+                        ],
+                        [
+                            29.756592,
+                            40.768162
+                        ],
+                        [
+                            29.756128,
+                            40.767607
+                        ],
+                        [
+                            29.754889,
+                            40.768123
+                        ],
+                        [
+                            29.75355,
+                            40.765846
+                        ],
+                        [
+                            29.751878,
+                            40.764985
+                        ],
+                        [
+                            29.75102,
+                            40.76403
+                        ],
+                        [
+                            29.750978,
+                            40.763982
+                        ],
+                        [
+                            29.750823,
+                            40.76381
+                        ],
+                        [
+                            29.749335,
+                            40.764747
+                        ],
+                        [
+                            29.748911,
+                            40.764711
+                        ],
+                        [
+                            29.748335,
+                            40.764139
+                        ],
+                        [
+                            29.748252,
+                            40.763807
+                        ],
+                        [
+                            29.74706,
+                            40.763647
+                        ],
+                        [
+                            29.742009,
+                            40.761958
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRYARDPWYAR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.748267,
+                            40.763914
+                        ],
+                        [
+                            29.747817,
+                            40.764413
+                        ],
+                        [
+                            29.741005,
+                            40.761882
+                        ],
+                        [
+                            29.744122,
+                            40.758146
+                        ],
+                        [
+                            29.744941,
+                            40.758693
+                        ],
+                        [
+                            29.741985,
+                            40.76193
+                        ],
+                        [
+                            29.74711,
+                            40.763707
+                        ],
+                        [
+                            29.748267,
+                            40.763914
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRYARDPWYAR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.752285,
+                    40.764481
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRYARDPWYAR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.745439,
+                    40.762075
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRYARDPWYAR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

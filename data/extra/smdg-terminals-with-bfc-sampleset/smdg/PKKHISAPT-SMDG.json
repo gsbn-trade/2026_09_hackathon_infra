@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            66.983881,
+                            24.808128
+                        ],
+                        [
+                            66.982694,
+                            24.807581
+                        ],
+                        [
+                            66.982296,
+                            24.808305
+                        ],
+                        [
+                            66.982,
+                            24.808171
+                        ],
+                        [
+                            66.980806,
+                            24.8104
+                        ],
+                        [
+                            66.980511,
+                            24.810201
+                        ],
+                        [
+                            66.979917,
+                            24.809387
+                        ],
+                        [
+                            66.979749,
+                            24.808934
+                        ],
+                        [
+                            66.979737,
+                            24.808417
+                        ],
+                        [
+                            66.979346,
+                            24.808342
+                        ],
+                        [
+                            66.979373,
+                            24.808153
+                        ],
+                        [
+                            66.979482,
+                            24.807795
+                        ],
+                        [
+                            66.979751,
+                            24.807004
+                        ],
+                        [
+                            66.980033,
+                            24.806334
+                        ],
+                        [
+                            66.979572,
+                            24.806136
+                        ],
+                        [
+                            66.980194,
+                            24.804803
+                        ],
+                        [
+                            66.981975,
+                            24.801576
+                        ],
+                        [
+                            66.982059,
+                            24.801423
+                        ],
+                        [
+                            66.982015,
+                            24.801396
+                        ],
+                        [
+                            66.982978,
+                            24.799732
+                        ],
+                        [
+                            66.986306,
+                            24.793975
+                        ],
+                        [
+                            66.986495,
+                            24.793983
+                        ],
+                        [
+                            66.987696,
+                            24.794568
+                        ],
+                        [
+                            66.990295,
+                            24.795834
+                        ],
+                        [
+                            66.990346,
+                            24.795855
+                        ],
+                        [
+                            66.990797,
+                            24.796067
+                        ],
+                        [
+                            66.983881,
+                            24.808128
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "PKKHISAPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-01-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            66.983915,
+                            24.808174
+                        ],
+                        [
+                            66.990833,
+                            24.796139
+                        ],
+                        [
+                            66.991574,
+                            24.796433
+                        ],
+                        [
+                            66.984447,
+                            24.808426
+                        ],
+                        [
+                            66.983915,
+                            24.808174
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "PKKHISAPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-01-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.982748,
+                    24.804097
+                ]
+            },
+            "properties": {
+                "code": "PKKHISAPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-01-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.986937,
+                    24.803469
+                ]
+            },
+            "properties": {
+                "code": "PKKHISAPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-01-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

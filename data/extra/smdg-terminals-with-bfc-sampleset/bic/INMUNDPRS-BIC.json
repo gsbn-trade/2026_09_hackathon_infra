@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.703906,
+                            22.839868
+                        ],
+                        [
+                            69.70147,
+                            22.840037
+                        ],
+                        [
+                            69.701304,
+                            22.839493
+                        ],
+                        [
+                            69.701529,
+                            22.838707
+                        ],
+                        [
+                            69.702216,
+                            22.838717
+                        ],
+                        [
+                            69.702237,
+                            22.838207
+                        ],
+                        [
+                            69.702768,
+                            22.838232
+                        ],
+                        [
+                            69.702817,
+                            22.838558
+                        ],
+                        [
+                            69.703085,
+                            22.83889
+                        ],
+                        [
+                            69.703487,
+                            22.839186
+                        ],
+                        [
+                            69.703906,
+                            22.839868
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundprs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.70219,
+                            22.83878
+                        ],
+                        [
+                            69.702302,
+                            22.838874
+                        ],
+                        [
+                            69.702463,
+                            22.838753
+                        ],
+                        [
+                            69.702449,
+                            22.838216
+                        ],
+                        [
+                            69.702285,
+                            22.838215
+                        ],
+                        [
+                            69.702286,
+                            22.838608
+                        ],
+                        [
+                            69.70219,
+                            22.83878
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundprs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.702611,
+                    22.839069
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundprs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.702309,
+                    22.838604
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundprs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

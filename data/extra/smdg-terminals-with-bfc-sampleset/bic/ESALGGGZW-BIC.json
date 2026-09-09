@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.422456,
+                            36.123869
+                        ],
+                        [
+                            -5.42333,
+                            36.123866
+                        ],
+                        [
+                            -5.423459,
+                            36.126963
+                        ],
+                        [
+                            -5.428257,
+                            36.126864
+                        ],
+                        [
+                            -5.42838,
+                            36.130325
+                        ],
+                        [
+                            -5.428789,
+                            36.130325
+                        ],
+                        [
+                            -5.428859,
+                            36.131895
+                        ],
+                        [
+                            -5.42875,
+                            36.131955
+                        ],
+                        [
+                            -5.428502,
+                            36.131969
+                        ],
+                        [
+                            -5.428538,
+                            36.132979
+                        ],
+                        [
+                            -5.423394,
+                            36.132859
+                        ],
+                        [
+                            -5.422761,
+                            36.132843
+                        ],
+                        [
+                            -5.422456,
+                            36.123869
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESALGGGZW",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-04-10",
+                "url": "https://www.bic-code.org/facility-codes/esalgggzw/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.425995,
+                    36.129275
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESALGGGZW",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-04-10",
+                "url": "https://www.bic-code.org/facility-codes/esalgggzw/"
+            }
+        }
+    ]
+}

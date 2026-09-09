@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.007391,
+                            5.699084
+                        ],
+                        [
+                            0.008346,
+                            5.698043
+                        ],
+                        [
+                            0.007493,
+                            5.697211
+                        ],
+                        [
+                            0.006426,
+                            5.698198
+                        ],
+                        [
+                            0.007391,
+                            5.699084
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMAMPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemampa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.007409,
+                    5.698324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMAMPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemampa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

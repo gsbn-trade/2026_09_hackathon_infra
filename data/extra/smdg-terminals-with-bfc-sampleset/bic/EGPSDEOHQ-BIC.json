@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.302502,
+                            31.132191
+                        ],
+                        [
+                            32.302489,
+                            31.132333
+                        ],
+                        [
+                            32.302368,
+                            31.134015
+                        ],
+                        [
+                            32.302311,
+                            31.134651
+                        ],
+                        [
+                            32.302026,
+                            31.13465
+                        ],
+                        [
+                            32.301981,
+                            31.13601
+                        ],
+                        [
+                            32.301874,
+                            31.138184
+                        ],
+                        [
+                            32.301725,
+                            31.140257
+                        ],
+                        [
+                            32.300505,
+                            31.140346
+                        ],
+                        [
+                            32.299655,
+                            31.13612
+                        ],
+                        [
+                            32.300238,
+                            31.132947
+                        ],
+                        [
+                            32.301439,
+                            31.131791
+                        ],
+                        [
+                            32.301763,
+                            31.131453
+                        ],
+                        [
+                            32.302277,
+                            31.130949
+                        ],
+                        [
+                            32.302597,
+                            31.131143
+                        ],
+                        [
+                            32.302506,
+                            31.132149
+                        ],
+                        [
+                            32.302502,
+                            31.132191
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGPSDEOHQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/egpsdeohq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.301809,
+                    31.134199
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGPSDEOHQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/egpsdeohq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

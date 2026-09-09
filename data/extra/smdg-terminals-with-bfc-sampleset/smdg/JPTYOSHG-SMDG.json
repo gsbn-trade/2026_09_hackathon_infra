@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.759505,
+                            35.626064
+                        ],
+                        [
+                            139.759771,
+                            35.619353
+                        ],
+                        [
+                            139.760312,
+                            35.619357
+                        ],
+                        [
+                            139.760031,
+                            35.626074
+                        ],
+                        [
+                            139.759505,
+                            35.626064
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOSHG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-shinagawa-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.759766,
+                            35.61935
+                        ],
+                        [
+                            139.759498,
+                            35.626064
+                        ],
+                        [
+                            139.758341,
+                            35.626039
+                        ],
+                        [
+                            139.758348,
+                            35.62592
+                        ],
+                        [
+                            139.757852,
+                            35.625901
+                        ],
+                        [
+                            139.757999,
+                            35.622385
+                        ],
+                        [
+                            139.757584,
+                            35.622375
+                        ],
+                        [
+                            139.757702,
+                            35.619336
+                        ],
+                        [
+                            139.759766,
+                            35.61935
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOSHG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-shinagawa-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.759825,
+                    35.623382
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOSHG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-shinagawa-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.75854,
+                    35.622969
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOSHG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-shinagawa-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

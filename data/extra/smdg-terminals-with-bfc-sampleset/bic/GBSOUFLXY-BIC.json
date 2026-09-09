@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.422204,
+                            50.90683
+                        ],
+                        [
+                            -1.422918,
+                            50.905703
+                        ],
+                        [
+                            -1.421716,
+                            50.905364
+                        ],
+                        [
+                            -1.420739,
+                            50.904987
+                        ],
+                        [
+                            -1.420599,
+                            50.904946
+                        ],
+                        [
+                            -1.420431,
+                            50.904897
+                        ],
+                        [
+                            -1.420481,
+                            50.904822
+                        ],
+                        [
+                            -1.420403,
+                            50.90471
+                        ],
+                        [
+                            -1.420009,
+                            50.904609
+                        ],
+                        [
+                            -1.420108,
+                            50.904527
+                        ],
+                        [
+                            -1.419984,
+                            50.904468
+                        ],
+                        [
+                            -1.419523,
+                            50.904219
+                        ],
+                        [
+                            -1.41878,
+                            50.903995
+                        ],
+                        [
+                            -1.41794,
+                            50.904132
+                        ],
+                        [
+                            -1.417722,
+                            50.904299
+                        ],
+                        [
+                            -1.417442,
+                            50.904486
+                        ],
+                        [
+                            -1.416826,
+                            50.90529
+                        ],
+                        [
+                            -1.417486,
+                            50.905649
+                        ],
+                        [
+                            -1.418989,
+                            50.906518
+                        ],
+                        [
+                            -1.419132,
+                            50.906325
+                        ],
+                        [
+                            -1.420863,
+                            50.906742
+                        ],
+                        [
+                            -1.422204,
+                            50.90683
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUFLXY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouflxy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.419841,
+                    50.905198
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUFLXY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouflxy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

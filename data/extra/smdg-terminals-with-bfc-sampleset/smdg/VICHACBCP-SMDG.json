@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.948373,
+                            18.336897
+                        ],
+                        [
+                            -64.948612,
+                            18.336855
+                        ],
+                        [
+                            -64.949712,
+                            18.33676
+                        ],
+                        [
+                            -64.950098,
+                            18.336693
+                        ],
+                        [
+                            -64.950365,
+                            18.336522
+                        ],
+                        [
+                            -64.950603,
+                            18.336326
+                        ],
+                        [
+                            -64.950671,
+                            18.336388
+                        ],
+                        [
+                            -64.950823,
+                            18.33658
+                        ],
+                        [
+                            -64.95182,
+                            18.335871
+                        ],
+                        [
+                            -64.951474,
+                            18.335649
+                        ],
+                        [
+                            -64.951867,
+                            18.335266
+                        ],
+                        [
+                            -64.951263,
+                            18.334835
+                        ],
+                        [
+                            -64.951544,
+                            18.334451
+                        ],
+                        [
+                            -64.951226,
+                            18.334198
+                        ],
+                        [
+                            -64.951564,
+                            18.333418
+                        ],
+                        [
+                            -64.951382,
+                            18.333281
+                        ],
+                        [
+                            -64.949814,
+                            18.335424
+                        ],
+                        [
+                            -64.948212,
+                            18.335648
+                        ],
+                        [
+                            -64.948373,
+                            18.336897
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHACBCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.948203,
+                            18.335653
+                        ],
+                        [
+                            -64.949806,
+                            18.335431
+                        ],
+                        [
+                            -64.951384,
+                            18.333272
+                        ],
+                        [
+                            -64.951213,
+                            18.33311
+                        ],
+                        [
+                            -64.949708,
+                            18.335158
+                        ],
+                        [
+                            -64.948193,
+                            18.335445
+                        ],
+                        [
+                            -64.948203,
+                            18.335653
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHACBCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.95041,
+                    18.335682
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHACBCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.94953,
+                    18.334817
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICHACBCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

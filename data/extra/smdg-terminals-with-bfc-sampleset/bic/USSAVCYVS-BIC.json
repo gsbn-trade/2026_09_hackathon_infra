@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.199963,
+                            32.076685
+                        ],
+                        [
+                            -81.199295,
+                            32.076449
+                        ],
+                        [
+                            -81.198901,
+                            32.077138
+                        ],
+                        [
+                            -81.199653,
+                            32.077385
+                        ],
+                        [
+                            -81.200084,
+                            32.077514
+                        ],
+                        [
+                            -81.20045,
+                            32.077618
+                        ],
+                        [
+                            -81.200928,
+                            32.077742
+                        ],
+                        [
+                            -81.201096,
+                            32.077175
+                        ],
+                        [
+                            -81.199971,
+                            32.076865
+                        ],
+                        [
+                            -81.199845,
+                            32.076772
+                        ],
+                        [
+                            -81.199963,
+                            32.076685
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVCYVS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-28",
+                "url": "https://www.bic-code.org/facility-codes/ussavcyvs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.200014,
+                    32.077093
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVCYVS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-28",
+                "url": "https://www.bic-code.org/facility-codes/ussavcyvs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

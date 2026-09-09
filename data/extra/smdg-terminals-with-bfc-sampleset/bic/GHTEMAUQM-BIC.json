@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.007481,
+                            5.64331
+                        ],
+                        [
+                            0.008213,
+                            5.642589
+                        ],
+                        [
+                            0.008012,
+                            5.642304
+                        ],
+                        [
+                            0.007915,
+                            5.642368
+                        ],
+                        [
+                            0.007765,
+                            5.642224
+                        ],
+                        [
+                            0.007808,
+                            5.642165
+                        ],
+                        [
+                            0.007615,
+                            5.641994
+                        ],
+                        [
+                            0.007041,
+                            5.642515
+                        ],
+                        [
+                            0.007211,
+                            5.642954
+                        ],
+                        [
+                            0.007481,
+                            5.64331
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMAUQM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemauqm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.007654,
+                    5.642573
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMAUQM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemauqm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

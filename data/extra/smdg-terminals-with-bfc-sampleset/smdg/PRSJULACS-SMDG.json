@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.098447,
+                            18.432962
+                        ],
+                        [
+                            -66.103686,
+                            18.429952
+                        ],
+                        [
+                            -66.101342,
+                            18.425881
+                        ],
+                        [
+                            -66.101083,
+                            18.425373
+                        ],
+                        [
+                            -66.100739,
+                            18.424866
+                        ],
+                        [
+                            -66.099635,
+                            18.425521
+                        ],
+                        [
+                            -66.099325,
+                            18.425128
+                        ],
+                        [
+                            -66.097808,
+                            18.425831
+                        ],
+                        [
+                            -66.098084,
+                            18.426223
+                        ],
+                        [
+                            -66.095981,
+                            18.427352
+                        ],
+                        [
+                            -66.095999,
+                            18.427875
+                        ],
+                        [
+                            -66.09624,
+                            18.428382
+                        ],
+                        [
+                            -66.096326,
+                            18.428366
+                        ],
+                        [
+                            -66.097326,
+                            18.429658
+                        ],
+                        [
+                            -66.097171,
+                            18.430525
+                        ],
+                        [
+                            -66.098447,
+                            18.432962
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJULACS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.10374,
+                            18.430034
+                        ],
+                        [
+                            -66.098412,
+                            18.432947
+                        ],
+                        [
+                            -66.098619,
+                            18.433617
+                        ],
+                        [
+                            -66.104102,
+                            18.430509
+                        ],
+                        [
+                            -66.10374,
+                            18.430034
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJULACS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.098602,
+                    18.427929
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJULACS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.101723,
+                    18.431428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJULACS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

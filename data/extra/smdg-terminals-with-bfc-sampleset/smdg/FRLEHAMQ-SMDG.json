@@ -1,0 +1,241 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.167476,
+                            49.48179
+                        ],
+                        [
+                            0.167477,
+                            49.481773
+                        ],
+                        [
+                            0.16888,
+                            49.480378
+                        ],
+                        [
+                            0.169338,
+                            49.480085
+                        ],
+                        [
+                            0.169739,
+                            49.479869
+                        ],
+                        [
+                            0.169352,
+                            49.479662
+                        ],
+                        [
+                            0.16835,
+                            49.479304
+                        ],
+                        [
+                            0.165216,
+                            49.479016
+                        ],
+                        [
+                            0.164636,
+                            49.478676
+                        ],
+                        [
+                            0.164522,
+                            49.478146
+                        ],
+                        [
+                            0.164364,
+                            49.477528
+                        ],
+                        [
+                            0.164758,
+                            49.475807
+                        ],
+                        [
+                            0.168635,
+                            49.476049
+                        ],
+                        [
+                            0.169179,
+                            49.475282
+                        ],
+                        [
+                            0.169616,
+                            49.475384
+                        ],
+                        [
+                            0.169544,
+                            49.475905
+                        ],
+                        [
+                            0.170152,
+                            49.476268
+                        ],
+                        [
+                            0.170725,
+                            49.476491
+                        ],
+                        [
+                            0.171548,
+                            49.476686
+                        ],
+                        [
+                            0.171762,
+                            49.476993
+                        ],
+                        [
+                            0.171161,
+                            49.477444
+                        ],
+                        [
+                            0.168879,
+                            49.479216
+                        ],
+                        [
+                            0.169759,
+                            49.479694
+                        ],
+                        [
+                            0.170195,
+                            49.479639
+                        ],
+                        [
+                            0.170439,
+                            49.479741
+                        ],
+                        [
+                            0.170489,
+                            49.479922
+                        ],
+                        [
+                            0.170174,
+                            49.480108
+                        ],
+                        [
+                            0.170138,
+                            49.480145
+                        ],
+                        [
+                            0.170031,
+                            49.480234
+                        ],
+                        [
+                            0.169995,
+                            49.480332
+                        ],
+                        [
+                            0.169337,
+                            49.481212
+                        ],
+                        [
+                            0.169136,
+                            49.481787
+                        ],
+                        [
+                            0.168642,
+                            49.482
+                        ],
+                        [
+                            0.168177,
+                            49.482054
+                        ],
+                        [
+                            0.167476,
+                            49.48179
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAMQ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-07-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.161812,
+                            49.475593
+                        ],
+                        [
+                            0.161824,
+                            49.475365
+                        ],
+                        [
+                            0.168819,
+                            49.475751
+                        ],
+                        [
+                            0.168632,
+                            49.476043
+                        ],
+                        [
+                            0.161812,
+                            49.475593
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAMQ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-07-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.168837,
+                    49.47904
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAMQ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-07-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.16458,
+                    49.475669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAMQ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-07-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

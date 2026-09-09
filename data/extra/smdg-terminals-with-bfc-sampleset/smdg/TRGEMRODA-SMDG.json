@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.07587,
+                            40.414149
+                        ],
+                        [
+                            29.07587,
+                            40.41382
+                        ],
+                        [
+                            29.078373,
+                            40.41392
+                        ],
+                        [
+                            29.08231,
+                            40.411936
+                        ],
+                        [
+                            29.081147,
+                            40.410395
+                        ],
+                        [
+                            29.081844,
+                            40.410007
+                        ],
+                        [
+                            29.082881,
+                            40.409424
+                        ],
+                        [
+                            29.083569,
+                            40.409668
+                        ],
+                        [
+                            29.084327,
+                            40.409664
+                        ],
+                        [
+                            29.085246,
+                            40.409221
+                        ],
+                        [
+                            29.086764,
+                            40.409835
+                        ],
+                        [
+                            29.085096,
+                            40.411319
+                        ],
+                        [
+                            29.082828,
+                            40.412532
+                        ],
+                        [
+                            29.082471,
+                            40.412104
+                        ],
+                        [
+                            29.078422,
+                            40.414259
+                        ],
+                        [
+                            29.07587,
+                            40.414149
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMRODA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.078385,
+                            40.41389
+                        ],
+                        [
+                            29.075832,
+                            40.41381
+                        ],
+                        [
+                            29.075816,
+                            40.414207
+                        ],
+                        [
+                            29.078493,
+                            40.414277
+                        ],
+                        [
+                            29.081297,
+                            40.412808
+                        ],
+                        [
+                            29.081519,
+                            40.413033
+                        ],
+                        [
+                            29.080497,
+                            40.413571
+                        ],
+                        [
+                            29.079489,
+                            40.414024
+                        ],
+                        [
+                            29.078593,
+                            40.414531
+                        ],
+                        [
+                            29.07731,
+                            40.414501
+                        ],
+                        [
+                            29.076014,
+                            40.41444
+                        ],
+                        [
+                            29.075305,
+                            40.414385
+                        ],
+                        [
+                            29.075331,
+                            40.413559
+                        ],
+                        [
+                            29.075893,
+                            40.413572
+                        ],
+                        [
+                            29.078297,
+                            40.413608
+                        ],
+                        [
+                            29.080858,
+                            40.412336
+                        ],
+                        [
+                            29.081105,
+                            40.412535
+                        ],
+                        [
+                            29.078385,
+                            40.41389
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMRODA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.08143,
+                    40.41165
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMRODA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.078245,
+                    40.413721
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMRODA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.822842,
+                            56.163785
+                        ],
+                        [
+                            14.822606,
+                            56.163463
+                        ],
+                        [
+                            14.822268,
+                            56.16274
+                        ],
+                        [
+                            14.82844,
+                            56.162292
+                        ],
+                        [
+                            14.83528,
+                            56.162406
+                        ],
+                        [
+                            14.835314,
+                            56.162967
+                        ],
+                        [
+                            14.835781,
+                            56.163337
+                        ],
+                        [
+                            14.822842,
+                            56.163785
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEKANPOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.828172,
+                    56.163097
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEKANPOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -60.728847,
+                            -32.971715
+                        ],
+                        [
+                            -60.728761,
+                            -32.97383
+                        ],
+                        [
+                            -60.727243,
+                            -32.973826
+                        ],
+                        [
+                            -60.727436,
+                            -32.971647
+                        ],
+                        [
+                            -60.728847,
+                            -32.971715
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSDZAK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrosdzak/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.728227,
+                    -32.972547
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSDZAK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrosdzak/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.424828,
+                            -34.663888
+                        ],
+                        [
+                            -58.426038,
+                            -34.665043
+                        ],
+                        [
+                            -58.422838,
+                            -34.668531
+                        ],
+                        [
+                            -58.422498,
+                            -34.667881
+                        ],
+                        [
+                            -58.422503,
+                            -34.667631
+                        ],
+                        [
+                            -58.422791,
+                            -34.667454
+                        ],
+                        [
+                            -58.42298,
+                            -34.667192
+                        ],
+                        [
+                            -58.422729,
+                            -34.666813
+                        ],
+                        [
+                            -58.422299,
+                            -34.666438
+                        ],
+                        [
+                            -58.422812,
+                            -34.665977
+                        ],
+                        [
+                            -58.424828,
+                            -34.663888
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEDICA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/arbuedica/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.423377,
+                    -34.666431
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEDICA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/arbuedica/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

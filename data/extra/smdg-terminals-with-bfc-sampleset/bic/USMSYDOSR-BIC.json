@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.1883,
+                            29.9704
+                        ],
+                        [
+                            -90.186,
+                            29.9716
+                        ],
+                        [
+                            -90.1811,
+                            29.9715
+                        ],
+                        [
+                            -90.1814,
+                            29.972
+                        ],
+                        [
+                            -90.2062,
+                            29.9737
+                        ],
+                        [
+                            -90.2087,
+                            29.9738
+                        ],
+                        [
+                            -90.2085,
+                            29.9733
+                        ],
+                        [
+                            -90.2059,
+                            29.9731
+                        ],
+                        [
+                            -90.2011,
+                            29.9725
+                        ],
+                        [
+                            -90.1978,
+                            29.9708
+                        ],
+                        [
+                            -90.1883,
+                            29.9704
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYDOSR",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-07-09",
+                "url": "https://www.bic-code.org/facility-codes/usmsydosr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.195755,
+                    29.9721
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYDOSR",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-07-09",
+                "url": "https://www.bic-code.org/facility-codes/usmsydosr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

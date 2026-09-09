@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.749086,
+                            4.920253
+                        ],
+                        [
+                            -1.747321,
+                            4.919151
+                        ],
+                        [
+                            -1.747128,
+                            4.918526
+                        ],
+                        [
+                            -1.747117,
+                            4.917912
+                        ],
+                        [
+                            -1.747799,
+                            4.916549
+                        ],
+                        [
+                            -1.748158,
+                            4.916329
+                        ],
+                        [
+                            -1.74951,
+                            4.916821
+                        ],
+                        [
+                            -1.749504,
+                            4.916891
+                        ],
+                        [
+                            -1.749172,
+                            4.917618
+                        ],
+                        [
+                            -1.749521,
+                            4.917928
+                        ],
+                        [
+                            -1.749912,
+                            4.918254
+                        ],
+                        [
+                            -1.749086,
+                            4.920253
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDZJSK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdzjsk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.748609,
+                    4.91804
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDZJSK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdzjsk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

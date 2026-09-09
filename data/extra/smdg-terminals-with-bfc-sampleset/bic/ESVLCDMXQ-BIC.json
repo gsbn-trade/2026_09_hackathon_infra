@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.328785,
+                            39.44352
+                        ],
+                        [
+                            -0.328095,
+                            39.44271
+                        ],
+                        [
+                            -0.327995,
+                            39.442677
+                        ],
+                        [
+                            -0.327137,
+                            39.44303
+                        ],
+                        [
+                            -0.326914,
+                            39.443203
+                        ],
+                        [
+                            -0.32678,
+                            39.443387
+                        ],
+                        [
+                            -0.326718,
+                            39.443637
+                        ],
+                        [
+                            -0.326704,
+                            39.443928
+                        ],
+                        [
+                            -0.327014,
+                            39.44438
+                        ],
+                        [
+                            -0.328785,
+                            39.44352
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESVLCDMXQ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlcdmxq/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.327493,
+                    39.443399
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESVLCDMXQ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlcdmxq/"
+            }
+        }
+    ]
+}

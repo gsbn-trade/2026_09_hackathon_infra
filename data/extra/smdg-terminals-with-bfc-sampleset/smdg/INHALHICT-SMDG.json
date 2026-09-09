@@ -1,0 +1,255 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.098965,
+                            22.055432
+                        ],
+                        [
+                            88.086305,
+                            22.051495
+                        ],
+                        [
+                            88.084717,
+                            22.049307
+                        ],
+                        [
+                            88.082142,
+                            22.043499
+                        ],
+                        [
+                            88.076262,
+                            22.026752
+                        ],
+                        [
+                            88.076691,
+                            22.026394
+                        ],
+                        [
+                            88.084459,
+                            22.029497
+                        ],
+                        [
+                            88.088236,
+                            22.04338
+                        ],
+                        [
+                            88.088922,
+                            22.043339
+                        ],
+                        [
+                            88.08963,
+                            22.043135
+                        ],
+                        [
+                            88.091145,
+                            22.042655
+                        ],
+                        [
+                            88.089197,
+                            22.034919
+                        ],
+                        [
+                            88.088041,
+                            22.030883
+                        ],
+                        [
+                            88.087419,
+                            22.028527
+                        ],
+                        [
+                            88.086709,
+                            22.027398
+                        ],
+                        [
+                            88.082828,
+                            22.025678
+                        ],
+                        [
+                            88.083,
+                            22.023052
+                        ],
+                        [
+                            88.08373,
+                            22.021898
+                        ],
+                        [
+                            88.095746,
+                            22.030452
+                        ],
+                        [
+                            88.101625,
+                            22.053603
+                        ],
+                        [
+                            88.098965,
+                            22.055432
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.090624,
+                            22.04061
+                        ],
+                        [
+                            88.090128,
+                            22.040702
+                        ],
+                        [
+                            88.086875,
+                            22.028518
+                        ],
+                        [
+                            88.087338,
+                            22.028518
+                        ],
+                        [
+                            88.088804,
+                            22.033547
+                        ],
+                        [
+                            88.090624,
+                            22.04061
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.088286,
+                            22.042968
+                        ],
+                        [
+                            88.088143,
+                            22.04301
+                        ],
+                        [
+                            88.087614,
+                            22.040873
+                        ],
+                        [
+                            88.085949,
+                            22.034924
+                        ],
+                        [
+                            88.086401,
+                            22.034934
+                        ],
+                        [
+                            88.088816,
+                            22.042815
+                        ],
+                        [
+                            88.088286,
+                            22.042968
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.087844,
+                    22.037463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.089066,
+                    22.035417
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.087642,
+                    22.040356
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INHALHICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

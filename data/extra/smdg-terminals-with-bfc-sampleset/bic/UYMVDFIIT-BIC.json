@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.1958,
+                            -34.899
+                        ],
+                        [
+                            -56.1954,
+                            -34.8989
+                        ],
+                        [
+                            -56.1951,
+                            -34.8987
+                        ],
+                        [
+                            -56.1949,
+                            -34.8982
+                        ],
+                        [
+                            -56.195,
+                            -34.8972
+                        ],
+                        [
+                            -56.1958,
+                            -34.8972
+                        ],
+                        [
+                            -56.1959,
+                            -34.8973
+                        ],
+                        [
+                            -56.1959,
+                            -34.8974
+                        ],
+                        [
+                            -56.1958,
+                            -34.899
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDFIIT",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdfiit/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.195511,
+                    -34.8981
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDFIIT",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdfiit/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

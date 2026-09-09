@@ -1,0 +1,219 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.306415,
+                            43.558557
+                        ],
+                        [
+                            10.306469,
+                            43.558109
+                        ],
+                        [
+                            10.30461,
+                            43.556744
+                        ],
+                        [
+                            10.303996,
+                            43.557217
+                        ],
+                        [
+                            10.303867,
+                            43.557303
+                        ],
+                        [
+                            10.303622,
+                            43.557139
+                        ],
+                        [
+                            10.302979,
+                            43.55748
+                        ],
+                        [
+                            10.303183,
+                            43.55768
+                        ],
+                        [
+                            10.303508,
+                            43.55798
+                        ],
+                        [
+                            10.303934,
+                            43.558216
+                        ],
+                        [
+                            10.304626,
+                            43.558436
+                        ],
+                        [
+                            10.305694,
+                            43.558581
+                        ],
+                        [
+                            10.305694,
+                            43.55851
+                        ],
+                        [
+                            10.306415,
+                            43.558557
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.30322,
+                            43.557723
+                        ],
+                        [
+                            10.303351,
+                            43.557637
+                        ],
+                        [
+                            10.30329,
+                            43.557581
+                        ],
+                        [
+                            10.303163,
+                            43.557673
+                        ],
+                        [
+                            10.30322,
+                            43.557723
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.303138,
+                            43.557394
+                        ],
+                        [
+                            10.303642,
+                            43.557121
+                        ],
+                        [
+                            10.303509,
+                            43.556987
+                        ],
+                        [
+                            10.302989,
+                            43.557263
+                        ],
+                        [
+                            10.30301,
+                            43.55728
+                        ],
+                        [
+                            10.303138,
+                            43.557394
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.304644,
+                    43.557893
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.303249,
+                    43.557667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.303238,
+                    43.55724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVIMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

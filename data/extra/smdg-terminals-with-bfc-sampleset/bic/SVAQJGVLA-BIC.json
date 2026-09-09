@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.8221,
+                            13.5784
+                        ],
+                        [
+                            -89.8218,
+                            13.5791
+                        ],
+                        [
+                            -89.8242,
+                            13.5805
+                        ],
+                        [
+                            -89.8246,
+                            13.5798
+                        ],
+                        [
+                            -89.8233,
+                            13.5791
+                        ],
+                        [
+                            -89.8221,
+                            13.5784
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SVAQJGVLA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/svaqjgvla/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.823017,
+                    13.579217
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SVAQJGVLA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/svaqjgvla/"
+            }
+        }
+    ]
+}

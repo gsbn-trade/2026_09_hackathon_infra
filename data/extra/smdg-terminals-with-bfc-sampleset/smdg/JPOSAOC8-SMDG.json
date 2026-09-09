@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.428587,
+                            34.643397
+                        ],
+                        [
+                            135.42936,
+                            34.640344
+                        ],
+                        [
+                            135.433353,
+                            34.640959
+                        ],
+                        [
+                            135.432801,
+                            34.642463
+                        ],
+                        [
+                            135.432563,
+                            34.643233
+                        ],
+                        [
+                            135.43238,
+                            34.644021
+                        ],
+                        [
+                            135.428587,
+                            34.643397
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC8",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.428574,
+                            34.643407
+                        ],
+                        [
+                            135.432383,
+                            34.644021
+                        ],
+                        [
+                            135.432303,
+                            34.644319
+                        ],
+                        [
+                            135.428517,
+                            34.643737
+                        ],
+                        [
+                            135.428574,
+                            34.643407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC8",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.43109,
+                    34.642545
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC8",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.43007,
+                    34.643778
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC8",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

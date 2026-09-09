@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.081344,
+                            3.892907
+                        ],
+                        [
+                            -77.08059,
+                            3.891429
+                        ],
+                        [
+                            -77.073183,
+                            3.892089
+                        ],
+                        [
+                            -77.06977,
+                            3.892419
+                        ],
+                        [
+                            -77.069876,
+                            3.893897
+                        ],
+                        [
+                            -77.081344,
+                            3.892907
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSOCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobunsoca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.076018,
+                    3.892608
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSOCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobunsoca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

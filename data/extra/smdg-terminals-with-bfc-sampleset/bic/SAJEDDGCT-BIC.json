@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.166436,
+                            21.476206
+                        ],
+                        [
+                            39.166598,
+                            21.475284
+                        ],
+                        [
+                            39.167666,
+                            21.475448
+                        ],
+                        [
+                            39.168075,
+                            21.473223
+                        ],
+                        [
+                            39.170178,
+                            21.473578
+                        ],
+                        [
+                            39.169567,
+                            21.476718
+                        ],
+                        [
+                            39.166436,
+                            21.476206
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.167842,
+                            21.474592
+                        ],
+                        [
+                            39.168423,
+                            21.474688
+                        ],
+                        [
+                            39.168458,
+                            21.474507
+                        ],
+                        [
+                            39.167875,
+                            21.474414
+                        ],
+                        [
+                            39.167842,
+                            21.474592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.169782,
+                            21.476676
+                        ],
+                        [
+                            39.172282,
+                            21.477075
+                        ],
+                        [
+                            39.172726,
+                            21.476839
+                        ],
+                        [
+                            39.172838,
+                            21.476669
+                        ],
+                        [
+                            39.172861,
+                            21.476506
+                        ],
+                        [
+                            39.172806,
+                            21.476374
+                        ],
+                        [
+                            39.17275,
+                            21.476263
+                        ],
+                        [
+                            39.169956,
+                            21.475812
+                        ],
+                        [
+                            39.169782,
+                            21.476676
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.167851,
+                    21.475238
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.168088,
+                    21.474559
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.171754,
+                    21.476543
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDGCT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/sajeddgct/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

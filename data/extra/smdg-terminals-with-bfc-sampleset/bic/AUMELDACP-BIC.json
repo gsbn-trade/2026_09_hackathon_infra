@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.819492,
+                            -37.836515
+                        ],
+                        [
+                            144.819252,
+                            -37.838197
+                        ],
+                        [
+                            144.822329,
+                            -37.838444
+                        ],
+                        [
+                            144.822542,
+                            -37.836898
+                        ],
+                        [
+                            144.823009,
+                            -37.83693
+                        ],
+                        [
+                            144.823036,
+                            -37.836791
+                        ],
+                        [
+                            144.819492,
+                            -37.836515
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDACP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/aumeldacp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.819325,
+                            -37.838184
+                        ],
+                        [
+                            144.819289,
+                            -37.838054
+                        ],
+                        [
+                            144.819302,
+                            -37.837866
+                        ],
+                        [
+                            144.819373,
+                            -37.837874
+                        ],
+                        [
+                            144.8194,
+                            -37.838029
+                        ],
+                        [
+                            144.819425,
+                            -37.838161
+                        ],
+                        [
+                            144.819325,
+                            -37.838184
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDACP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/aumeldacp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.821307,
+                    -37.837184
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDACP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/aumeldacp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.819348,
+                    -37.83805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDACP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/aumeldacp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

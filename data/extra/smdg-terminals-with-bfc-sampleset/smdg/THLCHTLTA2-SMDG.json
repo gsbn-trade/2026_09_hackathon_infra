@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.891027,
+                            13.072898
+                        ],
+                        [
+                            100.890369,
+                            13.072566
+                        ],
+                        [
+                            100.889638,
+                            13.071748
+                        ],
+                        [
+                            100.888834,
+                            13.070751
+                        ],
+                        [
+                            100.888456,
+                            13.070134
+                        ],
+                        [
+                            100.890089,
+                            13.067429
+                        ],
+                        [
+                            100.893341,
+                            13.069137
+                        ],
+                        [
+                            100.891027,
+                            13.072898
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHTLTA2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.890162,
+                            13.067369
+                        ],
+                        [
+                            100.890332,
+                            13.067168
+                        ],
+                        [
+                            100.893511,
+                            13.068924
+                        ],
+                        [
+                            100.893316,
+                            13.069125
+                        ],
+                        [
+                            100.890162,
+                            13.067369
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHTLTA2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.890348,
+                    13.070945
+                ]
+            },
+            "properties": {
+                "code": "THLCHTLTA2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.891497,
+                    13.067991
+                ]
+            },
+            "properties": {
+                "code": "THLCHTLTA2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

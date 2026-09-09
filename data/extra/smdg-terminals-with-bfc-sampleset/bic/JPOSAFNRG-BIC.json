@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.435603,
+                            34.630327
+                        ],
+                        [
+                            135.435711,
+                            34.629649
+                        ],
+                        [
+                            135.436056,
+                            34.629504
+                        ],
+                        [
+                            135.437759,
+                            34.630158
+                        ],
+                        [
+                            135.437816,
+                            34.630191
+                        ],
+                        [
+                            135.437845,
+                            34.630233
+                        ],
+                        [
+                            135.437736,
+                            34.630868
+                        ],
+                        [
+                            135.435603,
+                            34.630327
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAFNRG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "url": "https://www.bic-code.org/facility-codes/jposafnrg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.436766,
+                    34.630157
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAFNRG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "url": "https://www.bic-code.org/facility-codes/jposafnrg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

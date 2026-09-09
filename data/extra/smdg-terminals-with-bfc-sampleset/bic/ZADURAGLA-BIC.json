@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.985132,
+                            -29.924681
+                        ],
+                        [
+                            30.984081,
+                            -29.925036
+                        ],
+                        [
+                            30.983332,
+                            -29.926041
+                        ],
+                        [
+                            30.984722,
+                            -29.926855
+                        ],
+                        [
+                            30.986112,
+                            -29.925088
+                        ],
+                        [
+                            30.985375,
+                            -29.924681
+                        ],
+                        [
+                            30.985132,
+                            -29.924681
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-09",
+                "url": "https://www.bic-code.org/facility-codes/zaduragla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.984841,
+                    -29.925295
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-09",
+                "url": "https://www.bic-code.org/facility-codes/zaduragla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

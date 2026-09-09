@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.075327,
+                            -5.832981
+                        ],
+                        [
+                            14.077859,
+                            -5.8324
+                        ],
+                        [
+                            14.07811,
+                            -5.833198
+                        ],
+                        [
+                            14.078219,
+                            -5.833817
+                        ],
+                        [
+                            14.077526,
+                            -5.833985
+                        ],
+                        [
+                            14.075568,
+                            -5.834284
+                        ],
+                        [
+                            14.075327,
+                            -5.832981
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATXERB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmatxerb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.076848,
+                    -5.833378
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATXERB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmatxerb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

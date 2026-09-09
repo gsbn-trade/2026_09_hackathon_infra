@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.718894,
+                            43.531988
+                        ],
+                        [
+                            -5.719371,
+                            43.530534
+                        ],
+                        [
+                            -5.718572,
+                            43.53011
+                        ],
+                        [
+                            -5.717912,
+                            43.530736
+                        ],
+                        [
+                            -5.718894,
+                            43.531988
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJYCKA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijycka/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.718729,
+                    43.531071
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJYCKA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijycka/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.501152,
+                            -34.820816
+                        ],
+                        [
+                            138.50087,
+                            -34.820812
+                        ],
+                        [
+                            138.500615,
+                            -34.821308
+                        ],
+                        [
+                            138.500011,
+                            -34.82209
+                        ],
+                        [
+                            138.499822,
+                            -34.822645
+                        ],
+                        [
+                            138.499845,
+                            -34.8231
+                        ],
+                        [
+                            138.503258,
+                            -34.822659
+                        ],
+                        [
+                            138.501152,
+                            -34.820816
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLBHCE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadlbhce/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.500841,
+                    -34.821781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLBHCE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadlbhce/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

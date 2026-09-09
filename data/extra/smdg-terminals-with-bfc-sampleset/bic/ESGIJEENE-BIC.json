@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.689452,
+                            43.555752
+                        ],
+                        [
+                            -5.692304,
+                            43.552952
+                        ],
+                        [
+                            -5.691982,
+                            43.552836
+                        ],
+                        [
+                            -5.691317,
+                            43.552439
+                        ],
+                        [
+                            -5.690469,
+                            43.553155
+                        ],
+                        [
+                            -5.68892,
+                            43.552366
+                        ],
+                        [
+                            -5.686813,
+                            43.554376
+                        ],
+                        [
+                            -5.689452,
+                            43.555752
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJEENE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijeene/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.690089,
+                    43.553703
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJEENE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijeene/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

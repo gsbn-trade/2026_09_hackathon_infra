@@ -1,0 +1,265 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            79.842582,
+                            6.941734
+                        ],
+                        [
+                            79.842323,
+                            6.941555
+                        ],
+                        [
+                            79.842166,
+                            6.941525
+                        ],
+                        [
+                            79.842009,
+                            6.941542
+                        ],
+                        [
+                            79.841779,
+                            6.941575
+                        ],
+                        [
+                            79.839864,
+                            6.942127
+                        ],
+                        [
+                            79.839626,
+                            6.942418
+                        ],
+                        [
+                            79.839345,
+                            6.943017
+                        ],
+                        [
+                            79.839279,
+                            6.941822
+                        ],
+                        [
+                            79.841325,
+                            6.941287
+                        ],
+                        [
+                            79.84219,
+                            6.940762
+                        ],
+                        [
+                            79.842494,
+                            6.94056
+                        ],
+                        [
+                            79.842782,
+                            6.940532
+                        ],
+                        [
+                            79.843049,
+                            6.94048
+                        ],
+                        [
+                            79.843277,
+                            6.940303
+                        ],
+                        [
+                            79.843347,
+                            6.940342
+                        ],
+                        [
+                            79.843373,
+                            6.94034
+                        ],
+                        [
+                            79.843403,
+                            6.940323
+                        ],
+                        [
+                            79.843492,
+                            6.940172
+                        ],
+                        [
+                            79.843479,
+                            6.940149
+                        ],
+                        [
+                            79.843501,
+                            6.94012
+                        ],
+                        [
+                            79.843521,
+                            6.940118
+                        ],
+                        [
+                            79.843759,
+                            6.940278
+                        ],
+                        [
+                            79.843866,
+                            6.940885
+                        ],
+                        [
+                            79.844149,
+                            6.940856
+                        ],
+                        [
+                            79.844402,
+                            6.940969
+                        ],
+                        [
+                            79.844315,
+                            6.940712
+                        ],
+                        [
+                            79.844508,
+                            6.940651
+                        ],
+                        [
+                            79.844936,
+                            6.942212
+                        ],
+                        [
+                            79.846365,
+                            6.950667
+                        ],
+                        [
+                            79.846059,
+                            6.950726
+                        ],
+                        [
+                            79.84625,
+                            6.951811
+                        ],
+                        [
+                            79.844891,
+                            6.952134
+                        ],
+                        [
+                            79.844383,
+                            6.952213
+                        ],
+                        [
+                            79.844343,
+                            6.951514
+                        ],
+                        [
+                            79.844252,
+                            6.950881
+                        ],
+                        [
+                            79.84389,
+                            6.948234
+                        ],
+                        [
+                            79.843438,
+                            6.945462
+                        ],
+                        [
+                            79.842905,
+                            6.942192
+                        ],
+                        [
+                            79.842855,
+                            6.942056
+                        ],
+                        [
+                            79.842582,
+                            6.941734
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBSAGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-06-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            79.846406,
+                            6.950635
+                        ],
+                        [
+                            79.845066,
+                            6.942268
+                        ],
+                        [
+                            79.845358,
+                            6.942252
+                        ],
+                        [
+                            79.846904,
+                            6.950543
+                        ],
+                        [
+                            79.846406,
+                            6.950635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBSAGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-06-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.843179,
+                    6.943146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBSAGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.846028,
+                    6.947267
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBSAGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

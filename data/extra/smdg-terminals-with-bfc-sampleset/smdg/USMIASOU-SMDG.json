@@ -1,0 +1,201 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.156278,
+                            25.771314
+                        ],
+                        [
+                            -80.157758,
+                            25.771974
+                        ],
+                        [
+                            -80.1582,
+                            25.771079
+                        ],
+                        [
+                            -80.161255,
+                            25.77241
+                        ],
+                        [
+                            -80.161935,
+                            25.771042
+                        ],
+                        [
+                            -80.160162,
+                            25.770273
+                        ],
+                        [
+                            -80.160108,
+                            25.769793
+                        ],
+                        [
+                            -80.15979,
+                            25.769248
+                        ],
+                        [
+                            -80.160938,
+                            25.766512
+                        ],
+                        [
+                            -80.154631,
+                            25.766299
+                        ],
+                        [
+                            -80.153591,
+                            25.766265
+                        ],
+                        [
+                            -80.152496,
+                            25.766223
+                        ],
+                        [
+                            -80.150048,
+                            25.766162
+                        ],
+                        [
+                            -80.147465,
+                            25.766104
+                        ],
+                        [
+                            -80.147465,
+                            25.766395
+                        ],
+                        [
+                            -80.146452,
+                            25.766387
+                        ],
+                        [
+                            -80.146471,
+                            25.766935
+                        ],
+                        [
+                            -80.146415,
+                            25.767459
+                        ],
+                        [
+                            -80.147486,
+                            25.768055
+                        ],
+                        [
+                            -80.148805,
+                            25.768693
+                        ],
+                        [
+                            -80.151659,
+                            25.769945
+                        ],
+                        [
+                            -80.152794,
+                            25.770405
+                        ],
+                        [
+                            -80.153861,
+                            25.770844
+                        ],
+                        [
+                            -80.155891,
+                            25.771939
+                        ],
+                        [
+                            -80.156278,
+                            25.771314
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIASOU",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.14747,
+                            25.766114
+                        ],
+                        [
+                            -80.160931,
+                            25.766456
+                        ],
+                        [
+                            -80.160963,
+                            25.765815
+                        ],
+                        [
+                            -80.147439,
+                            25.765359
+                        ],
+                        [
+                            -80.14747,
+                            25.766114
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIASOU",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.153929,
+                    25.768923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIASOU",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.152855,
+                    25.765972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIASOU",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

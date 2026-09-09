@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.055742,
+                            60.014096
+                        ],
+                        [
+                            11.057373,
+                            60.013305
+                        ],
+                        [
+                            11.059084,
+                            60.014225
+                        ],
+                        [
+                            11.057405,
+                            60.014943
+                        ],
+                        [
+                            11.056777,
+                            60.014648
+                        ],
+                        [
+                            11.056434,
+                            60.014533
+                        ],
+                        [
+                            11.056241,
+                            60.014394
+                        ],
+                        [
+                            11.055742,
+                            60.014096
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOOSLDXJF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/noosldxjf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.05685,
+                    60.01428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOOSLDXJF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/noosldxjf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

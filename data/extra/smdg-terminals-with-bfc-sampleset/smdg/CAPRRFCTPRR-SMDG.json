@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -130.36028,
+                            54.29008
+                        ],
+                        [
+                            -130.36124,
+                            54.282899
+                        ],
+                        [
+                            -130.3607,
+                            54.282878
+                        ],
+                        [
+                            -130.360687,
+                            54.282983
+                        ],
+                        [
+                            -130.360479,
+                            54.282977
+                        ],
+                        [
+                            -130.359866,
+                            54.282472
+                        ],
+                        [
+                            -130.360053,
+                            54.280904
+                        ],
+                        [
+                            -130.360198,
+                            54.279887
+                        ],
+                        [
+                            -130.360261,
+                            54.279391
+                        ],
+                        [
+                            -130.36001,
+                            54.278973
+                        ],
+                        [
+                            -130.360236,
+                            54.277191
+                        ],
+                        [
+                            -130.359453,
+                            54.277147
+                        ],
+                        [
+                            -130.358996,
+                            54.278799
+                        ],
+                        [
+                            -130.358681,
+                            54.279692
+                        ],
+                        [
+                            -130.35829,
+                            54.280249
+                        ],
+                        [
+                            -130.355495,
+                            54.283295
+                        ],
+                        [
+                            -130.354036,
+                            54.2858
+                        ],
+                        [
+                            -130.35364,
+                            54.287708
+                        ],
+                        [
+                            -130.354107,
+                            54.287867
+                        ],
+                        [
+                            -130.354752,
+                            54.288552
+                        ],
+                        [
+                            -130.355877,
+                            54.288675
+                        ],
+                        [
+                            -130.356025,
+                            54.289054
+                        ],
+                        [
+                            -130.355641,
+                            54.28978
+                        ],
+                        [
+                            -130.356442,
+                            54.289902
+                        ],
+                        [
+                            -130.358727,
+                            54.290008
+                        ],
+                        [
+                            -130.36028,
+                            54.29008
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAPRRFCTPRR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -130.360265,
+                            54.290075
+                        ],
+                        [
+                            -130.362889,
+                            54.29021
+                        ],
+                        [
+                            -130.363433,
+                            54.282931
+                        ],
+                        [
+                            -130.361165,
+                            54.28289
+                        ],
+                        [
+                            -130.360265,
+                            54.290075
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAPRRFCTPRR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -130.358248,
+                    54.284125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAPRRFCTPRR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -130.361603,
+                    54.287236
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAPRRFCTPRR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

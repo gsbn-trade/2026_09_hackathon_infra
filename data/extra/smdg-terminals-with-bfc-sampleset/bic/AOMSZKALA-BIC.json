@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.149832,
+                            -15.130702
+                        ],
+                        [
+                            12.149787,
+                            -15.13051
+                        ],
+                        [
+                            12.149374,
+                            -15.130713
+                        ],
+                        [
+                            12.149085,
+                            -15.129691
+                        ],
+                        [
+                            12.147664,
+                            -15.130822
+                        ],
+                        [
+                            12.150132,
+                            -15.133401
+                        ],
+                        [
+                            12.150387,
+                            -15.133335
+                        ],
+                        [
+                            12.150523,
+                            -15.132931
+                        ],
+                        [
+                            12.149832,
+                            -15.130702
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZKALA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-27",
+                "url": "https://www.bic-code.org/facility-codes/aomszkala/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.149624,
+                    -15.131423
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZKALA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-27",
+                "url": "https://www.bic-code.org/facility-codes/aomszkala/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

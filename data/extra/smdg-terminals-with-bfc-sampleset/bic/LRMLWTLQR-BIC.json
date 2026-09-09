@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -10.794927,
+                            6.3452
+                        ],
+                        [
+                            -10.792354,
+                            6.344312
+                        ],
+                        [
+                            -10.793007,
+                            6.342875
+                        ],
+                        [
+                            -10.795786,
+                            6.34383
+                        ],
+                        [
+                            -10.795287,
+                            6.344987
+                        ],
+                        [
+                            -10.795066,
+                            6.344911
+                        ],
+                        [
+                            -10.795022,
+                            6.345066
+                        ],
+                        [
+                            -10.795353,
+                            6.345074
+                        ],
+                        [
+                            -10.797303,
+                            6.345161
+                        ],
+                        [
+                            -10.797303,
+                            6.345268
+                        ],
+                        [
+                            -10.795054,
+                            6.345208
+                        ],
+                        [
+                            -10.794927,
+                            6.3452
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWTLQR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-27",
+                "url": "https://www.bic-code.org/facility-codes/lrmlwtlqr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.795116,
+                    6.344758
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWTLQR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-27",
+                "url": "https://www.bic-code.org/facility-codes/lrmlwtlqr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

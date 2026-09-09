@@ -1,0 +1,219 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.46502,
+                            40.895601
+                        ],
+                        [
+                            27.468497,
+                            40.89448
+                        ],
+                        [
+                            27.473052,
+                            40.902811
+                        ],
+                        [
+                            27.471556,
+                            40.903269
+                        ],
+                        [
+                            27.470058,
+                            40.900537
+                        ],
+                        [
+                            27.468059,
+                            40.901152
+                        ],
+                        [
+                            27.466979,
+                            40.90231
+                        ],
+                        [
+                            27.466563,
+                            40.901556
+                        ],
+                        [
+                            27.466294,
+                            40.900372
+                        ],
+                        [
+                            27.466392,
+                            40.8999
+                        ],
+                        [
+                            27.466119,
+                            40.899455
+                        ],
+                        [
+                            27.46502,
+                            40.898476
+                        ],
+                        [
+                            27.464104,
+                            40.897569
+                        ],
+                        [
+                            27.464635,
+                            40.896451
+                        ],
+                        [
+                            27.46502,
+                            40.895601
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.473121,
+                            40.902783
+                        ],
+                        [
+                            27.468458,
+                            40.89448
+                        ],
+                        [
+                            27.469175,
+                            40.894265
+                        ],
+                        [
+                            27.473555,
+                            40.90267
+                        ],
+                        [
+                            27.473121,
+                            40.902783
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.471545,
+                            40.903279
+                        ],
+                        [
+                            27.471085,
+                            40.903381
+                        ],
+                        [
+                            27.469722,
+                            40.900836
+                        ],
+                        [
+                            27.470155,
+                            40.9007
+                        ],
+                        [
+                            27.471545,
+                            40.903279
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.467158,
+                    40.899303
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.471486,
+                    40.899396
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.47081,
+                    40.902295
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRTEKASYA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

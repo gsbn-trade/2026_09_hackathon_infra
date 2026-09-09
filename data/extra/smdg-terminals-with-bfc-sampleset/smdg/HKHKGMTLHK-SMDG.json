@@ -1,0 +1,521 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            114.115455,
+                            22.347335
+                        ],
+                        [
+                            114.115695,
+                            22.346655
+                        ],
+                        [
+                            114.119239,
+                            22.347652
+                        ],
+                        [
+                            114.120736,
+                            22.343131
+                        ],
+                        [
+                            114.121593,
+                            22.343365
+                        ],
+                        [
+                            114.119819,
+                            22.348611
+                        ],
+                        [
+                            114.115455,
+                            22.347335
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            114.114694,
+                            22.349708
+                        ],
+                        [
+                            114.114893,
+                            22.34913
+                        ],
+                        [
+                            114.115003,
+                            22.349159
+                        ],
+                        [
+                            114.115504,
+                            22.347658
+                        ],
+                        [
+                            114.115375,
+                            22.347617
+                        ],
+                        [
+                            114.115454,
+                            22.347358
+                        ],
+                        [
+                            114.119837,
+                            22.348642
+                        ],
+                        [
+                            114.121614,
+                            22.343389
+                        ],
+                        [
+                            114.124701,
+                            22.344311
+                        ],
+                        [
+                            114.124447,
+                            22.345036
+                        ],
+                        [
+                            114.122962,
+                            22.3494
+                        ],
+                        [
+                            114.123021,
+                            22.350524
+                        ],
+                        [
+                            114.123333,
+                            22.351123
+                        ],
+                        [
+                            114.123085,
+                            22.351354
+                        ],
+                        [
+                            114.1229,
+                            22.3515
+                        ],
+                        [
+                            114.122758,
+                            22.3516
+                        ],
+                        [
+                            114.122406,
+                            22.351795
+                        ],
+                        [
+                            114.122252,
+                            22.351769
+                        ],
+                        [
+                            114.120277,
+                            22.351191
+                        ],
+                        [
+                            114.119581,
+                            22.350989
+                        ],
+                        [
+                            114.119575,
+                            22.351011
+                        ],
+                        [
+                            114.119426,
+                            22.350965
+                        ],
+                        [
+                            114.119323,
+                            22.350953
+                        ],
+                        [
+                            114.119262,
+                            22.35086
+                        ],
+                        [
+                            114.119142,
+                            22.350918
+                        ],
+                        [
+                            114.118908,
+                            22.350508
+                        ],
+                        [
+                            114.118789,
+                            22.350405
+                        ],
+                        [
+                            114.118553,
+                            22.35015
+                        ],
+                        [
+                            114.118537,
+                            22.350015
+                        ],
+                        [
+                            114.118349,
+                            22.34989
+                        ],
+                        [
+                            114.118227,
+                            22.349729
+                        ],
+                        [
+                            114.117596,
+                            22.34921
+                        ],
+                        [
+                            114.117017,
+                            22.349034
+                        ],
+                        [
+                            114.116988,
+                            22.349051
+                        ],
+                        [
+                            114.116965,
+                            22.349155
+                        ],
+                        [
+                            114.116819,
+                            22.349102
+                        ],
+                        [
+                            114.116582,
+                            22.34928
+                        ],
+                        [
+                            114.116415,
+                            22.349414
+                        ],
+                        [
+                            114.116351,
+                            22.349485
+                        ],
+                        [
+                            114.116336,
+                            22.349532
+                        ],
+                        [
+                            114.116346,
+                            22.349583
+                        ],
+                        [
+                            114.116402,
+                            22.349647
+                        ],
+                        [
+                            114.116468,
+                            22.349703
+                        ],
+                        [
+                            114.11649,
+                            22.349739
+                        ],
+                        [
+                            114.116501,
+                            22.34979
+                        ],
+                        [
+                            114.116489,
+                            22.349866
+                        ],
+                        [
+                            114.116448,
+                            22.349928
+                        ],
+                        [
+                            114.116047,
+                            22.350347
+                        ],
+                        [
+                            114.116006,
+                            22.350321
+                        ],
+                        [
+                            114.115986,
+                            22.35019
+                        ],
+                        [
+                            114.115916,
+                            22.350073
+                        ],
+                        [
+                            114.115792,
+                            22.349984
+                        ],
+                        [
+                            114.115623,
+                            22.349968
+                        ],
+                        [
+                            114.115451,
+                            22.350024
+                        ],
+                        [
+                            114.114694,
+                            22.349708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            114.114869,
+                            22.339481
+                        ],
+                        [
+                            114.117722,
+                            22.330978
+                        ],
+                        [
+                            114.115617,
+                            22.328648
+                        ],
+                        [
+                            114.116209,
+                            22.328185
+                        ],
+                        [
+                            114.118706,
+                            22.330842
+                        ],
+                        [
+                            114.115645,
+                            22.339687
+                        ],
+                        [
+                            114.114869,
+                            22.339481
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            114.110793,
+                            22.337721
+                        ],
+                        [
+                            114.110824,
+                            22.337309
+                        ],
+                        [
+                            114.110836,
+                            22.33716
+                        ],
+                        [
+                            114.110943,
+                            22.336575
+                        ],
+                        [
+                            114.111206,
+                            22.33585
+                        ],
+                        [
+                            114.111284,
+                            22.335636
+                        ],
+                        [
+                            114.111742,
+                            22.334387
+                        ],
+                        [
+                            114.112076,
+                            22.333369
+                        ],
+                        [
+                            114.112268,
+                            22.332784
+                        ],
+                        [
+                            114.113003,
+                            22.33065
+                        ],
+                        [
+                            114.115073,
+                            22.329023
+                        ],
+                        [
+                            114.115344,
+                            22.328813
+                        ],
+                        [
+                            114.115576,
+                            22.32865
+                        ],
+                        [
+                            114.116546,
+                            22.329733
+                        ],
+                        [
+                            114.117672,
+                            22.330991
+                        ],
+                        [
+                            114.117658,
+                            22.331032
+                        ],
+                        [
+                            114.117139,
+                            22.332583
+                        ],
+                        [
+                            114.115986,
+                            22.336024
+                        ],
+                        [
+                            114.115229,
+                            22.338285
+                        ],
+                        [
+                            114.114836,
+                            22.339458
+                        ],
+                        [
+                            114.110798,
+                            22.338292
+                        ],
+                        [
+                            114.110793,
+                            22.337721
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.118285,
+                    22.346298
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.118253,
+                    22.349651
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.116234,
+                    22.3339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.113528,
+                    22.334184
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HKHKGMTLHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

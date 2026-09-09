@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.512481,
+                            24.226136
+                        ],
+                        [
+                            120.510928,
+                            24.22687
+                        ],
+                        [
+                            120.510354,
+                            24.225915
+                        ],
+                        [
+                            120.512136,
+                            24.225246
+                        ],
+                        [
+                            120.512481,
+                            24.226136
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGEXLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgexla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.511676,
+                    24.226061
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGEXLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgexla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

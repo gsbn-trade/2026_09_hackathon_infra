@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -35.02282,
+                            -8.395818
+                        ],
+                        [
+                            -35.022808,
+                            -8.398517
+                        ],
+                        [
+                            -35.020991,
+                            -8.398476
+                        ],
+                        [
+                            -35.020902,
+                            -8.39549
+                        ],
+                        [
+                            -35.02282,
+                            -8.395818
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUANVKY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-23",
+                "url": "https://www.bic-code.org/facility-codes/brsuanvky/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.022068,
+                    -8.396824
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUANVKY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-23",
+                "url": "https://www.bic-code.org/facility-codes/brsuanvky/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

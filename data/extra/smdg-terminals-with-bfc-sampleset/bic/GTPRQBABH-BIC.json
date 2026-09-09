@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.791836,
+                            13.928691
+                        ],
+                        [
+                            -90.792565,
+                            13.931207
+                        ],
+                        [
+                            -90.794101,
+                            13.930877
+                        ],
+                        [
+                            -90.794277,
+                            13.931512
+                        ],
+                        [
+                            -90.795686,
+                            13.931244
+                        ],
+                        [
+                            -90.795837,
+                            13.926529
+                        ],
+                        [
+                            -90.793711,
+                            13.926444
+                        ],
+                        [
+                            -90.793874,
+                            13.924416
+                        ],
+                        [
+                            -90.791911,
+                            13.924404
+                        ],
+                        [
+                            -90.790929,
+                            13.925418
+                        ],
+                        [
+                            -90.790489,
+                            13.92554
+                        ],
+                        [
+                            -90.791383,
+                            13.928703
+                        ],
+                        [
+                            -90.791836,
+                            13.928691
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQBABH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtprqbabh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.792957,
+                    13.927975
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQBABH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtprqbabh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

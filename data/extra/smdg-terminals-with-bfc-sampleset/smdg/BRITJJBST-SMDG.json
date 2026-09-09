@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.659643,
+                            -26.901732
+                        ],
+                        [
+                            -48.659531,
+                            -26.901252
+                        ],
+                        [
+                            -48.664659,
+                            -26.900473
+                        ],
+                        [
+                            -48.664871,
+                            -26.900421
+                        ],
+                        [
+                            -48.669121,
+                            -26.898241
+                        ],
+                        [
+                            -48.669388,
+                            -26.898628
+                        ],
+                        [
+                            -48.66503,
+                            -26.900912
+                        ],
+                        [
+                            -48.665034,
+                            -26.901018
+                        ],
+                        [
+                            -48.659643,
+                            -26.901732
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJJBST",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-12-16",
+                "remarks": "BRAZIL Geofences Review - BRITJ - JBS TERMINAIS",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.659125,
+                            -26.901976
+                        ],
+                        [
+                            -48.659636,
+                            -26.901755
+                        ],
+                        [
+                            -48.665042,
+                            -26.901025
+                        ],
+                        [
+                            -48.665039,
+                            -26.900916
+                        ],
+                        [
+                            -48.669395,
+                            -26.898644
+                        ],
+                        [
+                            -48.669562,
+                            -26.898555
+                        ],
+                        [
+                            -48.669379,
+                            -26.898399
+                        ],
+                        [
+                            -48.669436,
+                            -26.898343
+                        ],
+                        [
+                            -48.669532,
+                            -26.898376
+                        ],
+                        [
+                            -48.670524,
+                            -26.899134
+                        ],
+                        [
+                            -48.670084,
+                            -26.899716
+                        ],
+                        [
+                            -48.66988,
+                            -26.899938
+                        ],
+                        [
+                            -48.668974,
+                            -26.900792
+                        ],
+                        [
+                            -48.668646,
+                            -26.900529
+                        ],
+                        [
+                            -48.668414,
+                            -26.900669
+                        ],
+                        [
+                            -48.668426,
+                            -26.901122
+                        ],
+                        [
+                            -48.667002,
+                            -26.901608
+                        ],
+                        [
+                            -48.663339,
+                            -26.901975
+                        ],
+                        [
+                            -48.663316,
+                            -26.902273
+                        ],
+                        [
+                            -48.663017,
+                            -26.903098
+                        ],
+                        [
+                            -48.66274,
+                            -26.903161
+                        ],
+                        [
+                            -48.662676,
+                            -26.903379
+                        ],
+                        [
+                            -48.659391,
+                            -26.902351
+                        ],
+                        [
+                            -48.659125,
+                            -26.901976
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJJBST",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-12-16",
+                "remarks": "BRAZIL Geofences Review - BRITJ - JBS TERMINAIS",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.664102,
+                    -26.90049
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJJBST",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-16",
+                "remarks": "BRAZIL Geofences Review - BRITJ - JBS TERMINAIS",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.665904,
+                    -26.900821
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJJBST",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-16",
+                "remarks": "BRAZIL Geofences Review - BRITJ - JBS TERMINAIS",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.511062,
+                            -22.94242
+                        ],
+                        [
+                            14.511927,
+                            -22.943067
+                        ],
+                        [
+                            14.510613,
+                            -22.944514
+                        ],
+                        [
+                            14.510194,
+                            -22.944019
+                        ],
+                        [
+                            14.509802,
+                            -22.943749
+                        ],
+                        [
+                            14.510166,
+                            -22.943337
+                        ],
+                        [
+                            14.510791,
+                            -22.942723
+                        ],
+                        [
+                            14.511062,
+                            -22.94242
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.510702,
+                    -22.943281
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

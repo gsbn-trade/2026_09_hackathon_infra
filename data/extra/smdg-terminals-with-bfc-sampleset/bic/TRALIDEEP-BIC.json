@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.924686,
+                            38.729297
+                        ],
+                        [
+                            26.924719,
+                            38.72985
+                        ],
+                        [
+                            26.924414,
+                            38.729946
+                        ],
+                        [
+                            26.924703,
+                            38.730499
+                        ],
+                        [
+                            26.924967,
+                            38.730512
+                        ],
+                        [
+                            26.924975,
+                            38.730937
+                        ],
+                        [
+                            26.924991,
+                            38.731168
+                        ],
+                        [
+                            26.925354,
+                            38.73185
+                        ],
+                        [
+                            26.92561,
+                            38.731869
+                        ],
+                        [
+                            26.92575,
+                            38.73203
+                        ],
+                        [
+                            26.926014,
+                            38.732506
+                        ],
+                        [
+                            26.926245,
+                            38.732506
+                        ],
+                        [
+                            26.926937,
+                            38.732223
+                        ],
+                        [
+                            26.926566,
+                            38.73158
+                        ],
+                        [
+                            26.92636,
+                            38.731239
+                        ],
+                        [
+                            26.927003,
+                            38.731046
+                        ],
+                        [
+                            26.926723,
+                            38.73057
+                        ],
+                        [
+                            26.926731,
+                            38.729985
+                        ],
+                        [
+                            26.926574,
+                            38.729155
+                        ],
+                        [
+                            26.924686,
+                            38.729297
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIDEEP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/tralideep/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.9257,
+                    38.730903
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIDEEP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/tralideep/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

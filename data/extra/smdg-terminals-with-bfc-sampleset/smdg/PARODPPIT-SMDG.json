@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.576958,
+                            8.961195
+                        ],
+                        [
+                            -79.578094,
+                            8.96062
+                        ],
+                        [
+                            -79.578285,
+                            8.959864
+                        ],
+                        [
+                            -79.57995,
+                            8.958522
+                        ],
+                        [
+                            -79.584294,
+                            8.958711
+                        ],
+                        [
+                            -79.584389,
+                            8.958389
+                        ],
+                        [
+                            -79.582055,
+                            8.957974
+                        ],
+                        [
+                            -79.581386,
+                            8.957861
+                        ],
+                        [
+                            -79.580978,
+                            8.957801
+                        ],
+                        [
+                            -79.580783,
+                            8.957554
+                        ],
+                        [
+                            -79.580765,
+                            8.957301
+                        ],
+                        [
+                            -79.580698,
+                            8.956994
+                        ],
+                        [
+                            -79.580435,
+                            8.956729
+                        ],
+                        [
+                            -79.580137,
+                            8.956585
+                        ],
+                        [
+                            -79.579808,
+                            8.956597
+                        ],
+                        [
+                            -79.579271,
+                            8.956777
+                        ],
+                        [
+                            -79.579058,
+                            8.956892
+                        ],
+                        [
+                            -79.577601,
+                            8.956163
+                        ],
+                        [
+                            -79.577308,
+                            8.955856
+                        ],
+                        [
+                            -79.577077,
+                            8.95538
+                        ],
+                        [
+                            -79.576782,
+                            8.954247
+                        ],
+                        [
+                            -79.577044,
+                            8.953602
+                        ],
+                        [
+                            -79.576989,
+                            8.952585
+                        ],
+                        [
+                            -79.576782,
+                            8.952711
+                        ],
+                        [
+                            -79.573789,
+                            8.95509
+                        ],
+                        [
+                            -79.575373,
+                            8.958193
+                        ],
+                        [
+                            -79.576958,
+                            8.961195
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PARODPPIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-06-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.576927,
+                            8.961184
+                        ],
+                        [
+                            -79.573717,
+                            8.955073
+                        ],
+                        [
+                            -79.576759,
+                            8.952607
+                        ],
+                        [
+                            -79.576548,
+                            8.952332
+                        ],
+                        [
+                            -79.572869,
+                            8.954908
+                        ],
+                        [
+                            -79.576459,
+                            8.961415
+                        ],
+                        [
+                            -79.576927,
+                            8.961184
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PARODPPIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-06-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.579002,
+                    8.957088
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PARODPPIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.575744,
+                    8.956958
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PARODPPIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

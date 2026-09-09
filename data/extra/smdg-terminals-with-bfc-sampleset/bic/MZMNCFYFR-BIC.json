@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.6884,
+                            -14.6105
+                        ],
+                        [
+                            40.6875,
+                            -14.6092
+                        ],
+                        [
+                            40.6866,
+                            -14.6097
+                        ],
+                        [
+                            40.6861,
+                            -14.61
+                        ],
+                        [
+                            40.6866,
+                            -14.6106
+                        ],
+                        [
+                            40.6871,
+                            -14.6112
+                        ],
+                        [
+                            40.6884,
+                            -14.6105
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCFYFR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzmncfyfr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.687243,
+                    -14.610243
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCFYFR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzmncfyfr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

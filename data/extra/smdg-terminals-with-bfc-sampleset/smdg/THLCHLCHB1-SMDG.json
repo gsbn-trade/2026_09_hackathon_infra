@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.89501,
+                            13.065898
+                        ],
+                        [
+                            100.896645,
+                            13.063215
+                        ],
+                        [
+                            100.902419,
+                            13.066597
+                        ],
+                        [
+                            100.900717,
+                            13.069295
+                        ],
+                        [
+                            100.89501,
+                            13.065898
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHLCHB1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-31",
+                "remarks": "fixed berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.894609,
+                            13.066548
+                        ],
+                        [
+                            100.89498,
+                            13.06596
+                        ],
+                        [
+                            100.899188,
+                            13.068425
+                        ],
+                        [
+                            100.8988,
+                            13.069068
+                        ],
+                        [
+                            100.894609,
+                            13.066548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHLCHB1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-31",
+                "remarks": "fixed berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.89796,
+                    13.066181
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHLCHB1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-31",
+                "remarks": "fixed berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.896437,
+                    13.06731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHLCHB1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-31",
+                "remarks": "fixed berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

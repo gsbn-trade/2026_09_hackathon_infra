@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.775748,
+                            40.753459
+                        ],
+                        [
+                            29.776432,
+                            40.753556
+                        ],
+                        [
+                            29.776814,
+                            40.753579
+                        ],
+                        [
+                            29.77711,
+                            40.753395
+                        ],
+                        [
+                            29.77831,
+                            40.75235
+                        ],
+                        [
+                            29.779707,
+                            40.751577
+                        ],
+                        [
+                            29.779353,
+                            40.751041
+                        ],
+                        [
+                            29.777672,
+                            40.751972
+                        ],
+                        [
+                            29.776826,
+                            40.752521
+                        ],
+                        [
+                            29.776687,
+                            40.752877
+                        ],
+                        [
+                            29.775858,
+                            40.752851
+                        ],
+                        [
+                            29.775748,
+                            40.753459
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTWTDN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/triztwtdn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.777189,
+                    40.75272
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTWTDN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/triztwtdn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

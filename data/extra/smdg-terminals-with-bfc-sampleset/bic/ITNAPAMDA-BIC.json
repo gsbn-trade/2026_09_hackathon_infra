@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.70057,
+                            40.770591
+                        ],
+                        [
+                            14.700618,
+                            40.770728
+                        ],
+                        [
+                            14.700632,
+                            40.771535
+                        ],
+                        [
+                            14.699996,
+                            40.771539
+                        ],
+                        [
+                            14.69936,
+                            40.771564
+                        ],
+                        [
+                            14.699367,
+                            40.771771
+                        ],
+                        [
+                            14.698863,
+                            40.771861
+                        ],
+                        [
+                            14.698691,
+                            40.770826
+                        ],
+                        [
+                            14.69916,
+                            40.770706
+                        ],
+                        [
+                            14.699317,
+                            40.770683
+                        ],
+                        [
+                            14.699332,
+                            40.770722
+                        ],
+                        [
+                            14.699953,
+                            40.770663
+                        ],
+                        [
+                            14.700355,
+                            40.770625
+                        ],
+                        [
+                            14.70057,
+                            40.770591
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPAMDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itnapamda/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.69977,
+                    40.771029
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPAMDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itnapamda/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

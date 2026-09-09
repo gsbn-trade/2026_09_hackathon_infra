@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.594116,
+                            37.441679
+                        ],
+                        [
+                            126.594128,
+                            37.438699
+                        ],
+                        [
+                            126.594251,
+                            37.438699
+                        ],
+                        [
+                            126.594274,
+                            37.43836
+                        ],
+                        [
+                            126.601016,
+                            37.438351
+                        ],
+                        [
+                            126.601005,
+                            37.438743
+                        ],
+                        [
+                            126.6021,
+                            37.44057
+                        ],
+                        [
+                            126.601493,
+                            37.440841
+                        ],
+                        [
+                            126.602302,
+                            37.441713
+                        ],
+                        [
+                            126.594116,
+                            37.441679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRINCICTPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.59425,
+                            37.438318
+                        ],
+                        [
+                            126.594295,
+                            37.43804
+                        ],
+                        [
+                            126.600992,
+                            37.438009
+                        ],
+                        [
+                            126.601022,
+                            37.438336
+                        ],
+                        [
+                            126.59425,
+                            37.438318
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRINCICTPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.59788,
+                    37.439933
+                ]
+            },
+            "properties": {
+                "code": "KRINCICTPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.596962,
+                    37.438204
+                ]
+            },
+            "properties": {
+                "code": "KRINCICTPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.090437,
+                            13.069748
+                        ],
+                        [
+                            101.089715,
+                            13.069529
+                        ],
+                        [
+                            101.089489,
+                            13.070312
+                        ],
+                        [
+                            101.090183,
+                            13.07052
+                        ],
+                        [
+                            101.090437,
+                            13.069748
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHAFPN",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-01-02",
+                "url": "https://www.bic-code.org/facility-codes/thlchafpn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.090052,
+                    13.069971
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THLCHAFPN",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-01-02",
+                "url": "https://www.bic-code.org/facility-codes/thlchafpn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

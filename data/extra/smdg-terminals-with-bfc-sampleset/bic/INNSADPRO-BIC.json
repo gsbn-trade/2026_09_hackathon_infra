@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.053051,
+                            18.901819
+                        ],
+                        [
+                            73.053291,
+                            18.901827
+                        ],
+                        [
+                            73.053523,
+                            18.902957
+                        ],
+                        [
+                            73.053893,
+                            18.903135
+                        ],
+                        [
+                            73.053695,
+                            18.903818
+                        ],
+                        [
+                            73.053901,
+                            18.904818
+                        ],
+                        [
+                            73.052982,
+                            18.904859
+                        ],
+                        [
+                            73.052604,
+                            18.904135
+                        ],
+                        [
+                            73.052604,
+                            18.903932
+                        ],
+                        [
+                            73.051178,
+                            18.903851
+                        ],
+                        [
+                            73.051161,
+                            18.904371
+                        ],
+                        [
+                            73.050645,
+                            18.904753
+                        ],
+                        [
+                            73.050113,
+                            18.904842
+                        ],
+                        [
+                            73.049889,
+                            18.90468
+                        ],
+                        [
+                            73.049821,
+                            18.90442
+                        ],
+                        [
+                            73.049735,
+                            18.903818
+                        ],
+                        [
+                            73.05007,
+                            18.903688
+                        ],
+                        [
+                            73.050903,
+                            18.903777
+                        ],
+                        [
+                            73.051006,
+                            18.903656
+                        ],
+                        [
+                            73.051015,
+                            18.903339
+                        ],
+                        [
+                            73.050422,
+                            18.903379
+                        ],
+                        [
+                            73.050147,
+                            18.903347
+                        ],
+                        [
+                            73.05019,
+                            18.903192
+                        ],
+                        [
+                            73.051573,
+                            18.903038
+                        ],
+                        [
+                            73.051736,
+                            18.902957
+                        ],
+                        [
+                            73.051728,
+                            18.902648
+                        ],
+                        [
+                            73.052192,
+                            18.902314
+                        ],
+                        [
+                            73.053051,
+                            18.901819
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.052815,
+                            18.901948
+                        ],
+                        [
+                            73.052825,
+                            18.902322
+                        ],
+                        [
+                            73.052984,
+                            18.90232
+                        ],
+                        [
+                            73.052982,
+                            18.901868
+                        ],
+                        [
+                            73.052815,
+                            18.901948
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.051647,
+                    18.903542
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.052884,
+                    18.902081
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadpro/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.110499,
+                            49.052979
+                        ],
+                        [
+                            -123.110403,
+                            49.054976
+                        ],
+                        [
+                            -123.114705,
+                            49.055011
+                        ],
+                        [
+                            -123.116808,
+                            49.053422
+                        ],
+                        [
+                            -123.117023,
+                            49.053549
+                        ],
+                        [
+                            -123.117666,
+                            49.053028
+                        ],
+                        [
+                            -123.110499,
+                            49.052979
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANAKWS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanakws/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.113943,
+                    49.053706
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANAKWS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanakws/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

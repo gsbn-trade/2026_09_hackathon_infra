@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.192474,
+                            51.008315
+                        ],
+                        [
+                            2.192386,
+                            51.008264
+                        ],
+                        [
+                            2.192298,
+                            51.008187
+                        ],
+                        [
+                            2.192223,
+                            51.007995
+                        ],
+                        [
+                            2.193158,
+                            51.005772
+                        ],
+                        [
+                            2.19526,
+                            51.005966
+                        ],
+                        [
+                            2.195217,
+                            51.006268
+                        ],
+                        [
+                            2.195349,
+                            51.006306
+                        ],
+                        [
+                            2.194702,
+                            51.008428
+                        ],
+                        [
+                            2.194489,
+                            51.008423
+                        ],
+                        [
+                            2.194485,
+                            51.008477
+                        ],
+                        [
+                            2.194421,
+                            51.0085
+                        ],
+                        [
+                            2.194308,
+                            51.008493
+                        ],
+                        [
+                            2.194092,
+                            51.008479
+                        ],
+                        [
+                            2.193431,
+                            51.008451
+                        ],
+                        [
+                            2.193094,
+                            51.008437
+                        ],
+                        [
+                            2.192766,
+                            51.0084
+                        ],
+                        [
+                            2.192474,
+                            51.008315
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "FRDKKRQUF",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-07",
+                "url": "https://www.bic-code.org/facility-codes/frdkkrquf/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.193701,
+                    51.00786
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "FRDKKRQUF",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-07",
+                "url": "https://www.bic-code.org/facility-codes/frdkkrquf/"
+            }
+        }
+    ]
+}

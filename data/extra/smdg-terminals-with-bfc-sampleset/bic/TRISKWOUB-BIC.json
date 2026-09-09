@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.20787,
+                            36.688732
+                        ],
+                        [
+                            36.204093,
+                            36.687832
+                        ],
+                        [
+                            36.203053,
+                            36.687491
+                        ],
+                        [
+                            36.202721,
+                            36.687493
+                        ],
+                        [
+                            36.19795,
+                            36.685849
+                        ],
+                        [
+                            36.198046,
+                            36.685575
+                        ],
+                        [
+                            36.194409,
+                            36.684259
+                        ],
+                        [
+                            36.194655,
+                            36.683799
+                        ],
+                        [
+                            36.198141,
+                            36.685016
+                        ],
+                        [
+                            36.198223,
+                            36.684774
+                        ],
+                        [
+                            36.201901,
+                            36.686068
+                        ],
+                        [
+                            36.204629,
+                            36.687045
+                        ],
+                        [
+                            36.205286,
+                            36.687324
+                        ],
+                        [
+                            36.20834,
+                            36.687987
+                        ],
+                        [
+                            36.208075,
+                            36.688756
+                        ],
+                        [
+                            36.20787,
+                            36.688732
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKWOUB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-05",
+                "url": "https://www.bic-code.org/facility-codes/triskwoub/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.202204,
+                    36.686671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKWOUB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://www.bic-code.org/facility-codes/triskwoub/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

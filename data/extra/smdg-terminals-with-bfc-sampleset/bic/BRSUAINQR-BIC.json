@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -35.008,
+                            -8.37083
+                        ],
+                        [
+                            -35.0062,
+                            -8.371
+                        ],
+                        [
+                            -35.0058,
+                            -8.36685
+                        ],
+                        [
+                            -35.0062,
+                            -8.36678
+                        ],
+                        [
+                            -35.006207,
+                            -8.366889
+                        ],
+                        [
+                            -35.006326,
+                            -8.367698
+                        ],
+                        [
+                            -35.007265,
+                            -8.367541
+                        ],
+                        [
+                            -35.007711,
+                            -8.367512
+                        ],
+                        [
+                            -35.008,
+                            -8.37083
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUAINQR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuainqr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.006857,
+                    -8.368437
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUAINQR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuainqr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

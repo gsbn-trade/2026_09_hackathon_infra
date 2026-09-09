@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.1388,
+                            -20.204049
+                        ],
+                        [
+                            -70.138868,
+                            -20.204115
+                        ],
+                        [
+                            -70.138864,
+                            -20.204281
+                        ],
+                        [
+                            -70.13858,
+                            -20.20432
+                        ],
+                        [
+                            -70.138563,
+                            -20.204512
+                        ],
+                        [
+                            -70.139008,
+                            -20.2045
+                        ],
+                        [
+                            -70.139008,
+                            -20.204879
+                        ],
+                        [
+                            -70.137063,
+                            -20.204866
+                        ],
+                        [
+                            -70.137013,
+                            -20.203968
+                        ],
+                        [
+                            -70.138768,
+                            -20.203936
+                        ],
+                        [
+                            -70.1388,
+                            -20.204049
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQMKEF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqmkef/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.138485,
+                    -20.204316
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQMKEF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqmkef/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

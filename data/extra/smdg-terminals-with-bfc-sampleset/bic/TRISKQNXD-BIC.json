@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.204099,
+                            36.609263
+                        ],
+                        [
+                            36.203853,
+                            36.608702
+                        ],
+                        [
+                            36.205331,
+                            36.608262
+                        ],
+                        [
+                            36.205572,
+                            36.608202
+                        ],
+                        [
+                            36.205562,
+                            36.608853
+                        ],
+                        [
+                            36.204099,
+                            36.609263
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKQNXD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "url": "https://www.bic-code.org/facility-codes/triskqnxd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.199141,
+                            36.611411
+                        ],
+                        [
+                            36.198904,
+                            36.609694
+                        ],
+                        [
+                            36.199619,
+                            36.610044
+                        ],
+                        [
+                            36.200262,
+                            36.610175
+                        ],
+                        [
+                            36.200771,
+                            36.610224
+                        ],
+                        [
+                            36.201007,
+                            36.61019
+                        ],
+                        [
+                            36.201256,
+                            36.61126
+                        ],
+                        [
+                            36.199141,
+                            36.611411
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKQNXD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "url": "https://www.bic-code.org/facility-codes/triskqnxd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.204753,
+                    36.608758
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKQNXD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "url": "https://www.bic-code.org/facility-codes/triskqnxd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.200013,
+                    36.610551
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKQNXD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "url": "https://www.bic-code.org/facility-codes/triskqnxd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

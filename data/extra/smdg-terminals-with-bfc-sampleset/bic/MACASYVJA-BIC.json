@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -7.579188,
+                            33.604203
+                        ],
+                        [
+                            -7.577481,
+                            33.604917
+                        ],
+                        [
+                            -7.577953,
+                            33.60568
+                        ],
+                        [
+                            -7.577449,
+                            33.605861
+                        ],
+                        [
+                            -7.577591,
+                            33.60611
+                        ],
+                        [
+                            -7.578067,
+                            33.6059
+                        ],
+                        [
+                            -7.578645,
+                            33.605448
+                        ],
+                        [
+                            -7.579365,
+                            33.604668
+                        ],
+                        [
+                            -7.579188,
+                            33.604203
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASYVJA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasyvja/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -7.57832,
+                            33.604761
+                        ],
+                        [
+                            -7.578182,
+                            33.604802
+                        ],
+                        [
+                            -7.578121,
+                            33.604666
+                        ],
+                        [
+                            -7.578244,
+                            33.604606
+                        ],
+                        [
+                            -7.57832,
+                            33.604761
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASYVJA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasyvja/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.578325,
+                    33.605221
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASYVJA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasyvja/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.578237,
+                    33.604719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASYVJA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasyvja/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

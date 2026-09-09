@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.356405,
+                            -23.920156
+                        ],
+                        [
+                            -46.345722,
+                            -23.921983
+                        ],
+                        [
+                            -46.345626,
+                            -23.921412
+                        ],
+                        [
+                            -46.35631,
+                            -23.919618
+                        ],
+                        [
+                            -46.356405,
+                            -23.920156
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBTP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-05-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.357237,
+                            -23.924307
+                        ],
+                        [
+                            -46.35635,
+                            -23.924461
+                        ],
+                        [
+                            -46.355672,
+                            -23.924576
+                        ],
+                        [
+                            -46.353951,
+                            -23.924856
+                        ],
+                        [
+                            -46.353812,
+                            -23.925031
+                        ],
+                        [
+                            -46.353579,
+                            -23.925183
+                        ],
+                        [
+                            -46.350803,
+                            -23.925668
+                        ],
+                        [
+                            -46.350687,
+                            -23.925058
+                        ],
+                        [
+                            -46.350407,
+                            -23.92511
+                        ],
+                        [
+                            -46.35019,
+                            -23.925151
+                        ],
+                        [
+                            -46.350111,
+                            -23.92516
+                        ],
+                        [
+                            -46.349988,
+                            -23.925175
+                        ],
+                        [
+                            -46.349743,
+                            -23.92393
+                        ],
+                        [
+                            -46.349324,
+                            -23.923304
+                        ],
+                        [
+                            -46.349439,
+                            -23.92324
+                        ],
+                        [
+                            -46.348665,
+                            -23.922181
+                        ],
+                        [
+                            -46.34819,
+                            -23.922257
+                        ],
+                        [
+                            -46.348102,
+                            -23.922127
+                        ],
+                        [
+                            -46.345809,
+                            -23.922501
+                        ],
+                        [
+                            -46.345724,
+                            -23.922006
+                        ],
+                        [
+                            -46.356407,
+                            -23.920163
+                        ],
+                        [
+                            -46.357237,
+                            -23.924307
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBTP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-05-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.352094,
+                    -23.920665
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBTP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.351429,
+                    -23.923898
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBTP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

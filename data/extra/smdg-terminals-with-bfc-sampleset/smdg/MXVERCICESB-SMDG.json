@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.141041,
+                            19.210803
+                        ],
+                        [
+                            -96.141386,
+                            19.210387
+                        ],
+                        [
+                            -96.14161,
+                            19.209938
+                        ],
+                        [
+                            -96.141669,
+                            19.209588
+                        ],
+                        [
+                            -96.141575,
+                            19.209307
+                        ],
+                        [
+                            -96.140575,
+                            19.209903
+                        ],
+                        [
+                            -96.13836,
+                            19.211232
+                        ],
+                        [
+                            -96.138966,
+                            19.212109
+                        ],
+                        [
+                            -96.139325,
+                            19.211892
+                        ],
+                        [
+                            -96.139857,
+                            19.212654
+                        ],
+                        [
+                            -96.14062,
+                            19.211347
+                        ],
+                        [
+                            -96.141041,
+                            19.210803
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCICESB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.140531,
+                            19.209903
+                        ],
+                        [
+                            -96.140292,
+                            19.20957
+                        ],
+                        [
+                            -96.138128,
+                            19.210943
+                        ],
+                        [
+                            -96.138336,
+                            19.211228
+                        ],
+                        [
+                            -96.140531,
+                            19.209903
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCICESB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.140502,
+                    19.21083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCICESB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.139564,
+                    19.210309
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCICESB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.430627,
+                            14.700263
+                        ],
+                        [
+                            -17.430632,
+                            14.699279
+                        ],
+                        [
+                            -17.428527,
+                            14.699279
+                        ],
+                        [
+                            -17.428536,
+                            14.700295
+                        ],
+                        [
+                            -17.430627,
+                            14.700263
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRCYUV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/sndkrcyuv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.42979,
+                    14.699876
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRCYUV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/sndkrcyuv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

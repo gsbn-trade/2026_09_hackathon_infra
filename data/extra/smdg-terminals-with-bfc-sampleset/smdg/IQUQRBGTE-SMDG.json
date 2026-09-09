@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            47.935255,
+                            30.060924
+                        ],
+                        [
+                            47.942061,
+                            30.065511
+                        ],
+                        [
+                            47.938231,
+                            30.069697
+                        ],
+                        [
+                            47.934569,
+                            30.07382
+                        ],
+                        [
+                            47.931039,
+                            30.071408
+                        ],
+                        [
+                            47.933402,
+                            30.068725
+                        ],
+                        [
+                            47.934532,
+                            30.067248
+                        ],
+                        [
+                            47.931453,
+                            30.065141
+                        ],
+                        [
+                            47.935255,
+                            30.060924
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRBGTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "this submission is Officially made by Basra Gateway Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            47.931416,
+                            30.065134
+                        ],
+                        [
+                            47.930315,
+                            30.064466
+                        ],
+                        [
+                            47.934021,
+                            30.060172
+                        ],
+                        [
+                            47.935257,
+                            30.060874
+                        ],
+                        [
+                            47.931416,
+                            30.065134
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRBGTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "this submission is Officially made by Basra Gateway Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.935089,
+                    30.067044
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRBGTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "this submission is Officially made by Basra Gateway Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.932485,
+                    30.063156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRBGTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "this submission is Officially made by Basra Gateway Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

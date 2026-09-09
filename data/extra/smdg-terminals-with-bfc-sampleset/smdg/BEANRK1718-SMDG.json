@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.252828,
+                            51.280578
+                        ],
+                        [
+                            4.253246,
+                            51.280451
+                        ],
+                        [
+                            4.253708,
+                            51.280283
+                        ],
+                        [
+                            4.254899,
+                            51.279806
+                        ],
+                        [
+                            4.255392,
+                            51.2798
+                        ],
+                        [
+                            4.256036,
+                            51.279696
+                        ],
+                        [
+                            4.256755,
+                            51.279531
+                        ],
+                        [
+                            4.257291,
+                            51.27934
+                        ],
+                        [
+                            4.257951,
+                            51.279058
+                        ],
+                        [
+                            4.258595,
+                            51.278827
+                        ],
+                        [
+                            4.259169,
+                            51.278682
+                        ],
+                        [
+                            4.259646,
+                            51.278619
+                        ],
+                        [
+                            4.259914,
+                            51.278619
+                        ],
+                        [
+                            4.260591,
+                            51.278711
+                        ],
+                        [
+                            4.261095,
+                            51.278825
+                        ],
+                        [
+                            4.261556,
+                            51.279016
+                        ],
+                        [
+                            4.262023,
+                            51.279278
+                        ],
+                        [
+                            4.262323,
+                            51.279583
+                        ],
+                        [
+                            4.262452,
+                            51.279734
+                        ],
+                        [
+                            4.261374,
+                            51.28015
+                        ],
+                        [
+                            4.261275,
+                            51.280258
+                        ],
+                        [
+                            4.261342,
+                            51.280355
+                        ],
+                        [
+                            4.261883,
+                            51.280835
+                        ],
+                        [
+                            4.262466,
+                            51.281386
+                        ],
+                        [
+                            4.263061,
+                            51.282034
+                        ],
+                        [
+                            4.263866,
+                            51.283222
+                        ],
+                        [
+                            4.262458,
+                            51.283832
+                        ],
+                        [
+                            4.260924,
+                            51.284454
+                        ],
+                        [
+                            4.259501,
+                            51.285046
+                        ],
+                        [
+                            4.258794,
+                            51.285321
+                        ],
+                        [
+                            4.258884,
+                            51.285467
+                        ],
+                        [
+                            4.259151,
+                            51.285739
+                        ],
+                        [
+                            4.259342,
+                            51.285948
+                        ],
+                        [
+                            4.259395,
+                            51.286057
+                        ],
+                        [
+                            4.259312,
+                            51.286215
+                        ],
+                        [
+                            4.25895,
+                            51.286414
+                        ],
+                        [
+                            4.258126,
+                            51.285698
+                        ],
+                        [
+                            4.252828,
+                            51.280578
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK1718",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.258905,
+                            51.286418
+                        ],
+                        [
+                            4.25828,
+                            51.286631
+                        ],
+                        [
+                            4.25213,
+                            51.280802
+                        ],
+                        [
+                            4.252731,
+                            51.280547
+                        ],
+                        [
+                            4.258905,
+                            51.286418
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK1718",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.259168,
+                    51.281512
+                ]
+            },
+            "properties": {
+                "code": "BEANRK1718",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25619,
+                    51.284163
+                ]
+            },
+            "properties": {
+                "code": "BEANRK1718",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

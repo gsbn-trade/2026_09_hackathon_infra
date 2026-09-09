@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.481385,
+                            40.803612
+                        ],
+                        [
+                            29.480927,
+                            40.802813
+                        ],
+                        [
+                            29.48059,
+                            40.802622
+                        ],
+                        [
+                            29.480713,
+                            40.802296
+                        ],
+                        [
+                            29.480409,
+                            40.802112
+                        ],
+                        [
+                            29.480412,
+                            40.801834
+                        ],
+                        [
+                            29.479538,
+                            40.8016
+                        ],
+                        [
+                            29.479398,
+                            40.801119
+                        ],
+                        [
+                            29.479912,
+                            40.800439
+                        ],
+                        [
+                            29.481819,
+                            40.801148
+                        ],
+                        [
+                            29.4826,
+                            40.8005
+                        ],
+                        [
+                            29.4834,
+                            40.7999
+                        ],
+                        [
+                            29.4838,
+                            40.8002
+                        ],
+                        [
+                            29.48325,
+                            40.800645
+                        ],
+                        [
+                            29.483442,
+                            40.801148
+                        ],
+                        [
+                            29.4837,
+                            40.8018
+                        ],
+                        [
+                            29.483,
+                            40.803
+                        ],
+                        [
+                            29.4819,
+                            40.8036
+                        ],
+                        [
+                            29.481385,
+                            40.803612
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBTXNP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebtxnp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.481662,
+                    40.801789
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBTXNP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebtxnp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

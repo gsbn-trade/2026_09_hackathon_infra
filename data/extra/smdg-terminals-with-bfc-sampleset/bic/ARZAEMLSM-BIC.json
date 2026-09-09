@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.0707,
+                            -34.0935
+                        ],
+                        [
+                            -59.070613,
+                            -34.09362
+                        ],
+                        [
+                            -59.070837,
+                            -34.093723
+                        ],
+                        [
+                            -59.070383,
+                            -34.094195
+                        ],
+                        [
+                            -59.068997,
+                            -34.093455
+                        ],
+                        [
+                            -59.070905,
+                            -34.091036
+                        ],
+                        [
+                            -59.0721,
+                            -34.091657
+                        ],
+                        [
+                            -59.071236,
+                            -34.092817
+                        ],
+                        [
+                            -59.0707,
+                            -34.0935
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAEMLSM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arzaemlsm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.070719,
+                    -34.093056
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAEMLSM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arzaemlsm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.996962,
+                            12.809874
+                        ],
+                        [
+                            44.996932,
+                            12.809943
+                        ],
+                        [
+                            44.99181,
+                            12.807856
+                        ],
+                        [
+                            44.991469,
+                            12.806802
+                        ],
+                        [
+                            44.991566,
+                            12.806047
+                        ],
+                        [
+                            44.991631,
+                            12.805536
+                        ],
+                        [
+                            44.991407,
+                            12.80544
+                        ],
+                        [
+                            44.992172,
+                            12.803716
+                        ],
+                        [
+                            44.992696,
+                            12.803326
+                        ],
+                        [
+                            44.992746,
+                            12.803194
+                        ],
+                        [
+                            44.992724,
+                            12.803141
+                        ],
+                        [
+                            44.992722,
+                            12.803073
+                        ],
+                        [
+                            44.998807,
+                            12.805577
+                        ],
+                        [
+                            44.996962,
+                            12.809874
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEADEACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.998809,
+                            12.805573
+                        ],
+                        [
+                            44.992721,
+                            12.803072
+                        ],
+                        [
+                            44.992872,
+                            12.80277
+                        ],
+                        [
+                            44.998953,
+                            12.805227
+                        ],
+                        [
+                            44.998809,
+                            12.805573
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEADEACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.993615,
+                    12.805957
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEADEACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.996433,
+                    12.804443
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEADEACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

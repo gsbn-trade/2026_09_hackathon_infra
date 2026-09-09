@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.327814,
+                            -26.871708
+                        ],
+                        [
+                            -58.328946,
+                            -26.87212
+                        ],
+                        [
+                            -58.329141,
+                            -26.875761
+                        ],
+                        [
+                            -58.327576,
+                            -26.875787
+                        ],
+                        [
+                            -58.327338,
+                            -26.872776
+                        ],
+                        [
+                            -58.327417,
+                            -26.872513
+                        ],
+                        [
+                            -58.327814,
+                            -26.871708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILCAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.328939,
+                            -26.872127
+                        ],
+                        [
+                            -58.327807,
+                            -26.871734
+                        ],
+                        [
+                            -58.327922,
+                            -26.871438
+                        ],
+                        [
+                            -58.329119,
+                            -26.871837
+                        ],
+                        [
+                            -58.328939,
+                            -26.872127
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILCAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.328007,
+                    -26.873196
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILCAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.328545,
+                    -26.871853
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILCAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

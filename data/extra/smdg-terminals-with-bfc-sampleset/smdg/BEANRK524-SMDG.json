@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.336237,
+                            51.298535
+                        ],
+                        [
+                            4.335374,
+                            51.299664
+                        ],
+                        [
+                            4.335078,
+                            51.29993
+                        ],
+                        [
+                            4.33432,
+                            51.300767
+                        ],
+                        [
+                            4.333701,
+                            51.301825
+                        ],
+                        [
+                            4.331724,
+                            51.301235
+                        ],
+                        [
+                            4.331215,
+                            51.300031
+                        ],
+                        [
+                            4.333233,
+                            51.297685
+                        ],
+                        [
+                            4.336237,
+                            51.298535
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.331164,
+                            51.300029
+                        ],
+                        [
+                            4.330518,
+                            51.299786
+                        ],
+                        [
+                            4.332533,
+                            51.297462
+                        ],
+                        [
+                            4.333223,
+                            51.29768
+                        ],
+                        [
+                            4.331164,
+                            51.300029
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.331712,
+                            51.301241
+                        ],
+                        [
+                            4.331025,
+                            51.301365
+                        ],
+                        [
+                            4.330437,
+                            51.300132
+                        ],
+                        [
+                            4.331188,
+                            51.300039
+                        ],
+                        [
+                            4.331712,
+                            51.301241
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.334124,
+                    51.299801
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.33172,
+                    51.298997
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331215,
+                    51.300804
+                ]
+            },
+            "properties": {
+                "code": "BEANRK524",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2023-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.162457,
+                            40.68273
+                        ],
+                        [
+                            -74.162119,
+                            40.68276
+                        ],
+                        [
+                            -74.161578,
+                            40.68273
+                        ],
+                        [
+                            -74.160185,
+                            40.682781
+                        ],
+                        [
+                            -74.158595,
+                            40.682106
+                        ],
+                        [
+                            -74.157605,
+                            40.681513
+                        ],
+                        [
+                            -74.157481,
+                            40.680713
+                        ],
+                        [
+                            -74.157013,
+                            40.68016
+                        ],
+                        [
+                            -74.156635,
+                            40.679518
+                        ],
+                        [
+                            -74.156264,
+                            40.679092
+                        ],
+                        [
+                            -74.156653,
+                            40.678848
+                        ],
+                        [
+                            -74.157727,
+                            40.679673
+                        ],
+                        [
+                            -74.158481,
+                            40.678492
+                        ],
+                        [
+                            -74.157653,
+                            40.678055
+                        ],
+                        [
+                            -74.157559,
+                            40.67762
+                        ],
+                        [
+                            -74.157683,
+                            40.677275
+                        ],
+                        [
+                            -74.158236,
+                            40.676595
+                        ],
+                        [
+                            -74.154865,
+                            40.675417
+                        ],
+                        [
+                            -74.153969,
+                            40.673979
+                        ],
+                        [
+                            -74.145857,
+                            40.669105
+                        ],
+                        [
+                            -74.142881,
+                            40.668046
+                        ],
+                        [
+                            -74.138799,
+                            40.673799
+                        ],
+                        [
+                            -74.161159,
+                            40.68766
+                        ],
+                        [
+                            -74.164171,
+                            40.683405
+                        ],
+                        [
+                            -74.162457,
+                            40.68273
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.160419,
+                            40.687249
+                        ],
+                        [
+                            -74.138804,
+                            40.673787
+                        ],
+                        [
+                            -74.142918,
+                            40.667995
+                        ],
+                        [
+                            -74.142125,
+                            40.667574
+                        ],
+                        [
+                            -74.13767,
+                            40.673823
+                        ],
+                        [
+                            -74.160165,
+                            40.687635
+                        ],
+                        [
+                            -74.160419,
+                            40.687249
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.164743,
+                            40.682898
+                        ],
+                        [
+                            -74.163192,
+                            40.682291
+                        ],
+                        [
+                            -74.162904,
+                            40.682111
+                        ],
+                        [
+                            -74.163742,
+                            40.680925
+                        ],
+                        [
+                            -74.163455,
+                            40.680489
+                        ],
+                        [
+                            -74.162554,
+                            40.680072
+                        ],
+                        [
+                            -74.161504,
+                            40.679664
+                        ],
+                        [
+                            -74.158518,
+                            40.678475
+                        ],
+                        [
+                            -74.15773,
+                            40.679661
+                        ],
+                        [
+                            -74.158167,
+                            40.680107
+                        ],
+                        [
+                            -74.159005,
+                            40.680619
+                        ],
+                        [
+                            -74.159831,
+                            40.681074
+                        ],
+                        [
+                            -74.161056,
+                            40.681558
+                        ],
+                        [
+                            -74.161832,
+                            40.681899
+                        ],
+                        [
+                            -74.162795,
+                            40.682582
+                        ],
+                        [
+                            -74.164508,
+                            40.683246
+                        ],
+                        [
+                            -74.164743,
+                            40.682898
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "TRUCK_QUEUE",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.164506,
+                            40.683259
+                        ],
+                        [
+                            -74.162763,
+                            40.682605
+                        ],
+                        [
+                            -74.161834,
+                            40.6819
+                        ],
+                        [
+                            -74.159788,
+                            40.681071
+                        ],
+                        [
+                            -74.158136,
+                            40.680093
+                        ],
+                        [
+                            -74.157684,
+                            40.679669
+                        ],
+                        [
+                            -74.15664,
+                            40.678863
+                        ],
+                        [
+                            -74.156278,
+                            40.679098
+                        ],
+                        [
+                            -74.156808,
+                            40.679792
+                        ],
+                        [
+                            -74.157046,
+                            40.680154
+                        ],
+                        [
+                            -74.157474,
+                            40.680702
+                        ],
+                        [
+                            -74.157589,
+                            40.681512
+                        ],
+                        [
+                            -74.158608,
+                            40.682123
+                        ],
+                        [
+                            -74.160211,
+                            40.68279
+                        ],
+                        [
+                            -74.161526,
+                            40.682721
+                        ],
+                        [
+                            -74.162076,
+                            40.682765
+                        ],
+                        [
+                            -74.162463,
+                            40.682721
+                        ],
+                        [
+                            -74.16418,
+                            40.683407
+                        ],
+                        [
+                            -74.164506,
+                            40.683259
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "TRUCK_QUEUE",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.156723,
+                    40.678992
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.148931,
+                    40.677902
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.161781,
+                    40.68121
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.160006,
+                    40.6815
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCMAHER",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

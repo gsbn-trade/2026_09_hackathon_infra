@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.346046,
+                            -8.974328
+                        ],
+                        [
+                            13.345993,
+                            -8.978037
+                        ],
+                        [
+                            13.348943,
+                            -8.977337
+                        ],
+                        [
+                            13.347945,
+                            -8.974508
+                        ],
+                        [
+                            13.346046,
+                            -8.974328
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADNIVY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladnivy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.346995,
+                    -8.975708
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADNIVY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladnivy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

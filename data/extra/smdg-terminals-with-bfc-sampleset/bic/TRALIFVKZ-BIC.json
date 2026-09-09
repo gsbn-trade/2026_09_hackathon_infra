@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.95372,
+                            38.773034
+                        ],
+                        [
+                            26.953677,
+                            38.772949
+                        ],
+                        [
+                            26.955126,
+                            38.772417
+                        ],
+                        [
+                            26.954316,
+                            38.771301
+                        ],
+                        [
+                            26.955443,
+                            38.770983
+                        ],
+                        [
+                            26.956131,
+                            38.77152
+                        ],
+                        [
+                            26.956588,
+                            38.772194
+                        ],
+                        [
+                            26.955181,
+                            38.772522
+                        ],
+                        [
+                            26.95372,
+                            38.773034
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIFVKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tralifvkz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.95507,
+                            38.772548
+                        ],
+                        [
+                            26.955606,
+                            38.772425
+                        ],
+                        [
+                            26.955539,
+                            38.772281
+                        ],
+                        [
+                            26.955015,
+                            38.772463
+                        ],
+                        [
+                            26.95507,
+                            38.772548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIFVKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tralifvkz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.954878,
+                    38.772217
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIFVKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tralifvkz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.95526,
+                    38.772453
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIFVKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tralifvkz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.419112,
+                            36.707795
+                        ],
+                        [
+                            -4.420111,
+                            36.701416
+                        ],
+                        [
+                            -4.419384,
+                            36.701386
+                        ],
+                        [
+                            -4.418102,
+                            36.707813
+                        ],
+                        [
+                            -4.419112,
+                            36.707795
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPNOATM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.419164,
+                            36.707798
+                        ],
+                        [
+                            -4.419811,
+                            36.707979
+                        ],
+                        [
+                            -4.420038,
+                            36.708394
+                        ],
+                        [
+                            -4.422626,
+                            36.708083
+                        ],
+                        [
+                            -4.422885,
+                            36.706592
+                        ],
+                        [
+                            -4.423224,
+                            36.706618
+                        ],
+                        [
+                            -4.423677,
+                            36.703596
+                        ],
+                        [
+                            -4.424227,
+                            36.703635
+                        ],
+                        [
+                            -4.424373,
+                            36.701858
+                        ],
+                        [
+                            -4.420021,
+                            36.701326
+                        ],
+                        [
+                            -4.419164,
+                            36.707798
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPNOATM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.419164,
+                    36.705241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPNOATM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.421746,
+                    36.705789
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPNOATM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

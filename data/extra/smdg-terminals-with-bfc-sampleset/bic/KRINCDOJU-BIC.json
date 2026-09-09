@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.623,
+                            37.4321
+                        ],
+                        [
+                            126.615,
+                            37.4321
+                        ],
+                        [
+                            126.615,
+                            37.4303
+                        ],
+                        [
+                            126.623,
+                            37.4303
+                        ],
+                        [
+                            126.623,
+                            37.4321
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRINCDOJU",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krincdoju/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.6198,
+                    37.43138
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRINCDOJU",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krincdoju/"
+            }
+        }
+    ]
+}

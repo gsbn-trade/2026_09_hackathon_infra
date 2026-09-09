@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.546078,
+                            -33.935326
+                        ],
+                        [
+                            18.546071,
+                            -33.935325
+                        ],
+                        [
+                            18.546051,
+                            -33.935648
+                        ],
+                        [
+                            18.546354,
+                            -33.935659
+                        ],
+                        [
+                            18.546376,
+                            -33.935331
+                        ],
+                        [
+                            18.546078,
+                            -33.935326
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCLDA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptclda/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.546168,
+                    -33.935436
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCLDA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptclda/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.629512,
+                            -14.536951
+                        ],
+                        [
+                            40.629054,
+                            -14.537517
+                        ],
+                        [
+                            40.629835,
+                            -14.538104
+                        ],
+                        [
+                            40.630276,
+                            -14.537544
+                        ],
+                        [
+                            40.629512,
+                            -14.536951
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCPKTT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzmncpktt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.629638,
+                    -14.537413
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCPKTT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzmncpktt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

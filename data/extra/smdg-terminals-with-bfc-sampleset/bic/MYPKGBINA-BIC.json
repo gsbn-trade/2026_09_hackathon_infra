@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.368607,
+                            3.012027
+                        ],
+                        [
+                            101.367732,
+                            3.011873
+                        ],
+                        [
+                            101.367913,
+                            3.011012
+                        ],
+                        [
+                            101.36879,
+                            3.011193
+                        ],
+                        [
+                            101.368607,
+                            3.012027
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGBINA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/mypkgbina/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.36833,
+                    3.011626
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGBINA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/mypkgbina/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

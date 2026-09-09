@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.407589,
+                            51.903522
+                        ],
+                        [
+                            -8.409078,
+                            51.903344
+                        ],
+                        [
+                            -8.408688,
+                            51.902103
+                        ],
+                        [
+                            -8.408311,
+                            51.902
+                        ],
+                        [
+                            -8.40815,
+                            51.902028
+                        ],
+                        [
+                            -8.40796,
+                            51.902005
+                        ],
+                        [
+                            -8.407116,
+                            51.902188
+                        ],
+                        [
+                            -8.407589,
+                            51.903522
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKYCGQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/ieorkycgq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.40806,
+                    51.902589
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKYCGQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/ieorkycgq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -69.645721,
+                            18.43223
+                        ],
+                        [
+                            -69.645738,
+                            18.431375
+                        ],
+                        [
+                            -69.645577,
+                            18.431339
+                        ],
+                        [
+                            -69.645437,
+                            18.430632
+                        ],
+                        [
+                            -69.644278,
+                            18.431049
+                        ],
+                        [
+                            -69.64489,
+                            18.432362
+                        ],
+                        [
+                            -69.645276,
+                            18.432265
+                        ],
+                        [
+                            -69.645721,
+                            18.43223
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOCAUBITA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/docaubita/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.64533,
+                    18.431685
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOCAUBITA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/docaubita/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

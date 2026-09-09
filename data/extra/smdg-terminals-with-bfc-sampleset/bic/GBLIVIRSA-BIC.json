@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.968363,
+                            53.469495
+                        ],
+                        [
+                            -2.966247,
+                            53.469457
+                        ],
+                        [
+                            -2.966258,
+                            53.46893
+                        ],
+                        [
+                            -2.96839,
+                            53.468946
+                        ],
+                        [
+                            -2.968363,
+                            53.469495
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVIRSA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/gblivirsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.967524,
+                    53.469265
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVIRSA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/gblivirsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

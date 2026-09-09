@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            127.667595,
+                            34.907738
+                        ],
+                        [
+                            127.635596,
+                            34.8884
+                        ],
+                        [
+                            127.639111,
+                            34.883775
+                        ],
+                        [
+                            127.670744,
+                            34.903174
+                        ],
+                        [
+                            127.667595,
+                            34.907738
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANNQTM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "url": "https://www.bic-code.org/facility-codes/krkannqtm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    127.656128,
+                    34.898165
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANNQTM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "url": "https://www.bic-code.org/facility-codes/krkannqtm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

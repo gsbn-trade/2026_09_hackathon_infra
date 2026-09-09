@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            74.804448,
+                            12.958265
+                        ],
+                        [
+                            74.804445,
+                            12.958171
+                        ],
+                        [
+                            74.804466,
+                            12.957733
+                        ],
+                        [
+                            74.804174,
+                            12.957711
+                        ],
+                        [
+                            74.804243,
+                            12.957353
+                        ],
+                        [
+                            74.804125,
+                            12.957046
+                        ],
+                        [
+                            74.80419,
+                            12.956738
+                        ],
+                        [
+                            74.804327,
+                            12.956244
+                        ],
+                        [
+                            74.804444,
+                            12.955957
+                        ],
+                        [
+                            74.804526,
+                            12.955788
+                        ],
+                        [
+                            74.804728,
+                            12.954647
+                        ],
+                        [
+                            74.805654,
+                            12.954839
+                        ],
+                        [
+                            74.805534,
+                            12.955533
+                        ],
+                        [
+                            74.806334,
+                            12.955808
+                        ],
+                        [
+                            74.80564,
+                            12.958535
+                        ],
+                        [
+                            74.804448,
+                            12.958265
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXEQMJR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inixeqmjr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    74.804733,
+                    12.95679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXEQMJR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inixeqmjr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

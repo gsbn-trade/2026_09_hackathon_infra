@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.3571,
+                            25.8698
+                        ],
+                        [
+                            -80.3524,
+                            25.8699
+                        ],
+                        [
+                            -80.3543,
+                            25.8713
+                        ],
+                        [
+                            -80.3561,
+                            25.8713
+                        ],
+                        [
+                            -80.3561,
+                            25.8727
+                        ],
+                        [
+                            -80.3573,
+                            25.8735
+                        ],
+                        [
+                            -80.3572,
+                            25.8723
+                        ],
+                        [
+                            -80.3571,
+                            25.8698
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIAMCRA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiamcra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.35595,
+                    25.871325
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIAMCRA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiamcra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

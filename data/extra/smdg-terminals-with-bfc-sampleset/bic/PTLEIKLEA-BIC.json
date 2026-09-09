@@ -1,0 +1,171 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.686422,
+                            41.189191
+                        ],
+                        [
+                            -8.686279,
+                            41.189068
+                        ],
+                        [
+                            -8.686199,
+                            41.188995
+                        ],
+                        [
+                            -8.686068,
+                            41.189076
+                        ],
+                        [
+                            -8.686024,
+                            41.189037
+                        ],
+                        [
+                            -8.685692,
+                            41.189237
+                        ],
+                        [
+                            -8.685469,
+                            41.189016
+                        ],
+                        [
+                            -8.685446,
+                            41.189028
+                        ],
+                        [
+                            -8.685367,
+                            41.188948
+                        ],
+                        [
+                            -8.68448,
+                            41.189467
+                        ],
+                        [
+                            -8.681342,
+                            41.191302
+                        ],
+                        [
+                            -8.681151,
+                            41.19145
+                        ],
+                        [
+                            -8.68091,
+                            41.191691
+                        ],
+                        [
+                            -8.680844,
+                            41.191891
+                        ],
+                        [
+                            -8.681015,
+                            41.192177
+                        ],
+                        [
+                            -8.681048,
+                            41.192185
+                        ],
+                        [
+                            -8.681027,
+                            41.192336
+                        ],
+                        [
+                            -8.681016,
+                            41.192513
+                        ],
+                        [
+                            -8.681032,
+                            41.192637
+                        ],
+                        [
+                            -8.681052,
+                            41.192701
+                        ],
+                        [
+                            -8.68117,
+                            41.19269
+                        ],
+                        [
+                            -8.681237,
+                            41.192696
+                        ],
+                        [
+                            -8.681419,
+                            41.192734
+                        ],
+                        [
+                            -8.681446,
+                            41.192662
+                        ],
+                        [
+                            -8.681543,
+                            41.192478
+                        ],
+                        [
+                            -8.681633,
+                            41.192354
+                        ],
+                        [
+                            -8.681714,
+                            41.192261
+                        ],
+                        [
+                            -8.68184,
+                            41.192099
+                        ],
+                        [
+                            -8.681943,
+                            41.191998
+                        ],
+                        [
+                            -8.682099,
+                            41.191862
+                        ],
+                        [
+                            -8.68232,
+                            41.191702
+                        ],
+                        [
+                            -8.686422,
+                            41.189191
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIKLEA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-24",
+                "remarks": "In Google Maps there are 2 areas in the SW corner labeled Secil Leixoes and MEDWAY. Check if they belong to the railway terminal.",
+                "url": "https://www.bic-code.org/facility-codes/ptleiklea/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.682896,
+                    41.191146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIKLEA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-24",
+                "remarks": "In Google Maps there are 2 areas in the SW corner labeled Secil Leixoes and MEDWAY. Check if they belong to the railway terminal.",
+                "url": "https://www.bic-code.org/facility-codes/ptleiklea/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

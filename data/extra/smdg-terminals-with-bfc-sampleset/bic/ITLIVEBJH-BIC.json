@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.388917,
+                            43.601953
+                        ],
+                        [
+                            10.389194,
+                            43.600743
+                        ],
+                        [
+                            10.391613,
+                            43.601
+                        ],
+                        [
+                            10.3919,
+                            43.6013
+                        ],
+                        [
+                            10.3918,
+                            43.6018
+                        ],
+                        [
+                            10.391792,
+                            43.601888
+                        ],
+                        [
+                            10.391788,
+                            43.602003
+                        ],
+                        [
+                            10.391654,
+                            43.602121
+                        ],
+                        [
+                            10.391507,
+                            43.602216
+                        ],
+                        [
+                            10.390212,
+                            43.602087
+                        ],
+                        [
+                            10.388917,
+                            43.601953
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVEBJH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-08-06",
+                "url": "https://www.bic-code.org/facility-codes/itlivebjh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.390845,
+                    43.601733
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVEBJH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-08-06",
+                "url": "https://www.bic-code.org/facility-codes/itlivebjh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

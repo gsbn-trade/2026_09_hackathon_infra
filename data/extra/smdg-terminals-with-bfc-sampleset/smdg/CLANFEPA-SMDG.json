@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.403099,
+                            -23.652825
+                        ],
+                        [
+                            -70.402726,
+                            -23.652844
+                        ],
+                        [
+                            -70.402711,
+                            -23.652536
+                        ],
+                        [
+                            -70.402671,
+                            -23.651712
+                        ],
+                        [
+                            -70.402684,
+                            -23.651267
+                        ],
+                        [
+                            -70.402757,
+                            -23.65106
+                        ],
+                        [
+                            -70.402887,
+                            -23.650682
+                        ],
+                        [
+                            -70.402911,
+                            -23.650109
+                        ],
+                        [
+                            -70.403805,
+                            -23.649141
+                        ],
+                        [
+                            -70.403845,
+                            -23.64909
+                        ],
+                        [
+                            -70.403823,
+                            -23.648432
+                        ],
+                        [
+                            -70.403765,
+                            -23.647318
+                        ],
+                        [
+                            -70.403741,
+                            -23.646672
+                        ],
+                        [
+                            -70.404107,
+                            -23.646663
+                        ],
+                        [
+                            -70.40442,
+                            -23.646664
+                        ],
+                        [
+                            -70.404745,
+                            -23.646661
+                        ],
+                        [
+                            -70.404971,
+                            -23.652729
+                        ],
+                        [
+                            -70.404038,
+                            -23.652806
+                        ],
+                        [
+                            -70.403099,
+                            -23.652825
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLANFEPA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.404767,
+                            -23.646648
+                        ],
+                        [
+                            -70.405192,
+                            -23.646648
+                        ],
+                        [
+                            -70.405279,
+                            -23.648709
+                        ],
+                        [
+                            -70.404817,
+                            -23.648766
+                        ],
+                        [
+                            -70.404767,
+                            -23.646648
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLANFEPA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.403516,
+                    -23.650107
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLANFEPA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.404964,
+                    -23.647484
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLANFEPA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

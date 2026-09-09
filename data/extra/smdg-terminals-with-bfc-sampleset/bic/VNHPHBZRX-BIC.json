@@ -1,0 +1,131 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.724352,
+                            20.863312,
+                            0
+                        ],
+                        [
+                            106.723691,
+                            20.862581,
+                            0
+                        ],
+                        [
+                            106.723725,
+                            20.8624,
+                            0
+                        ],
+                        [
+                            106.724004,
+                            20.862479,
+                            0
+                        ],
+                        [
+                            106.724556,
+                            20.862129,
+                            0
+                        ],
+                        [
+                            106.723479,
+                            20.860765,
+                            0
+                        ],
+                        [
+                            106.727132,
+                            20.858422,
+                            0
+                        ],
+                        [
+                            106.728223,
+                            20.857985,
+                            0
+                        ],
+                        [
+                            106.729664,
+                            20.857087,
+                            0
+                        ],
+                        [
+                            106.730436,
+                            20.856582,
+                            0
+                        ],
+                        [
+                            106.731896,
+                            20.858161,
+                            0
+                        ],
+                        [
+                            106.731568,
+                            20.858356,
+                            0
+                        ],
+                        [
+                            106.731692,
+                            20.858541,
+                            0
+                        ],
+                        [
+                            106.727521,
+                            20.860952,
+                            0
+                        ],
+                        [
+                            106.725187,
+                            20.863037,
+                            0
+                        ],
+                        [
+                            106.725109,
+                            20.862933,
+                            0
+                        ],
+                        [
+                            106.72489,
+                            20.863,
+                            0
+                        ],
+                        [
+                            106.724352,
+                            20.863312,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHBZRX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-12",
+                "url": "https://www.bic-code.org/facility-codes/vnhphbzrx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.726749,
+                    20.860669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHBZRX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-12",
+                "url": "https://www.bic-code.org/facility-codes/vnhphbzrx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

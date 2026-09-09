@@ -1,0 +1,275 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.374308,
+                            -34.578692
+                        ],
+                        [
+                            -58.373346,
+                            -34.579243
+                        ],
+                        [
+                            -58.373391,
+                            -34.579301
+                        ],
+                        [
+                            -58.373365,
+                            -34.579316
+                        ],
+                        [
+                            -58.373556,
+                            -34.579564
+                        ],
+                        [
+                            -58.373717,
+                            -34.579477
+                        ],
+                        [
+                            -58.373785,
+                            -34.579486
+                        ],
+                        [
+                            -58.374522,
+                            -34.580363
+                        ],
+                        [
+                            -58.3745,
+                            -34.580449
+                        ],
+                        [
+                            -58.374023,
+                            -34.580793
+                        ],
+                        [
+                            -58.372981,
+                            -34.581395
+                        ],
+                        [
+                            -58.371116,
+                            -34.582467
+                        ],
+                        [
+                            -58.370965,
+                            -34.582271
+                        ],
+                        [
+                            -58.371011,
+                            -34.582248
+                        ],
+                        [
+                            -58.37084,
+                            -34.582048
+                        ],
+                        [
+                            -58.370492,
+                            -34.582251
+                        ],
+                        [
+                            -58.370134,
+                            -34.581806
+                        ],
+                        [
+                            -58.368983,
+                            -34.581716
+                        ],
+                        [
+                            -58.370587,
+                            -34.580809
+                        ],
+                        [
+                            -58.370597,
+                            -34.580796
+                        ],
+                        [
+                            -58.370609,
+                            -34.580729
+                        ],
+                        [
+                            -58.370621,
+                            -34.580599
+                        ],
+                        [
+                            -58.370611,
+                            -34.580585
+                        ],
+                        [
+                            -58.370591,
+                            -34.580575
+                        ],
+                        [
+                            -58.365261,
+                            -34.580154
+                        ],
+                        [
+                            -58.365248,
+                            -34.580124
+                        ],
+                        [
+                            -58.365292,
+                            -34.579713
+                        ],
+                        [
+                            -58.367944,
+                            -34.578192
+                        ],
+                        [
+                            -58.374308,
+                            -34.578692
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.370076,
+                            -34.580544
+                        ],
+                        [
+                            -58.370023,
+                            -34.581002
+                        ],
+                        [
+                            -58.365198,
+                            -34.580627
+                        ],
+                        [
+                            -58.36525,
+                            -34.580153
+                        ],
+                        [
+                            -58.370076,
+                            -34.580544
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.367935,
+                            -34.578182
+                        ],
+                        [
+                            -58.365289,
+                            -34.579692
+                        ],
+                        [
+                            -58.364995,
+                            -34.579343
+                        ],
+                        [
+                            -58.367626,
+                            -34.577848
+                        ],
+                        [
+                            -58.367935,
+                            -34.578182
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.371266,
+                    -34.580478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.368125,
+                    -34.580574
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.366756,
+                    -34.578649
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUETERM4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.476473,
+                            55.612166
+                        ],
+                        [
+                            12.476294,
+                            55.611312
+                        ],
+                        [
+                            12.477183,
+                            55.611253
+                        ],
+                        [
+                            12.477337,
+                            55.612098
+                        ],
+                        [
+                            12.476473,
+                            55.612166
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHQZHX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-02-13",
+                "url": "https://www.bic-code.org/facility-codes/dkcphqzhx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.476752,
+                    55.611799
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHQZHX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-02-13",
+                "url": "https://www.bic-code.org/facility-codes/dkcphqzhx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

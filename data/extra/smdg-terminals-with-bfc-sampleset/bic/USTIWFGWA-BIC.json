@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.418137,
+                            47.275803
+                        ],
+                        [
+                            -122.420358,
+                            47.272802
+                        ],
+                        [
+                            -122.419587,
+                            47.272329
+                        ],
+                        [
+                            -122.419605,
+                            47.272092
+                        ],
+                        [
+                            -122.41955,
+                            47.271943
+                        ],
+                        [
+                            -122.419459,
+                            47.271768
+                        ],
+                        [
+                            -122.411805,
+                            47.266002
+                        ],
+                        [
+                            -122.411126,
+                            47.265965
+                        ],
+                        [
+                            -122.407363,
+                            47.268916
+                        ],
+                        [
+                            -122.418137,
+                            47.275803
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTIWFGWA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-11",
+                "url": "https://www.bic-code.org/facility-codes/ustiwfgwa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.416513,
+                    47.271342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTIWFGWA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-11",
+                "url": "https://www.bic-code.org/facility-codes/ustiwfgwa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

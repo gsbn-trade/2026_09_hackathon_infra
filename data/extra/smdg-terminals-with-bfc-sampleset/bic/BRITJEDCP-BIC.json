@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.711636,
+                            -26.900628
+                        ],
+                        [
+                            -48.714082,
+                            -26.900925
+                        ],
+                        [
+                            -48.713953,
+                            -26.902035
+                        ],
+                        [
+                            -48.713862,
+                            -26.902039
+                        ],
+                        [
+                            -48.713755,
+                            -26.902704
+                        ],
+                        [
+                            -48.7125,
+                            -26.902531
+                        ],
+                        [
+                            -48.712569,
+                            -26.902063
+                        ],
+                        [
+                            -48.712124,
+                            -26.901996
+                        ],
+                        [
+                            -48.711775,
+                            -26.901976
+                        ],
+                        [
+                            -48.711716,
+                            -26.901957
+                        ],
+                        [
+                            -48.711636,
+                            -26.900628
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJEDCP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjedcp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.712692,
+                    -26.901771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJEDCP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjedcp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

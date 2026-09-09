@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.50337,
+                            0.291619
+                        ],
+                        [
+                            9.50411,
+                            0.290048
+                        ],
+                        [
+                            9.50461,
+                            0.289969
+                        ],
+                        [
+                            9.50509,
+                            0.290053
+                        ],
+                        [
+                            9.5054,
+                            0.290116
+                        ],
+                        [
+                            9.505252,
+                            0.290444
+                        ],
+                        [
+                            9.504681,
+                            0.29179
+                        ],
+                        [
+                            9.50418,
+                            0.291826
+                        ],
+                        [
+                            9.50337,
+                            0.291619
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVIUVU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbviuvu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.504451,
+                    0.290832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVIUVU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbviuvu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -95.2915,
+                            29.7837
+                        ],
+                        [
+                            -95.2889,
+                            29.7838
+                        ],
+                        [
+                            -95.2889,
+                            29.7856
+                        ],
+                        [
+                            -95.2916,
+                            29.7855
+                        ],
+                        [
+                            -95.2915,
+                            29.7837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUAAQU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouaaqu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.29048,
+                    29.78446
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUAAQU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouaaqu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

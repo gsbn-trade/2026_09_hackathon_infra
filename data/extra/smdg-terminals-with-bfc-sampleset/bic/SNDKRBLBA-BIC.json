@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.427596,
+                            14.699222
+                        ],
+                        [
+                            -17.42781,
+                            14.698067
+                        ],
+                        [
+                            -17.426776,
+                            14.69808
+                        ],
+                        [
+                            -17.426769,
+                            14.698502
+                        ],
+                        [
+                            -17.427276,
+                            14.699232
+                        ],
+                        [
+                            -17.427596,
+                            14.699222
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRBLBA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/sndkrblba/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.427304,
+                    14.698721
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRBLBA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/sndkrblba/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

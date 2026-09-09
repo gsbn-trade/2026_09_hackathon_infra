@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.646809,
+                            -4.030212
+                        ],
+                        [
+                            39.647686,
+                            -4.030197
+                        ],
+                        [
+                            39.646846,
+                            -4.032271
+                        ],
+                        [
+                            39.645659,
+                            -4.031852
+                        ],
+                        [
+                            39.646551,
+                            -4.030683
+                        ],
+                        [
+                            39.646809,
+                            -4.030212
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBABUZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembabuzk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.646727,
+                    -4.030904
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBABUZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembabuzk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

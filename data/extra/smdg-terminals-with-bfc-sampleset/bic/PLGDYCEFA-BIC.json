@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.483655,
+                            54.54256
+                        ],
+                        [
+                            18.48298,
+                            54.541888
+                        ],
+                        [
+                            18.483268,
+                            54.541809
+                        ],
+                        [
+                            18.483661,
+                            54.541704
+                        ],
+                        [
+                            18.48447,
+                            54.5416
+                        ],
+                        [
+                            18.484905,
+                            54.541564
+                        ],
+                        [
+                            18.484991,
+                            54.541564
+                        ],
+                        [
+                            18.484994,
+                            54.541668
+                        ],
+                        [
+                            18.485039,
+                            54.541726
+                        ],
+                        [
+                            18.48523,
+                            54.54188
+                        ],
+                        [
+                            18.483655,
+                            54.54256
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDYCEFA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdycefa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.484259,
+                    54.541866
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDYCEFA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdycefa/"
+            }
+        }
+    ]
+}

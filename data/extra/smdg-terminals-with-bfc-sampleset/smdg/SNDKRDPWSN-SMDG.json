@@ -1,0 +1,265 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.427922,
+                            14.691048
+                        ],
+                        [
+                            -17.42851,
+                            14.689454
+                        ],
+                        [
+                            -17.428613,
+                            14.689342
+                        ],
+                        [
+                            -17.428645,
+                            14.689235
+                        ],
+                        [
+                            -17.427609,
+                            14.687232
+                        ],
+                        [
+                            -17.427475,
+                            14.687005
+                        ],
+                        [
+                            -17.425635,
+                            14.683556
+                        ],
+                        [
+                            -17.425633,
+                            14.683551
+                        ],
+                        [
+                            -17.425629,
+                            14.683549
+                        ],
+                        [
+                            -17.425483,
+                            14.683488
+                        ],
+                        [
+                            -17.424481,
+                            14.686477
+                        ],
+                        [
+                            -17.42418,
+                            14.687376
+                        ],
+                        [
+                            -17.425073,
+                            14.688206
+                        ],
+                        [
+                            -17.426452,
+                            14.689537
+                        ],
+                        [
+                            -17.426695,
+                            14.689981
+                        ],
+                        [
+                            -17.426632,
+                            14.690118
+                        ],
+                        [
+                            -17.426473,
+                            14.690162
+                        ],
+                        [
+                            -17.426002,
+                            14.690023
+                        ],
+                        [
+                            -17.425715,
+                            14.68996
+                        ],
+                        [
+                            -17.425429,
+                            14.690059
+                        ],
+                        [
+                            -17.423607,
+                            14.690648
+                        ],
+                        [
+                            -17.423553,
+                            14.690809
+                        ],
+                        [
+                            -17.423666,
+                            14.691522
+                        ],
+                        [
+                            -17.42382,
+                            14.691883
+                        ],
+                        [
+                            -17.424189,
+                            14.692378
+                        ],
+                        [
+                            -17.424644,
+                            14.693081
+                        ],
+                        [
+                            -17.424867,
+                            14.693375
+                        ],
+                        [
+                            -17.425227,
+                            14.693287
+                        ],
+                        [
+                            -17.425559,
+                            14.693227
+                        ],
+                        [
+                            -17.425598,
+                            14.693397
+                        ],
+                        [
+                            -17.425713,
+                            14.694404
+                        ],
+                        [
+                            -17.426031,
+                            14.694323
+                        ],
+                        [
+                            -17.426679,
+                            14.692399
+                        ],
+                        [
+                            -17.426905,
+                            14.691431
+                        ],
+                        [
+                            -17.426785,
+                            14.690453
+                        ],
+                        [
+                            -17.426841,
+                            14.690348
+                        ],
+                        [
+                            -17.426894,
+                            14.690339
+                        ],
+                        [
+                            -17.427168,
+                            14.690281
+                        ],
+                        [
+                            -17.427274,
+                            14.690566
+                        ],
+                        [
+                            -17.427922,
+                            14.691048
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDPWSN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.425658,
+                            14.683549
+                        ],
+                        [
+                            -17.428658,
+                            14.689234
+                        ],
+                        [
+                            -17.429081,
+                            14.68905
+                        ],
+                        [
+                            -17.426193,
+                            14.683301
+                        ],
+                        [
+                            -17.425658,
+                            14.683549
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDPWSN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.426031,
+                    14.689964
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDPWSN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.42705,
+                    14.685737
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDPWSN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            112.65006,
+                            -7.203758
+                        ],
+                        [
+                            112.650234,
+                            -7.204319
+                        ],
+                        [
+                            112.652307,
+                            -7.203622
+                        ],
+                        [
+                            112.652968,
+                            -7.203298
+                        ],
+                        [
+                            112.652661,
+                            -7.202487
+                        ],
+                        [
+                            112.65006,
+                            -7.203758
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcit/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            112.652779,
+                            -7.203302
+                        ],
+                        [
+                            112.652684,
+                            -7.203092
+                        ],
+                        [
+                            112.652838,
+                            -7.203047
+                        ],
+                        [
+                            112.652922,
+                            -7.203243
+                        ],
+                        [
+                            112.652779,
+                            -7.203302
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcit/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    112.651382,
+                    -7.20354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcit/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    112.6528,
+                    -7.203197
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcit/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

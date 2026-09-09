@@ -1,0 +1,212 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.734392,
+                            32.736103,
+                            0
+                        ],
+                        [
+                            -16.731601,
+                            32.737242,
+                            0
+                        ],
+                        [
+                            -16.731758,
+                            32.737522,
+                            0
+                        ],
+                        [
+                            -16.73196,
+                            32.737463,
+                            0
+                        ],
+                        [
+                            -16.732355,
+                            32.73831,
+                            0
+                        ],
+                        [
+                            -16.73159,
+                            32.739135,
+                            0
+                        ],
+                        [
+                            -16.730892,
+                            32.739797,
+                            0
+                        ],
+                        [
+                            -16.73066,
+                            32.739623,
+                            0
+                        ],
+                        [
+                            -16.730214,
+                            32.740213,
+                            0
+                        ],
+                        [
+                            -16.730549,
+                            32.740389,
+                            0
+                        ],
+                        [
+                            -16.732565,
+                            32.738434,
+                            0
+                        ],
+                        [
+                            -16.733502,
+                            32.738102
+                        ],
+                        [
+                            -16.733927,
+                            32.737728
+                        ],
+                        [
+                            -16.733885,
+                            32.737649,
+                            0
+                        ],
+                        [
+                            -16.734273,
+                            32.737511,
+                            0
+                        ],
+                        [
+                            -16.734552,
+                            32.737507
+                        ],
+                        [
+                            -16.73503,
+                            32.737583,
+                            0
+                        ],
+                        [
+                            -16.734947,
+                            32.737145,
+                            0
+                        ],
+                        [
+                            -16.73444,
+                            32.736248,
+                            0
+                        ],
+                        [
+                            -16.734459,
+                            32.736213,
+                            0
+                        ],
+                        [
+                            -16.734392,
+                            32.736103,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.734387,
+                            32.736097,
+                            0
+                        ],
+                        [
+                            -16.734242,
+                            32.735871,
+                            0
+                        ],
+                        [
+                            -16.731462,
+                            32.737001,
+                            0
+                        ],
+                        [
+                            -16.731598,
+                            32.737235,
+                            0
+                        ],
+                        [
+                            -16.734387,
+                            32.736097,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.73295,
+                    32.737906
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.733215,
+                    32.73646
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTCNLCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "Removed area and berth that are not used for containers. Adjusted NW corner.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

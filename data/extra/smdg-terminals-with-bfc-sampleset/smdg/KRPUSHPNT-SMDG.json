@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            128.820086,
+                            35.069284
+                        ],
+                        [
+                            128.821218,
+                            35.064418
+                        ],
+                        [
+                            128.822577,
+                            35.06485
+                        ],
+                        [
+                            128.822969,
+                            35.06494
+                        ],
+                        [
+                            128.82373,
+                            35.065107
+                        ],
+                        [
+                            128.824664,
+                            35.065717
+                        ],
+                        [
+                            128.825644,
+                            35.0662
+                        ],
+                        [
+                            128.826792,
+                            35.066677
+                        ],
+                        [
+                            128.832248,
+                            35.067666
+                        ],
+                        [
+                            128.832898,
+                            35.067894
+                        ],
+                        [
+                            128.833626,
+                            35.068277
+                        ],
+                        [
+                            128.834157,
+                            35.068952
+                        ],
+                        [
+                            128.834411,
+                            35.069574
+                        ],
+                        [
+                            128.83458,
+                            35.070376
+                        ],
+                        [
+                            128.834566,
+                            35.071334
+                        ],
+                        [
+                            128.832729,
+                            35.071325
+                        ],
+                        [
+                            128.832378,
+                            35.071333
+                        ],
+                        [
+                            128.820086,
+                            35.069284
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSHPNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "adding berth to suit contribution",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            128.831879,
+                            35.071273
+                        ],
+                        [
+                            128.831608,
+                            35.072234
+                        ],
+                        [
+                            128.819838,
+                            35.0703
+                        ],
+                        [
+                            128.820063,
+                            35.069314
+                        ],
+                        [
+                            128.831879,
+                            35.071273
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSHPNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "adding berth to suit contribution",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.828298,
+                    35.067956
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSHPNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "adding berth to suit contribution",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.827053,
+                    35.070879
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSHPNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "adding berth to suit contribution",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

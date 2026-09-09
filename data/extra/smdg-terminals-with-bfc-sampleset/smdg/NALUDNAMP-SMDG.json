@@ -1,0 +1,237 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.153124,
+                            -26.644778
+                        ],
+                        [
+                            15.152917,
+                            -26.644828
+                        ],
+                        [
+                            15.152909,
+                            -26.644893
+                        ],
+                        [
+                            15.152746,
+                            -26.645121
+                        ],
+                        [
+                            15.152562,
+                            -26.645066
+                        ],
+                        [
+                            15.151902,
+                            -26.644354
+                        ],
+                        [
+                            15.15188,
+                            -26.644091
+                        ],
+                        [
+                            15.151813,
+                            -26.644091
+                        ],
+                        [
+                            15.151655,
+                            -26.643749
+                        ],
+                        [
+                            15.151582,
+                            -26.643369
+                        ],
+                        [
+                            15.151571,
+                            -26.642934
+                        ],
+                        [
+                            15.15156,
+                            -26.642165
+                        ],
+                        [
+                            15.151557,
+                            -26.641315
+                        ],
+                        [
+                            15.151898,
+                            -26.640408
+                        ],
+                        [
+                            15.151845,
+                            -26.640308
+                        ],
+                        [
+                            15.152054,
+                            -26.640253
+                        ],
+                        [
+                            15.152295,
+                            -26.640388
+                        ],
+                        [
+                            15.152312,
+                            -26.640353
+                        ],
+                        [
+                            15.152359,
+                            -26.639974
+                        ],
+                        [
+                            15.152502,
+                            -26.639989
+                        ],
+                        [
+                            15.153245,
+                            -26.639067
+                        ],
+                        [
+                            15.153706,
+                            -26.63815
+                        ],
+                        [
+                            15.154794,
+                            -26.638375
+                        ],
+                        [
+                            15.153602,
+                            -26.64278
+                        ],
+                        [
+                            15.15344,
+                            -26.64274
+                        ],
+                        [
+                            15.15332,
+                            -26.642775
+                        ],
+                        [
+                            15.153128,
+                            -26.643573
+                        ],
+                        [
+                            15.154212,
+                            -26.643905
+                        ],
+                        [
+                            15.154229,
+                            -26.644182
+                        ],
+                        [
+                            15.154165,
+                            -26.6444
+                        ],
+                        [
+                            15.15369,
+                            -26.644455
+                        ],
+                        [
+                            15.15334,
+                            -26.644455
+                        ],
+                        [
+                            15.15301,
+                            -26.644392
+                        ],
+                        [
+                            15.153124,
+                            -26.644778
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NALUDNAMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.154746,
+                            -26.638376
+                        ],
+                        [
+                            15.155171,
+                            -26.638448
+                        ],
+                        [
+                            15.153976,
+                            -26.642909
+                        ],
+                        [
+                            15.153596,
+                            -26.642795
+                        ],
+                        [
+                            15.154746,
+                            -26.638376
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NALUDNAMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-07-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.152766,
+                    -26.64266
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NALUDNAMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.154447,
+                    -26.640181
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NALUDNAMP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

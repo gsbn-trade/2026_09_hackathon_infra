@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -83.104134,
+                            9.991293
+                        ],
+                        [
+                            -83.104881,
+                            9.989353
+                        ],
+                        [
+                            -83.104893,
+                            9.988862
+                        ],
+                        [
+                            -83.104938,
+                            9.988293
+                        ],
+                        [
+                            -83.105199,
+                            9.987702
+                        ],
+                        [
+                            -83.105663,
+                            9.986476
+                        ],
+                        [
+                            -83.104678,
+                            9.98632
+                        ],
+                        [
+                            -83.104168,
+                            9.986487
+                        ],
+                        [
+                            -83.103715,
+                            9.986777
+                        ],
+                        [
+                            -83.102741,
+                            9.989587
+                        ],
+                        [
+                            -83.102775,
+                            9.990278
+                        ],
+                        [
+                            -83.102673,
+                            9.990557
+                        ],
+                        [
+                            -83.102583,
+                            9.991059
+                        ],
+                        [
+                            -83.102821,
+                            9.991494
+                        ],
+                        [
+                            -83.104134,
+                            9.991293
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRMOBJIBW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-16",
+                "url": "https://www.bic-code.org/facility-codes/crmobjibw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.104,
+                    9.989055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRMOBJIBW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-16",
+                "url": "https://www.bic-code.org/facility-codes/crmobjibw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

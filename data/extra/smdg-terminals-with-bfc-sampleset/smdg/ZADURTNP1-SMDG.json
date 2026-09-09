@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.027262,
+                            -29.882609
+                        ],
+                        [
+                            31.029722,
+                            -29.876802
+                        ],
+                        [
+                            31.032939,
+                            -29.876161
+                        ],
+                        [
+                            31.032789,
+                            -29.875509
+                        ],
+                        [
+                            31.029226,
+                            -29.876205
+                        ],
+                        [
+                            31.026752,
+                            -29.881963
+                        ],
+                        [
+                            31.027262,
+                            -29.882609
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.027572,
+                            -29.883463
+                        ],
+                        [
+                            31.027668,
+                            -29.883533
+                        ],
+                        [
+                            31.027667,
+                            -29.883649
+                        ],
+                        [
+                            31.027515,
+                            -29.884178
+                        ],
+                        [
+                            31.027285,
+                            -29.884645
+                        ],
+                        [
+                            31.027531,
+                            -29.884721
+                        ],
+                        [
+                            31.027772,
+                            -29.884549
+                        ],
+                        [
+                            31.028003,
+                            -29.884274
+                        ],
+                        [
+                            31.028213,
+                            -29.884029
+                        ],
+                        [
+                            31.028808,
+                            -29.883224
+                        ],
+                        [
+                            31.02899,
+                            -29.883064
+                        ],
+                        [
+                            31.030166,
+                            -29.882329
+                        ],
+                        [
+                            31.030406,
+                            -29.882238
+                        ],
+                        [
+                            31.030593,
+                            -29.882294
+                        ],
+                        [
+                            31.032865,
+                            -29.876943
+                        ],
+                        [
+                            31.032942,
+                            -29.876173
+                        ],
+                        [
+                            31.029731,
+                            -29.876811
+                        ],
+                        [
+                            31.027266,
+                            -29.882623
+                        ],
+                        [
+                            31.027124,
+                            -29.883083
+                        ],
+                        [
+                            31.027269,
+                            -29.883426
+                        ],
+                        [
+                            31.027572,
+                            -29.883463
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.029422,
+                    -29.878837
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.028712,
+                    -29.88251
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP1",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

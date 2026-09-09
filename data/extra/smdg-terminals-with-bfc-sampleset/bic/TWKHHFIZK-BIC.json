@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.326065,
+                            22.569784
+                        ],
+                        [
+                            120.325618,
+                            22.570346
+                        ],
+                        [
+                            120.325144,
+                            22.570913
+                        ],
+                        [
+                            120.326251,
+                            22.571647
+                        ],
+                        [
+                            120.325862,
+                            22.572109
+                        ],
+                        [
+                            120.325491,
+                            22.572558
+                        ],
+                        [
+                            120.324674,
+                            22.573571
+                        ],
+                        [
+                            120.32495,
+                            22.574069
+                        ],
+                        [
+                            120.325205,
+                            22.574396
+                        ],
+                        [
+                            120.325391,
+                            22.574677
+                        ],
+                        [
+                            120.325542,
+                            22.574808
+                        ],
+                        [
+                            120.325635,
+                            22.574851
+                        ],
+                        [
+                            120.325734,
+                            22.574778
+                        ],
+                        [
+                            120.325864,
+                            22.574614
+                        ],
+                        [
+                            120.328185,
+                            22.571695
+                        ],
+                        [
+                            120.328255,
+                            22.571533
+                        ],
+                        [
+                            120.328191,
+                            22.57138
+                        ],
+                        [
+                            120.327337,
+                            22.570728
+                        ],
+                        [
+                            120.326065,
+                            22.569784
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHFIZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/twkhhfizk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.326077,
+                    22.572539
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHFIZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/twkhhfizk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.80636,
+                            45.609932
+                        ],
+                        [
+                            13.807285,
+                            45.608611
+                        ],
+                        [
+                            13.807415,
+                            45.608644
+                        ],
+                        [
+                            13.807499,
+                            45.608519
+                        ],
+                        [
+                            13.8076,
+                            45.608554
+                        ],
+                        [
+                            13.807761,
+                            45.608291
+                        ],
+                        [
+                            13.8067,
+                            45.608
+                        ],
+                        [
+                            13.80624,
+                            45.607793
+                        ],
+                        [
+                            13.8062,
+                            45.607665
+                        ],
+                        [
+                            13.806325,
+                            45.607402
+                        ],
+                        [
+                            13.806961,
+                            45.607129
+                        ],
+                        [
+                            13.808607,
+                            45.607444
+                        ],
+                        [
+                            13.808572,
+                            45.607544
+                        ],
+                        [
+                            13.8116,
+                            45.6085
+                        ],
+                        [
+                            13.8109,
+                            45.6092
+                        ],
+                        [
+                            13.8103,
+                            45.6099
+                        ],
+                        [
+                            13.8088,
+                            45.6094
+                        ],
+                        [
+                            13.808006,
+                            45.610491
+                        ],
+                        [
+                            13.807166,
+                            45.610206
+                        ],
+                        [
+                            13.80636,
+                            45.609932
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTRSADRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-08-06",
+                "url": "https://www.bic-code.org/facility-codes/ittrsadra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.807833,
+                    45.608658
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTRSADRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-08-06",
+                "url": "https://www.bic-code.org/facility-codes/ittrsadra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

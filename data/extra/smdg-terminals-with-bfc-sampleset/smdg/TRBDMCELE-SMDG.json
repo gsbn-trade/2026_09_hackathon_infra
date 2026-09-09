@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.960592,
+                            40.351691
+                        ],
+                        [
+                            27.959656,
+                            40.350791
+                        ],
+                        [
+                            27.96136,
+                            40.350332
+                        ],
+                        [
+                            27.962267,
+                            40.351327
+                        ],
+                        [
+                            27.964341,
+                            40.353769
+                        ],
+                        [
+                            27.963014,
+                            40.354465
+                        ],
+                        [
+                            27.960592,
+                            40.351691
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMCELE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.960576,
+                            40.351708
+                        ],
+                        [
+                            27.963002,
+                            40.354476
+                        ],
+                        [
+                            27.964355,
+                            40.35379
+                        ],
+                        [
+                            27.962256,
+                            40.35132
+                        ],
+                        [
+                            27.962612,
+                            40.351267
+                        ],
+                        [
+                            27.964982,
+                            40.353812
+                        ],
+                        [
+                            27.962856,
+                            40.354853
+                        ],
+                        [
+                            27.960256,
+                            40.351798
+                        ],
+                        [
+                            27.960576,
+                            40.351708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMCELE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.961689,
+                    40.352009
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMCELE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.962386,
+                    40.352748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMCELE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

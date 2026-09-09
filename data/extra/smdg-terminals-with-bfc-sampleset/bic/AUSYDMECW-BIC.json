@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.921445,
+                            -33.959306
+                        ],
+                        [
+                            150.928089,
+                            -33.960076
+                        ],
+                        [
+                            150.929646,
+                            -33.951329
+                        ],
+                        [
+                            150.930285,
+                            -33.947755
+                        ],
+                        [
+                            150.923863,
+                            -33.946957
+                        ],
+                        [
+                            150.921445,
+                            -33.959306
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUSYDMECW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/ausydmecw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.925796,
+                    -33.954121
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUSYDMECW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/ausydmecw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

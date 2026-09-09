@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.204519,
+                            34.659514
+                        ],
+                        [
+                            135.20438,
+                            34.659402
+                        ],
+                        [
+                            135.204148,
+                            34.659309
+                        ],
+                        [
+                            135.204212,
+                            34.65796
+                        ],
+                        [
+                            135.204501,
+                            34.658031
+                        ],
+                        [
+                            135.20524,
+                            34.658396
+                        ],
+                        [
+                            135.205535,
+                            34.65857
+                        ],
+                        [
+                            135.20569,
+                            34.658687
+                        ],
+                        [
+                            135.205918,
+                            34.658906
+                        ],
+                        [
+                            135.206077,
+                            34.659168
+                        ],
+                        [
+                            135.206206,
+                            34.659347
+                        ],
+                        [
+                            135.20631,
+                            34.659486
+                        ],
+                        [
+                            135.206342,
+                            34.659625
+                        ],
+                        [
+                            135.206383,
+                            34.659824
+                        ],
+                        [
+                            135.20633,
+                            34.660554
+                        ],
+                        [
+                            135.206331,
+                            34.660657
+                        ],
+                        [
+                            135.206243,
+                            34.660694
+                        ],
+                        [
+                            135.205992,
+                            34.660283
+                        ],
+                        [
+                            135.205885,
+                            34.659899
+                        ],
+                        [
+                            135.205619,
+                            34.659674
+                        ],
+                        [
+                            135.204713,
+                            34.659633
+                        ],
+                        [
+                            135.204519,
+                            34.659514
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-29",
+                "url": "https://www.bic-code.org/facility-codes/jpukbkama/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.205504,
+                    34.659415
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-29",
+                "url": "https://www.bic-code.org/facility-codes/jpukbkama/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

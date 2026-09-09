@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.355102,
+                            51.470355
+                        ],
+                        [
+                            0.354523,
+                            51.470404
+                        ],
+                        [
+                            0.352257,
+                            51.47036
+                        ],
+                        [
+                            0.352385,
+                            51.469452
+                        ],
+                        [
+                            0.352047,
+                            51.469358
+                        ],
+                        [
+                            0.35228,
+                            51.469196
+                        ],
+                        [
+                            0.35523,
+                            51.469341
+                        ],
+                        [
+                            0.355102,
+                            51.470355
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILMFXP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbtilmfxp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.353616,
+                    51.469853
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILMFXP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbtilmfxp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

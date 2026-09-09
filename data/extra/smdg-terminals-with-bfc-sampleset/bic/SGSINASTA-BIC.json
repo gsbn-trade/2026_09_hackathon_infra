@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            103.661954,
+                            1.302466
+                        ],
+                        [
+                            103.662685,
+                            1.301653
+                        ],
+                        [
+                            103.663554,
+                            1.302477
+                        ],
+                        [
+                            103.663989,
+                            1.302074
+                        ],
+                        [
+                            103.664324,
+                            1.302436
+                        ],
+                        [
+                            103.664228,
+                            1.303716
+                        ],
+                        [
+                            103.663289,
+                            1.302836
+                        ],
+                        [
+                            103.662851,
+                            1.30326
+                        ],
+                        [
+                            103.661954,
+                            1.302466
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SGSINASTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/sgsinasta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.663203,
+                    1.302598
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SGSINASTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/sgsinasta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

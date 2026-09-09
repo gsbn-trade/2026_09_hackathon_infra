@@ -1,0 +1,181 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.875944,
+                            38.515978
+                        ],
+                        [
+                            -8.876051,
+                            38.515843
+                        ],
+                        [
+                            -8.868943,
+                            38.512431
+                        ],
+                        [
+                            -8.868797,
+                            38.512622
+                        ],
+                        [
+                            -8.869181,
+                            38.512806
+                        ],
+                        [
+                            -8.869252,
+                            38.512841
+                        ],
+                        [
+                            -8.867764,
+                            38.514751
+                        ],
+                        [
+                            -8.868279,
+                            38.515014
+                        ],
+                        [
+                            -8.868299,
+                            38.514989
+                        ],
+                        [
+                            -8.86845,
+                            38.515064
+                        ],
+                        [
+                            -8.868414,
+                            38.51511
+                        ],
+                        [
+                            -8.868359,
+                            38.515176
+                        ],
+                        [
+                            -8.868281,
+                            38.515273
+                        ],
+                        [
+                            -8.86816,
+                            38.515439
+                        ],
+                        [
+                            -8.868047,
+                            38.515602
+                        ],
+                        [
+                            -8.871776,
+                            38.517048
+                        ],
+                        [
+                            -8.872639,
+                            38.517329
+                        ],
+                        [
+                            -8.874508,
+                            38.518061
+                        ],
+                        [
+                            -8.875652,
+                            38.516537
+                        ],
+                        [
+                            -8.875944,
+                            38.515978
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETSADOP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.876059,
+                            38.515834
+                        ],
+                        [
+                            -8.876377,
+                            38.515418
+                        ],
+                        [
+                            -8.869269,
+                            38.512026
+                        ],
+                        [
+                            -8.868953,
+                            38.512418
+                        ],
+                        [
+                            -8.876059,
+                            38.515834
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETSADOP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.870637,
+                    38.515195
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETSADOP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.873343,
+                    38.514306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETSADOP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,269 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.899346,
+                            -6.097026
+                        ],
+                        [
+                            106.899326,
+                            -6.09757
+                        ],
+                        [
+                            106.905092,
+                            -6.097795
+                        ],
+                        [
+                            106.905117,
+                            -6.09724
+                        ],
+                        [
+                            106.899346,
+                            -6.097026
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTUTC3",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-06-27",
+                "remarks": "Bordering JICT terminal. No physical fences in the the gate-in area to separate from JICT. Check if KOJA extends more to the south.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.898091,
+                            -6.105455
+                        ],
+                        [
+                            106.897476,
+                            -6.10544
+                        ],
+                        [
+                            106.897484,
+                            -6.105306
+                        ],
+                        [
+                            106.897505,
+                            -6.104954
+                        ],
+                        [
+                            106.897516,
+                            -6.104522
+                        ],
+                        [
+                            106.897489,
+                            -6.104156
+                        ],
+                        [
+                            106.897547,
+                            -6.102759
+                        ],
+                        [
+                            106.897616,
+                            -6.102761
+                        ],
+                        [
+                            106.897616,
+                            -6.102678
+                        ],
+                        [
+                            106.899678,
+                            -6.102661
+                        ],
+                        [
+                            106.899671,
+                            -6.102397
+                        ],
+                        [
+                            106.900131,
+                            -6.10238
+                        ],
+                        [
+                            106.900097,
+                            -6.101678
+                        ],
+                        [
+                            106.90375,
+                            -6.101831
+                        ],
+                        [
+                            106.904978,
+                            -6.101857
+                        ],
+                        [
+                            106.905103,
+                            -6.098485
+                        ],
+                        [
+                            106.905072,
+                            -6.098483
+                        ],
+                        [
+                            106.905092,
+                            -6.097812
+                        ],
+                        [
+                            106.899324,
+                            -6.09759
+                        ],
+                        [
+                            106.899277,
+                            -6.098741
+                        ],
+                        [
+                            106.899832,
+                            -6.098768
+                        ],
+                        [
+                            106.899746,
+                            -6.101247
+                        ],
+                        [
+                            106.899635,
+                            -6.101533
+                        ],
+                        [
+                            106.899589,
+                            -6.102175
+                        ],
+                        [
+                            106.899456,
+                            -6.102605
+                        ],
+                        [
+                            106.897377,
+                            -6.102536
+                        ],
+                        [
+                            106.897356,
+                            -6.10293
+                        ],
+                        [
+                            106.897377,
+                            -6.103347
+                        ],
+                        [
+                            106.897347,
+                            -6.103954
+                        ],
+                        [
+                            106.897333,
+                            -6.103955
+                        ],
+                        [
+                            106.897245,
+                            -6.106243
+                        ],
+                        [
+                            106.897265,
+                            -6.10628
+                        ],
+                        [
+                            106.89725,
+                            -6.106594
+                        ],
+                        [
+                            106.897357,
+                            -6.106817
+                        ],
+                        [
+                            106.897425,
+                            -6.106908
+                        ],
+                        [
+                            106.897483,
+                            -6.10697
+                        ],
+                        [
+                            106.897573,
+                            -6.10701
+                        ],
+                        [
+                            106.897762,
+                            -6.107027
+                        ],
+                        [
+                            106.89792,
+                            -6.107024
+                        ],
+                        [
+                            106.898056,
+                            -6.106968
+                        ],
+                        [
+                            106.898091,
+                            -6.105455
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTUTC3",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-06-27",
+                "remarks": "Bordering JICT terminal. No physical fences in the the gate-in area to separate from JICT. Check if KOJA extends more to the south.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.901645,
+                    -6.097331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTUTC3",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-27",
+                "remarks": "Bordering JICT terminal. No physical fences in the the gate-in area to separate from JICT. Check if KOJA extends more to the south.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.899,
+                    -6.103373
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTUTC3",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-27",
+                "remarks": "Bordering JICT terminal. No physical fences in the the gate-in area to separate from JICT. Check if KOJA extends more to the south.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

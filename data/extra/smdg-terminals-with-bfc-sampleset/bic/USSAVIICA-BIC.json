@@ -1,0 +1,87 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.1651,
+                            32.1228
+                        ],
+                        [
+                            -81.1621,
+                            32.1231
+                        ],
+                        [
+                            -81.1623,
+                            32.1237
+                        ],
+                        [
+                            -81.1609,
+                            32.124
+                        ],
+                        [
+                            -81.1608,
+                            32.1241
+                        ],
+                        [
+                            -81.1597,
+                            32.1243
+                        ],
+                        [
+                            -81.1599,
+                            32.1254
+                        ],
+                        [
+                            -81.163,
+                            32.1248
+                        ],
+                        [
+                            -81.1653,
+                            32.1243
+                        ],
+                        [
+                            -81.1653,
+                            32.1239
+                        ],
+                        [
+                            -81.1658,
+                            32.1238
+                        ],
+                        [
+                            -81.1651,
+                            32.1228
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVIICA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/ussaviica/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.162942,
+                    32.123917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVIICA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/ussaviica/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

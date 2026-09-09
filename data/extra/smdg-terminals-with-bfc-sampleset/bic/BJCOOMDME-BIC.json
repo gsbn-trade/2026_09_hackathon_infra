@@ -1,0 +1,147 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.428678,
+                            6.340817
+                        ],
+                        [
+                            2.428735,
+                            6.341465
+                        ],
+                        [
+                            2.424125,
+                            6.341988
+                        ],
+                        [
+                            2.423822,
+                            6.342066
+                        ],
+                        [
+                            2.424224,
+                            6.342151
+                        ],
+                        [
+                            2.424133,
+                            6.342331
+                        ],
+                        [
+                            2.424051,
+                            6.342848
+                        ],
+                        [
+                            2.423822,
+                            6.345151
+                        ],
+                        [
+                            2.424187,
+                            6.345208
+                        ],
+                        [
+                            2.424129,
+                            6.345514
+                        ],
+                        [
+                            2.419245,
+                            6.345077
+                        ],
+                        [
+                            2.419167,
+                            6.346114
+                        ],
+                        [
+                            2.419074,
+                            6.346147
+                        ],
+                        [
+                            2.419091,
+                            6.346592
+                        ],
+                        [
+                            2.415437,
+                            6.346173
+                        ],
+                        [
+                            2.4153,
+                            6.347285
+                        ],
+                        [
+                            2.414266,
+                            6.347208
+                        ],
+                        [
+                            2.414569,
+                            6.343804
+                        ],
+                        [
+                            2.41887,
+                            6.343514
+                        ],
+                        [
+                            2.418767,
+                            6.342857
+                        ],
+                        [
+                            2.418734,
+                            6.342662
+                        ],
+                        [
+                            2.419904,
+                            6.342574
+                        ],
+                        [
+                            2.420683,
+                            6.342472
+                        ],
+                        [
+                            2.420624,
+                            6.3418
+                        ],
+                        [
+                            2.422733,
+                            6.34155
+                        ],
+                        [
+                            2.428678,
+                            6.340817
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOOMDME",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-05",
+                "remarks": "BIC VERSION OF SDMDG TERMINAL PROVIDED BY CMA",
+                "url": "https://www.bic-code.org/facility-codes/bjcoomdme/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.421348,
+                    6.343699
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOOMDME",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "BIC VERSION OF SDMDG TERMINAL PROVIDED BY CMA",
+                "url": "https://www.bic-code.org/facility-codes/bjcoomdme/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

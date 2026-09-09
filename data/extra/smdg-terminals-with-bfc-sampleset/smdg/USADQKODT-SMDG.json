@@ -1,0 +1,253 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -152.43626,
+                            57.782207
+                        ],
+                        [
+                            -152.436511,
+                            57.782095
+                        ],
+                        [
+                            -152.437359,
+                            57.781758
+                        ],
+                        [
+                            -152.437976,
+                            57.781524
+                        ],
+                        [
+                            -152.438532,
+                            57.781358
+                        ],
+                        [
+                            -152.438757,
+                            57.781311
+                        ],
+                        [
+                            -152.439737,
+                            57.780699
+                        ],
+                        [
+                            -152.439599,
+                            57.780603
+                        ],
+                        [
+                            -152.439417,
+                            57.780558
+                        ],
+                        [
+                            -152.439055,
+                            57.78042
+                        ],
+                        [
+                            -152.438867,
+                            57.780462
+                        ],
+                        [
+                            -152.43799,
+                            57.781018
+                        ],
+                        [
+                            -152.43716,
+                            57.781231
+                        ],
+                        [
+                            -152.436968,
+                            57.781255
+                        ],
+                        [
+                            -152.436842,
+                            57.781249
+                        ],
+                        [
+                            -152.436789,
+                            57.781164
+                        ],
+                        [
+                            -152.437115,
+                            57.781078
+                        ],
+                        [
+                            -152.437071,
+                            57.781019
+                        ],
+                        [
+                            -152.436723,
+                            57.781078
+                        ],
+                        [
+                            -152.435063,
+                            57.781535
+                        ],
+                        [
+                            -152.435129,
+                            57.781668
+                        ],
+                        [
+                            -152.434792,
+                            57.781753
+                        ],
+                        [
+                            -152.434659,
+                            57.781673
+                        ],
+                        [
+                            -152.433314,
+                            57.782191
+                        ],
+                        [
+                            -152.433555,
+                            57.782428
+                        ],
+                        [
+                            -152.432917,
+                            57.782711
+                        ],
+                        [
+                            -152.433027,
+                            57.782893
+                        ],
+                        [
+                            -152.433024,
+                            57.782997
+                        ],
+                        [
+                            -152.432842,
+                            57.783072
+                        ],
+                        [
+                            -152.432087,
+                            57.783275
+                        ],
+                        [
+                            -152.432278,
+                            57.783487
+                        ],
+                        [
+                            -152.435062,
+                            57.782723
+                        ],
+                        [
+                            -152.43626,
+                            57.782207
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USADQKODT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -152.433308,
+                            57.782199
+                        ],
+                        [
+                            -152.434656,
+                            57.781638
+                        ],
+                        [
+                            -152.434791,
+                            57.781737
+                        ],
+                        [
+                            -152.435086,
+                            57.781656
+                        ],
+                        [
+                            -152.435078,
+                            57.781503
+                        ],
+                        [
+                            -152.437066,
+                            57.781018
+                        ],
+                        [
+                            -152.436923,
+                            57.780816
+                        ],
+                        [
+                            -152.434463,
+                            57.78149
+                        ],
+                        [
+                            -152.433005,
+                            57.782002
+                        ],
+                        [
+                            -152.433308,
+                            57.782199
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USADQKODT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.436144,
+                    57.781718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USADQKODT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.434768,
+                    57.781626
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USADQKODT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

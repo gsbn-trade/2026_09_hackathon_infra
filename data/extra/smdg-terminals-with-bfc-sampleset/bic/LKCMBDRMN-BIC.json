@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            79.879447,
+                            7.018507
+                        ],
+                        [
+                            79.879329,
+                            7.018488
+                        ],
+                        [
+                            79.879232,
+                            7.016084
+                        ],
+                        [
+                            79.881468,
+                            7.015967
+                        ],
+                        [
+                            79.881507,
+                            7.018313
+                        ],
+                        [
+                            79.879447,
+                            7.018507
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBDRMN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-06-20",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbdrmn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.880072,
+                    7.017644
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LKCMBDRMN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-06-20",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbdrmn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

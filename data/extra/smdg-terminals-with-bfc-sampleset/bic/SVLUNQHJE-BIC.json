@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.821762,
+                            13.336816
+                        ],
+                        [
+                            -87.824503,
+                            13.335387
+                        ],
+                        [
+                            -87.824694,
+                            13.335498
+                        ],
+                        [
+                            -87.827772,
+                            13.332702
+                        ],
+                        [
+                            -87.829285,
+                            13.333382
+                        ],
+                        [
+                            -87.829578,
+                            13.333333
+                        ],
+                        [
+                            -87.829845,
+                            13.333011
+                        ],
+                        [
+                            -87.829501,
+                            13.332739
+                        ],
+                        [
+                            -87.828331,
+                            13.331972
+                        ],
+                        [
+                            -87.827912,
+                            13.331786
+                        ],
+                        [
+                            -87.828458,
+                            13.33113
+                        ],
+                        [
+                            -87.827581,
+                            13.330635
+                        ],
+                        [
+                            -87.826907,
+                            13.330536
+                        ],
+                        [
+                            -87.825915,
+                            13.330895
+                        ],
+                        [
+                            -87.825063,
+                            13.330722
+                        ],
+                        [
+                            -87.824618,
+                            13.330252
+                        ],
+                        [
+                            -87.823969,
+                            13.328259
+                        ],
+                        [
+                            -87.818131,
+                            13.33304
+                        ],
+                        [
+                            -87.821762,
+                            13.336816
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVLUNQHJE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-17",
+                "url": "https://www.bic-code.org/facility-codes/svlunqhje/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.826084,
+                    13.332574
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVLUNQHJE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://www.bic-code.org/facility-codes/svlunqhje/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

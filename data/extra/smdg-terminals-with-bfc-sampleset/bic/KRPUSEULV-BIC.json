@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.819145,
+                            35.082404
+                        ],
+                        [
+                            128.8193,
+                            35.077759
+                        ],
+                        [
+                            128.831653,
+                            35.077681
+                        ],
+                        [
+                            128.831471,
+                            35.082368
+                        ],
+                        [
+                            128.819145,
+                            35.082404
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSEULV",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-22",
+                "url": "https://www.bic-code.org/facility-codes/krpuseulv/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.824143,
+                    35.080523
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSEULV",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-22",
+                "url": "https://www.bic-code.org/facility-codes/krpuseulv/"
+            }
+        }
+    ]
+}

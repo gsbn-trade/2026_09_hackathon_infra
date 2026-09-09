@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.0726,
+                            -5.0751
+                        ],
+                        [
+                            -81.0752,
+                            -5.07682
+                        ],
+                        [
+                            -81.0744,
+                            -5.07801
+                        ],
+                        [
+                            -81.0717,
+                            -5.07638
+                        ],
+                        [
+                            -81.0726,
+                            -5.0751
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAICIHE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/pepaicihe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0733,
+                    -5.076282
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAICIHE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/pepaicihe/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

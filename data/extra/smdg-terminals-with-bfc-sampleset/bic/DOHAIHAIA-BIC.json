@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.01117,
+                            18.423395
+                        ],
+                        [
+                            -70.011883,
+                            18.423979
+                        ],
+                        [
+                            -70.011259,
+                            18.424554
+                        ],
+                        [
+                            -70.012288,
+                            18.425455
+                        ],
+                        [
+                            -70.012843,
+                            18.424879
+                        ],
+                        [
+                            -70.014975,
+                            18.4267
+                        ],
+                        [
+                            -70.015178,
+                            18.426812
+                        ],
+                        [
+                            -70.015939,
+                            18.426748
+                        ],
+                        [
+                            -70.016379,
+                            18.426636
+                        ],
+                        [
+                            -70.017292,
+                            18.425641
+                        ],
+                        [
+                            -70.018086,
+                            18.421245
+                        ],
+                        [
+                            -70.017731,
+                            18.421197
+                        ],
+                        [
+                            -70.016311,
+                            18.422609
+                        ],
+                        [
+                            -70.014637,
+                            18.421197
+                        ],
+                        [
+                            -70.015985,
+                            18.419815
+                        ],
+                        [
+                            -70.01511,
+                            18.41906
+                        ],
+                        [
+                            -70.014366,
+                            18.419834
+                        ],
+                        [
+                            -70.014349,
+                            18.420379
+                        ],
+                        [
+                            -70.012675,
+                            18.421791
+                        ],
+                        [
+                            -70.01117,
+                            18.423395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHAIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaihaia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.014481,
+                    18.423266
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHAIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaihaia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

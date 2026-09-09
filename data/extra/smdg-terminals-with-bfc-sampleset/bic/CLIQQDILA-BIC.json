@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.124988,
+                            -20.28634
+                        ],
+                        [
+                            -70.125025,
+                            -20.287721
+                        ],
+                        [
+                            -70.124081,
+                            -20.287705
+                        ],
+                        [
+                            -70.124071,
+                            -20.288044
+                        ],
+                        [
+                            -70.123391,
+                            -20.288189
+                        ],
+                        [
+                            -70.123023,
+                            -20.286944
+                        ],
+                        [
+                            -70.12307,
+                            -20.286315
+                        ],
+                        [
+                            -70.124988,
+                            -20.28634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQDILA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqdila/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.12408,
+                    -20.2872
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQDILA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqdila/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

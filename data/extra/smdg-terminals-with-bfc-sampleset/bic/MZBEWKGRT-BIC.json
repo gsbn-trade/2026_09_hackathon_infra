@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.874756,
+                            -19.759362
+                        ],
+                        [
+                            34.876511,
+                            -19.758837
+                        ],
+                        [
+                            34.877342,
+                            -19.760927
+                        ],
+                        [
+                            34.875561,
+                            -19.761538
+                        ],
+                        [
+                            34.874756,
+                            -19.759362
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWKGRT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewkgrt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.875785,
+                    -19.760005
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWKGRT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewkgrt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

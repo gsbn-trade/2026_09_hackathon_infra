@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.593002,
+                            -25.554467
+                        ],
+                        [
+                            -48.595257,
+                            -25.555344
+                        ],
+                        [
+                            -48.595062,
+                            -25.556203
+                        ],
+                        [
+                            -48.592562,
+                            -25.555688
+                        ],
+                        [
+                            -48.593002,
+                            -25.554467
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGGBIZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpnggbiz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.593777,
+                    -25.555234
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGGBIZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpnggbiz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

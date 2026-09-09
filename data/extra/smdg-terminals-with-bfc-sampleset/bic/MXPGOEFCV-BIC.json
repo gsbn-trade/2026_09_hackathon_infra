@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.66264,
+                            21.272133
+                        ],
+                        [
+                            -89.664329,
+                            21.27189
+                        ],
+                        [
+                            -89.663843,
+                            21.271134
+                        ],
+                        [
+                            -89.664198,
+                            21.271073
+                        ],
+                        [
+                            -89.664027,
+                            21.270223
+                        ],
+                        [
+                            -89.662161,
+                            21.270527
+                        ],
+                        [
+                            -89.662504,
+                            21.271736
+                        ],
+                        [
+                            -89.66264,
+                            21.272133
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOEFCV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgoefcv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.663293,
+                    21.271356
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOEFCV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgoefcv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

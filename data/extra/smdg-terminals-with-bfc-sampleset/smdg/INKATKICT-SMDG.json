@@ -1,0 +1,271 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.347419,
+                            13.309822
+                        ],
+                        [
+                            80.34741,
+                            13.313044
+                        ],
+                        [
+                            80.347113,
+                            13.312997
+                        ],
+                        [
+                            80.347083,
+                            13.314179
+                        ],
+                        [
+                            80.353236,
+                            13.312406
+                        ],
+                        [
+                            80.353325,
+                            13.312742
+                        ],
+                        [
+                            80.350783,
+                            13.313427
+                        ],
+                        [
+                            80.350842,
+                            13.313734
+                        ],
+                        [
+                            80.348903,
+                            13.314244
+                        ],
+                        [
+                            80.347202,
+                            13.314692
+                        ],
+                        [
+                            80.347225,
+                            13.314826
+                        ],
+                        [
+                            80.346991,
+                            13.314857
+                        ],
+                        [
+                            80.346667,
+                            13.314981
+                        ],
+                        [
+                            80.346215,
+                            13.315132
+                        ],
+                        [
+                            80.346221,
+                            13.315394
+                        ],
+                        [
+                            80.3456,
+                            13.315446
+                        ],
+                        [
+                            80.345243,
+                            13.31548
+                        ],
+                        [
+                            80.344874,
+                            13.31551
+                        ],
+                        [
+                            80.344569,
+                            13.315531
+                        ],
+                        [
+                            80.343647,
+                            13.315603
+                        ],
+                        [
+                            80.343226,
+                            13.315627
+                        ],
+                        [
+                            80.334229,
+                            13.316278
+                        ],
+                        [
+                            80.325336,
+                            13.317119
+                        ],
+                        [
+                            80.325153,
+                            13.316719
+                        ],
+                        [
+                            80.341228,
+                            13.315425
+                        ],
+                        [
+                            80.341278,
+                            13.309904
+                        ],
+                        [
+                            80.347419,
+                            13.309822
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.35005,
+                            13.313285
+                        ],
+                        [
+                            80.347114,
+                            13.314147
+                        ],
+                        [
+                            80.347146,
+                            13.313658
+                        ],
+                        [
+                            80.351712,
+                            13.3124
+                        ],
+                        [
+                            80.351836,
+                            13.312768
+                        ],
+                        [
+                            80.35005,
+                            13.313285
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.347441,
+                            13.313052
+                        ],
+                        [
+                            80.347433,
+                            13.309814
+                        ],
+                        [
+                            80.347736,
+                            13.309814
+                        ],
+                        [
+                            80.347736,
+                            13.313044
+                        ],
+                        [
+                            80.347441,
+                            13.313052
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.344757,
+                    13.314257
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.349651,
+                    13.313257
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.347557,
+                    13.311755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INKATKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

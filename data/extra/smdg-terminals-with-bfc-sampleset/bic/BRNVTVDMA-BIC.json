@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.698704,
+                            -26.852095
+                        ],
+                        [
+                            -48.698787,
+                            -26.85212
+                        ],
+                        [
+                            -48.699183,
+                            -26.855543
+                        ],
+                        [
+                            -48.696957,
+                            -26.856153
+                        ],
+                        [
+                            -48.69635,
+                            -26.852421
+                        ],
+                        [
+                            -48.69635,
+                            -26.851819
+                        ],
+                        [
+                            -48.69683,
+                            -26.851751
+                        ],
+                        [
+                            -48.69726,
+                            -26.851781
+                        ],
+                        [
+                            -48.697749,
+                            -26.852009
+                        ],
+                        [
+                            -48.698704,
+                            -26.852095
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTVDMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/brnvtvdma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.697687,
+                    -26.852779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTVDMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/brnvtvdma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

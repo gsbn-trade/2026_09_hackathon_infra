@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.897923,
+                            44.469118
+                        ],
+                        [
+                            8.897247,
+                            44.469508
+                        ],
+                        [
+                            8.897065,
+                            44.469344
+                        ],
+                        [
+                            8.896957,
+                            44.469355
+                        ],
+                        [
+                            8.896266,
+                            44.468635
+                        ],
+                        [
+                            8.896267,
+                            44.468559
+                        ],
+                        [
+                            8.897332,
+                            44.468569
+                        ],
+                        [
+                            8.897369,
+                            44.468244
+                        ],
+                        [
+                            8.897043,
+                            44.468226
+                        ],
+                        [
+                            8.897021,
+                            44.468483
+                        ],
+                        [
+                            8.896276,
+                            44.468467
+                        ],
+                        [
+                            8.896287,
+                            44.468147
+                        ],
+                        [
+                            8.896475,
+                            44.46803
+                        ],
+                        [
+                            8.896821,
+                            44.467803
+                        ],
+                        [
+                            8.896888,
+                            44.467552
+                        ],
+                        [
+                            8.898234,
+                            44.46759
+                        ],
+                        [
+                            8.898166,
+                            44.468088
+                        ],
+                        [
+                            8.898097,
+                            44.468176
+                        ],
+                        [
+                            8.898044,
+                            44.468854
+                        ],
+                        [
+                            8.89801,
+                            44.468987
+                        ],
+                        [
+                            8.898053,
+                            44.469026
+                        ],
+                        [
+                            8.897923,
+                            44.469118
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAAWRC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-19",
+                "url": "https://www.bic-code.org/facility-codes/itgoaawrc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.897262,
+                    44.46854
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAAWRC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-19",
+                "url": "https://www.bic-code.org/facility-codes/itgoaawrc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

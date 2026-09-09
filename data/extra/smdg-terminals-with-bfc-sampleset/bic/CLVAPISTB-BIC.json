@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.557887,
+                            -33.136555
+                        ],
+                        [
+                            -71.558876,
+                            -33.139138
+                        ],
+                        [
+                            -71.557317,
+                            -33.139381
+                        ],
+                        [
+                            -71.557285,
+                            -33.141226
+                        ],
+                        [
+                            -71.555533,
+                            -33.141109
+                        ],
+                        [
+                            -71.55218,
+                            -33.140479
+                        ],
+                        [
+                            -71.550998,
+                            -33.139687
+                        ],
+                        [
+                            -71.549858,
+                            -33.138355
+                        ],
+                        [
+                            -71.548096,
+                            -33.135151
+                        ],
+                        [
+                            -71.551105,
+                            -33.133396
+                        ],
+                        [
+                            -71.551062,
+                            -33.134062
+                        ],
+                        [
+                            -71.551213,
+                            -33.134584
+                        ],
+                        [
+                            -71.551556,
+                            -33.135124
+                        ],
+                        [
+                            -71.552492,
+                            -33.136024
+                        ],
+                        [
+                            -71.553169,
+                            -33.13642
+                        ],
+                        [
+                            -71.554813,
+                            -33.136942
+                        ],
+                        [
+                            -71.556049,
+                            -33.137014
+                        ],
+                        [
+                            -71.557887,
+                            -33.136555
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "CLVAPISTB",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/clvapistb/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.553743,
+                    -33.137289
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "CLVAPISTB",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/clvapistb/"
+            }
+        }
+    ]
+}

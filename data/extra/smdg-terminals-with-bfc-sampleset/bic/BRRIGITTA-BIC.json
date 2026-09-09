@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.125527,
+                            -32.127506
+                        ],
+                        [
+                            -52.129421,
+                            -32.1228
+                        ],
+                        [
+                            -52.130419,
+                            -32.123363
+                        ],
+                        [
+                            -52.126632,
+                            -32.128106
+                        ],
+                        [
+                            -52.125527,
+                            -32.127506
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGITTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigitta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.127505,
+                    -32.125856
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGITTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigitta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

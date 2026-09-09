@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.680758,
+                            54.380227
+                        ],
+                        [
+                            18.681369,
+                            54.379887
+                        ],
+                        [
+                            18.682405,
+                            54.379677
+                        ],
+                        [
+                            18.686149,
+                            54.384964
+                        ],
+                        [
+                            18.686331,
+                            54.385175
+                        ],
+                        [
+                            18.685995,
+                            54.38525
+                        ],
+                        [
+                            18.684798,
+                            54.385474
+                        ],
+                        [
+                            18.684107,
+                            54.384541
+                        ],
+                        [
+                            18.683905,
+                            54.384251
+                        ],
+                        [
+                            18.683722,
+                            54.384219
+                        ],
+                        [
+                            18.683644,
+                            54.384103
+                        ],
+                        [
+                            18.683568,
+                            54.38399
+                        ],
+                        [
+                            18.68351,
+                            54.383975
+                        ],
+                        [
+                            18.681538,
+                            54.381195
+                        ],
+                        [
+                            18.68156,
+                            54.381148
+                        ],
+                        [
+                            18.681479,
+                            54.381044
+                        ],
+                        [
+                            18.68136,
+                            54.380891
+                        ],
+                        [
+                            18.681282,
+                            54.380872
+                        ],
+                        [
+                            18.680911,
+                            54.380484
+                        ],
+                        [
+                            18.680953,
+                            54.380468
+                        ],
+                        [
+                            18.680758,
+                            54.380227
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDNSIST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-08-28",
+                "url": "https://www.bic-code.org/facility-codes/plgdnsist/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.675313,
+                            54.37749
+                        ],
+                        [
+                            18.670885,
+                            54.376836
+                        ],
+                        [
+                            18.670604,
+                            54.376673
+                        ],
+                        [
+                            18.670515,
+                            54.376442
+                        ],
+                        [
+                            18.670834,
+                            54.375536
+                        ],
+                        [
+                            18.67151,
+                            54.375662
+                        ],
+                        [
+                            18.671587,
+                            54.375521
+                        ],
+                        [
+                            18.672071,
+                            54.375528
+                        ],
+                        [
+                            18.672097,
+                            54.375417
+                        ],
+                        [
+                            18.67613,
+                            54.375989
+                        ],
+                        [
+                            18.675313,
+                            54.37749
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDNSIST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-08-28",
+                "url": "https://www.bic-code.org/facility-codes/plgdnsist/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.682862,
+                    54.382479
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDNSIST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-08-28",
+                "url": "https://www.bic-code.org/facility-codes/plgdnsist/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.672442,
+                    54.376235
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PLGDNSIST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-08-28",
+                "url": "https://www.bic-code.org/facility-codes/plgdnsist/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

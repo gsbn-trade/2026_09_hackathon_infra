@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.215045,
+                            19.22378
+                        ],
+                        [
+                            -96.216941,
+                            19.223945
+                        ],
+                        [
+                            -96.216994,
+                            19.223195
+                        ],
+                        [
+                            -96.2151,
+                            19.222993
+                        ],
+                        [
+                            -96.215045,
+                            19.22378
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDHAQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-09",
+                "url": "https://www.bic-code.org/facility-codes/mxverdhaq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.215825,
+                    19.223539
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERDHAQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-09",
+                "url": "https://www.bic-code.org/facility-codes/mxverdhaq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

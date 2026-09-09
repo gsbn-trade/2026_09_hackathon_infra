@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.259758,
+                            -54.793399
+                        ],
+                        [
+                            -68.257838,
+                            -54.794779
+                        ],
+                        [
+                            -68.257182,
+                            -54.795787
+                        ],
+                        [
+                            -68.256793,
+                            -54.796962
+                        ],
+                        [
+                            -68.255439,
+                            -54.796416
+                        ],
+                        [
+                            -68.254716,
+                            -54.796106
+                        ],
+                        [
+                            -68.253972,
+                            -54.795956
+                        ],
+                        [
+                            -68.252312,
+                            -54.795928
+                        ],
+                        [
+                            -68.25376,
+                            -54.793222
+                        ],
+                        [
+                            -68.256772,
+                            -54.793213
+                        ],
+                        [
+                            -68.258575,
+                            -54.793209
+                        ],
+                        [
+                            -68.259758,
+                            -54.793399
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHFQOD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushfqod/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.256406,
+                    -54.794865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHFQOD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushfqod/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

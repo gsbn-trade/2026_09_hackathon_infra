@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.128915,
+                            17.976609
+                        ],
+                        [
+                            -102.12825,
+                            17.976134
+                        ],
+                        [
+                            -102.127923,
+                            17.976614
+                        ],
+                        [
+                            -102.128094,
+                            17.976762
+                        ],
+                        [
+                            -102.127609,
+                            17.977328
+                        ],
+                        [
+                            -102.127939,
+                            17.977601
+                        ],
+                        [
+                            -102.128915,
+                            17.976609
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCCENA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-17",
+                "url": "https://www.bic-code.org/facility-codes/mxlzccena/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.128235,
+                    17.976808
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCCENA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-17",
+                "url": "https://www.bic-code.org/facility-codes/mxlzccena/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

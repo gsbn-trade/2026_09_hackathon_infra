@@ -1,0 +1,211 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.253015,
+                            45.458791
+                        ],
+                        [
+                            12.252392,
+                            45.457962
+                        ],
+                        [
+                            12.250993,
+                            45.458462
+                        ],
+                        [
+                            12.250855,
+                            45.458519
+                        ],
+                        [
+                            12.250077,
+                            45.457535
+                        ],
+                        [
+                            12.251694,
+                            45.456992
+                        ],
+                        [
+                            12.253958,
+                            45.456084
+                        ],
+                        [
+                            12.253374,
+                            45.45532
+                        ],
+                        [
+                            12.256369,
+                            45.454135
+                        ],
+                        [
+                            12.257529,
+                            45.455037
+                        ],
+                        [
+                            12.257521,
+                            45.457014
+                        ],
+                        [
+                            12.253015,
+                            45.458791
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.257535,
+                            45.457018
+                        ],
+                        [
+                            12.257544,
+                            45.455015
+                        ],
+                        [
+                            12.258249,
+                            45.455042
+                        ],
+                        [
+                            12.258403,
+                            45.457032
+                        ],
+                        [
+                            12.257535,
+                            45.457018
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.253047,
+                            45.458779
+                        ],
+                        [
+                            12.257509,
+                            45.45701
+                        ],
+                        [
+                            12.2584,
+                            45.457034
+                        ],
+                        [
+                            12.258617,
+                            45.45709
+                        ],
+                        [
+                            12.253252,
+                            45.459059
+                        ],
+                        [
+                            12.253047,
+                            45.458779
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.253399,
+                    45.457054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.257853,
+                    45.456225
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.255645,
+                    45.457958
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCETIV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

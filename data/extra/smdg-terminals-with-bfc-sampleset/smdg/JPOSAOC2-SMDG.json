@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.437194,
+                            34.634664
+                        ],
+                        [
+                            135.437916,
+                            34.63142
+                        ],
+                        [
+                            135.441137,
+                            34.631818
+                        ],
+                        [
+                            135.440509,
+                            34.635056
+                        ],
+                        [
+                            135.437194,
+                            34.634664
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.440557,
+                            34.635065
+                        ],
+                        [
+                            135.44052,
+                            34.635045
+                        ],
+                        [
+                            135.441144,
+                            34.631816
+                        ],
+                        [
+                            135.441451,
+                            34.631886
+                        ],
+                        [
+                            135.440826,
+                            34.635106
+                        ],
+                        [
+                            135.440557,
+                            34.635065
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.43879,
+                    34.633524
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.440843,
+                    34.633997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

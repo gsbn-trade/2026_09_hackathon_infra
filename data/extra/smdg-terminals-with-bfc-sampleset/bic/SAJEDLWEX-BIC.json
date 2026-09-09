@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.144378,
+                            21.306317
+                        ],
+                        [
+                            39.14447,
+                            21.304521
+                        ],
+                        [
+                            39.152359,
+                            21.30505
+                        ],
+                        [
+                            39.152392,
+                            21.306789
+                        ],
+                        [
+                            39.144378,
+                            21.306317
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDLWEX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajedlwex/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.147595,
+                    21.305799
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDLWEX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajedlwex/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

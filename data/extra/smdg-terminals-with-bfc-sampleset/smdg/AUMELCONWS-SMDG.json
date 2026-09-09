@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.908688,
+                            -37.815173
+                        ],
+                        [
+                            144.908576,
+                            -37.818402
+                        ],
+                        [
+                            144.908485,
+                            -37.818401
+                        ],
+                        [
+                            144.908444,
+                            -37.819122
+                        ],
+                        [
+                            144.908159,
+                            -37.819134
+                        ],
+                        [
+                            144.908136,
+                            -37.819594
+                        ],
+                        [
+                            144.908914,
+                            -37.819743
+                        ],
+                        [
+                            144.909225,
+                            -37.81967
+                        ],
+                        [
+                            144.910222,
+                            -37.819169
+                        ],
+                        [
+                            144.911467,
+                            -37.818392
+                        ],
+                        [
+                            144.91152,
+                            -37.818447
+                        ],
+                        [
+                            144.911654,
+                            -37.81847
+                        ],
+                        [
+                            144.911742,
+                            -37.818412
+                        ],
+                        [
+                            144.911842,
+                            -37.818496
+                        ],
+                        [
+                            144.912165,
+                            -37.818296
+                        ],
+                        [
+                            144.912201,
+                            -37.818201
+                        ],
+                        [
+                            144.912546,
+                            -37.809828
+                        ],
+                        [
+                            144.912408,
+                            -37.809814
+                        ],
+                        [
+                            144.912437,
+                            -37.809316
+                        ],
+                        [
+                            144.91101,
+                            -37.809719
+                        ],
+                        [
+                            144.909732,
+                            -37.809706
+                        ],
+                        [
+                            144.907522,
+                            -37.809192
+                        ],
+                        [
+                            144.907293,
+                            -37.809303
+                        ],
+                        [
+                            144.906646,
+                            -37.811561
+                        ],
+                        [
+                            144.906762,
+                            -37.811921
+                        ],
+                        [
+                            144.906904,
+                            -37.812029
+                        ],
+                        [
+                            144.908782,
+                            -37.812077
+                        ],
+                        [
+                            144.908688,
+                            -37.815173
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCONWS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.912534,
+                            -37.809825
+                        ],
+                        [
+                            144.912176,
+                            -37.818328
+                        ],
+                        [
+                            144.912672,
+                            -37.818382
+                        ],
+                        [
+                            144.913013,
+                            -37.809824
+                        ],
+                        [
+                            144.912534,
+                            -37.809825
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCONWS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.90972,
+                    -37.815241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCONWS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.912586,
+                    -37.813237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCONWS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

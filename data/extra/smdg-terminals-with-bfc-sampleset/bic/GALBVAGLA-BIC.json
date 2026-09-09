@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.500267,
+                            0.29286
+                        ],
+                        [
+                            9.500025,
+                            0.293022
+                        ],
+                        [
+                            9.499112,
+                            0.291972
+                        ],
+                        [
+                            9.500174,
+                            0.291176
+                        ],
+                        [
+                            9.500488,
+                            0.291617
+                        ],
+                        [
+                            9.500688,
+                            0.291604
+                        ],
+                        [
+                            9.501053,
+                            0.292143
+                        ],
+                        [
+                            9.501079,
+                            0.292165
+                        ],
+                        [
+                            9.501113,
+                            0.292299
+                        ],
+                        [
+                            9.500384,
+                            0.292853
+                        ],
+                        [
+                            9.500267,
+                            0.29286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.500423,
+                    0.292234
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

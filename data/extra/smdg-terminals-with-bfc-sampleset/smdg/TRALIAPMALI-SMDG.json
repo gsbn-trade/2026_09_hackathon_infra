@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.932532,
+                            38.775131
+                        ],
+                        [
+                            26.933075,
+                            38.775458
+                        ],
+                        [
+                            26.933976,
+                            38.77586
+                        ],
+                        [
+                            26.934801,
+                            38.776022
+                        ],
+                        [
+                            26.936071,
+                            38.776248
+                        ],
+                        [
+                            26.937023,
+                            38.777144
+                        ],
+                        [
+                            26.937706,
+                            38.777911
+                        ],
+                        [
+                            26.93785,
+                            38.778361
+                        ],
+                        [
+                            26.938225,
+                            38.778795
+                        ],
+                        [
+                            26.938634,
+                            38.779564
+                        ],
+                        [
+                            26.939014,
+                            38.779444
+                        ],
+                        [
+                            26.93921,
+                            38.779589
+                        ],
+                        [
+                            26.941124,
+                            38.778915
+                        ],
+                        [
+                            26.941187,
+                            38.778876
+                        ],
+                        [
+                            26.940852,
+                            38.779708
+                        ],
+                        [
+                            26.940234,
+                            38.780139
+                        ],
+                        [
+                            26.939636,
+                            38.780458
+                        ],
+                        [
+                            26.939538,
+                            38.780334
+                        ],
+                        [
+                            26.938853,
+                            38.780287
+                        ],
+                        [
+                            26.938365,
+                            38.780394
+                        ],
+                        [
+                            26.938055,
+                            38.780542
+                        ],
+                        [
+                            26.937575,
+                            38.780188
+                        ],
+                        [
+                            26.936725,
+                            38.779236
+                        ],
+                        [
+                            26.93422,
+                            38.780487
+                        ],
+                        [
+                            26.934781,
+                            38.782433
+                        ],
+                        [
+                            26.931706,
+                            38.783855
+                        ],
+                        [
+                            26.930723,
+                            38.782643
+                        ],
+                        [
+                            26.929609,
+                            38.781482
+                        ],
+                        [
+                            26.9302,
+                            38.781002
+                        ],
+                        [
+                            26.931303,
+                            38.781833
+                        ],
+                        [
+                            26.932935,
+                            38.780668
+                        ],
+                        [
+                            26.930689,
+                            38.778151
+                        ],
+                        [
+                            26.928328,
+                            38.775389
+                        ],
+                        [
+                            26.93078,
+                            38.774361
+                        ],
+                        [
+                            26.931255,
+                            38.77471
+                        ],
+                        [
+                            26.931977,
+                            38.774895
+                        ],
+                        [
+                            26.932532,
+                            38.775131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIAPMALI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.932425,
+                            38.780946
+                        ],
+                        [
+                            26.927749,
+                            38.775574
+                        ],
+                        [
+                            26.928267,
+                            38.775326
+                        ],
+                        [
+                            26.932932,
+                            38.780643
+                        ],
+                        [
+                            26.932425,
+                            38.780946
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIAPMALI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.935441,
+                    38.778801
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIAPMALI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.93076,
+                    38.778687
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIAPMALI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

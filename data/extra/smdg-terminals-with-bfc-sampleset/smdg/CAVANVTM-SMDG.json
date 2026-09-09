@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.069845,
+                            49.288015
+                        ],
+                        [
+                            -123.077881,
+                            49.289709
+                        ],
+                        [
+                            -123.077892,
+                            49.288953
+                        ],
+                        [
+                            -123.077218,
+                            49.288857
+                        ],
+                        [
+                            -123.077229,
+                            49.287402
+                        ],
+                        [
+                            -123.078463,
+                            49.287031
+                        ],
+                        [
+                            -123.078398,
+                            49.284001
+                        ],
+                        [
+                            -123.077647,
+                            49.28398
+                        ],
+                        [
+                            -123.077229,
+                            49.284512
+                        ],
+                        [
+                            -123.076714,
+                            49.284882
+                        ],
+                        [
+                            -123.075534,
+                            49.284785
+                        ],
+                        [
+                            -123.073624,
+                            49.284785
+                        ],
+                        [
+                            -123.07327,
+                            49.284798
+                        ],
+                        [
+                            -123.072864,
+                            49.284798
+                        ],
+                        [
+                            -123.072818,
+                            49.285638
+                        ],
+                        [
+                            -123.072718,
+                            49.285643
+                        ],
+                        [
+                            -123.072718,
+                            49.285943
+                        ],
+                        [
+                            -123.071714,
+                            49.286613
+                        ],
+                        [
+                            -123.070242,
+                            49.286623
+                        ],
+                        [
+                            -123.06989,
+                            49.286613
+                        ],
+                        [
+                            -123.069845,
+                            49.288015
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANVTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.069863,
+                            49.288
+                        ],
+                        [
+                            -123.069765,
+                            49.289587
+                        ],
+                        [
+                            -123.0776,
+                            49.290836
+                        ],
+                        [
+                            -123.07792,
+                            49.289707
+                        ],
+                        [
+                            -123.069863,
+                            49.288
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANVTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.074464,
+                    49.286266
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANVTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.073002,
+                    49.289226
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANVTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

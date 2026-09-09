@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.890142,
+                            13.063139
+                        ],
+                        [
+                            100.891797,
+                            13.06041
+                        ],
+                        [
+                            100.894165,
+                            13.061809
+                        ],
+                        [
+                            100.892539,
+                            13.06456
+                        ],
+                        [
+                            100.890142,
+                            13.063139
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHESCO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.889899,
+                            13.06359
+                        ],
+                        [
+                            100.890182,
+                            13.06319
+                        ],
+                        [
+                            100.892568,
+                            13.064583
+                        ],
+                        [
+                            100.892304,
+                            13.065009
+                        ],
+                        [
+                            100.889899,
+                            13.06359
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHESCO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.891757,
+                    13.062611
+                ]
+            },
+            "properties": {
+                "code": "THLCHESCO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.89097,
+                    13.063992
+                ]
+            },
+            "properties": {
+                "code": "THLCHESCO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

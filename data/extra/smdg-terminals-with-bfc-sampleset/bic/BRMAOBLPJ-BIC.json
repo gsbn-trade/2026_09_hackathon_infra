@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.944334,
+                            -3.098272
+                        ],
+                        [
+                            -59.944345,
+                            -3.098753
+                        ],
+                        [
+                            -59.945243,
+                            -3.098611
+                        ],
+                        [
+                            -59.945342,
+                            -3.098753
+                        ],
+                        [
+                            -59.945906,
+                            -3.099562
+                        ],
+                        [
+                            -59.94658,
+                            -3.100393
+                        ],
+                        [
+                            -59.946393,
+                            -3.101301
+                        ],
+                        [
+                            -59.946043,
+                            -3.102684
+                        ],
+                        [
+                            -59.945703,
+                            -3.102734
+                        ],
+                        [
+                            -59.945687,
+                            -3.103849
+                        ],
+                        [
+                            -59.946147,
+                            -3.103887
+                        ],
+                        [
+                            -59.946109,
+                            -3.104276
+                        ],
+                        [
+                            -59.943184,
+                            -3.104276
+                        ],
+                        [
+                            -59.943181,
+                            -3.105336
+                        ],
+                        [
+                            -59.942935,
+                            -3.105984
+                        ],
+                        [
+                            -59.941617,
+                            -3.106105
+                        ],
+                        [
+                            -59.94164,
+                            -3.104168
+                        ],
+                        [
+                            -59.941587,
+                            -3.103151
+                        ],
+                        [
+                            -59.942954,
+                            -3.103127
+                        ],
+                        [
+                            -59.942834,
+                            -3.099677
+                        ],
+                        [
+                            -59.943024,
+                            -3.099665
+                        ],
+                        [
+                            -59.94299,
+                            -3.099182
+                        ],
+                        [
+                            -59.94359,
+                            -3.099026
+                        ],
+                        [
+                            -59.944115,
+                            -3.098786
+                        ],
+                        [
+                            -59.944132,
+                            -3.098299
+                        ],
+                        [
+                            -59.944334,
+                            -3.098272
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBLPJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoblpj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.941507,
+                            -3.106864
+                        ],
+                        [
+                            -59.943161,
+                            -3.106874
+                        ],
+                        [
+                            -59.942911,
+                            -3.108085
+                        ],
+                        [
+                            -59.94267,
+                            -3.108395
+                        ],
+                        [
+                            -59.94244,
+                            -3.108475
+                        ],
+                        [
+                            -59.941919,
+                            -3.108204
+                        ],
+                        [
+                            -59.941488,
+                            -3.108184
+                        ],
+                        [
+                            -59.941507,
+                            -3.106864
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBLPJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoblpj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.944229,
+                    -3.101466
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBLPJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoblpj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.9422,
+                    -3.107743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBLPJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoblpj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

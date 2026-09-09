@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.3255,
+                            -34.6729
+                        ],
+                        [
+                            -58.3227,
+                            -34.6704
+                        ],
+                        [
+                            -58.3258,
+                            -34.6676
+                        ],
+                        [
+                            -58.3284,
+                            -34.67
+                        ],
+                        [
+                            -58.3255,
+                            -34.6729
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEEODE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-18",
+                "url": "https://www.bic-code.org/facility-codes/arbueeode/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.32558,
+                    -34.67076
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEEODE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://www.bic-code.org/facility-codes/arbueeode/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -104.294912,
+                            19.057781
+                        ],
+                        [
+                            -104.294601,
+                            19.056812
+                        ],
+                        [
+                            -104.293693,
+                            19.057025
+                        ],
+                        [
+                            -104.294031,
+                            19.058038
+                        ],
+                        [
+                            -104.294912,
+                            19.057781
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLOCORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/mxzlocora/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.29443,
+                    19.057487
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLOCORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/mxzlocora/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

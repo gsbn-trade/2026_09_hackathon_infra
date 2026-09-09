@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.9195,
+                            -3.28136
+                        ],
+                        [
+                            -79.9178,
+                            -3.27855
+                        ],
+                        [
+                            -79.9189,
+                            -3.27797
+                        ],
+                        [
+                            -79.9206,
+                            -3.28057
+                        ],
+                        [
+                            -79.9195,
+                            -3.28136
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOZMYE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecpbozmye/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91926,
+                    -3.279962
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOZMYE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecpbozmye/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

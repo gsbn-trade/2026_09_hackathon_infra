@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.548987,
+                            24.293322
+                        ],
+                        [
+                            120.549792,
+                            24.293538
+                        ],
+                        [
+                            120.549663,
+                            24.293689
+                        ],
+                        [
+                            120.548537,
+                            24.29408
+                        ],
+                        [
+                            120.545603,
+                            24.29322
+                        ],
+                        [
+                            120.54534,
+                            24.293019
+                        ],
+                        [
+                            120.54454,
+                            24.293014
+                        ],
+                        [
+                            120.544015,
+                            24.292521
+                        ],
+                        [
+                            120.544004,
+                            24.292354
+                        ],
+                        [
+                            120.544106,
+                            24.292115
+                        ],
+                        [
+                            120.545088,
+                            24.292501
+                        ],
+                        [
+                            120.546053,
+                            24.292789
+                        ],
+                        [
+                            120.547003,
+                            24.292956
+                        ],
+                        [
+                            120.548446,
+                            24.293254
+                        ],
+                        [
+                            120.548987,
+                            24.293322
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgakev/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.546678,
+                    24.293046
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgakev/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

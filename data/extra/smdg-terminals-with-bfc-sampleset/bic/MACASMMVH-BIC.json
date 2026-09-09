@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -7.562765,
+                            33.600118
+                        ],
+                        [
+                            -7.562663,
+                            33.598102
+                        ],
+                        [
+                            -7.561219,
+                            33.598311
+                        ],
+                        [
+                            -7.560837,
+                            33.598226
+                        ],
+                        [
+                            -7.559888,
+                            33.597916
+                        ],
+                        [
+                            -7.558761,
+                            33.597978
+                        ],
+                        [
+                            -7.558649,
+                            33.597916
+                        ],
+                        [
+                            -7.558584,
+                            33.597326
+                        ],
+                        [
+                            -7.558444,
+                            33.597287
+                        ],
+                        [
+                            -7.557168,
+                            33.597039
+                        ],
+                        [
+                            -7.556088,
+                            33.597024
+                        ],
+                        [
+                            -7.555436,
+                            33.597132
+                        ],
+                        [
+                            -7.555464,
+                            33.598063
+                        ],
+                        [
+                            -7.555697,
+                            33.599048
+                        ],
+                        [
+                            -7.555241,
+                            33.599552
+                        ],
+                        [
+                            -7.555082,
+                            33.599948
+                        ],
+                        [
+                            -7.555213,
+                            33.600243
+                        ],
+                        [
+                            -7.559236,
+                            33.599288
+                        ],
+                        [
+                            -7.560782,
+                            33.599064
+                        ],
+                        [
+                            -7.561964,
+                            33.598986
+                        ],
+                        [
+                            -7.56257,
+                            33.598823
+                        ],
+                        [
+                            -7.562635,
+                            33.600126
+                        ],
+                        [
+                            -7.562765,
+                            33.600118
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASMMVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasmmvh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -7.560907,
+                            33.598509
+                        ],
+                        [
+                            -7.560764,
+                            33.598589
+                        ],
+                        [
+                            -7.560656,
+                            33.598625
+                        ],
+                        [
+                            -7.560633,
+                            33.598445
+                        ],
+                        [
+                            -7.560781,
+                            33.5985
+                        ],
+                        [
+                            -7.560861,
+                            33.598481
+                        ],
+                        [
+                            -7.560907,
+                            33.598509
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASMMVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasmmvh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.559007,
+                    33.598593
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASMMVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasmmvh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.560787,
+                    33.598523
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASMMVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-29",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/macasmmvh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

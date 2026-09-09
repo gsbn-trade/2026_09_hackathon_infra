@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.852759,
+                            -3.636416
+                        ],
+                        [
+                            -38.85512,
+                            -3.636062
+                        ],
+                        [
+                            -38.856487,
+                            -3.636298
+                        ],
+                        [
+                            -38.856648,
+                            -3.639975
+                        ],
+                        [
+                            -38.853776,
+                            -3.640367
+                        ],
+                        [
+                            -38.853221,
+                            -3.638649
+                        ],
+                        [
+                            -38.85277,
+                            -3.636996
+                        ],
+                        [
+                            -38.852684,
+                            -3.636416
+                        ],
+                        [
+                            -38.852759,
+                            -3.636416
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECANTH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecanth/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.854025,
+                    -3.637511
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECANTH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecanth/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

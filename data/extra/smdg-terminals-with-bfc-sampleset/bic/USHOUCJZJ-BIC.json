@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -95.120251,
+                            29.77898
+                        ],
+                        [
+                            -95.120872,
+                            29.77873
+                        ],
+                        [
+                            -95.120873,
+                            29.77791
+                        ],
+                        [
+                            -95.120865,
+                            29.777098
+                        ],
+                        [
+                            -95.1196,
+                            29.7771
+                        ],
+                        [
+                            -95.119597,
+                            29.778837
+                        ],
+                        [
+                            -95.120231,
+                            29.778572
+                        ],
+                        [
+                            -95.120251,
+                            29.77898
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUCJZJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushoucjzj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.120317,
+                    29.778276
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUCJZJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushoucjzj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

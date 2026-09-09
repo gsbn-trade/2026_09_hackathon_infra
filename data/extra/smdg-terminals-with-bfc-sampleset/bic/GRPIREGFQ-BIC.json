@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.594853,
+                            37.976973
+                        ],
+                        [
+                            23.594882,
+                            37.9778
+                        ],
+                        [
+                            23.594327,
+                            37.977914
+                        ],
+                        [
+                            23.593641,
+                            37.97814
+                        ],
+                        [
+                            23.593249,
+                            37.9782
+                        ],
+                        [
+                            23.592418,
+                            37.978023
+                        ],
+                        [
+                            23.592835,
+                            37.977299
+                        ],
+                        [
+                            23.592309,
+                            37.976713
+                        ],
+                        [
+                            23.592457,
+                            37.976644
+                        ],
+                        [
+                            23.592693,
+                            37.976847
+                        ],
+                        [
+                            23.592962,
+                            37.976644
+                        ],
+                        [
+                            23.593125,
+                            37.976813
+                        ],
+                        [
+                            23.593336,
+                            37.977147
+                        ],
+                        [
+                            23.593942,
+                            37.977016
+                        ],
+                        [
+                            23.594229,
+                            37.976959
+                        ],
+                        [
+                            23.594468,
+                            37.976942
+                        ],
+                        [
+                            23.594704,
+                            37.976942
+                        ],
+                        [
+                            23.594853,
+                            37.976973
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIREGFQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/grpiregfq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.593627,
+                    37.977222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIREGFQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/grpiregfq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

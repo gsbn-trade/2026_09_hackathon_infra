@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.153987,
+                            40.695947
+                        ],
+                        [
+                            -74.155274,
+                            40.694071
+                        ],
+                        [
+                            -74.153958,
+                            40.693624
+                        ],
+                        [
+                            -74.15374,
+                            40.693898
+                        ],
+                        [
+                            -74.153059,
+                            40.693659
+                        ],
+                        [
+                            -74.151729,
+                            40.693294
+                        ],
+                        [
+                            -74.150154,
+                            40.692791
+                        ],
+                        [
+                            -74.149191,
+                            40.694376
+                        ],
+                        [
+                            -74.151081,
+                            40.694994
+                        ],
+                        [
+                            -74.151614,
+                            40.695164
+                        ],
+                        [
+                            -74.153987,
+                            40.695947
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCJCCM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/usnycjccm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.152525,
+                    40.694342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCJCCM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/usnycjccm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

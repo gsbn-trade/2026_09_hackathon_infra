@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.008238,
+                            5.615236
+                        ],
+                        [
+                            -0.004287,
+                            5.617136
+                        ],
+                        [
+                            -0.004717,
+                            5.618026
+                        ],
+                        [
+                            -0.008001,
+                            5.616464
+                        ],
+                        [
+                            -0.00958,
+                            5.619716
+                        ],
+                        [
+                            -0.01075,
+                            5.619216
+                        ],
+                        [
+                            -0.011009,
+                            5.619802
+                        ],
+                        [
+                            -0.012315,
+                            5.619204
+                        ],
+                        [
+                            -0.013248,
+                            5.618771
+                        ],
+                        [
+                            -0.01369,
+                            5.619798
+                        ],
+                        [
+                            -0.017303,
+                            5.617818
+                        ],
+                        [
+                            -0.018234,
+                            5.617354
+                        ],
+                        [
+                            -0.019784,
+                            5.616797
+                        ],
+                        [
+                            -0.022466,
+                            5.615751
+                        ],
+                        [
+                            -0.021903,
+                            5.614827
+                        ],
+                        [
+                            -0.0212,
+                            5.61385
+                        ],
+                        [
+                            -0.018382,
+                            5.610599
+                        ],
+                        [
+                            -0.01823,
+                            5.610792
+                        ],
+                        [
+                            -0.016989,
+                            5.611385
+                        ],
+                        [
+                            -0.016748,
+                            5.611064
+                        ],
+                        [
+                            -0.016501,
+                            5.611181
+                        ],
+                        [
+                            -0.016534,
+                            5.611606
+                        ],
+                        [
+                            -0.015851,
+                            5.611946
+                        ],
+                        [
+                            -0.015793,
+                            5.611851
+                        ],
+                        [
+                            -0.015924,
+                            5.611789
+                        ],
+                        [
+                            -0.015841,
+                            5.611651
+                        ],
+                        [
+                            -0.008238,
+                            5.615236
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMMPS3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.004271,
+                            5.617132
+                        ],
+                        [
+                            -0.015816,
+                            5.611657
+                        ],
+                        [
+                            -0.015482,
+                            5.611059
+                        ],
+                        [
+                            -0.003963,
+                            5.616454
+                        ],
+                        [
+                            -0.004271,
+                            5.617132
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMMPS3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.014509,
+                    5.615143
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMMPS3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.008761,
+                    5.614687
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMMPS3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

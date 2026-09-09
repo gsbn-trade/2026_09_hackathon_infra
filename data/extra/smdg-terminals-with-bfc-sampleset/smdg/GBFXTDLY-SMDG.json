@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.313068,
+                            51.952597
+                        ],
+                        [
+                            1.309979,
+                            51.953923
+                        ],
+                        [
+                            1.309353,
+                            51.953342
+                        ],
+                        [
+                            1.315117,
+                            51.951246
+                        ],
+                        [
+                            1.315343,
+                            51.951561
+                        ],
+                        [
+                            1.31282,
+                            51.952329
+                        ],
+                        [
+                            1.313068,
+                            51.952597
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTDLY",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-02-23",
+                "remarks": "Could do with clarity on the roro storage area",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.316066,
+                            51.951005
+                        ],
+                        [
+                            1.318737,
+                            51.95207
+                        ],
+                        [
+                            1.318716,
+                            51.952275
+                        ],
+                        [
+                            1.318877,
+                            51.952321
+                        ],
+                        [
+                            1.318383,
+                            51.952837
+                        ],
+                        [
+                            1.318115,
+                            51.953167
+                        ],
+                        [
+                            1.317718,
+                            51.95361
+                        ],
+                        [
+                            1.317471,
+                            51.953901
+                        ],
+                        [
+                            1.317343,
+                            51.954232
+                        ],
+                        [
+                            1.317182,
+                            51.95449
+                        ],
+                        [
+                            1.316892,
+                            51.954741
+                        ],
+                        [
+                            1.316484,
+                            51.954966
+                        ],
+                        [
+                            1.315734,
+                            51.955336
+                        ],
+                        [
+                            1.315192,
+                            51.954908
+                        ],
+                        [
+                            1.315649,
+                            51.954701
+                        ],
+                        [
+                            1.315345,
+                            51.954447
+                        ],
+                        [
+                            1.315223,
+                            51.954492
+                        ],
+                        [
+                            1.314794,
+                            51.954118
+                        ],
+                        [
+                            1.314238,
+                            51.954339
+                        ],
+                        [
+                            1.314187,
+                            51.954439
+                        ],
+                        [
+                            1.314334,
+                            51.954554
+                        ],
+                        [
+                            1.313829,
+                            51.954799
+                        ],
+                        [
+                            1.314901,
+                            51.955703
+                        ],
+                        [
+                            1.312994,
+                            51.956435
+                        ],
+                        [
+                            1.312791,
+                            51.956249
+                        ],
+                        [
+                            1.312643,
+                            51.956228
+                        ],
+                        [
+                            1.311809,
+                            51.95551
+                        ],
+                        [
+                            1.309976,
+                            51.953953
+                        ],
+                        [
+                            1.311345,
+                            51.953378
+                        ],
+                        [
+                            1.313094,
+                            51.952599
+                        ],
+                        [
+                            1.312858,
+                            51.952347
+                        ],
+                        [
+                            1.315379,
+                            51.951574
+                        ],
+                        [
+                            1.315261,
+                            51.951362
+                        ],
+                        [
+                            1.315894,
+                            51.95119
+                        ],
+                        [
+                            1.316066,
+                            51.951005
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTDLY",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-02-23",
+                "remarks": "Could do with clarity on the roro storage area",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.312678,
+                    51.952514
+                ]
+            },
+            "properties": {
+                "code": "GBFXTDLY",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-23",
+                "remarks": "Could do with clarity on the roro storage area",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.315301,
+                    51.953808
+                ]
+            },
+            "properties": {
+                "code": "GBFXTDLY",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-23",
+                "remarks": "Could do with clarity on the roro storage area",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

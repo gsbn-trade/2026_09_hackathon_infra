@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.68884,
+                            35.457218
+                        ],
+                        [
+                            139.689271,
+                            35.456729
+                        ],
+                        [
+                            139.68955,
+                            35.45677
+                        ],
+                        [
+                            139.690195,
+                            35.455857
+                        ],
+                        [
+                            139.690835,
+                            35.454898
+                        ],
+                        [
+                            139.691202,
+                            35.454795
+                        ],
+                        [
+                            139.691544,
+                            35.454806
+                        ],
+                        [
+                            139.693411,
+                            35.455677
+                        ],
+                        [
+                            139.69152,
+                            35.458443
+                        ],
+                        [
+                            139.68884,
+                            35.457218
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDT9",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.688834,
+                            35.457224
+                        ],
+                        [
+                            139.691524,
+                            35.458446
+                        ],
+                        [
+                            139.691328,
+                            35.458688
+                        ],
+                        [
+                            139.688625,
+                            35.457508
+                        ],
+                        [
+                            139.688834,
+                            35.457224
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDT9",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.690521,
+                    35.456241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDT9",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.689829,
+                    35.457818
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDT9",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

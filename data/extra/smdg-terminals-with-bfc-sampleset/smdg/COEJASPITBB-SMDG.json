@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.901126,
+                            7.109134
+                        ],
+                        [
+                            -73.897785,
+                            7.102556
+                        ],
+                        [
+                            -73.897025,
+                            7.099525
+                        ],
+                        [
+                            -73.895012,
+                            7.099737
+                        ],
+                        [
+                            -73.894227,
+                            7.099567
+                        ],
+                        [
+                            -73.893669,
+                            7.098814
+                        ],
+                        [
+                            -73.893012,
+                            7.098577
+                        ],
+                        [
+                            -73.895094,
+                            7.103817
+                        ],
+                        [
+                            -73.897491,
+                            7.110734
+                        ],
+                        [
+                            -73.898063,
+                            7.110734
+                        ],
+                        [
+                            -73.901126,
+                            7.109134
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COEJASPITBB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.901125,
+                            7.10917
+                        ],
+                        [
+                            -73.90169,
+                            7.108918
+                        ],
+                        [
+                            -73.898314,
+                            7.10237
+                        ],
+                        [
+                            -73.897551,
+                            7.099426
+                        ],
+                        [
+                            -73.897014,
+                            7.099552
+                        ],
+                        [
+                            -73.897847,
+                            7.10251
+                        ],
+                        [
+                            -73.901125,
+                            7.10917
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COEJASPITBB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.896694,
+                    7.103848
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COEJASPITBB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.899238,
+                    7.104445
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COEJASPITBB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

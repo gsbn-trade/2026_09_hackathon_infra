@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.315487,
+                            6.442653
+                        ],
+                        [
+                            3.314929,
+                            6.442509
+                        ],
+                        [
+                            3.314849,
+                            6.442829
+                        ],
+                        [
+                            3.314629,
+                            6.442807
+                        ],
+                        [
+                            3.314592,
+                            6.443005
+                        ],
+                        [
+                            3.314103,
+                            6.442871
+                        ],
+                        [
+                            3.314972,
+                            6.440744
+                        ],
+                        [
+                            3.316051,
+                            6.441192
+                        ],
+                        [
+                            3.315487,
+                            6.442653
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.315011,
+                    6.442363
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

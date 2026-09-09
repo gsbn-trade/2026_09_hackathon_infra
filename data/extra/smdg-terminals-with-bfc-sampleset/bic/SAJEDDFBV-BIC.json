@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.161063,
+                            21.303092
+                        ],
+                        [
+                            39.161084,
+                            21.301692
+                        ],
+                        [
+                            39.162565,
+                            21.301732
+                        ],
+                        [
+                            39.162511,
+                            21.303107
+                        ],
+                        [
+                            39.161063,
+                            21.303092
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDFBV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajeddfbv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.161657,
+                    21.302543
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDFBV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajeddfbv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

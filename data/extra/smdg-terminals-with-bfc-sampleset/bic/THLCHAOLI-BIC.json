@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.89501,
+                            13.065898
+                        ],
+                        [
+                            100.896645,
+                            13.063215
+                        ],
+                        [
+                            100.902419,
+                            13.066597
+                        ],
+                        [
+                            100.900717,
+                            13.069295
+                        ],
+                        [
+                            100.89501,
+                            13.065898
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHAOLI",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-04-04",
+                "url": "https://www.bic-code.org/facility-codes/thlchaoli/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.89796,
+                    13.066181
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHAOLI",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-04-04",
+                "url": "https://www.bic-code.org/facility-codes/thlchaoli/"
+            }
+        }
+    ]
+}

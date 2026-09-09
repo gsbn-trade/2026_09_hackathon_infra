@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.79389,
+                            13.934233
+                        ],
+                        [
+                            -90.798958,
+                            13.933727
+                        ],
+                        [
+                            -90.797394,
+                            13.931399
+                        ],
+                        [
+                            -90.794453,
+                            13.931966
+                        ],
+                        [
+                            -90.793932,
+                            13.932431
+                        ],
+                        [
+                            -90.79389,
+                            13.934233
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQCNRT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/gtprqcnrt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.795419,
+                    13.932998
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQCNRT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/gtprqcnrt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

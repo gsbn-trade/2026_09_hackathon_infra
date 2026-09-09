@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.972773,
+                            58.933307
+                        ],
+                        [
+                            17.972701,
+                            58.93316
+                        ],
+                        [
+                            17.973769,
+                            58.933017
+                        ],
+                        [
+                            17.974213,
+                            58.933799
+                        ],
+                        [
+                            17.97439,
+                            58.933775
+                        ],
+                        [
+                            17.974614,
+                            58.934111
+                        ],
+                        [
+                            17.973608,
+                            58.934266
+                        ],
+                        [
+                            17.973248,
+                            58.934184
+                        ],
+                        [
+                            17.973082,
+                            58.933838
+                        ],
+                        [
+                            17.973015,
+                            58.933727
+                        ],
+                        [
+                            17.972964,
+                            58.933603
+                        ],
+                        [
+                            17.972887,
+                            58.933497
+                        ],
+                        [
+                            17.972773,
+                            58.933307
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESTOTLVF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sestotlvf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.973387,
+                    58.933661
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SESTOTLVF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sestotlvf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

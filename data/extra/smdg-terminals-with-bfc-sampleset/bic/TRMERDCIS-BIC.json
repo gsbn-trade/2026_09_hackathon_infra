@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.693175,
+                            36.838112
+                        ],
+                        [
+                            34.692965,
+                            36.837098
+                        ],
+                        [
+                            34.695658,
+                            36.837527
+                        ],
+                        [
+                            34.695456,
+                            36.838186
+                        ],
+                        [
+                            34.695273,
+                            36.838549
+                        ],
+                        [
+                            34.693175,
+                            36.838112
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trmerdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.69532,
+                            36.838446
+                        ],
+                        [
+                            34.69496,
+                            36.838358
+                        ],
+                        [
+                            34.695013,
+                            36.838162
+                        ],
+                        [
+                            34.695434,
+                            36.838236
+                        ],
+                        [
+                            34.69532,
+                            36.838446
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trmerdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.694284,
+                    36.837931
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trmerdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.695209,
+                    36.83833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trmerdcis/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.06129,
+                            43.3455
+                        ],
+                        [
+                            -3.060047,
+                            43.344854
+                        ],
+                        [
+                            -3.058367,
+                            43.344041
+                        ],
+                        [
+                            -3.057923,
+                            43.343833
+                        ],
+                        [
+                            -3.05722,
+                            43.344611
+                        ],
+                        [
+                            -3.056468,
+                            43.345467
+                        ],
+                        [
+                            -3.05791,
+                            43.3461
+                        ],
+                        [
+                            -3.05849,
+                            43.3464
+                        ],
+                        [
+                            -3.06037,
+                            43.3465
+                        ],
+                        [
+                            -3.06129,
+                            43.3455
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOPROA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-12",
+                "url": "https://www.bic-code.org/facility-codes/esbioproa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.058937,
+                    43.345281
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOPROA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-12",
+                "url": "https://www.bic-code.org/facility-codes/esbioproa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

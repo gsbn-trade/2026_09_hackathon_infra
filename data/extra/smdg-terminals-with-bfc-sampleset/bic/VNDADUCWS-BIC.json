@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.24379,
+                            16.109157
+                        ],
+                        [
+                            108.244007,
+                            16.108629
+                        ],
+                        [
+                            108.245425,
+                            16.109054
+                        ],
+                        [
+                            108.245285,
+                            16.10956
+                        ],
+                        [
+                            108.24485,
+                            16.10945
+                        ],
+                        [
+                            108.244349,
+                            16.109305
+                        ],
+                        [
+                            108.24379,
+                            16.109157
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADUCWS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-16",
+                "remarks": "102 Yet Kieu street, Son Tra district, Da Nang city, Vietnam",
+                "url": "https://www.bic-code.org/facility-codes/vndaducws/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.244499,
+                    16.109187
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADUCWS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-16",
+                "remarks": "102 Yet Kieu street, Son Tra district, Da Nang city, Vietnam",
+                "url": "https://www.bic-code.org/facility-codes/vndaducws/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

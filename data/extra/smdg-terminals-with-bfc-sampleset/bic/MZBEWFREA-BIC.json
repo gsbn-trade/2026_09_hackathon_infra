@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.863761,
+                            -19.796769
+                        ],
+                        [
+                            34.862749,
+                            -19.798341
+                        ],
+                        [
+                            34.865271,
+                            -19.799827
+                        ],
+                        [
+                            34.86639,
+                            -19.798349
+                        ],
+                        [
+                            34.863761,
+                            -19.796769
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWFREA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewfrea/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.864386,
+                    -19.798011
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWFREA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewfrea/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

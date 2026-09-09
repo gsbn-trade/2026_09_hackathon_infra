@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.528053,
+                            -25.527306
+                        ],
+                        [
+                            -48.528522,
+                            -25.527161
+                        ],
+                        [
+                            -48.528721,
+                            -25.526968
+                        ],
+                        [
+                            -48.529388,
+                            -25.526752
+                        ],
+                        [
+                            -48.529557,
+                            -25.527342
+                        ],
+                        [
+                            -48.52824,
+                            -25.52775
+                        ],
+                        [
+                            -48.528053,
+                            -25.527306
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGBSLL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngbsll/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.528648,
+                    -25.527226
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGBSLL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngbsll/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

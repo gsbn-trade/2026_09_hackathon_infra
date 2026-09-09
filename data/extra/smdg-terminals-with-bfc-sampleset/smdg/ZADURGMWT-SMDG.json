@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.996428,
+                            -29.880695
+                        ],
+                        [
+                            30.994985,
+                            -29.883877
+                        ],
+                        [
+                            30.995694,
+                            -29.88373
+                        ],
+                        [
+                            30.997052,
+                            -29.883544
+                        ],
+                        [
+                            30.998182,
+                            -29.883394
+                        ],
+                        [
+                            30.998781,
+                            -29.883321
+                        ],
+                        [
+                            30.999617,
+                            -29.883299
+                        ],
+                        [
+                            31.000085,
+                            -29.881924
+                        ],
+                        [
+                            31.003478,
+                            -29.88154
+                        ],
+                        [
+                            31.003683,
+                            -29.880973
+                        ],
+                        [
+                            31.00073,
+                            -29.879978
+                        ],
+                        [
+                            30.99701,
+                            -29.880278
+                        ],
+                        [
+                            30.996428,
+                            -29.880695
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURGMWT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.01137,
+                            -29.870081
+                        ],
+                        [
+                            31.007911,
+                            -29.873508
+                        ],
+                        [
+                            31.005571,
+                            -29.879164
+                        ],
+                        [
+                            31.003543,
+                            -29.883513
+                        ],
+                        [
+                            30.99515,
+                            -29.884624
+                        ],
+                        [
+                            30.995377,
+                            -29.885224
+                        ],
+                        [
+                            31.00409,
+                            -29.884352
+                        ],
+                        [
+                            31.008301,
+                            -29.873843
+                        ],
+                        [
+                            31.009193,
+                            -29.872894
+                        ],
+                        [
+                            31.011748,
+                            -29.870303
+                        ],
+                        [
+                            31.01137,
+                            -29.870081
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURGMWT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.998627,
+                    -29.882096
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURGMWT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.005784,
+                    -29.877053
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURGMWT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

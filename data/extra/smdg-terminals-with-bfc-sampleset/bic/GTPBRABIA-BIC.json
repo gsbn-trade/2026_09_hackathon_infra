@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.577782,
+                            15.716064
+                        ],
+                        [
+                            -88.577473,
+                            15.715532
+                        ],
+                        [
+                            -88.576434,
+                            15.715857
+                        ],
+                        [
+                            -88.576123,
+                            15.715327
+                        ],
+                        [
+                            -88.576229,
+                            15.714788
+                        ],
+                        [
+                            -88.574684,
+                            15.714643
+                        ],
+                        [
+                            -88.57471,
+                            15.715891
+                        ],
+                        [
+                            -88.576467,
+                            15.718065
+                        ],
+                        [
+                            -88.577143,
+                            15.717954
+                        ],
+                        [
+                            -88.576912,
+                            15.716637
+                        ],
+                        [
+                            -88.577782,
+                            15.716064
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRABIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtpbrabia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.576522,
+                    15.716075
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRABIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtpbrabia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,285 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -166.529693,
+                            53.884072
+                        ],
+                        [
+                            -166.529682,
+                            53.884609
+                        ],
+                        [
+                            -166.529448,
+                            53.885194
+                        ],
+                        [
+                            -166.529712,
+                            53.885318
+                        ],
+                        [
+                            -166.530577,
+                            53.884947
+                        ],
+                        [
+                            -166.531342,
+                            53.884706
+                        ],
+                        [
+                            -166.531862,
+                            53.884652
+                        ],
+                        [
+                            -166.532204,
+                            53.884679
+                        ],
+                        [
+                            -166.532613,
+                            53.88462
+                        ],
+                        [
+                            -166.533345,
+                            53.885212
+                        ],
+                        [
+                            -166.533517,
+                            53.885151
+                        ],
+                        [
+                            -166.533875,
+                            53.885425
+                        ],
+                        [
+                            -166.53436,
+                            53.885661
+                        ],
+                        [
+                            -166.53456,
+                            53.885272
+                        ],
+                        [
+                            -166.534672,
+                            53.885094
+                        ],
+                        [
+                            -166.534694,
+                            53.884883
+                        ],
+                        [
+                            -166.533774,
+                            53.883342
+                        ],
+                        [
+                            -166.533683,
+                            53.883063
+                        ],
+                        [
+                            -166.533482,
+                            53.882883
+                        ],
+                        [
+                            -166.533346,
+                            53.882859
+                        ],
+                        [
+                            -166.533113,
+                            53.883051
+                        ],
+                        [
+                            -166.532376,
+                            53.883327
+                        ],
+                        [
+                            -166.532123,
+                            53.883326
+                        ],
+                        [
+                            -166.531943,
+                            53.883342
+                        ],
+                        [
+                            -166.531606,
+                            53.883095
+                        ],
+                        [
+                            -166.529693,
+                            53.884072
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -166.529698,
+                            53.884061
+                        ],
+                        [
+                            -166.531607,
+                            53.883072
+                        ],
+                        [
+                            -166.531055,
+                            53.882658
+                        ],
+                        [
+                            -166.529077,
+                            53.88361
+                        ],
+                        [
+                            -166.529698,
+                            53.884061
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -166.537334,
+                            53.891434
+                        ],
+                        [
+                            -166.537532,
+                            53.891757
+                        ],
+                        [
+                            -166.53769,
+                            53.892062
+                        ],
+                        [
+                            -166.537887,
+                            53.892084
+                        ],
+                        [
+                            -166.538819,
+                            53.891718
+                        ],
+                        [
+                            -166.538835,
+                            53.891419
+                        ],
+                        [
+                            -166.538694,
+                            53.891208
+                        ],
+                        [
+                            -166.538504,
+                            53.890998
+                        ],
+                        [
+                            -166.537334,
+                            53.891434
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.532358,
+                    53.884302
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.530227,
+                    53.883492
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.53807,
+                    53.891568
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USDUTAPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "depot is part of terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

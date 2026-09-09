@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.247632,
+                            6.453692
+                        ],
+                        [
+                            3.250996,
+                            6.45424
+                        ],
+                        [
+                            3.251154,
+                            6.453239
+                        ],
+                        [
+                            3.248156,
+                            6.45277
+                        ],
+                        [
+                            3.248204,
+                            6.452455
+                        ],
+                        [
+                            3.247963,
+                            6.452419
+                        ],
+                        [
+                            3.24798,
+                            6.452081
+                        ],
+                        [
+                            3.247902,
+                            6.452062
+                        ],
+                        [
+                            3.247894,
+                            6.452426
+                        ],
+                        [
+                            3.247826,
+                            6.452489
+                        ],
+                        [
+                            3.247789,
+                            6.45271
+                        ],
+                        [
+                            3.247632,
+                            6.453692
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPCIQX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappciqx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.248427,
+                    6.452856
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPCIQX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappciqx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

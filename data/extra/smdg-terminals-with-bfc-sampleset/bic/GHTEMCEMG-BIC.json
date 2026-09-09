@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.012655,
+                            5.68321
+                        ],
+                        [
+                            -0.012414,
+                            5.68261
+                        ],
+                        [
+                            -0.011523,
+                            5.68296
+                        ],
+                        [
+                            -0.010438,
+                            5.68344
+                        ],
+                        [
+                            -0.01152,
+                            5.68608
+                        ],
+                        [
+                            -0.011301,
+                            5.6855
+                        ],
+                        [
+                            -0.011676,
+                            5.68648
+                        ],
+                        [
+                            -0.011992,
+                            5.68622
+                        ],
+                        [
+                            -0.01235,
+                            5.68471
+                        ],
+                        [
+                            -0.012655,
+                            5.68321
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMCEMG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemcemg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.011852,
+                    5.684442
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMCEMG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtemcemg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

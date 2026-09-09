@@ -1,0 +1,259 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.341413,
+                            62.474291
+                        ],
+                        [
+                            6.341071,
+                            62.473925
+                        ],
+                        [
+                            6.343425,
+                            62.473446
+                        ],
+                        [
+                            6.343366,
+                            62.473383
+                        ],
+                        [
+                            6.343718,
+                            62.47331
+                        ],
+                        [
+                            6.344451,
+                            62.474083
+                        ],
+                        [
+                            6.343871,
+                            62.474181
+                        ],
+                        [
+                            6.343958,
+                            62.474288
+                        ],
+                        [
+                            6.34245,
+                            62.474547
+                        ],
+                        [
+                            6.342359,
+                            62.474437
+                        ],
+                        [
+                            6.34182,
+                            62.47453
+                        ],
+                        [
+                            6.341196,
+                            62.474786
+                        ],
+                        [
+                            6.341132,
+                            62.474855
+                        ],
+                        [
+                            6.341163,
+                            62.474877
+                        ],
+                        [
+                            6.341316,
+                            62.474948
+                        ],
+                        [
+                            6.340254,
+                            62.475507
+                        ],
+                        [
+                            6.340103,
+                            62.475446
+                        ],
+                        [
+                            6.339701,
+                            62.475312
+                        ],
+                        [
+                            6.33954,
+                            62.475365
+                        ],
+                        [
+                            6.339267,
+                            62.475443
+                        ],
+                        [
+                            6.339198,
+                            62.475438
+                        ],
+                        [
+                            6.33858,
+                            62.474681
+                        ],
+                        [
+                            6.340458,
+                            62.474453
+                        ],
+                        [
+                            6.340443,
+                            62.474389
+                        ],
+                        [
+                            6.341413,
+                            62.474291
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.340256,
+                            62.475507
+                        ],
+                        [
+                            6.341319,
+                            62.47495
+                        ],
+                        [
+                            6.341548,
+                            62.475048
+                        ],
+                        [
+                            6.340485,
+                            62.4756
+                        ],
+                        [
+                            6.340256,
+                            62.475507
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.342451,
+                            62.474548
+                        ],
+                        [
+                            6.34396,
+                            62.474292
+                        ],
+                        [
+                            6.344075,
+                            62.47444
+                        ],
+                        [
+                            6.342568,
+                            62.474693
+                        ],
+                        [
+                            6.342451,
+                            62.474548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.341427,
+                    62.474568
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.340773,
+                    62.475322
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.343101,
+                    62.474504
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESFRI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

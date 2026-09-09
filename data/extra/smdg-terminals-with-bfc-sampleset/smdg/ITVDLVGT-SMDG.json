@@ -1,0 +1,461 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.442759,
+                            44.267665
+                        ],
+                        [
+                            8.442396,
+                            44.267285
+                        ],
+                        [
+                            8.441659,
+                            44.266734
+                        ],
+                        [
+                            8.438442,
+                            44.266073
+                        ],
+                        [
+                            8.4372,
+                            44.266121
+                        ],
+                        [
+                            8.436463,
+                            44.266166
+                        ],
+                        [
+                            8.436075,
+                            44.266239
+                        ],
+                        [
+                            8.435825,
+                            44.266325
+                        ],
+                        [
+                            8.435592,
+                            44.266436
+                        ],
+                        [
+                            8.435137,
+                            44.266633
+                        ],
+                        [
+                            8.435144,
+                            44.266078
+                        ],
+                        [
+                            8.437077,
+                            44.26603
+                        ],
+                        [
+                            8.437874,
+                            44.265944
+                        ],
+                        [
+                            8.438442,
+                            44.265954
+                        ],
+                        [
+                            8.439306,
+                            44.266075
+                        ],
+                        [
+                            8.440022,
+                            44.266143
+                        ],
+                        [
+                            8.441444,
+                            44.266456
+                        ],
+                        [
+                            8.441733,
+                            44.266522
+                        ],
+                        [
+                            8.442139,
+                            44.266404
+                        ],
+                        [
+                            8.442545,
+                            44.266152
+                        ],
+                        [
+                            8.444466,
+                            44.266198
+                        ],
+                        [
+                            8.444828,
+                            44.265984
+                        ],
+                        [
+                            8.448477,
+                            44.268681
+                        ],
+                        [
+                            8.450899,
+                            44.270518
+                        ],
+                        [
+                            8.450846,
+                            44.270552
+                        ],
+                        [
+                            8.448584,
+                            44.272142
+                        ],
+                        [
+                            8.442759,
+                            44.267665
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.450947,
+                            44.270498
+                        ],
+                        [
+                            8.444833,
+                            44.265958
+                        ],
+                        [
+                            8.445333,
+                            44.265524
+                        ],
+                        [
+                            8.451494,
+                            44.270089
+                        ],
+                        [
+                            8.450947,
+                            44.270498
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.434733,
+                            44.266788
+                        ],
+                        [
+                            8.43473,
+                            44.266473
+                        ],
+                        [
+                            8.434505,
+                            44.266467
+                        ],
+                        [
+                            8.434505,
+                            44.266141
+                        ],
+                        [
+                            8.434626,
+                            44.266129
+                        ],
+                        [
+                            8.434626,
+                            44.266075
+                        ],
+                        [
+                            8.434758,
+                            44.266079
+                        ],
+                        [
+                            8.435052,
+                            44.266077
+                        ],
+                        [
+                            8.435049,
+                            44.266145
+                        ],
+                        [
+                            8.434905,
+                            44.266141
+                        ],
+                        [
+                            8.434902,
+                            44.2663
+                        ],
+                        [
+                            8.43513,
+                            44.266306
+                        ],
+                        [
+                            8.435121,
+                            44.26664
+                        ],
+                        [
+                            8.435037,
+                            44.26664
+                        ],
+                        [
+                            8.434994,
+                            44.26678
+                        ],
+                        [
+                            8.434874,
+                            44.266795
+                        ],
+                        [
+                            8.434733,
+                            44.266788
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.434191,
+                            44.265833
+                        ],
+                        [
+                            8.434336,
+                            44.265843
+                        ],
+                        [
+                            8.434463,
+                            44.265992
+                        ],
+                        [
+                            8.435274,
+                            44.265997
+                        ],
+                        [
+                            8.435528,
+                            44.265961
+                        ],
+                        [
+                            8.435715,
+                            44.265878
+                        ],
+                        [
+                            8.436026,
+                            44.265848
+                        ],
+                        [
+                            8.436576,
+                            44.265696
+                        ],
+                        [
+                            8.436699,
+                            44.265598
+                        ],
+                        [
+                            8.436654,
+                            44.265499
+                        ],
+                        [
+                            8.436548,
+                            44.265451
+                        ],
+                        [
+                            8.436251,
+                            44.265454
+                        ],
+                        [
+                            8.436121,
+                            44.265507
+                        ],
+                        [
+                            8.435955,
+                            44.265529
+                        ],
+                        [
+                            8.433863,
+                            44.265507
+                        ],
+                        [
+                            8.43416,
+                            44.265699
+                        ],
+                        [
+                            8.434449,
+                            44.26561
+                        ],
+                        [
+                            8.435232,
+                            44.265613
+                        ],
+                        [
+                            8.436516,
+                            44.26562
+                        ],
+                        [
+                            8.435987,
+                            44.265673
+                        ],
+                        [
+                            8.435786,
+                            44.265678
+                        ],
+                        [
+                            8.435698,
+                            44.265631
+                        ],
+                        [
+                            8.434477,
+                            44.265631
+                        ],
+                        [
+                            8.434181,
+                            44.265732
+                        ],
+                        [
+                            8.434191,
+                            44.265833
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "TRUCK_QUEUE",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.441042,
+                    44.267006
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.448711,
+                    44.268513
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.43484,
+                    44.266398
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.435395,
+                    44.265693
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Added gate and associated rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

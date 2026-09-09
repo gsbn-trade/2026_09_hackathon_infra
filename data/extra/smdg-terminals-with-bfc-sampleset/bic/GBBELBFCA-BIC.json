@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.897082,
+                            54.629167
+                        ],
+                        [
+                            -5.898402,
+                            54.628524
+                        ],
+                        [
+                            -5.896523,
+                            54.627144
+                        ],
+                        [
+                            -5.895119,
+                            54.62779
+                        ],
+                        [
+                            -5.897082,
+                            54.629167
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELBFCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-03",
+                "url": "https://www.bic-code.org/facility-codes/gbbelbfca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.896842,
+                    54.628358
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELBFCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-03",
+                "url": "https://www.bic-code.org/facility-codes/gbbelbfca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.51312,
+                            -34.833748
+                        ],
+                        [
+                            138.511007,
+                            -34.832211
+                        ],
+                        [
+                            138.510535,
+                            -34.833708
+                        ],
+                        [
+                            138.512783,
+                            -34.834946
+                        ],
+                        [
+                            138.51312,
+                            -34.833748
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLTQFV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadltqfv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.512113,
+                    -34.833672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLTQFV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadltqfv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

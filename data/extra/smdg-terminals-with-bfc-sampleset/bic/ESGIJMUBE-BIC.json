@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.687258,
+                            43.553501
+                        ],
+                        [
+                            -5.684624,
+                            43.552094
+                        ],
+                        [
+                            -5.683422,
+                            43.553365
+                        ],
+                        [
+                            -5.686129,
+                            43.55482
+                        ],
+                        [
+                            -5.687412,
+                            43.55353
+                        ],
+                        [
+                            -5.687258,
+                            43.553501
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJMUBE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijmube/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.686017,
+                    43.553469
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESGIJMUBE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esgijmube/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

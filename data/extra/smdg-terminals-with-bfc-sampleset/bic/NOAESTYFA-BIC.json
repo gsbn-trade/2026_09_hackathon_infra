@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.188523,
+                            62.482186
+                        ],
+                        [
+                            6.188555,
+                            62.481638
+                        ],
+                        [
+                            6.187612,
+                            62.48163
+                        ],
+                        [
+                            6.187612,
+                            62.48148
+                        ],
+                        [
+                            6.186994,
+                            62.48145
+                        ],
+                        [
+                            6.186962,
+                            62.481518
+                        ],
+                        [
+                            6.184587,
+                            62.481495
+                        ],
+                        [
+                            6.183319,
+                            62.481277
+                        ],
+                        [
+                            6.181774,
+                            62.480669
+                        ],
+                        [
+                            6.181758,
+                            62.480556
+                        ],
+                        [
+                            6.188165,
+                            62.480593
+                        ],
+                        [
+                            6.188328,
+                            62.480714
+                        ],
+                        [
+                            6.192198,
+                            62.480819
+                        ],
+                        [
+                            6.193955,
+                            62.482359
+                        ],
+                        [
+                            6.188523,
+                            62.482186
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESTYFA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-06-12",
+                "url": "https://www.bic-code.org/facility-codes/noaestyfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.187258,
+                    62.481371
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESTYFA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-06-12",
+                "url": "https://www.bic-code.org/facility-codes/noaestyfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

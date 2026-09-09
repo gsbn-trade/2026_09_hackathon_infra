@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.561427,
+                            -33.560667
+                        ],
+                        [
+                            -71.560665,
+                            -33.558468
+                        ],
+                        [
+                            -71.560601,
+                            -33.558495
+                        ],
+                        [
+                            -71.558519,
+                            -33.558982
+                        ],
+                        [
+                            -71.55779,
+                            -33.555596
+                        ],
+                        [
+                            -71.558337,
+                            -33.555543
+                        ],
+                        [
+                            -71.559131,
+                            -33.555473
+                        ],
+                        [
+                            -71.562714,
+                            -33.555196
+                        ],
+                        [
+                            -71.563251,
+                            -33.560247
+                        ],
+                        [
+                            -71.561427,
+                            -33.560667
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/clsailara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.562593,
+                            -33.560025
+                        ],
+                        [
+                            -71.562318,
+                            -33.560076
+                        ],
+                        [
+                            -71.562424,
+                            -33.560432
+                        ],
+                        [
+                            -71.5627,
+                            -33.56037
+                        ],
+                        [
+                            -71.562593,
+                            -33.560025
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/clsailara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.560386,
+                    -33.557933
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/clsailara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.562526,
+                    -33.560186
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILARA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/clsailara/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

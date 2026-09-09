@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.23207,
+                            -54.791027
+                        ],
+                        [
+                            -68.231426,
+                            -54.79188
+                        ],
+                        [
+                            -68.22802,
+                            -54.790931
+                        ],
+                        [
+                            -68.228749,
+                            -54.790102
+                        ],
+                        [
+                            -68.23207,
+                            -54.791027
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHSFIG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushsfig/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.230467,
+                    -54.790993
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHSFIG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushsfig/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

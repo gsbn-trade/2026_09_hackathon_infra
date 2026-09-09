@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.942226,
+                            53.537467
+                        ],
+                        [
+                            9.943183,
+                            53.536217
+                        ],
+                        [
+                            9.943838,
+                            53.535356
+                        ],
+                        [
+                            9.944181,
+                            53.534655
+                        ],
+                        [
+                            9.945029,
+                            53.533074
+                        ],
+                        [
+                            9.945157,
+                            53.532372
+                        ],
+                        [
+                            9.9452,
+                            53.531288
+                        ],
+                        [
+                            9.944793,
+                            53.529987
+                        ],
+                        [
+                            9.943613,
+                            53.528214
+                        ],
+                        [
+                            9.943881,
+                            53.528157
+                        ],
+                        [
+                            9.944422,
+                            53.528243
+                        ],
+                        [
+                            9.944575,
+                            53.528803
+                        ],
+                        [
+                            9.945351,
+                            53.530102
+                        ],
+                        [
+                            9.946327,
+                            53.529879
+                        ],
+                        [
+                            9.946756,
+                            53.529719
+                        ],
+                        [
+                            9.947303,
+                            53.529566
+                        ],
+                        [
+                            9.948105,
+                            53.52933
+                        ],
+                        [
+                            9.949929,
+                            53.528845
+                        ],
+                        [
+                            9.950637,
+                            53.528526
+                        ],
+                        [
+                            9.951303,
+                            53.528309
+                        ],
+                        [
+                            9.952719,
+                            53.528258
+                        ],
+                        [
+                            9.95362,
+                            53.52845
+                        ],
+                        [
+                            9.95038,
+                            53.535056
+                        ],
+                        [
+                            9.94729,
+                            53.538908
+                        ],
+                        [
+                            9.943964,
+                            53.539061
+                        ],
+                        [
+                            9.944007,
+                            53.538908
+                        ],
+                        [
+                            9.942269,
+                            53.538971
+                        ],
+                        [
+                            9.943235,
+                            53.537824
+                        ],
+                        [
+                            9.942226,
+                            53.537467
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.953646,
+                            53.528456
+                        ],
+                        [
+                            9.954587,
+                            53.52862
+                        ],
+                        [
+                            9.951422,
+                            53.535201
+                        ],
+                        [
+                            9.948126,
+                            53.539061
+                        ],
+                        [
+                            9.947347,
+                            53.538935
+                        ],
+                        [
+                            9.950448,
+                            53.535066
+                        ],
+                        [
+                            9.953646,
+                            53.528456
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.946052,
+                    53.532449
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.951317,
+                    53.533399
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

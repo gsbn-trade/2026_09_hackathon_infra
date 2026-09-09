@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.818996,
+                            35.082574
+                        ],
+                        [
+                            128.818988,
+                            35.082994
+                        ],
+                        [
+                            128.797571,
+                            35.083014
+                        ],
+                        [
+                            128.797584,
+                            35.082459
+                        ],
+                        [
+                            128.79729,
+                            35.082411
+                        ],
+                        [
+                            128.797131,
+                            35.077608
+                        ],
+                        [
+                            128.819098,
+                            35.07765
+                        ],
+                        [
+                            128.818996,
+                            35.082574
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRPUSBKBQ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-22",
+                "url": "https://www.bic-code.org/facility-codes/krpusbkbq/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.808207,
+                    35.081411
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRPUSBKBQ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-22",
+                "url": "https://www.bic-code.org/facility-codes/krpusbkbq/"
+            }
+        }
+    ]
+}

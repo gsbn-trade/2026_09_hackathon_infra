@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.327814,
+                            -26.871708
+                        ],
+                        [
+                            -58.328946,
+                            -26.87212
+                        ],
+                        [
+                            -58.329141,
+                            -26.875761
+                        ],
+                        [
+                            -58.327576,
+                            -26.875787
+                        ],
+                        [
+                            -58.327338,
+                            -26.872776
+                        ],
+                        [
+                            -58.327417,
+                            -26.872513
+                        ],
+                        [
+                            -58.327814,
+                            -26.871708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILJLIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pypiljlic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.328007,
+                    -26.873196
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILJLIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pypiljlic/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

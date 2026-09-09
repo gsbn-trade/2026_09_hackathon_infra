@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.943835,
+                            18.951294
+                        ],
+                        [
+                            72.943276,
+                            18.951725
+                        ],
+                        [
+                            72.938966,
+                            18.946783
+                        ],
+                        [
+                            72.939538,
+                            18.946348
+                        ],
+                        [
+                            72.943835,
+                            18.951294
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAGTICI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.93953,
+                            18.946338
+                        ],
+                        [
+                            72.94002,
+                            18.945937
+                        ],
+                        [
+                            72.940117,
+                            18.946053
+                        ],
+                        [
+                            72.942678,
+                            18.943917
+                        ],
+                        [
+                            72.943075,
+                            18.943706
+                        ],
+                        [
+                            72.944651,
+                            18.942388
+                        ],
+                        [
+                            72.945105,
+                            18.941792
+                        ],
+                        [
+                            72.947711,
+                            18.940033
+                        ],
+                        [
+                            72.95117,
+                            18.944497
+                        ],
+                        [
+                            72.948746,
+                            18.946171
+                        ],
+                        [
+                            72.948531,
+                            18.946542
+                        ],
+                        [
+                            72.947983,
+                            18.946817
+                        ],
+                        [
+                            72.947563,
+                            18.947011
+                        ],
+                        [
+                            72.946719,
+                            18.947252
+                        ],
+                        [
+                            72.946435,
+                            18.947377
+                        ],
+                        [
+                            72.946215,
+                            18.947475
+                        ],
+                        [
+                            72.946004,
+                            18.947595
+                        ],
+                        [
+                            72.945547,
+                            18.947906
+                        ],
+                        [
+                            72.944392,
+                            18.948777
+                        ],
+                        [
+                            72.944528,
+                            18.948937
+                        ],
+                        [
+                            72.944279,
+                            18.949131
+                        ],
+                        [
+                            72.94414,
+                            18.948975
+                        ],
+                        [
+                            72.943346,
+                            18.949596
+                        ],
+                        [
+                            72.943334,
+                            18.949768
+                        ],
+                        [
+                            72.944315,
+                            18.950912
+                        ],
+                        [
+                            72.943841,
+                            18.951293
+                        ],
+                        [
+                            72.93953,
+                            18.946338
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAGTICI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.94189,
+                    18.949489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAGTICI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.944796,
+                    18.946761
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAGTICI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

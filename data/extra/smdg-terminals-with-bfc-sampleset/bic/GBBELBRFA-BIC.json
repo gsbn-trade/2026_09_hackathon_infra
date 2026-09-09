@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.990107,
+                            54.671686
+                        ],
+                        [
+                            -5.990737,
+                            54.671192
+                        ],
+                        [
+                            -5.988324,
+                            54.670201
+                        ],
+                        [
+                            -5.987914,
+                            54.670625
+                        ],
+                        [
+                            -5.987742,
+                            54.670975
+                        ],
+                        [
+                            -5.988074,
+                            54.671097
+                        ],
+                        [
+                            -5.988134,
+                            54.671097
+                        ],
+                        [
+                            -5.989442,
+                            54.671419
+                        ],
+                        [
+                            -5.989615,
+                            54.671497
+                        ],
+                        [
+                            -5.989581,
+                            54.671552
+                        ],
+                        [
+                            -5.990107,
+                            54.671686
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELBRFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-04-27",
+                "url": "https://www.bic-code.org/facility-codes/gbbelbrfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.989071,
+                    54.671184
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELBRFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-04-27",
+                "url": "https://www.bic-code.org/facility-codes/gbbelbrfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

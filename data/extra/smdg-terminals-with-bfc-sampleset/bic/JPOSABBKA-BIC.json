@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.405144,
+                            34.634427
+                        ],
+                        [
+                            135.403253,
+                            34.633055
+                        ],
+                        [
+                            135.403967,
+                            34.632414
+                        ],
+                        [
+                            135.403774,
+                            34.632302
+                        ],
+                        [
+                            135.404339,
+                            34.631795
+                        ],
+                        [
+                            135.404264,
+                            34.631741
+                        ],
+                        [
+                            135.404465,
+                            34.631539
+                        ],
+                        [
+                            135.40657,
+                            34.633048
+                        ],
+                        [
+                            135.405144,
+                            34.634427
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSABBKA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "url": "https://www.bic-code.org/facility-codes/jposabbka/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.404547,
+                    34.63275
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSABBKA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "url": "https://www.bic-code.org/facility-codes/jposabbka/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

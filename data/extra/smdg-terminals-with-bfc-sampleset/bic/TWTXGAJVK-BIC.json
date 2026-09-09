@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.550792,
+                            24.293286
+                        ],
+                        [
+                            120.550575,
+                            24.293222
+                        ],
+                        [
+                            120.550745,
+                            24.292717
+                        ],
+                        [
+                            120.550664,
+                            24.292477
+                        ],
+                        [
+                            120.550505,
+                            24.292503
+                        ],
+                        [
+                            120.549974,
+                            24.291206
+                        ],
+                        [
+                            120.551126,
+                            24.2908
+                        ],
+                        [
+                            120.551692,
+                            24.29287
+                        ],
+                        [
+                            120.550792,
+                            24.293286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAJVK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgajvk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.551806,
+                            24.291968
+                        ],
+                        [
+                            120.551271,
+                            24.29005
+                        ],
+                        [
+                            120.552076,
+                            24.289808
+                        ],
+                        [
+                            120.552767,
+                            24.291646
+                        ],
+                        [
+                            120.551806,
+                            24.291968
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAJVK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgajvk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.550763,
+                    24.292485
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAJVK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgajvk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.551945,
+                    24.291088
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTXGAJVK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twtxgajvk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

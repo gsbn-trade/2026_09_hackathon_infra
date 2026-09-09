@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.99231,
+                            -29.880894
+                        ],
+                        [
+                            30.989542,
+                            -29.88348
+                        ],
+                        [
+                            30.98991,
+                            -29.883957
+                        ],
+                        [
+                            30.990163,
+                            -29.883674
+                        ],
+                        [
+                            30.990358,
+                            -29.883843
+                        ],
+                        [
+                            30.990089,
+                            -29.88414
+                        ],
+                        [
+                            30.990261,
+                            -29.88428
+                        ],
+                        [
+                            30.993592,
+                            -29.881475
+                        ],
+                        [
+                            30.993131,
+                            -29.881075
+                        ],
+                        [
+                            30.99231,
+                            -29.880894
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAMTR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/zaduramtr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.991167,
+                    -29.882771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAMTR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/zaduramtr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

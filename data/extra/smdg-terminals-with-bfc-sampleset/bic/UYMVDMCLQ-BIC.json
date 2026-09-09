@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.2734,
+                            -34.8279
+                        ],
+                        [
+                            -56.2725,
+                            -34.8267
+                        ],
+                        [
+                            -56.271631,
+                            -34.827273
+                        ],
+                        [
+                            -56.27327,
+                            -34.828016
+                        ],
+                        [
+                            -56.272133,
+                            -34.828315
+                        ],
+                        [
+                            -56.271813,
+                            -34.828524
+                        ],
+                        [
+                            -56.270624,
+                            -34.827455
+                        ],
+                        [
+                            -56.271066,
+                            -34.826928
+                        ],
+                        [
+                            -56.270676,
+                            -34.826048
+                        ],
+                        [
+                            -56.2724,
+                            -34.8252
+                        ],
+                        [
+                            -56.2742,
+                            -34.8276
+                        ],
+                        [
+                            -56.2734,
+                            -34.8279
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMCLQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmclq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.274022,
+                            -34.827128
+                        ],
+                        [
+                            -56.276888,
+                            -34.825767
+                        ],
+                        [
+                            -56.277292,
+                            -34.826253
+                        ],
+                        [
+                            -56.274341,
+                            -34.827609
+                        ],
+                        [
+                            -56.274022,
+                            -34.827128
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMCLQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmclq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.272259,
+                    -34.827322
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMCLQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmclq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.275313,
+                    -34.826777
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMCLQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmclq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

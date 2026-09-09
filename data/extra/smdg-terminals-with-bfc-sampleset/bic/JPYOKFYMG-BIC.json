@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.68884,
+                            35.457218
+                        ],
+                        [
+                            139.689271,
+                            35.456729
+                        ],
+                        [
+                            139.68955,
+                            35.45677
+                        ],
+                        [
+                            139.690195,
+                            35.455857
+                        ],
+                        [
+                            139.690835,
+                            35.454898
+                        ],
+                        [
+                            139.691202,
+                            35.454795
+                        ],
+                        [
+                            139.691544,
+                            35.454806
+                        ],
+                        [
+                            139.693411,
+                            35.455677
+                        ],
+                        [
+                            139.69152,
+                            35.458443
+                        ],
+                        [
+                            139.68884,
+                            35.457218
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKFYMG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokfymg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.690521,
+                    35.456241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKFYMG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokfymg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

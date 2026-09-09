@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.064365,
+                            32.924169
+                        ],
+                        [
+                            -80.064432,
+                            32.924142
+                        ],
+                        [
+                            -80.0646,
+                            32.924059
+                        ],
+                        [
+                            -80.064603,
+                            32.923639
+                        ],
+                        [
+                            -80.063639,
+                            32.923673
+                        ],
+                        [
+                            -80.063413,
+                            32.923672
+                        ],
+                        [
+                            -80.063304,
+                            32.923673
+                        ],
+                        [
+                            -80.063224,
+                            32.923675
+                        ],
+                        [
+                            -80.063222,
+                            32.923779
+                        ],
+                        [
+                            -80.063217,
+                            32.924208
+                        ],
+                        [
+                            -80.063568,
+                            32.924195
+                        ],
+                        [
+                            -80.063708,
+                            32.924198
+                        ],
+                        [
+                            -80.063758,
+                            32.924214
+                        ],
+                        [
+                            -80.06389,
+                            32.924221
+                        ],
+                        [
+                            -80.063897,
+                            32.924256
+                        ],
+                        [
+                            -80.06421,
+                            32.924239
+                        ],
+                        [
+                            -80.064253,
+                            32.924193
+                        ],
+                        [
+                            -80.064365,
+                            32.924169
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSPIDD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-17",
+                "url": "https://www.bic-code.org/facility-codes/uschspidd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.06387,
+                    32.924021
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSPIDD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-17",
+                "url": "https://www.bic-code.org/facility-codes/uschspidd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

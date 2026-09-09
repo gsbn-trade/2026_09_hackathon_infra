@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.70981,
+                            59.906565
+                        ],
+                        [
+                            10.71029,
+                            59.905955
+                        ],
+                        [
+                            10.712264,
+                            59.906469
+                        ],
+                        [
+                            10.711623,
+                            59.907064
+                        ],
+                        [
+                            10.711027,
+                            59.906899
+                        ],
+                        [
+                            10.70981,
+                            59.906565
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOOSLNSAA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nooslnsaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.710804,
+                    59.906586
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOOSLNSAA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nooslnsaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

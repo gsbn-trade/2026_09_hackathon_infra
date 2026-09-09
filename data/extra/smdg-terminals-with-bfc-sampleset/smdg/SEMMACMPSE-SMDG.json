@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.991908,
+                            55.626455
+                        ],
+                        [
+                            12.990353,
+                            55.624784
+                        ],
+                        [
+                            12.990336,
+                            55.624685
+                        ],
+                        [
+                            12.990362,
+                            55.624571
+                        ],
+                        [
+                            12.99045,
+                            55.624477
+                        ],
+                        [
+                            12.990546,
+                            55.624407
+                        ],
+                        [
+                            12.990722,
+                            55.624377
+                        ],
+                        [
+                            12.99095,
+                            55.624333
+                        ],
+                        [
+                            12.995649,
+                            55.624705
+                        ],
+                        [
+                            12.995632,
+                            55.624843
+                        ],
+                        [
+                            12.995702,
+                            55.624873
+                        ],
+                        [
+                            12.995676,
+                            55.625062
+                        ],
+                        [
+                            12.995737,
+                            55.625141
+                        ],
+                        [
+                            12.99593,
+                            55.625176
+                        ],
+                        [
+                            12.996115,
+                            55.625161
+                        ],
+                        [
+                            12.996282,
+                            55.625156
+                        ],
+                        [
+                            12.996325,
+                            55.625096
+                        ],
+                        [
+                            12.996219,
+                            55.625427
+                        ],
+                        [
+                            12.996142,
+                            55.62568
+                        ],
+                        [
+                            12.996044,
+                            55.626019
+                        ],
+                        [
+                            12.996044,
+                            55.626098
+                        ],
+                        [
+                            12.995807,
+                            55.626053
+                        ],
+                        [
+                            12.992145,
+                            55.625771
+                        ],
+                        [
+                            12.992022,
+                            55.62588
+                        ],
+                        [
+                            12.992804,
+                            55.626728
+                        ],
+                        [
+                            12.991908,
+                            55.626455
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMACMPSE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.995671,
+                            55.6247
+                        ],
+                        [
+                            12.990948,
+                            55.624337
+                        ],
+                        [
+                            12.991029,
+                            55.624065
+                        ],
+                        [
+                            12.995728,
+                            55.624442
+                        ],
+                        [
+                            12.995671,
+                            55.6247
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMACMPSE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.993762,
+                    55.625285
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMACMPSE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.993809,
+                    55.624449
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMACMPSE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

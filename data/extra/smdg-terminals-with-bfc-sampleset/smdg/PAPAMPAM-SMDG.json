@@ -1,0 +1,233 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.393937,
+                            9.291109
+                        ],
+                        [
+                            -82.394116,
+                            9.290904
+                        ],
+                        [
+                            -82.393951,
+                            9.290832
+                        ],
+                        [
+                            -82.393974,
+                            9.290336
+                        ],
+                        [
+                            -82.394248,
+                            9.290141
+                        ],
+                        [
+                            -82.394093,
+                            9.289926
+                        ],
+                        [
+                            -82.393696,
+                            9.289737
+                        ],
+                        [
+                            -82.393407,
+                            9.289513
+                        ],
+                        [
+                            -82.393242,
+                            9.289234
+                        ],
+                        [
+                            -82.392584,
+                            9.289662
+                        ],
+                        [
+                            -82.391798,
+                            9.28863
+                        ],
+                        [
+                            -82.391859,
+                            9.288558
+                        ],
+                        [
+                            -82.391094,
+                            9.287922
+                        ],
+                        [
+                            -82.389277,
+                            9.28753
+                        ],
+                        [
+                            -82.389248,
+                            9.287697
+                        ],
+                        [
+                            -82.389667,
+                            9.287765
+                        ],
+                        [
+                            -82.389519,
+                            9.288171
+                        ],
+                        [
+                            -82.3898,
+                            9.288574
+                        ],
+                        [
+                            -82.390355,
+                            9.288799
+                        ],
+                        [
+                            -82.390437,
+                            9.289228
+                        ],
+                        [
+                            -82.390551,
+                            9.289389
+                        ],
+                        [
+                            -82.390779,
+                            9.289492
+                        ],
+                        [
+                            -82.390979,
+                            9.289347
+                        ],
+                        [
+                            -82.391258,
+                            9.289383
+                        ],
+                        [
+                            -82.391337,
+                            9.289337
+                        ],
+                        [
+                            -82.3917,
+                            9.28977
+                        ],
+                        [
+                            -82.391947,
+                            9.290043
+                        ],
+                        [
+                            -82.392313,
+                            9.290318
+                        ],
+                        [
+                            -82.392699,
+                            9.290551
+                        ],
+                        [
+                            -82.393272,
+                            9.290824
+                        ],
+                        [
+                            -82.393937,
+                            9.291109
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PAPAMPAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.391852,
+                            9.288552
+                        ],
+                        [
+                            -82.391987,
+                            9.288457
+                        ],
+                        [
+                            -82.391191,
+                            9.287675
+                        ],
+                        [
+                            -82.389291,
+                            9.287293
+                        ],
+                        [
+                            -82.389269,
+                            9.28753
+                        ],
+                        [
+                            -82.391081,
+                            9.287904
+                        ],
+                        [
+                            -82.391852,
+                            9.288552
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PAPAMPAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.39197,
+                    9.289478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PAPAMPAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.390932,
+                    9.287995
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PAPAMPAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

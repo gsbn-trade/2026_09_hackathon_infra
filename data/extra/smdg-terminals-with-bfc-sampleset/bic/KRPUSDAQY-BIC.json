@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.797624,
+                            35.085822
+                        ],
+                        [
+                            128.797568,
+                            35.084645
+                        ],
+                        [
+                            128.800388,
+                            35.084645
+                        ],
+                        [
+                            128.800399,
+                            35.085804
+                        ],
+                        [
+                            128.797624,
+                            35.085822
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRPUSDAQY",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-03",
+                "url": "https://www.bic-code.org/facility-codes/krpusdaqy/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.798721,
+                    35.085348
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRPUSDAQY",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-03",
+                "url": "https://www.bic-code.org/facility-codes/krpusdaqy/"
+            }
+        }
+    ]
+}

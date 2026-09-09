@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.381736,
+                            53.727517
+                        ],
+                        [
+                            -0.381457,
+                            53.727581
+                        ],
+                        [
+                            -0.379964,
+                            53.727863
+                        ],
+                        [
+                            -0.379815,
+                            53.728013
+                        ],
+                        [
+                            -0.379713,
+                            53.728058
+                        ],
+                        [
+                            -0.379098,
+                            53.728163
+                        ],
+                        [
+                            -0.378991,
+                            53.728188
+                        ],
+                        [
+                            -0.379053,
+                            53.728331
+                        ],
+                        [
+                            -0.37917,
+                            53.728586
+                        ],
+                        [
+                            -0.37902,
+                            53.728865
+                        ],
+                        [
+                            -0.379191,
+                            53.729043
+                        ],
+                        [
+                            -0.379976,
+                            53.728877
+                        ],
+                        [
+                            -0.380901,
+                            53.729688
+                        ],
+                        [
+                            -0.381186,
+                            53.729579
+                        ],
+                        [
+                            -0.381463,
+                            53.729428
+                        ],
+                        [
+                            -0.383239,
+                            53.728547
+                        ],
+                        [
+                            -0.382466,
+                            53.727371
+                        ],
+                        [
+                            -0.382125,
+                            53.727446
+                        ],
+                        [
+                            -0.381736,
+                            53.727517
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULNCGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-09",
+                "url": "https://www.bic-code.org/facility-codes/gbhulncgv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.380542,
+                    53.728351
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULNCGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-09",
+                "url": "https://www.bic-code.org/facility-codes/gbhulncgv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

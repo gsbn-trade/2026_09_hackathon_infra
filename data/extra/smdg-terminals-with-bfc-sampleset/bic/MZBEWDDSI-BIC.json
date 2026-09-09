@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.8667,
+                            -19.7753
+                        ],
+                        [
+                            34.8657,
+                            -19.7726
+                        ],
+                        [
+                            34.8651,
+                            -19.7727
+                        ],
+                        [
+                            34.8639,
+                            -19.7737
+                        ],
+                        [
+                            34.8639,
+                            -19.7739
+                        ],
+                        [
+                            34.8647,
+                            -19.7762
+                        ],
+                        [
+                            34.8651,
+                            -19.7774
+                        ],
+                        [
+                            34.8655,
+                            -19.7778
+                        ],
+                        [
+                            34.8671,
+                            -19.777
+                        ],
+                        [
+                            34.8667,
+                            -19.7753
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWDDSI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzbewddsi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.86544,
+                    -19.77519
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWDDSI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzbewddsi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

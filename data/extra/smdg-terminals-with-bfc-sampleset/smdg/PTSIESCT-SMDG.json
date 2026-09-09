@@ -1,0 +1,289 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.850168,
+                            37.934769
+                        ],
+                        [
+                            -8.841238,
+                            37.929483
+                        ],
+                        [
+                            -8.838757,
+                            37.928057
+                        ],
+                        [
+                            -8.838239,
+                            37.928614
+                        ],
+                        [
+                            -8.838431,
+                            37.928726
+                        ],
+                        [
+                            -8.838256,
+                            37.928914
+                        ],
+                        [
+                            -8.839232,
+                            37.929487
+                        ],
+                        [
+                            -8.837858,
+                            37.930951
+                        ],
+                        [
+                            -8.839077,
+                            37.931703
+                        ],
+                        [
+                            -8.843033,
+                            37.934136
+                        ],
+                        [
+                            -8.839583,
+                            37.937781
+                        ],
+                        [
+                            -8.839155,
+                            37.937832
+                        ],
+                        [
+                            -8.833755,
+                            37.936901
+                        ],
+                        [
+                            -8.833678,
+                            37.937106
+                        ],
+                        [
+                            -8.832412,
+                            37.937196
+                        ],
+                        [
+                            -8.831897,
+                            37.937204
+                        ],
+                        [
+                            -8.831909,
+                            37.937368
+                        ],
+                        [
+                            -8.832682,
+                            37.937416
+                        ],
+                        [
+                            -8.833331,
+                            37.937552
+                        ],
+                        [
+                            -8.834738,
+                            37.937781
+                        ],
+                        [
+                            -8.834875,
+                            37.937812
+                        ],
+                        [
+                            -8.834841,
+                            37.937913
+                        ],
+                        [
+                            -8.835569,
+                            37.938095
+                        ],
+                        [
+                            -8.836501,
+                            37.938356
+                        ],
+                        [
+                            -8.838094,
+                            37.938655
+                        ],
+                        [
+                            -8.843128,
+                            37.939506
+                        ],
+                        [
+                            -8.843315,
+                            37.939515
+                        ],
+                        [
+                            -8.843385,
+                            37.939507
+                        ],
+                        [
+                            -8.843376,
+                            37.939431
+                        ],
+                        [
+                            -8.8433,
+                            37.939432
+                        ],
+                        [
+                            -8.843285,
+                            37.939346
+                        ],
+                        [
+                            -8.843297,
+                            37.939246
+                        ],
+                        [
+                            -8.843501,
+                            37.93928
+                        ],
+                        [
+                            -8.843853,
+                            37.938916
+                        ],
+                        [
+                            -8.84323,
+                            37.938571
+                        ],
+                        [
+                            -8.843492,
+                            37.938303
+                        ],
+                        [
+                            -8.843714,
+                            37.938439
+                        ],
+                        [
+                            -8.843921,
+                            37.938233
+                        ],
+                        [
+                            -8.844486,
+                            37.938573
+                        ],
+                        [
+                            -8.844681,
+                            37.938357
+                        ],
+                        [
+                            -8.845669,
+                            37.938933
+                        ],
+                        [
+                            -8.847655,
+                            37.936821
+                        ],
+                        [
+                            -8.84832,
+                            37.936036
+                        ],
+                        [
+                            -8.848672,
+                            37.936236
+                        ],
+                        [
+                            -8.850168,
+                            37.934769
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIESCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "remarks": "OSM and Google Maps do not match. Extended area to the N and E to include more rail tracks. Excluded NW corner - probably car park only.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.850183,
+                            37.934746
+                        ],
+                        [
+                            -8.851041,
+                            37.93393
+                        ],
+                        [
+                            -8.839677,
+                            37.927132
+                        ],
+                        [
+                            -8.838796,
+                            37.928023
+                        ],
+                        [
+                            -8.841261,
+                            37.929468
+                        ],
+                        [
+                            -8.850183,
+                            37.934746
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIESCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-01",
+                "remarks": "OSM and Google Maps do not match. Extended area to the N and E to include more rail tracks. Excluded NW corner - probably car park only.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.840483,
+                    37.936384
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIESCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "OSM and Google Maps do not match. Extended area to the N and E to include more rail tracks. Excluded NW corner - probably car park only.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.84519,
+                    37.931341
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIESCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "OSM and Google Maps do not match. Extended area to the N and E to include more rail tracks. Excluded NW corner - probably car park only.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

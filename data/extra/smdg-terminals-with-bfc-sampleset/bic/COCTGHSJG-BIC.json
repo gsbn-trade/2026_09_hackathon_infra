@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -75.487374,
+                            10.343364
+                        ],
+                        [
+                            -75.48751,
+                            10.343502
+                        ],
+                        [
+                            -75.490508,
+                            10.343694
+                        ],
+                        [
+                            -75.490521,
+                            10.342521
+                        ],
+                        [
+                            -75.489279,
+                            10.342583
+                        ],
+                        [
+                            -75.487402,
+                            10.343145
+                        ],
+                        [
+                            -75.487374,
+                            10.343364
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGHSJG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/coctghsjg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.488567,
+                    10.343168
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGHSJG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/coctghsjg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

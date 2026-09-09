@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.681229,
+                            4.044214
+                        ],
+                        [
+                            9.676134,
+                            4.040839
+                        ],
+                        [
+                            9.676716,
+                            4.040016
+                        ],
+                        [
+                            9.676706,
+                            4.039939
+                        ],
+                        [
+                            9.675042,
+                            4.03883
+                        ],
+                        [
+                            9.674945,
+                            4.038806
+                        ],
+                        [
+                            9.674862,
+                            4.038869
+                        ],
+                        [
+                            9.674016,
+                            4.038309
+                        ],
+                        [
+                            9.674567,
+                            4.037431
+                        ],
+                        [
+                            9.675448,
+                            4.038031
+                        ],
+                        [
+                            9.675491,
+                            4.037968
+                        ],
+                        [
+                            9.676694,
+                            4.038774
+                        ],
+                        [
+                            9.67716,
+                            4.038889
+                        ],
+                        [
+                            9.677725,
+                            4.038062
+                        ],
+                        [
+                            9.677864,
+                            4.038046
+                        ],
+                        [
+                            9.678533,
+                            4.038515
+                        ],
+                        [
+                            9.680935,
+                            4.038555
+                        ],
+                        [
+                            9.68121,
+                            4.038757
+                        ],
+                        [
+                            9.681389,
+                            4.039214
+                        ],
+                        [
+                            9.681687,
+                            4.03987
+                        ],
+                        [
+                            9.682611,
+                            4.042128
+                        ],
+                        [
+                            9.681922,
+                            4.043185
+                        ],
+                        [
+                            9.681229,
+                            4.044214
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLARTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.676076,
+                            4.040871
+                        ],
+                        [
+                            9.681325,
+                            4.044293
+                        ],
+                        [
+                            9.6811,
+                            4.04463
+                        ],
+                        [
+                            9.675774,
+                            4.04131
+                        ],
+                        [
+                            9.676076,
+                            4.040871
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLARTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.678005,
+                    4.039629
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLARTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.67807,
+                    4.042395
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLARTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

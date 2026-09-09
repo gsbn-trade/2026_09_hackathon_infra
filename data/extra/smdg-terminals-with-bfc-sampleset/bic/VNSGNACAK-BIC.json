@@ -1,0 +1,78 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.774996,
+                            10.873087
+                        ],
+                        [
+                            106.77444,
+                            10.873454
+                        ],
+                        [
+                            106.772964,
+                            10.871684
+                        ],
+                        [
+                            106.773729,
+                            10.871222
+                        ],
+                        [
+                            106.773452,
+                            10.870746
+                        ],
+                        [
+                            106.775221,
+                            10.870219
+                        ],
+                        [
+                            106.776773,
+                            10.87342
+                        ],
+                        [
+                            106.775712,
+                            10.874081
+                        ],
+                        [
+                            106.774996,
+                            10.873087
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNACAK",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2024-05-16",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnacak/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.774698,
+                    10.872333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNACAK",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2024-05-16",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnacak/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

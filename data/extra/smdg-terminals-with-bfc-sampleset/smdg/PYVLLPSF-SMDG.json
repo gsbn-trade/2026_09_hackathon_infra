@@ -1,0 +1,181 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.549782,
+                            -25.549395
+                        ],
+                        [
+                            -57.548012,
+                            -25.546018
+                        ],
+                        [
+                            -57.56513,
+                            -25.545745
+                        ],
+                        [
+                            -57.565465,
+                            -25.546602
+                        ],
+                        [
+                            -57.565634,
+                            -25.54733
+                        ],
+                        [
+                            -57.565811,
+                            -25.54801
+                        ],
+                        [
+                            -57.566024,
+                            -25.548539
+                        ],
+                        [
+                            -57.566053,
+                            -25.549004
+                        ],
+                        [
+                            -57.566104,
+                            -25.549283
+                        ],
+                        [
+                            -57.565927,
+                            -25.549295
+                        ],
+                        [
+                            -57.565749,
+                            -25.549381
+                        ],
+                        [
+                            -57.564579,
+                            -25.547767
+                        ],
+                        [
+                            -57.562977,
+                            -25.548048
+                        ],
+                        [
+                            -57.561331,
+                            -25.548409
+                        ],
+                        [
+                            -57.560296,
+                            -25.548633
+                        ],
+                        [
+                            -57.557896,
+                            -25.548764
+                        ],
+                        [
+                            -57.557798,
+                            -25.549288
+                        ],
+                        [
+                            -57.549782,
+                            -25.549395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLPSF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.565096,
+                            -25.545745
+                        ],
+                        [
+                            -57.565647,
+                            -25.545601
+                        ],
+                        [
+                            -57.566544,
+                            -25.549314
+                        ],
+                        [
+                            -57.566123,
+                            -25.549313
+                        ],
+                        [
+                            -57.566051,
+                            -25.548556
+                        ],
+                        [
+                            -57.565674,
+                            -25.547262
+                        ],
+                        [
+                            -57.565096,
+                            -25.545745
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLPSF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.561353,
+                    -25.548273
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLPSF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.565747,
+                    -25.547362
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLPSF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

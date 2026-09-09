@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.32547,
+                            36.721874
+                        ],
+                        [
+                            3.32842,
+                            36.722046
+                        ],
+                        [
+                            3.32834,
+                            36.723895
+                        ],
+                        [
+                            3.326527,
+                            36.723744
+                        ],
+                        [
+                            3.32658,
+                            36.723288
+                        ],
+                        [
+                            3.326049,
+                            36.72325
+                        ],
+                        [
+                            3.326114,
+                            36.722734
+                        ],
+                        [
+                            3.325368,
+                            36.722643
+                        ],
+                        [
+                            3.32547,
+                            36.721874
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZALGDSOG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzalgdsog/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.325139,
+                            36.722087
+                        ],
+                        [
+                            3.325551,
+                            36.722135
+                        ],
+                        [
+                            3.325579,
+                            36.721898
+                        ],
+                        [
+                            3.32519,
+                            36.721853
+                        ],
+                        [
+                            3.325139,
+                            36.722087
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZALGDSOG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzalgdsog/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.326482,
+                    36.722816
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZALGDSOG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzalgdsog/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.32532,
+                    36.722012
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZALGDSOG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzalgdsog/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.982438,
+                            -36.7262
+                        ],
+                        [
+                            -72.983387,
+                            -36.724425
+                        ],
+                        [
+                            -72.985714,
+                            -36.723003
+                        ],
+                        [
+                            -72.983969,
+                            -36.720917
+                        ],
+                        [
+                            -72.981803,
+                            -36.722191
+                        ],
+                        [
+                            -72.980622,
+                            -36.722714
+                        ],
+                        [
+                            -72.980002,
+                            -36.722812
+                        ],
+                        [
+                            -72.979697,
+                            -36.722923
+                        ],
+                        [
+                            -72.979522,
+                            -36.72307
+                        ],
+                        [
+                            -72.979862,
+                            -36.724266
+                        ],
+                        [
+                            -72.979641,
+                            -36.724593
+                        ],
+                        [
+                            -72.980644,
+                            -36.725048
+                        ],
+                        [
+                            -72.980531,
+                            -36.72557
+                        ],
+                        [
+                            -72.982438,
+                            -36.7262
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLLQNCPAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-23",
+                "url": "https://www.bic-code.org/facility-codes/cllqncpaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.981448,
+                    -36.723852
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLLQNCPAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-23",
+                "url": "https://www.bic-code.org/facility-codes/cllqncpaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

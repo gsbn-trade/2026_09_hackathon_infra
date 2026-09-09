@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.604397,
+                            15.692285
+                        ],
+                        [
+                            -88.604418,
+                            15.693178
+                        ],
+                        [
+                            -88.609204,
+                            15.693933
+                        ],
+                        [
+                            -88.609359,
+                            15.693091
+                        ],
+                        [
+                            -88.604397,
+                            15.692285
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTSTCALOA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtstcaloa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.606355,
+                    15.692954
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTSTCALOA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtstcaloa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

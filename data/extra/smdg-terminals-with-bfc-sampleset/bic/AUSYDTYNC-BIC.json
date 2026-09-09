@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.216148,
+                            -33.97885
+                        ],
+                        [
+                            151.214499,
+                            -33.97858
+                        ],
+                        [
+                            151.214025,
+                            -33.97911
+                        ],
+                        [
+                            151.213774,
+                            -33.979058
+                        ],
+                        [
+                            151.213649,
+                            -33.979413
+                        ],
+                        [
+                            151.213683,
+                            -33.979612
+                        ],
+                        [
+                            151.214442,
+                            -33.979777
+                        ],
+                        [
+                            151.215452,
+                            -33.979621
+                        ],
+                        [
+                            151.216148,
+                            -33.97885
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUSYDTYNC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/ausydtync/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.214647,
+                    -33.979208
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUSYDTYNC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/ausydtync/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

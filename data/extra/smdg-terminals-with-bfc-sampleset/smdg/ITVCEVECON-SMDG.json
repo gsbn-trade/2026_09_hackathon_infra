@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.242415,
+                            45.45944
+                        ],
+                        [
+                            12.239641,
+                            45.455929
+                        ],
+                        [
+                            12.240183,
+                            45.455696
+                        ],
+                        [
+                            12.240368,
+                            45.455903
+                        ],
+                        [
+                            12.24995,
+                            45.452181
+                        ],
+                        [
+                            12.250104,
+                            45.452374
+                        ],
+                        [
+                            12.249512,
+                            45.452641
+                        ],
+                        [
+                            12.250266,
+                            45.453636
+                        ],
+                        [
+                            12.247287,
+                            45.454828
+                        ],
+                        [
+                            12.247385,
+                            45.454927
+                        ],
+                        [
+                            12.247071,
+                            45.455025
+                        ],
+                        [
+                            12.246941,
+                            45.455269
+                        ],
+                        [
+                            12.246822,
+                            45.457609
+                        ],
+                        [
+                            12.245803,
+                            45.458635
+                        ],
+                        [
+                            12.244969,
+                            45.458635
+                        ],
+                        [
+                            12.244947,
+                            45.459281
+                        ],
+                        [
+                            12.24459,
+                            45.459562
+                        ],
+                        [
+                            12.243661,
+                            45.459563
+                        ],
+                        [
+                            12.243674,
+                            45.459006
+                        ],
+                        [
+                            12.243538,
+                            45.459006
+                        ],
+                        [
+                            12.242415,
+                            45.45944
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEVECON",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-14",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.249936,
+                            45.45216
+                        ],
+                        [
+                            12.24038,
+                            45.455902
+                        ],
+                        [
+                            12.240193,
+                            45.45569
+                        ],
+                        [
+                            12.249734,
+                            45.451865
+                        ],
+                        [
+                            12.249936,
+                            45.45216
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEVECON",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-14",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.245312,
+                    45.456599
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEVECON",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.246036,
+                    45.453555
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEVECON",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.857992,
+                            53.482702
+                        ],
+                        [
+                            -2.857874,
+                            53.483066
+                        ],
+                        [
+                            -2.85936,
+                            53.483247
+                        ],
+                        [
+                            -2.859462,
+                            53.483309
+                        ],
+                        [
+                            -2.859515,
+                            53.4834
+                        ],
+                        [
+                            -2.859223,
+                            53.484238
+                        ],
+                        [
+                            -2.861277,
+                            53.484477
+                        ],
+                        [
+                            -2.861578,
+                            53.483556
+                        ],
+                        [
+                            -2.861076,
+                            53.483489
+                        ],
+                        [
+                            -2.860993,
+                            53.483086
+                        ],
+                        [
+                            -2.860894,
+                            53.483039
+                        ],
+                        [
+                            -2.857992,
+                            53.482702
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCYEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-16",
+                "url": "https://www.bic-code.org/facility-codes/gblivcyee/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.85977,
+                    53.483359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCYEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-16",
+                "url": "https://www.bic-code.org/facility-codes/gblivcyee/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

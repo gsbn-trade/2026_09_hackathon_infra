@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.33609,
+                            51.298645
+                        ],
+                        [
+                            4.333234,
+                            51.297698
+                        ],
+                        [
+                            4.331719,
+                            51.299467
+                        ],
+                        [
+                            4.331196,
+                            51.300068
+                        ],
+                        [
+                            4.33176,
+                            51.301224
+                        ],
+                        [
+                            4.333577,
+                            51.301801
+                        ],
+                        [
+                            4.333586,
+                            51.301803
+                        ],
+                        [
+                            4.333825,
+                            51.301533
+                        ],
+                        [
+                            4.333918,
+                            51.301417
+                        ],
+                        [
+                            4.334393,
+                            51.300646
+                        ],
+                        [
+                            4.334429,
+                            51.300586
+                        ],
+                        [
+                            4.33609,
+                            51.298645
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRACBH",
+                "codeProvider": "BIC",
+                "isl_code": "BEANRB1N",
+                "isl_name": "Antwerp Euroports Antwerpen 524",
+                "bic_code": "BEANRACBH",
+                "category": "geofence",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/beanracbh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.333651,
+                    51.300294
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRACBH",
+                "codeProvider": "BIC",
+                "isl_code": "BEANRB1N",
+                "isl_name": "Antwerp Euroports Antwerpen 524",
+                "bic_code": "BEANRACBH",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/beanracbh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.781436,
+                            35.608363
+                        ],
+                        [
+                            139.786738,
+                            35.601837
+                        ],
+                        [
+                            139.78702,
+                            35.602055
+                        ],
+                        [
+                            139.786827,
+                            35.602297
+                        ],
+                        [
+                            139.789661,
+                            35.606053
+                        ],
+                        [
+                            139.789179,
+                            35.606647
+                        ],
+                        [
+                            139.788013,
+                            35.606022
+                        ],
+                        [
+                            139.787468,
+                            35.606665
+                        ],
+                        [
+                            139.786411,
+                            35.606074
+                        ],
+                        [
+                            139.784995,
+                            35.607814
+                        ],
+                        [
+                            139.786072,
+                            35.608381
+                        ],
+                        [
+                            139.785747,
+                            35.608774
+                        ],
+                        [
+                            139.785366,
+                            35.608499
+                        ],
+                        [
+                            139.784728,
+                            35.608138
+                        ],
+                        [
+                            139.783604,
+                            35.609532
+                        ],
+                        [
+                            139.781436,
+                            35.608363
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOAOO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-aomi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.781435,
+                            35.608357
+                        ],
+                        [
+                            139.78067,
+                            35.607962
+                        ],
+                        [
+                            139.785986,
+                            35.601431
+                        ],
+                        [
+                            139.786723,
+                            35.601833
+                        ],
+                        [
+                            139.781435,
+                            35.608357
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOAOO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-aomi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.785919,
+                    35.606595
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOAOO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-aomi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.78325,
+                    35.605588
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOAOO",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-aomi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.041249,
+                            10.466268
+                        ],
+                        [
+                            -68.040783,
+                            10.466673
+                        ],
+                        [
+                            -68.040497,
+                            10.466985
+                        ],
+                        [
+                            -68.040333,
+                            10.467221
+                        ],
+                        [
+                            -68.0402,
+                            10.4675
+                        ],
+                        [
+                            -68.040109,
+                            10.467762
+                        ],
+                        [
+                            -68.0405,
+                            10.468
+                        ],
+                        [
+                            -68.040914,
+                            10.468458
+                        ],
+                        [
+                            -68.0417,
+                            10.4686
+                        ],
+                        [
+                            -68.04226,
+                            10.467438
+                        ],
+                        [
+                            -68.041686,
+                            10.466749
+                        ],
+                        [
+                            -68.041249,
+                            10.466268
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLCIAK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblciak/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.040957,
+                    10.467327
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLCIAK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblciak/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

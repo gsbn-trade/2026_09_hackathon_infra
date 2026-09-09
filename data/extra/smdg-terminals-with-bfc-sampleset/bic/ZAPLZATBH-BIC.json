@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.646468,
+                            -33.792239
+                        ],
+                        [
+                            25.645288,
+                            -33.793169
+                        ],
+                        [
+                            25.64658,
+                            -33.794225
+                        ],
+                        [
+                            25.647678,
+                            -33.793177
+                        ],
+                        [
+                            25.646468,
+                            -33.792239
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZATBH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzatbh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.646496,
+                    -33.79301
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZATBH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzatbh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

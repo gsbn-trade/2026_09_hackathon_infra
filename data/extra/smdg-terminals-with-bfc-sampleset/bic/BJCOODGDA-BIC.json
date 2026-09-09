@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.257152,
+                            6.588497
+                        ],
+                        [
+                            2.257304,
+                            6.588318
+                        ],
+                        [
+                            2.257331,
+                            6.588358
+                        ],
+                        [
+                            2.257932,
+                            6.58776
+                        ],
+                        [
+                            2.258919,
+                            6.588737
+                        ],
+                        [
+                            2.25818,
+                            6.589505
+                        ],
+                        [
+                            2.257152,
+                            6.588497
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOODGDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/bjcoodgda/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.25771,
+                    6.588525
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOODGDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/bjcoodgda/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

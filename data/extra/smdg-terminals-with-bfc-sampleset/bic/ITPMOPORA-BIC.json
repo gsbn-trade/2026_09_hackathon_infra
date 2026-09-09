@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.362258,
+                            38.130183
+                        ],
+                        [
+                            13.365147,
+                            38.130702
+                        ],
+                        [
+                            13.365098,
+                            38.130889
+                        ],
+                        [
+                            13.363298,
+                            38.130669
+                        ],
+                        [
+                            13.362778,
+                            38.13343
+                        ],
+                        [
+                            13.363092,
+                            38.133457
+                        ],
+                        [
+                            13.363048,
+                            38.133669
+                        ],
+                        [
+                            13.362491,
+                            38.133598
+                        ],
+                        [
+                            13.36235,
+                            38.134005
+                        ],
+                        [
+                            13.361991,
+                            38.133908
+                        ],
+                        [
+                            13.361918,
+                            38.133536
+                        ],
+                        [
+                            13.362025,
+                            38.132236
+                        ],
+                        [
+                            13.361947,
+                            38.131924
+                        ],
+                        [
+                            13.361535,
+                            38.131419
+                        ],
+                        [
+                            13.361635,
+                            38.130734
+                        ],
+                        [
+                            13.361741,
+                            38.130532
+                        ],
+                        [
+                            13.361963,
+                            38.130348
+                        ],
+                        [
+                            13.362258,
+                            38.130183
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPMOPORA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-06-04",
+                "remarks": "Provided by CISCo",
+                "url": "https://www.bic-code.org/facility-codes/itpmopora/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.362587,
+                    38.131968
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPMOPORA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-06-04",
+                "remarks": "Provided by CISCo",
+                "url": "https://www.bic-code.org/facility-codes/itpmopora/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

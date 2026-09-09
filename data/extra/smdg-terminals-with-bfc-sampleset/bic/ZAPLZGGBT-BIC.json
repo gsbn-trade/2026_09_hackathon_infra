@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.590058,
+                            -33.910742
+                        ],
+                        [
+                            25.589906,
+                            -33.910531
+                        ],
+                        [
+                            25.583062,
+                            -33.91054
+                        ],
+                        [
+                            25.581892,
+                            -33.91108
+                        ],
+                        [
+                            25.581699,
+                            -33.911755
+                        ],
+                        [
+                            25.58236,
+                            -33.912472
+                        ],
+                        [
+                            25.588167,
+                            -33.913299
+                        ],
+                        [
+                            25.588207,
+                            -33.912894
+                        ],
+                        [
+                            25.590109,
+                            -33.913122
+                        ],
+                        [
+                            25.590058,
+                            -33.910742
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZGGBT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzggbt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.586552,
+                    -33.911718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZGGBT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzggbt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.057314,
+                            57.048266
+                        ],
+                        [
+                            10.053274,
+                            57.046923
+                        ],
+                        [
+                            10.055312,
+                            57.045124
+                        ],
+                        [
+                            10.059213,
+                            57.046438
+                        ],
+                        [
+                            10.057401,
+                            57.048007
+                        ],
+                        [
+                            10.057552,
+                            57.048079
+                        ],
+                        [
+                            10.057314,
+                            57.048266
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALPOAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/dkaalpoaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.056769,
+                    57.0473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALPOAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/dkaalpoaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

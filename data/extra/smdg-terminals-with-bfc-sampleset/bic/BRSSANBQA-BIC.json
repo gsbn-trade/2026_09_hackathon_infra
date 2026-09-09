@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.431587,
+                            -12.861706
+                        ],
+                        [
+                            -38.431884,
+                            -12.86171
+                        ],
+                        [
+                            -38.432116,
+                            -12.861804
+                        ],
+                        [
+                            -38.432259,
+                            -12.861919
+                        ],
+                        [
+                            -38.432248,
+                            -12.862241
+                        ],
+                        [
+                            -38.432114,
+                            -12.862496
+                        ],
+                        [
+                            -38.431467,
+                            -12.862369
+                        ],
+                        [
+                            -38.431561,
+                            -12.86171
+                        ],
+                        [
+                            -38.431587,
+                            -12.861706
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSANBQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssanbqa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.431469,
+                            -12.861606
+                        ],
+                        [
+                            -38.431342,
+                            -12.862322
+                        ],
+                        [
+                            -38.431023,
+                            -12.862233
+                        ],
+                        [
+                            -38.431106,
+                            -12.862065
+                        ],
+                        [
+                            -38.43091,
+                            -12.86201
+                        ],
+                        [
+                            -38.430839,
+                            -12.861993
+                        ],
+                        [
+                            -38.43074,
+                            -12.862173
+                        ],
+                        [
+                            -38.430564,
+                            -12.86209
+                        ],
+                        [
+                            -38.43043,
+                            -12.861871
+                        ],
+                        [
+                            -38.430359,
+                            -12.861484
+                        ],
+                        [
+                            -38.430586,
+                            -12.861516
+                        ],
+                        [
+                            -38.430865,
+                            -12.861473
+                        ],
+                        [
+                            -38.431469,
+                            -12.861606
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSANBQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssanbqa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.431869,
+                    -12.861962
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSANBQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssanbqa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.4309,
+                    -12.86188
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSANBQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssanbqa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

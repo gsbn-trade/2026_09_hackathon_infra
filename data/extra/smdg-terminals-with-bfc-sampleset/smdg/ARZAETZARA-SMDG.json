@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.041299,
+                            -34.069353
+                        ],
+                        [
+                            -59.036474,
+                            -34.06697
+                        ],
+                        [
+                            -59.037798,
+                            -34.064948
+                        ],
+                        [
+                            -59.036854,
+                            -34.064487
+                        ],
+                        [
+                            -59.036314,
+                            -34.064249
+                        ],
+                        [
+                            -59.035793,
+                            -34.064062
+                        ],
+                        [
+                            -59.035476,
+                            -34.064542
+                        ],
+                        [
+                            -59.03507,
+                            -34.064435
+                        ],
+                        [
+                            -59.034562,
+                            -34.065141
+                        ],
+                        [
+                            -59.033922,
+                            -34.066099
+                        ],
+                        [
+                            -59.032531,
+                            -34.067947
+                        ],
+                        [
+                            -59.032815,
+                            -34.068099
+                        ],
+                        [
+                            -59.032963,
+                            -34.068347
+                        ],
+                        [
+                            -59.034846,
+                            -34.069221
+                        ],
+                        [
+                            -59.035371,
+                            -34.068513
+                        ],
+                        [
+                            -59.035928,
+                            -34.068776
+                        ],
+                        [
+                            -59.036794,
+                            -34.067634
+                        ],
+                        [
+                            -59.037302,
+                            -34.067846
+                        ],
+                        [
+                            -59.037949,
+                            -34.068206
+                        ],
+                        [
+                            -59.042061,
+                            -34.070215
+                        ],
+                        [
+                            -59.046414,
+                            -34.072265
+                        ],
+                        [
+                            -59.046064,
+                            -34.072075
+                        ],
+                        [
+                            -59.046310001096884,
+                            -34.07181518831522
+                        ],
+                        [
+                            -59.043833,
+                            -34.070515
+                        ],
+                        [
+                            -59.041299,
+                            -34.069353
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAETZARA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-09-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.035052,
+                            -34.064391
+                        ],
+                        [
+                            -59.035041,
+                            -34.064455
+                        ],
+                        [
+                            -59.032517,
+                            -34.067958
+                        ],
+                        [
+                            -59.032262,
+                            -34.067812
+                        ],
+                        [
+                            -59.034653,
+                            -34.064199
+                        ],
+                        [
+                            -59.035052,
+                            -34.064391
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAETZARA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-09-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.037842,
+                    -34.067805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAETZARA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-09-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.034096,
+                    -34.065534
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARZAETZARA",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-09-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

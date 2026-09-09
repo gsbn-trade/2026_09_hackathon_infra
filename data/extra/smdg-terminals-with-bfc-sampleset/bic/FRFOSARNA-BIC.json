@@ -1,0 +1,241 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.833252,
+                            43.407982
+                        ],
+                        [
+                            4.833085,
+                            43.407369
+                        ],
+                        [
+                            4.833447,
+                            43.406856
+                        ],
+                        [
+                            4.834635,
+                            43.407375
+                        ],
+                        [
+                            4.833976,
+                            43.408225
+                        ],
+                        [
+                            4.833252,
+                            43.407982
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.82815,
+                            43.410055
+                        ],
+                        [
+                            4.827833,
+                            43.409784
+                        ],
+                        [
+                            4.832103,
+                            43.407077
+                        ],
+                        [
+                            4.8325,
+                            43.407502
+                        ],
+                        [
+                            4.82815,
+                            43.410055
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.828734,
+                            43.409967
+                        ],
+                        [
+                            4.831567,
+                            43.408198
+                        ],
+                        [
+                            4.831908,
+                            43.409542
+                        ],
+                        [
+                            4.828734,
+                            43.409967
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.827695,
+                            43.411907
+                        ],
+                        [
+                            4.827355,
+                            43.410834
+                        ],
+                        [
+                            4.828207,
+                            43.410297
+                        ],
+                        [
+                            4.831332,
+                            43.409855
+                        ],
+                        [
+                            4.83164,
+                            43.411394
+                        ],
+                        [
+                            4.827695,
+                            43.411907
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.833608,
+                    43.407632
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.829747,
+                    43.408895
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.830236,
+                    43.409419
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.828987,
+                    43.411032
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSARNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frfosarna/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

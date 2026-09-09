@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.501744,
+                            45.337992
+                        ],
+                        [
+                            14.501296,
+                            45.335666
+                        ],
+                        [
+                            14.503081,
+                            45.335903
+                        ],
+                        [
+                            14.50249,
+                            45.337938
+                        ],
+                        [
+                            14.501744,
+                            45.337992
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HRRJKDPLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2023-11-06",
+                "remarks": "confirmOK",
+                "url": "https://www.bic-code.org/facility-codes/hrrjkdpla/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.502071,
+                    45.337098
+                ]
+            },
+            "properties": {
+                "code": "HRRJKDPLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "confirmOK",
+                "url": "https://www.bic-code.org/facility-codes/hrrjkdpla/"
+            }
+        }
+    ]
+}

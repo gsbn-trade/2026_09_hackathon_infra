@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.130241,
+                            -11.952827
+                        ],
+                        [
+                            -77.127278,
+                            -11.951864
+                        ],
+                        [
+                            -77.127487,
+                            -11.951157
+                        ],
+                        [
+                            -77.127687,
+                            -11.951215
+                        ],
+                        [
+                            -77.128003,
+                            -11.95029
+                        ],
+                        [
+                            -77.13062,
+                            -11.951137
+                        ],
+                        [
+                            -77.130738,
+                            -11.951305
+                        ],
+                        [
+                            -77.130241,
+                            -11.952827
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLERXJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/pecllerxj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.129037,
+                    -11.951578
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLERXJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/pecllerxj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

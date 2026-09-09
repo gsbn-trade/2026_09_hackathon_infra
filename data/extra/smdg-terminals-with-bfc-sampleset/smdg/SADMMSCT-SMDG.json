@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            50.19304,
+                            26.510898
+                        ],
+                        [
+                            50.191834,
+                            26.511133
+                        ],
+                        [
+                            50.192247,
+                            26.513073
+                        ],
+                        [
+                            50.189045,
+                            26.513647
+                        ],
+                        [
+                            50.187126,
+                            26.506128
+                        ],
+                        [
+                            50.187972,
+                            26.505987
+                        ],
+                        [
+                            50.188159,
+                            26.505752
+                        ],
+                        [
+                            50.189308,
+                            26.505533
+                        ],
+                        [
+                            50.189256,
+                            26.505212
+                        ],
+                        [
+                            50.19169,
+                            26.504683
+                        ],
+                        [
+                            50.19304,
+                            26.510898
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by Globalpsa",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            50.193028,
+                            26.510907
+                        ],
+                        [
+                            50.191679,
+                            26.504683
+                        ],
+                        [
+                            50.192483,
+                            26.504544
+                        ],
+                        [
+                            50.19369,
+                            26.510837
+                        ],
+                        [
+                            50.193028,
+                            26.510907
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "Provided by Globalpsa",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.190247,
+                    26.508449
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Globalpsa",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.192782,
+                    26.508376
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Globalpsa",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

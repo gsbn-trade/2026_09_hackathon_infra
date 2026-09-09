@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.522274,
+                            24.254712
+                        ],
+                        [
+                            120.520349,
+                            24.25032
+                        ],
+                        [
+                            120.520457,
+                            24.250194
+                        ],
+                        [
+                            120.522488,
+                            24.249481
+                        ],
+                        [
+                            120.522658,
+                            24.249574
+                        ],
+                        [
+                            120.523086,
+                            24.250516
+                        ],
+                        [
+                            120.523208,
+                            24.250827
+                        ],
+                        [
+                            120.523353,
+                            24.251176
+                        ],
+                        [
+                            120.523505,
+                            24.251538
+                        ],
+                        [
+                            120.524521,
+                            24.253934
+                        ],
+                        [
+                            120.523855,
+                            24.254161
+                        ],
+                        [
+                            120.522274,
+                            24.254712
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "TWTXGGEEU",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2023-11-06",
+                "remarks": "Removeroadfromfacilityprovided",
+                "url": "https://www.bic-code.org/facility-codes/twtxggeeu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522669,
+                    24.251762
+                ]
+            },
+            "properties": {
+                "code": "TWTXGGEEU",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "Removeroadfromfacilityprovided",
+                "url": "https://www.bic-code.org/facility-codes/twtxggeeu/"
+            }
+        }
+    ]
+}

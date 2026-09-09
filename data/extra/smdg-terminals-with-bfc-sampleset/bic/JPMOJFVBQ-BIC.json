@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.002085,
+                            33.969876
+                        ],
+                        [
+                            131.002158,
+                            33.969607
+                        ],
+                        [
+                            131.001976,
+                            33.969504
+                        ],
+                        [
+                            131.002447,
+                            33.969092
+                        ],
+                        [
+                            131.001149,
+                            33.96811
+                        ],
+                        [
+                            131.001273,
+                            33.96797
+                        ],
+                        [
+                            131.001335,
+                            33.968019
+                        ],
+                        [
+                            131.002742,
+                            33.966721
+                        ],
+                        [
+                            131.003482,
+                            33.966491
+                        ],
+                        [
+                            131.003258,
+                            33.966074
+                        ],
+                        [
+                            131.003367,
+                            33.965978
+                        ],
+                        [
+                            131.005191,
+                            33.965327
+                        ],
+                        [
+                            131.008113,
+                            33.967441
+                        ],
+                        [
+                            131.008341,
+                            33.967395
+                        ],
+                        [
+                            131.008377,
+                            33.967757
+                        ],
+                        [
+                            131.007632,
+                            33.967927
+                        ],
+                        [
+                            131.007064,
+                            33.968169
+                        ],
+                        [
+                            131.002085,
+                            33.969876
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJFVBQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-03",
+                "remarks": "as per Hiroaki Hapag",
+                "url": "https://www.bic-code.org/facility-codes/jpmojfvbq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.004004,
+                    33.967852
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJFVBQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-03",
+                "remarks": "as per Hiroaki Hapag",
+                "url": "https://www.bic-code.org/facility-codes/jpmojfvbq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

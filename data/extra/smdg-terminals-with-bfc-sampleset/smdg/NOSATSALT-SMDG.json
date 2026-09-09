@@ -1,0 +1,371 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.590348,
+                            67.361805
+                        ],
+                        [
+                            15.590372,
+                            67.362093
+                        ],
+                        [
+                            15.591065,
+                            67.362499
+                        ],
+                        [
+                            15.591376,
+                            67.362798
+                        ],
+                        [
+                            15.592296,
+                            67.363116
+                        ],
+                        [
+                            15.592606,
+                            67.363355
+                        ],
+                        [
+                            15.592637,
+                            67.363908
+                        ],
+                        [
+                            15.592906,
+                            67.364198
+                        ],
+                        [
+                            15.592637,
+                            67.364652
+                        ],
+                        [
+                            15.589555,
+                            67.365841
+                        ],
+                        [
+                            15.588893,
+                            67.365957
+                        ],
+                        [
+                            15.58866,
+                            67.366114
+                        ],
+                        [
+                            15.586874,
+                            67.365787
+                        ],
+                        [
+                            15.587106,
+                            67.365582
+                        ],
+                        [
+                            15.586923,
+                            67.365297
+                        ],
+                        [
+                            15.586455,
+                            67.364837
+                        ],
+                        [
+                            15.586191,
+                            67.364942
+                        ],
+                        [
+                            15.586232,
+                            67.365142
+                        ],
+                        [
+                            15.586791,
+                            67.365608
+                        ],
+                        [
+                            15.58647,
+                            67.365686
+                        ],
+                        [
+                            15.585299,
+                            67.364898
+                        ],
+                        [
+                            15.585835,
+                            67.364668
+                        ],
+                        [
+                            15.585814,
+                            67.364179
+                        ],
+                        [
+                            15.585628,
+                            67.363988
+                        ],
+                        [
+                            15.585163,
+                            67.363801
+                        ],
+                        [
+                            15.583551,
+                            67.363371
+                        ],
+                        [
+                            15.582683,
+                            67.362974
+                        ],
+                        [
+                            15.580792,
+                            67.361721
+                        ],
+                        [
+                            15.579539,
+                            67.36054
+                        ],
+                        [
+                            15.580118,
+                            67.360258
+                        ],
+                        [
+                            15.580882,
+                            67.359772
+                        ],
+                        [
+                            15.581595,
+                            67.359546
+                        ],
+                        [
+                            15.582122,
+                            67.359494
+                        ],
+                        [
+                            15.582525,
+                            67.359792
+                        ],
+                        [
+                            15.584199,
+                            67.360413
+                        ],
+                        [
+                            15.58454,
+                            67.360433
+                        ],
+                        [
+                            15.585036,
+                            67.360532
+                        ],
+                        [
+                            15.586297,
+                            67.360516
+                        ],
+                        [
+                            15.586359,
+                            67.36048
+                        ],
+                        [
+                            15.585894,
+                            67.359975
+                        ],
+                        [
+                            15.586101,
+                            67.359955
+                        ],
+                        [
+                            15.586121,
+                            67.359884
+                        ],
+                        [
+                            15.587827,
+                            67.359991
+                        ],
+                        [
+                            15.588261,
+                            67.359963
+                        ],
+                        [
+                            15.588385,
+                            67.360122
+                        ],
+                        [
+                            15.588705,
+                            67.36021
+                        ],
+                        [
+                            15.588653,
+                            67.36058
+                        ],
+                        [
+                            15.589449,
+                            67.360636
+                        ],
+                        [
+                            15.58948,
+                            67.360357
+                        ],
+                        [
+                            15.589811,
+                            67.360373
+                        ],
+                        [
+                            15.589656,
+                            67.361626
+                        ],
+                        [
+                            15.589862,
+                            67.361789
+                        ],
+                        [
+                            15.590348,
+                            67.361805
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.586518,
+                            67.365697
+                        ],
+                        [
+                            15.586026,
+                            67.365787
+                        ],
+                        [
+                            15.584798,
+                            67.36497
+                        ],
+                        [
+                            15.585224,
+                            67.364886
+                        ],
+                        [
+                            15.586518,
+                            67.365697
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.586582,
+                            67.365961
+                        ],
+                        [
+                            15.586854,
+                            67.365797
+                        ],
+                        [
+                            15.588704,
+                            67.366115
+                        ],
+                        [
+                            15.588393,
+                            67.366339
+                        ],
+                        [
+                            15.586582,
+                            67.365961
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.587036,
+                    67.362412
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.585817,
+                    67.365407
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.587423,
+                    67.366035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOSATSALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

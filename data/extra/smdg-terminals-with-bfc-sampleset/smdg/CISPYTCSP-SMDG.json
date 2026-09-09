@@ -1,0 +1,405 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.619537,
+                            4.741458
+                        ],
+                        [
+                            -6.619803,
+                            4.741436
+                        ],
+                        [
+                            -6.619898,
+                            4.741423
+                        ],
+                        [
+                            -6.620141,
+                            4.741403
+                        ],
+                        [
+                            -6.620494,
+                            4.741333
+                        ],
+                        [
+                            -6.620598,
+                            4.741355
+                        ],
+                        [
+                            -6.620651,
+                            4.741361
+                        ],
+                        [
+                            -6.620607,
+                            4.741059
+                        ],
+                        [
+                            -6.620498,
+                            4.740434
+                        ],
+                        [
+                            -6.620385,
+                            4.739384
+                        ],
+                        [
+                            -6.620349,
+                            4.73923
+                        ],
+                        [
+                            -6.620302,
+                            4.738953
+                        ],
+                        [
+                            -6.620236,
+                            4.738213
+                        ],
+                        [
+                            -6.620203,
+                            4.738016
+                        ],
+                        [
+                            -6.620175,
+                            4.73785
+                        ],
+                        [
+                            -6.620105,
+                            4.737405
+                        ],
+                        [
+                            -6.619487,
+                            4.737194
+                        ],
+                        [
+                            -6.619332,
+                            4.737146
+                        ],
+                        [
+                            -6.619241,
+                            4.73711
+                        ],
+                        [
+                            -6.619155,
+                            4.737057
+                        ],
+                        [
+                            -6.61906,
+                            4.736972
+                        ],
+                        [
+                            -6.618951,
+                            4.736848
+                        ],
+                        [
+                            -6.618874,
+                            4.736732
+                        ],
+                        [
+                            -6.618811,
+                            4.73661
+                        ],
+                        [
+                            -6.618571,
+                            4.736164
+                        ],
+                        [
+                            -6.618506,
+                            4.73607
+                        ],
+                        [
+                            -6.618445,
+                            4.735999
+                        ],
+                        [
+                            -6.618379,
+                            4.735941
+                        ],
+                        [
+                            -6.618296,
+                            4.735895
+                        ],
+                        [
+                            -6.618188,
+                            4.73585
+                        ],
+                        [
+                            -6.618106,
+                            4.735829
+                        ],
+                        [
+                            -6.618028,
+                            4.735823
+                        ],
+                        [
+                            -6.617914,
+                            4.735832
+                        ],
+                        [
+                            -6.617805,
+                            4.735848
+                        ],
+                        [
+                            -6.617408,
+                            4.735944
+                        ],
+                        [
+                            -6.617078,
+                            4.736018
+                        ],
+                        [
+                            -6.616882,
+                            4.736062
+                        ],
+                        [
+                            -6.616764,
+                            4.7361
+                        ],
+                        [
+                            -6.616481,
+                            4.736358
+                        ],
+                        [
+                            -6.61624,
+                            4.736581
+                        ],
+                        [
+                            -6.615932,
+                            4.73683
+                        ],
+                        [
+                            -6.615898,
+                            4.737111
+                        ],
+                        [
+                            -6.615925,
+                            4.737151
+                        ],
+                        [
+                            -6.615956,
+                            4.73727
+                        ],
+                        [
+                            -6.618252,
+                            4.736753
+                        ],
+                        [
+                            -6.619026,
+                            4.741539
+                        ],
+                        [
+                            -6.619537,
+                            4.741458
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.618023,
+                            4.737135
+                        ],
+                        [
+                            -6.617954,
+                            4.73685
+                        ],
+                        [
+                            -6.615956,
+                            4.737263
+                        ],
+                        [
+                            -6.616022,
+                            4.737543
+                        ],
+                        [
+                            -6.618023,
+                            4.737135
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.619078,
+                            4.742039
+                        ],
+                        [
+                            -6.618588,
+                            4.738915
+                        ],
+                        [
+                            -6.618379,
+                            4.738947
+                        ],
+                        [
+                            -6.618829,
+                            4.742063
+                        ],
+                        [
+                            -6.619078,
+                            4.742039
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.618612,
+                            4.738899
+                        ],
+                        [
+                            -6.618242,
+                            4.736784
+                        ],
+                        [
+                            -6.617937,
+                            4.736856
+                        ],
+                        [
+                            -6.618355,
+                            4.738939
+                        ],
+                        [
+                            -6.618612,
+                            4.738899
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.618734,
+                    4.737881
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.617196,
+                    4.737185
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.61879,
+                    4.740801
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.618352,
+                    4.738075
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYTCSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

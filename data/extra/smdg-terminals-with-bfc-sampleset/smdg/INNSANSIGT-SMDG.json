@@ -1,0 +1,242 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.950349,
+                            18.962993
+                        ],
+                        [
+                            72.952034,
+                            18.962268
+                        ],
+                        [
+                            72.952004,
+                            18.960314
+                        ],
+                        [
+                            72.956932,
+                            18.958179
+                        ],
+                        [
+                            72.955013,
+                            18.954408
+                        ],
+                        [
+                            72.957683,
+                            18.953253
+                        ],
+                        [
+                            72.9599,
+                            18.953225
+                        ],
+                        [
+                            72.960915,
+                            18.953077
+                        ],
+                        [
+                            72.961601,
+                            18.953105
+                        ],
+                        [
+                            72.961641,
+                            18.953431
+                        ],
+                        [
+                            72.96132,
+                            18.953456
+                        ],
+                        [
+                            72.961516,
+                            18.953923
+                        ],
+                        [
+                            72.960286,
+                            18.954397
+                        ],
+                        [
+                            72.960133,
+                            18.954578
+                        ],
+                        [
+                            72.960129,
+                            18.954761
+                        ],
+                        [
+                            72.960948,
+                            18.956436
+                        ],
+                        [
+                            72.960792,
+                            18.956713
+                        ],
+                        [
+                            72.956331,
+                            18.958618
+                        ],
+                        [
+                            72.956266,
+                            18.958951
+                        ],
+                        [
+                            72.955216,
+                            18.9594
+                        ],
+                        [
+                            72.954906,
+                            18.959235
+                        ],
+                        [
+                            72.952383,
+                            18.960361
+                        ],
+                        [
+                            72.95223,
+                            18.960569
+                        ],
+                        [
+                            72.952204,
+                            18.960863
+                        ],
+                        [
+                            72.952237,
+                            18.96178
+                        ],
+                        [
+                            72.952176,
+                            18.963626
+                        ],
+                        [
+                            72.952126,
+                            18.964029
+                        ],
+                        [
+                            72.952161,
+                            18.964261
+                        ],
+                        [
+                            72.952388,
+                            18.965304
+                        ],
+                        [
+                            72.952192,
+                            18.965508
+                        ],
+                        [
+                            72.952255,
+                            18.96565
+                        ],
+                        [
+                            72.951876,
+                            18.965825
+                        ],
+                        [
+                            72.951768,
+                            18.965603
+                        ],
+                        [
+                            72.951623,
+                            18.96567
+                        ],
+                        [
+                            72.950349,
+                            18.962993
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSIGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.949466,
+                            18.963351
+                        ],
+                        [
+                            72.950338,
+                            18.963
+                        ],
+                        [
+                            72.951604,
+                            18.965677
+                        ],
+                        [
+                            72.950738,
+                            18.96606
+                        ],
+                        [
+                            72.949466,
+                            18.963351
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSIGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.95554,
+                    18.959336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSIGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.950322,
+                    18.964288
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSIGT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

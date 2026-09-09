@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.896764,
+                            13.049487
+                        ],
+                        [
+                            100.896921,
+                            13.049113
+                        ],
+                        [
+                            100.890402,
+                            13.047176
+                        ],
+                        [
+                            100.891621,
+                            13.043478
+                        ],
+                        [
+                            100.906709,
+                            13.048084
+                        ],
+                        [
+                            100.905475,
+                            13.051937
+                        ],
+                        [
+                            100.896764,
+                            13.049487
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHHLTD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.896558,
+                            13.050088
+                        ],
+                        [
+                            100.896718,
+                            13.049598
+                        ],
+                        [
+                            100.905497,
+                            13.051959
+                        ],
+                        [
+                            100.905223,
+                            13.052739
+                        ],
+                        [
+                            100.896558,
+                            13.050088
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHHLTD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.897808,
+                    13.048395
+                ]
+            },
+            "properties": {
+                "code": "THLCHHLTD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.900111,
+                    13.050894
+                ]
+            },
+            "properties": {
+                "code": "THLCHHLTD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

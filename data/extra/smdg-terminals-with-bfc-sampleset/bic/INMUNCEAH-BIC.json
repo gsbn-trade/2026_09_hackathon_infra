@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.688393,
+                            22.792515
+                        ],
+                        [
+                            69.688372,
+                            22.791737
+                        ],
+                        [
+                            69.688325,
+                            22.790853
+                        ],
+                        [
+                            69.688291,
+                            22.789306
+                        ],
+                        [
+                            69.6928,
+                            22.7893
+                        ],
+                        [
+                            69.692887,
+                            22.792406
+                        ],
+                        [
+                            69.691108,
+                            22.79246
+                        ],
+                        [
+                            69.689226,
+                            22.792505
+                        ],
+                        [
+                            69.688846,
+                            22.792494
+                        ],
+                        [
+                            69.688393,
+                            22.792515
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNCEAH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-07-25",
+                "url": "https://www.bic-code.org/facility-codes/inmunceah/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.689664,
+                    22.791609
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNCEAH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://www.bic-code.org/facility-codes/inmunceah/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

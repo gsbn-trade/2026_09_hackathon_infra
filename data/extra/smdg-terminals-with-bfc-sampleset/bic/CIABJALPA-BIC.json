@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.183637,
+                            5.425173
+                        ],
+                        [
+                            -4.183354,
+                            5.423171
+                        ],
+                        [
+                            -4.180764,
+                            5.423684
+                        ],
+                        [
+                            -4.181244,
+                            5.42565
+                        ],
+                        [
+                            -4.183637,
+                            5.425173
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJALPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/ciabjalpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.182527,
+                    5.42457
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJALPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/ciabjalpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.80859,
+                            38.498783
+                        ],
+                        [
+                            -8.807331,
+                            38.495171
+                        ],
+                        [
+                            -8.80681,
+                            38.4953
+                        ],
+                        [
+                            -8.807761,
+                            38.498357
+                        ],
+                        [
+                            -8.805852,
+                            38.498746
+                        ],
+                        [
+                            -8.805994,
+                            38.499246
+                        ],
+                        [
+                            -8.80428,
+                            38.499586
+                        ],
+                        [
+                            -8.804521,
+                            38.500237
+                        ],
+                        [
+                            -8.80621,
+                            38.4999
+                        ],
+                        [
+                            -8.806362,
+                            38.500341
+                        ],
+                        [
+                            -8.807357,
+                            38.500147
+                        ],
+                        [
+                            -8.808044,
+                            38.500013
+                        ],
+                        [
+                            -8.808257,
+                            38.499955
+                        ],
+                        [
+                            -8.808347,
+                            38.499883
+                        ],
+                        [
+                            -8.80805,
+                            38.4989
+                        ],
+                        [
+                            -8.80859,
+                            38.498783
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETZUKB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-20",
+                "url": "https://www.bic-code.org/facility-codes/ptsetzukb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.807022,
+                    38.498959
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETZUKB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-20",
+                "url": "https://www.bic-code.org/facility-codes/ptsetzukb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

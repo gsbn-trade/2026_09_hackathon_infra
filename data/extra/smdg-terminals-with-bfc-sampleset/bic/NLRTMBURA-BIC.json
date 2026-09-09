@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.58529,
+                            51.6682115
+                        ],
+                        [
+                            4.5849681,
+                            51.6685974
+                        ],
+                        [
+                            4.5834017,
+                            51.6719044
+                        ],
+                        [
+                            4.5800865,
+                            51.6712989
+                        ],
+                        [
+                            4.5818782,
+                            51.6674263
+                        ],
+                        [
+                            4.5826185,
+                            51.6673065
+                        ],
+                        [
+                            4.58529,
+                            51.6682115
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLRTMBURA",
+                "codeProvider": "BIC",
+                "category": "geofence",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmbura/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.583362,
+                    51.668994
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLRTMBURA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmbura/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

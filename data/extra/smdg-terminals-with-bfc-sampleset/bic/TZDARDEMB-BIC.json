@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.2353,
+                            -6.84852
+                        ],
+                        [
+                            39.2345,
+                            -6.8468
+                        ],
+                        [
+                            39.2341,
+                            -6.84707
+                        ],
+                        [
+                            39.2339,
+                            -6.84722
+                        ],
+                        [
+                            39.2348,
+                            -6.84875
+                        ],
+                        [
+                            39.2353,
+                            -6.84852
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARDEMB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-26",
+                "url": "https://www.bic-code.org/facility-codes/tzdardemb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.23465,
+                    -6.847813
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARDEMB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-26",
+                "url": "https://www.bic-code.org/facility-codes/tzdardemb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

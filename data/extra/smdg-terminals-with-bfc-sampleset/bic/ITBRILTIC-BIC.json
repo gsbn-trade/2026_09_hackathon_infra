@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.789365,
+                            41.105305
+                        ],
+                        [
+                            16.791988,
+                            41.105501
+                        ],
+                        [
+                            16.791938,
+                            41.107564
+                        ],
+                        [
+                            16.791563,
+                            41.108069
+                        ],
+                        [
+                            16.790821,
+                            41.108564
+                        ],
+                        [
+                            16.789754,
+                            41.108895
+                        ],
+                        [
+                            16.788875,
+                            41.10903
+                        ],
+                        [
+                            16.789365,
+                            41.105305
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRILTIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-30",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itbriltic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.790459,
+                    41.107279
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRILTIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-30",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itbriltic/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

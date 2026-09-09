@@ -1,0 +1,195 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.051217,
+                            43.345622
+                        ],
+                        [
+                            -3.053298,
+                            43.343376
+                        ],
+                        [
+                            -3.0506,
+                            43.342166
+                        ],
+                        [
+                            -3.047991,
+                            43.341281
+                        ],
+                        [
+                            -3.047997,
+                            43.341155
+                        ],
+                        [
+                            -3.047234,
+                            43.34108
+                        ],
+                        [
+                            -3.045563,
+                            43.341166
+                        ],
+                        [
+                            -3.043099,
+                            43.341272
+                        ],
+                        [
+                            -3.044063,
+                            43.3417
+                        ],
+                        [
+                            -3.043483,
+                            43.342459
+                        ],
+                        [
+                            -3.042292,
+                            43.341995
+                        ],
+                        [
+                            -3.04162,
+                            43.342842
+                        ],
+                        [
+                            -3.040909,
+                            43.34246
+                        ],
+                        [
+                            -3.039636,
+                            43.343759
+                        ],
+                        [
+                            -3.038503,
+                            43.345136
+                        ],
+                        [
+                            -3.036279,
+                            43.347702
+                        ],
+                        [
+                            -3.040265,
+                            43.349489
+                        ],
+                        [
+                            -3.040558,
+                            43.349086
+                        ],
+                        [
+                            -3.041016,
+                            43.349287
+                        ],
+                        [
+                            -3.046109,
+                            43.343363
+                        ],
+                        [
+                            -3.051217,
+                            43.345622
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIONOATB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "remarks": "KML Import ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.041554,
+                            43.349588
+                        ],
+                        [
+                            -3.04631,
+                            43.343916
+                        ],
+                        [
+                            -3.050955,
+                            43.345989
+                        ],
+                        [
+                            -3.051208,
+                            43.345662
+                        ],
+                        [
+                            -3.046143,
+                            43.343366
+                        ],
+                        [
+                            -3.041001,
+                            43.349283
+                        ],
+                        [
+                            -3.041554,
+                            43.349588
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIONOATB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.044426,
+                    43.343906
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIONOATB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "remarks": "KML Import ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.045532,
+                    43.34677
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIONOATB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

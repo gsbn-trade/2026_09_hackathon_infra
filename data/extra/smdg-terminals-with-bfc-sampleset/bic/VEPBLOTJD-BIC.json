@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.045761,
+                            10.476276
+                        ],
+                        [
+                            -68.047247,
+                            10.476338
+                        ],
+                        [
+                            -68.047203,
+                            10.477531
+                        ],
+                        [
+                            -68.048371,
+                            10.477587
+                        ],
+                        [
+                            -68.048505,
+                            10.477487
+                        ],
+                        [
+                            -68.04867,
+                            10.477537
+                        ],
+                        [
+                            -68.04926,
+                            10.478081
+                        ],
+                        [
+                            -68.049407,
+                            10.478424
+                        ],
+                        [
+                            -68.049794,
+                            10.478249
+                        ],
+                        [
+                            -68.049241,
+                            10.477462
+                        ],
+                        [
+                            -68.048743,
+                            10.476925
+                        ],
+                        [
+                            -68.048054,
+                            10.476507
+                        ],
+                        [
+                            -68.047171,
+                            10.476076
+                        ],
+                        [
+                            -68.045888,
+                            10.475589
+                        ],
+                        [
+                            -68.045761,
+                            10.476276
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLOTJD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblotjd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.047938,
+                    10.47709
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLOTJD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblotjd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

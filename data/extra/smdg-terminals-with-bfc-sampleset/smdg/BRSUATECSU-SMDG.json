@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -34.962108,
+                            -8.394299
+                        ],
+                        [
+                            -34.967146,
+                            -8.392069
+                        ],
+                        [
+                            -34.969825,
+                            -8.390897
+                        ],
+                        [
+                            -34.972349,
+                            -8.393538
+                        ],
+                        [
+                            -34.97216,
+                            -8.393762
+                        ],
+                        [
+                            -34.971796,
+                            -8.394128
+                        ],
+                        [
+                            -34.965949,
+                            -8.396746
+                        ],
+                        [
+                            -34.963959,
+                            -8.39759
+                        ],
+                        [
+                            -34.963546,
+                            -8.397152
+                        ],
+                        [
+                            -34.962108,
+                            -8.394299
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUATECSU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -34.969808,
+                            -8.390865
+                        ],
+                        [
+                            -34.962066,
+                            -8.394311
+                        ],
+                        [
+                            -34.96183,
+                            -8.39388
+                        ],
+                        [
+                            -34.969502,
+                            -8.390411
+                        ],
+                        [
+                            -34.969808,
+                            -8.390865
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUATECSU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.967095,
+                    -8.394448
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUATECSU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.966603,
+                    -8.392066
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUATECSU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

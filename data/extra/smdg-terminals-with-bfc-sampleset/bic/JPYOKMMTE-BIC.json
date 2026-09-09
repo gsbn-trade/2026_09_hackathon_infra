@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.683783,
+                            35.439422
+                        ],
+                        [
+                            139.681816,
+                            35.436145
+                        ],
+                        [
+                            139.686574,
+                            35.434274
+                        ],
+                        [
+                            139.68809,
+                            35.437604
+                        ],
+                        [
+                            139.683783,
+                            35.439422
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKMMTE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokmmte/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.684809,
+                    35.437373
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKMMTE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokmmte/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

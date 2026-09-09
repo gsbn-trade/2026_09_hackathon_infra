@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.625277,
+                            41.116023
+                        ],
+                        [
+                            28.623345,
+                            41.11624
+                        ],
+                        [
+                            28.622969,
+                            41.116216
+                        ],
+                        [
+                            28.622862,
+                            41.116066
+                        ],
+                        [
+                            28.623549,
+                            41.114531
+                        ],
+                        [
+                            28.624237,
+                            41.114693
+                        ],
+                        [
+                            28.624301,
+                            41.114548
+                        ],
+                        [
+                            28.625672,
+                            41.11512
+                        ],
+                        [
+                            28.625277,
+                            41.116023
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTAWTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-28",
+                "url": "https://www.bic-code.org/facility-codes/tristawta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.624165,
+                    41.115496
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTAWTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://www.bic-code.org/facility-codes/tristawta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            127.681058,
+                            34.909218
+                        ],
+                        [
+                            127.67726,
+                            34.913577
+                        ],
+                        [
+                            127.669477,
+                            34.908885
+                        ],
+                        [
+                            127.670342,
+                            34.907938
+                        ],
+                        [
+                            127.670421,
+                            34.907841
+                        ],
+                        [
+                            127.671134,
+                            34.907112
+                        ],
+                        [
+                            127.671407,
+                            34.90679
+                        ],
+                        [
+                            127.672419,
+                            34.905614
+                        ],
+                        [
+                            127.673184,
+                            34.904801
+                        ],
+                        [
+                            127.672975,
+                            34.904698
+                        ],
+                        [
+                            127.673224,
+                            34.904438
+                        ],
+                        [
+                            127.681058,
+                            34.909218
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRKANGIGCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            127.681101,
+                            34.909165
+                        ],
+                        [
+                            127.673232,
+                            34.904408
+                        ],
+                        [
+                            127.67347,
+                            34.904116
+                        ],
+                        [
+                            127.68141,
+                            34.908853
+                        ],
+                        [
+                            127.681101,
+                            34.909165
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRKANGIGCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.673663,
+                    34.907511
+                ]
+            },
+            "properties": {
+                "code": "KRKANGIGCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.678063,
+                    34.907141
+                ]
+            },
+            "properties": {
+                "code": "KRKANGIGCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

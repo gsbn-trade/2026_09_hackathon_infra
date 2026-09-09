@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.600459,
+                            15.734924
+                        ],
+                        [
+                            -88.605752,
+                            15.735373
+                        ],
+                        [
+                            -88.605863,
+                            15.734599
+                        ],
+                        [
+                            -88.606428,
+                            15.734599
+                        ],
+                        [
+                            -88.60644,
+                            15.734759
+                        ],
+                        [
+                            -88.608503,
+                            15.734959
+                        ],
+                        [
+                            -88.608577,
+                            15.734883
+                        ],
+                        [
+                            -88.608737,
+                            15.734889
+                        ],
+                        [
+                            -88.609553,
+                            15.734942
+                        ],
+                        [
+                            -88.609572,
+                            15.734652
+                        ],
+                        [
+                            -88.605844,
+                            15.734333
+                        ],
+                        [
+                            -88.605709,
+                            15.734179
+                        ],
+                        [
+                            -88.604644,
+                            15.734087
+                        ],
+                        [
+                            -88.604593,
+                            15.733878
+                        ],
+                        [
+                            -88.604657,
+                            15.73347
+                        ],
+                        [
+                            -88.60468,
+                            15.733319
+                        ],
+                        [
+                            -88.604531,
+                            15.733281
+                        ],
+                        [
+                            -88.604447,
+                            15.733267
+                        ],
+                        [
+                            -88.602837,
+                            15.733107
+                        ],
+                        [
+                            -88.600666,
+                            15.732891
+                        ],
+                        [
+                            -88.600459,
+                            15.734924
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRYVVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-22",
+                "url": "https://www.bic-code.org/facility-codes/gtpbryvvh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.605379,
+                    15.734253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRYVVH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-22",
+                "url": "https://www.bic-code.org/facility-codes/gtpbryvvh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

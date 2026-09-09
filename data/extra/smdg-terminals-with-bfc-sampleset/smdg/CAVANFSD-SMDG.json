@@ -1,0 +1,193 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.910975,
+                            49.190519
+                        ],
+                        [
+                            -122.913419,
+                            49.191161
+                        ],
+                        [
+                            -122.915998,
+                            49.186831
+                        ],
+                        [
+                            -122.917608,
+                            49.182912
+                        ],
+                        [
+                            -122.916822,
+                            49.18279
+                        ],
+                        [
+                            -122.915586,
+                            49.183281
+                        ],
+                        [
+                            -122.915191,
+                            49.18392
+                        ],
+                        [
+                            -122.915279,
+                            49.184244
+                        ],
+                        [
+                            -122.910975,
+                            49.190519
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANFSD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.911,
+                            49.1905
+                        ],
+                        [
+                            -122.914335,
+                            49.185701
+                        ],
+                        [
+                            -122.915244,
+                            49.184269
+                        ],
+                        [
+                            -122.915203,
+                            49.183977
+                        ],
+                        [
+                            -122.915645,
+                            49.183253
+                        ],
+                        [
+                            -122.916777,
+                            49.182795
+                        ],
+                        [
+                            -122.917797,
+                            49.181183
+                        ],
+                        [
+                            -122.91978,
+                            49.17716
+                        ],
+                        [
+                            -122.917431,
+                            49.176402
+                        ],
+                        [
+                            -122.917104,
+                            49.177326
+                        ],
+                        [
+                            -122.916054,
+                            49.178059
+                        ],
+                        [
+                            -122.913279,
+                            49.178294
+                        ],
+                        [
+                            -122.912266,
+                            49.179459
+                        ],
+                        [
+                            -122.909285,
+                            49.18255
+                        ],
+                        [
+                            -122.906495,
+                            49.186255
+                        ],
+                        [
+                            -122.907066,
+                            49.187718
+                        ],
+                        [
+                            -122.907041,
+                            49.188976
+                        ],
+                        [
+                            -122.909097,
+                            49.190169
+                        ],
+                        [
+                            -122.911,
+                            49.1905
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANFSD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.91465,
+                    49.186242
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANFSD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.913258,
+                    49.183397
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANFSD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

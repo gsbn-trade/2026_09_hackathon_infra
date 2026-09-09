@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.923568,
+                            -2.253629
+                        ],
+                        [
+                            -79.924453,
+                            -2.250008
+                        ],
+                        [
+                            -79.925208,
+                            -2.250466
+                        ],
+                        [
+                            -79.925254,
+                            -2.250415
+                        ],
+                        [
+                            -79.926567,
+                            -2.251138
+                        ],
+                        [
+                            -79.926557,
+                            -2.251441
+                        ],
+                        [
+                            -79.927127,
+                            -2.251573
+                        ],
+                        [
+                            -79.927117,
+                            -2.253134
+                        ],
+                        [
+                            -79.927143,
+                            -2.254841
+                        ],
+                        [
+                            -79.926747,
+                            -2.254826
+                        ],
+                        [
+                            -79.926753,
+                            -2.254553
+                        ],
+                        [
+                            -79.92642,
+                            -2.254639
+                        ],
+                        [
+                            -79.926444,
+                            -2.254895
+                        ],
+                        [
+                            -79.923568,
+                            -2.253629
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBANA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.927146,
+                            -2.251572
+                        ],
+                        [
+                            -79.927667,
+                            -2.25159
+                        ],
+                        [
+                            -79.927649,
+                            -2.254861
+                        ],
+                        [
+                            -79.927146,
+                            -2.25487
+                        ],
+                        [
+                            -79.927146,
+                            -2.251572
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBANA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.925923,
+                    -2.252799
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBANA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.927351,
+                    -2.252893
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBANA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

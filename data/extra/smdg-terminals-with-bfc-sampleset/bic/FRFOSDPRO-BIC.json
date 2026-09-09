@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.835401,
+                            43.40909
+                        ],
+                        [
+                            4.835388,
+                            43.409006
+                        ],
+                        [
+                            4.835503,
+                            43.408996
+                        ],
+                        [
+                            4.83552,
+                            43.40908
+                        ],
+                        [
+                            4.837478,
+                            43.409916
+                        ],
+                        [
+                            4.837257,
+                            43.410818
+                        ],
+                        [
+                            4.835853,
+                            43.410999
+                        ],
+                        [
+                            4.835401,
+                            43.40909
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.831182,
+                            43.409764
+                        ],
+                        [
+                            4.831555,
+                            43.409713
+                        ],
+                        [
+                            4.83199,
+                            43.411449
+                        ],
+                        [
+                            4.83163,
+                            43.411496
+                        ],
+                        [
+                            4.831182,
+                            43.409764
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.835822,
+                            43.410948
+                        ],
+                        [
+                            4.836,
+                            43.410923
+                        ],
+                        [
+                            4.835981,
+                            43.410835
+                        ],
+                        [
+                            4.835799,
+                            43.410854
+                        ],
+                        [
+                            4.835822,
+                            43.410948
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.835975,
+                    43.409624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.831508,
+                    43.410437
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.835885,
+                    43.410902
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frfosdpro/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

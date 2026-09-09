@@ -1,0 +1,445 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.691541,
+                            56.034057
+                        ],
+                        [
+                            12.691478,
+                            56.034036
+                        ],
+                        [
+                            12.691457,
+                            56.034
+                        ],
+                        [
+                            12.691457,
+                            56.033838
+                        ],
+                        [
+                            12.691441,
+                            56.033769
+                        ],
+                        [
+                            12.691371,
+                            56.033685
+                        ],
+                        [
+                            12.689365,
+                            56.032214
+                        ],
+                        [
+                            12.689327,
+                            56.032163
+                        ],
+                        [
+                            12.689327,
+                            56.032109
+                        ],
+                        [
+                            12.689697,
+                            56.028308
+                        ],
+                        [
+                            12.689805,
+                            56.028233
+                        ],
+                        [
+                            12.690255,
+                            56.028605
+                        ],
+                        [
+                            12.690423,
+                            56.028598
+                        ],
+                        [
+                            12.690173,
+                            56.031375
+                        ],
+                        [
+                            12.690319,
+                            56.031509
+                        ],
+                        [
+                            12.690891,
+                            56.031534
+                        ],
+                        [
+                            12.691057,
+                            56.031367
+                        ],
+                        [
+                            12.691816,
+                            56.031394
+                        ],
+                        [
+                            12.691814,
+                            56.0313
+                        ],
+                        [
+                            12.692042,
+                            56.02898
+                        ],
+                        [
+                            12.692125,
+                            56.028922
+                        ],
+                        [
+                            12.692761,
+                            56.028865
+                        ],
+                        [
+                            12.692888,
+                            56.028917
+                        ],
+                        [
+                            12.693926,
+                            56.030554
+                        ],
+                        [
+                            12.695168,
+                            56.0303
+                        ],
+                        [
+                            12.694869,
+                            56.029839
+                        ],
+                        [
+                            12.694498,
+                            56.029264
+                        ],
+                        [
+                            12.694013,
+                            56.028514
+                        ],
+                        [
+                            12.694079,
+                            56.028432
+                        ],
+                        [
+                            12.694709,
+                            56.028301
+                        ],
+                        [
+                            12.694751,
+                            56.028314
+                        ],
+                        [
+                            12.694997,
+                            56.028104
+                        ],
+                        [
+                            12.695196,
+                            56.028065
+                        ],
+                        [
+                            12.696317,
+                            56.029858
+                        ],
+                        [
+                            12.701542,
+                            56.028467
+                        ],
+                        [
+                            12.70218,
+                            56.028656
+                        ],
+                        [
+                            12.701424,
+                            56.029627
+                        ],
+                        [
+                            12.701172,
+                            56.029876
+                        ],
+                        [
+                            12.700721,
+                            56.030242
+                        ],
+                        [
+                            12.70048,
+                            56.030475
+                        ],
+                        [
+                            12.700346,
+                            56.030619
+                        ],
+                        [
+                            12.700035,
+                            56.031057
+                        ],
+                        [
+                            12.699933,
+                            56.031195
+                        ],
+                        [
+                            12.699874,
+                            56.031327
+                        ],
+                        [
+                            12.699874,
+                            56.031455
+                        ],
+                        [
+                            12.699906,
+                            56.031557
+                        ],
+                        [
+                            12.699949,
+                            56.031638
+                        ],
+                        [
+                            12.699788,
+                            56.031842
+                        ],
+                        [
+                            12.699227,
+                            56.031626
+                        ],
+                        [
+                            12.699107,
+                            56.031503
+                        ],
+                        [
+                            12.698168,
+                            56.031318
+                        ],
+                        [
+                            12.697867,
+                            56.031336
+                        ],
+                        [
+                            12.697326,
+                            56.031444
+                        ],
+                        [
+                            12.697218,
+                            56.031494
+                        ],
+                        [
+                            12.697154,
+                            56.031536
+                        ],
+                        [
+                            12.6971,
+                            56.031575
+                        ],
+                        [
+                            12.697036,
+                            56.03165
+                        ],
+                        [
+                            12.696451,
+                            56.032552
+                        ],
+                        [
+                            12.696338,
+                            56.03281
+                        ],
+                        [
+                            12.696226,
+                            56.032996
+                        ],
+                        [
+                            12.695678,
+                            56.033729
+                        ],
+                        [
+                            12.695435,
+                            56.03368
+                        ],
+                        [
+                            12.695571,
+                            56.033494
+                        ],
+                        [
+                            12.693297,
+                            56.033074
+                        ],
+                        [
+                            12.693394,
+                            56.032894
+                        ],
+                        [
+                            12.691959,
+                            56.03263
+                        ],
+                        [
+                            12.691838,
+                            56.032876
+                        ],
+                        [
+                            12.692278,
+                            56.033146
+                        ],
+                        [
+                            12.692042,
+                            56.033224
+                        ],
+                        [
+                            12.691541,
+                            56.034057
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.693995,
+                            56.028522
+                        ],
+                        [
+                            12.695159,
+                            56.030291
+                        ],
+                        [
+                            12.694684,
+                            56.030386
+                        ],
+                        [
+                            12.693475,
+                            56.028636
+                        ],
+                        [
+                            12.693995,
+                            56.028522
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.692039,
+                            56.028971
+                        ],
+                        [
+                            12.691801,
+                            56.031397
+                        ],
+                        [
+                            12.691168,
+                            56.031378
+                        ],
+                        [
+                            12.691474,
+                            56.028946
+                        ],
+                        [
+                            12.692039,
+                            56.028971
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.694926,
+                    56.031143
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.694262,
+                    56.029271
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.691704,
+                    56.029933
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELVESTHA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-05-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

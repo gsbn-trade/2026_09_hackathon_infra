@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.607495,
+                            38.052534
+                        ],
+                        [
+                            23.60787,
+                            38.052245
+                        ],
+                        [
+                            23.608358,
+                            38.05306
+                        ],
+                        [
+                            23.609468,
+                            38.052786
+                        ],
+                        [
+                            23.609683,
+                            38.053293
+                        ],
+                        [
+                            23.608591,
+                            38.053589
+                        ],
+                        [
+                            23.608664,
+                            38.053753
+                        ],
+                        [
+                            23.608138,
+                            38.053905
+                        ],
+                        [
+                            23.607495,
+                            38.052534
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRCIKI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-07-03",
+                "url": "https://www.bic-code.org/facility-codes/grpirciki/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.608418,
+                    38.053078
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRCIKI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-07-03",
+                "url": "https://www.bic-code.org/facility-codes/grpirciki/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

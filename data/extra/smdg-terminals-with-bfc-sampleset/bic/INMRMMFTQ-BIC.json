@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.882101,
+                            15.375911
+                        ],
+                        [
+                            73.881573,
+                            15.376265
+                        ],
+                        [
+                            73.881104,
+                            15.375862
+                        ],
+                        [
+                            73.880948,
+                            15.375469
+                        ],
+                        [
+                            73.88094,
+                            15.375326
+                        ],
+                        [
+                            73.881455,
+                            15.37498
+                        ],
+                        [
+                            73.881324,
+                            15.37469
+                        ],
+                        [
+                            73.881431,
+                            15.374613
+                        ],
+                        [
+                            73.881581,
+                            15.374755
+                        ],
+                        [
+                            73.881672,
+                            15.374732
+                        ],
+                        [
+                            73.88182,
+                            15.374936
+                        ],
+                        [
+                            73.881788,
+                            15.375001
+                        ],
+                        [
+                            73.881541,
+                            15.375171
+                        ],
+                        [
+                            73.882101,
+                            15.375911
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMMFTQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inmrmmftq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.881527,
+                    15.375259
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMMFTQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inmrmmftq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

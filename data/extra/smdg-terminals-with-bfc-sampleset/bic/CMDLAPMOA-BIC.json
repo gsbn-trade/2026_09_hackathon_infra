@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.6823,
+                            4.021078
+                        ],
+                        [
+                            9.682922,
+                            4.020115
+                        ],
+                        [
+                            9.682412,
+                            4.019831
+                        ],
+                        [
+                            9.683314,
+                            4.018504
+                        ],
+                        [
+                            9.682396,
+                            4.017883
+                        ],
+                        [
+                            9.680894,
+                            4.020184
+                        ],
+                        [
+                            9.6823,
+                            4.021078
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAPMOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlapmoa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.682363,
+                    4.01981
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAPMOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlapmoa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

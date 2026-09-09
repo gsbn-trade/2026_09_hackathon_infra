@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.31907,
+                            39.459058
+                        ],
+                        [
+                            -0.319364,
+                            39.458941
+                        ],
+                        [
+                            -0.322159,
+                            39.457809
+                        ],
+                        [
+                            -0.320977,
+                            39.456103
+                        ],
+                        [
+                            -0.321422,
+                            39.455935
+                        ],
+                        [
+                            -0.319721,
+                            39.453497
+                        ],
+                        [
+                            -0.319601,
+                            39.45328
+                        ],
+                        [
+                            -0.31947,
+                            39.453328
+                        ],
+                        [
+                            -0.314461,
+                            39.446138
+                        ],
+                        [
+                            -0.313872,
+                            39.446384
+                        ],
+                        [
+                            -0.312204,
+                            39.450056
+                        ],
+                        [
+                            -0.31226,
+                            39.450799
+                        ],
+                        [
+                            -0.312327,
+                            39.450797
+                        ],
+                        [
+                            -0.312335,
+                            39.450843
+                        ],
+                        [
+                            -0.31296,
+                            39.450911
+                        ],
+                        [
+                            -0.313483,
+                            39.45105
+                        ],
+                        [
+                            -0.313808,
+                            39.451203
+                        ],
+                        [
+                            -0.314097,
+                            39.451445
+                        ],
+                        [
+                            -0.314347,
+                            39.451822
+                        ],
+                        [
+                            -0.314435,
+                            39.452154
+                        ],
+                        [
+                            -0.314435,
+                            39.452771
+                        ],
+                        [
+                            -0.314516,
+                            39.453005
+                        ],
+                        [
+                            -0.314819,
+                            39.452907
+                        ],
+                        [
+                            -0.316085,
+                            39.4548
+                        ],
+                        [
+                            -0.317791,
+                            39.457203
+                        ],
+                        [
+                            -0.31907,
+                            39.459058
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESVLCTCV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.321632,
+                            39.455903
+                        ],
+                        [
+                            -0.322081,
+                            39.455704
+                        ],
+                        [
+                            -0.314507,
+                            39.445295
+                        ],
+                        [
+                            -0.313715,
+                            39.445593
+                        ],
+                        [
+                            -0.311554,
+                            39.449955
+                        ],
+                        [
+                            -0.312217,
+                            39.450087
+                        ],
+                        [
+                            -0.313822,
+                            39.44632
+                        ],
+                        [
+                            -0.314485,
+                            39.446072
+                        ],
+                        [
+                            -0.32144,
+                            39.455903
+                        ],
+                        [
+                            -0.321632,
+                            39.455903
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESVLCTCV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.316119,
+                    39.453127
+                ]
+            },
+            "properties": {
+                "code": "ESVLCTCV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.316709,
+                    39.450674
+                ]
+            },
+            "properties": {
+                "code": "ESVLCTCV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

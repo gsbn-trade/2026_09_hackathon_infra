@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.360954,
+                            51.27908
+                        ],
+                        [
+                            4.360954,
+                            51.276711
+                        ],
+                        [
+                            4.362553,
+                            51.275731
+                        ],
+                        [
+                            4.365707,
+                            51.275772
+                        ],
+                        [
+                            4.36605,
+                            51.275597
+                        ],
+                        [
+                            4.36604,
+                            51.277496
+                        ],
+                        [
+                            4.369012,
+                            51.277523
+                        ],
+                        [
+                            4.369022,
+                            51.279181
+                        ],
+                        [
+                            4.360954,
+                            51.27908
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK420",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.361158,
+                            51.279483
+                        ],
+                        [
+                            4.361158,
+                            51.2791
+                        ],
+                        [
+                            4.369119,
+                            51.279208
+                        ],
+                        [
+                            4.36913,
+                            51.279563
+                        ],
+                        [
+                            4.361158,
+                            51.279483
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK420",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364583,
+                    51.277352
+                ]
+            },
+            "properties": {
+                "code": "BEANRK420",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364345,
+                    51.279367
+                ]
+            },
+            "properties": {
+                "code": "BEANRK420",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

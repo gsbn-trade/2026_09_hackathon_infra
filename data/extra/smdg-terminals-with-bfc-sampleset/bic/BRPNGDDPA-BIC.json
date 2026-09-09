@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.503646,
+                            -25.501686
+                        ],
+                        [
+                            -48.502875,
+                            -25.506052
+                        ],
+                        [
+                            -48.493679,
+                            -25.504806
+                        ],
+                        [
+                            -48.494488,
+                            -25.500399
+                        ],
+                        [
+                            -48.503646,
+                            -25.501686
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGDDPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngddpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.499667,
+                    -25.502926
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGDDPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngddpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.418303,
+                            39.3605
+                        ],
+                        [
+                            -0.417804,
+                            39.3594
+                        ],
+                        [
+                            -0.416941,
+                            39.3585
+                        ],
+                        [
+                            -0.415203,
+                            39.3625
+                        ],
+                        [
+                            -0.415492,
+                            39.3626
+                        ],
+                        [
+                            -0.415096,
+                            39.3634
+                        ],
+                        [
+                            -0.416887,
+                            39.3638
+                        ],
+                        [
+                            -0.41693,
+                            39.3636
+                        ],
+                        [
+                            -0.417188,
+                            39.3637
+                        ],
+                        [
+                            -0.418303,
+                            39.3605
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ESVLCCRLV",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlccrlv/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.416815,
+                    39.36185
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ESVLCCRLV",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlccrlv/"
+            }
+        }
+    ]
+}

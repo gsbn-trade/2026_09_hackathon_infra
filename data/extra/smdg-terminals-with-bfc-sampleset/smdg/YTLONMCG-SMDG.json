@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            45.163507,
+                            -12.723079
+                        ],
+                        [
+                            45.163411,
+                            -12.723569
+                        ],
+                        [
+                            45.163463,
+                            -12.723626
+                        ],
+                        [
+                            45.163478,
+                            -12.723771
+                        ],
+                        [
+                            45.163463,
+                            -12.724152
+                        ],
+                        [
+                            45.164194,
+                            -12.725283
+                        ],
+                        [
+                            45.165516,
+                            -12.725485
+                        ],
+                        [
+                            45.16559,
+                            -12.725384
+                        ],
+                        [
+                            45.165737,
+                            -12.725406
+                        ],
+                        [
+                            45.165863,
+                            -12.725528
+                        ],
+                        [
+                            45.165978,
+                            -12.725704
+                        ],
+                        [
+                            45.166025,
+                            -12.72588
+                        ],
+                        [
+                            45.166093,
+                            -12.726136
+                        ],
+                        [
+                            45.166194,
+                            -12.726351
+                        ],
+                        [
+                            45.166359,
+                            -12.726545
+                        ],
+                        [
+                            45.166698,
+                            -12.726869
+                        ],
+                        [
+                            45.166947,
+                            -12.727044
+                        ],
+                        [
+                            45.16718,
+                            -12.726884
+                        ],
+                        [
+                            45.167758,
+                            -12.726416
+                        ],
+                        [
+                            45.168298,
+                            -12.725972
+                        ],
+                        [
+                            45.168054,
+                            -12.725431
+                        ],
+                        [
+                            45.167915,
+                            -12.725158
+                        ],
+                        [
+                            45.167935,
+                            -12.725087
+                        ],
+                        [
+                            45.167952,
+                            -12.724882
+                        ],
+                        [
+                            45.167843,
+                            -12.724739
+                        ],
+                        [
+                            45.167703,
+                            -12.724307
+                        ],
+                        [
+                            45.168055,
+                            -12.72328
+                        ],
+                        [
+                            45.168284,
+                            -12.722927
+                        ],
+                        [
+                            45.16845,
+                            -12.722079
+                        ],
+                        [
+                            45.168093,
+                            -12.721927
+                        ],
+                        [
+                            45.168152,
+                            -12.721752
+                        ],
+                        [
+                            45.167766,
+                            -12.721728
+                        ],
+                        [
+                            45.167289,
+                            -12.72161
+                        ],
+                        [
+                            45.166744,
+                            -12.724237
+                        ],
+                        [
+                            45.16665,
+                            -12.724328
+                        ],
+                        [
+                            45.165644,
+                            -12.724139
+                        ],
+                        [
+                            45.165569,
+                            -12.723753
+                        ],
+                        [
+                            45.165486,
+                            -12.723719
+                        ],
+                        [
+                            45.165543,
+                            -12.723458
+                        ],
+                        [
+                            45.163507,
+                            -12.723079
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YTLONMCG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            45.163505,
+                            -12.723074
+                        ],
+                        [
+                            45.165539,
+                            -12.723459
+                        ],
+                        [
+                            45.165587,
+                            -12.723146
+                        ],
+                        [
+                            45.163549,
+                            -12.722771
+                        ],
+                        [
+                            45.163505,
+                            -12.723074
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YTLONMCG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.16636,
+                    -12.724518
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YTLONMCG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.164337,
+                    -12.723105
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YTLONMCG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

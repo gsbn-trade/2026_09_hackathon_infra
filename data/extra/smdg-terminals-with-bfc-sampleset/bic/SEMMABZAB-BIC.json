@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.073919,
+                            55.539938
+                        ],
+                        [
+                            13.071734,
+                            55.539769
+                        ],
+                        [
+                            13.071808,
+                            55.539454
+                        ],
+                        [
+                            13.072062,
+                            55.539342
+                        ],
+                        [
+                            13.072093,
+                            55.539154
+                        ],
+                        [
+                            13.07407,
+                            55.539281
+                        ],
+                        [
+                            13.073919,
+                            55.539938
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMABZAB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://www.bic-code.org/facility-codes/semmabzab/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.072801,
+                    55.539554
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEMMABZAB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://www.bic-code.org/facility-codes/semmabzab/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

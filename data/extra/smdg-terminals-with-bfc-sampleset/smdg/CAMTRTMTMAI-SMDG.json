@@ -1,0 +1,193 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.517366,
+                            45.568987
+                        ],
+                        [
+                            -73.517491,
+                            45.569091
+                        ],
+                        [
+                            -73.514146,
+                            45.570894
+                        ],
+                        [
+                            -73.509174,
+                            45.575752
+                        ],
+                        [
+                            -73.507498,
+                            45.578211
+                        ],
+                        [
+                            -73.508466,
+                            45.578498
+                        ],
+                        [
+                            -73.508578,
+                            45.578411
+                        ],
+                        [
+                            -73.508627,
+                            45.578428
+                        ],
+                        [
+                            -73.508795,
+                            45.57825
+                        ],
+                        [
+                            -73.508671,
+                            45.577803
+                        ],
+                        [
+                            -73.508869,
+                            45.577764
+                        ],
+                        [
+                            -73.508911,
+                            45.577935
+                        ],
+                        [
+                            -73.50918,
+                            45.5779
+                        ],
+                        [
+                            -73.509376,
+                            45.578378
+                        ],
+                        [
+                            -73.509478,
+                            45.578555
+                        ],
+                        [
+                            -73.509769,
+                            45.57865
+                        ],
+                        [
+                            -73.512898,
+                            45.575395
+                        ],
+                        [
+                            -73.513755,
+                            45.574509
+                        ],
+                        [
+                            -73.516084,
+                            45.572213
+                        ],
+                        [
+                            -73.518647,
+                            45.569655
+                        ],
+                        [
+                            -73.517366,
+                            45.568987
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRTMTMAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.507474,
+                            45.578215
+                        ],
+                        [
+                            -73.509238,
+                            45.575692
+                        ],
+                        [
+                            -73.514159,
+                            45.570958
+                        ],
+                        [
+                            -73.51325,
+                            45.570641
+                        ],
+                        [
+                            -73.508756,
+                            45.575535
+                        ],
+                        [
+                            -73.506782,
+                            45.578031
+                        ],
+                        [
+                            -73.507474,
+                            45.578215
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRTMTMAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.511578,
+                    45.575441
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRTMTMAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.50959,
+                    45.575327
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRTMTMAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

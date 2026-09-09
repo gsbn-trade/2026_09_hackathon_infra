@@ -1,0 +1,227 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.839187,
+                            43.415047
+                        ],
+                        [
+                            4.856533,
+                            43.403937
+                        ],
+                        [
+                            4.857204,
+                            43.404549
+                        ],
+                        [
+                            4.839704,
+                            43.415539
+                        ],
+                        [
+                            4.839187,
+                            43.415047
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSEURFO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.839181,
+                            43.415047
+                        ],
+                        [
+                            4.835714,
+                            43.412186
+                        ],
+                        [
+                            4.83768,
+                            43.411888
+                        ],
+                        [
+                            4.838342,
+                            43.411783
+                        ],
+                        [
+                            4.838771,
+                            43.411508
+                        ],
+                        [
+                            4.838923,
+                            43.411298
+                        ],
+                        [
+                            4.838866,
+                            43.410877
+                        ],
+                        [
+                            4.852688,
+                            43.402337
+                        ],
+                        [
+                            4.852568,
+                            43.402246
+                        ],
+                        [
+                            4.852645,
+                            43.402208
+                        ],
+                        [
+                            4.852521,
+                            43.402077
+                        ],
+                        [
+                            4.852471,
+                            43.401997
+                        ],
+                        [
+                            4.852491,
+                            43.401917
+                        ],
+                        [
+                            4.855062,
+                            43.400286
+                        ],
+                        [
+                            4.855213,
+                            43.400232
+                        ],
+                        [
+                            4.855282,
+                            43.400233
+                        ],
+                        [
+                            4.85534,
+                            43.400242
+                        ],
+                        [
+                            4.855919,
+                            43.400711
+                        ],
+                        [
+                            4.856361,
+                            43.401077
+                        ],
+                        [
+                            4.856456,
+                            43.401195
+                        ],
+                        [
+                            4.857112,
+                            43.401694
+                        ],
+                        [
+                            4.857727,
+                            43.402215
+                        ],
+                        [
+                            4.857813,
+                            43.402369
+                        ],
+                        [
+                            4.85779,
+                            43.402517
+                        ],
+                        [
+                            4.856942,
+                            43.40311
+                        ],
+                        [
+                            4.856647,
+                            43.40338
+                        ],
+                        [
+                            4.856478,
+                            43.4036
+                        ],
+                        [
+                            4.856278,
+                            43.403708
+                        ],
+                        [
+                            4.856479,
+                            43.403895
+                        ],
+                        [
+                            4.856527,
+                            43.403932
+                        ],
+                        [
+                            4.839181,
+                            43.415047
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSEURFO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-25",
+                "remarks": "FRFOSD22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.846363,
+                    43.410824
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSEURFO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.851015,
+                    43.404736
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSEURFO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "remarks": "FRFOSD22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

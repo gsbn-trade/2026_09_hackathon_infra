@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.726621,
+                            51.498542
+                        ],
+                        [
+                            -2.727468,
+                            51.497631
+                        ],
+                        [
+                            -2.728171,
+                            51.497084
+                        ],
+                        [
+                            -2.728669,
+                            51.496913
+                        ],
+                        [
+                            -2.729021,
+                            51.496767
+                        ],
+                        [
+                            -2.728982,
+                            51.496652
+                        ],
+                        [
+                            -2.72904,
+                            51.496421
+                        ],
+                        [
+                            -2.729255,
+                            51.496196
+                        ],
+                        [
+                            -2.729744,
+                            51.495977
+                        ],
+                        [
+                            -2.729128,
+                            51.495083
+                        ],
+                        [
+                            -2.72949,
+                            51.494992
+                        ],
+                        [
+                            -2.729363,
+                            51.494888
+                        ],
+                        [
+                            -2.725808,
+                            51.490121
+                        ],
+                        [
+                            -2.72549,
+                            51.490115
+                        ],
+                        [
+                            -2.7234,
+                            51.490723
+                        ],
+                        [
+                            -2.723058,
+                            51.49082
+                        ],
+                        [
+                            -2.722736,
+                            51.490814
+                        ],
+                        [
+                            -2.722511,
+                            51.490662
+                        ],
+                        [
+                            -2.720138,
+                            51.491361
+                        ],
+                        [
+                            -2.723861,
+                            51.496309
+                        ],
+                        [
+                            -2.72288,
+                            51.496881
+                        ],
+                        [
+                            -2.726621,
+                            51.498542
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBPRUPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.723834,
+                            51.4963
+                        ],
+                        [
+                            -2.720716,
+                            51.492153
+                        ],
+                        [
+                            -2.720257,
+                            51.492262
+                        ],
+                        [
+                            -2.723121,
+                            51.496543
+                        ],
+                        [
+                            -2.723834,
+                            51.4963
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBPRUPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.72643,
+                    51.494704
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBPRUPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.722352,
+                    51.494712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBPRUPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

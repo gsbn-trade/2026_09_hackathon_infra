@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.067897,
+                            3.894133
+                        ],
+                        [
+                            -77.081394,
+                            3.892859
+                        ],
+                        [
+                            -77.0806,
+                            3.891446
+                        ],
+                        [
+                            -77.080128,
+                            3.891649
+                        ],
+                        [
+                            -77.07821,
+                            3.891646
+                        ],
+                        [
+                            -77.073299,
+                            3.892314
+                        ],
+                        [
+                            -77.069895,
+                            3.89256
+                        ],
+                        [
+                            -77.069649,
+                            3.890323
+                        ],
+                        [
+                            -77.068528,
+                            3.890367
+                        ],
+                        [
+                            -77.068528,
+                            3.89093
+                        ],
+                        [
+                            -77.067991,
+                            3.890882
+                        ],
+                        [
+                            -77.06806,
+                            3.890265
+                        ],
+                        [
+                            -77.068033,
+                            3.889749
+                        ],
+                        [
+                            -77.067697,
+                            3.889207
+                        ],
+                        [
+                            -77.064172,
+                            3.886556
+                        ],
+                        [
+                            -77.062014,
+                            3.889912
+                        ],
+                        [
+                            -77.061397,
+                            3.889505
+                        ],
+                        [
+                            -77.061098,
+                            3.889614
+                        ],
+                        [
+                            -77.067897,
+                            3.894133
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSPRBU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.081402,
+                            3.892817
+                        ],
+                        [
+                            -77.067823,
+                            3.894117
+                        ],
+                        [
+                            -77.061097,
+                            3.889608
+                        ],
+                        [
+                            -77.060508,
+                            3.889902
+                        ],
+                        [
+                            -77.067949,
+                            3.894893
+                        ],
+                        [
+                            -77.081781,
+                            3.893404
+                        ],
+                        [
+                            -77.081402,
+                            3.892817
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSPRBU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.069815,
+                    3.89095
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSPRBU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.071709,
+                    3.892508
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNSPRBU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

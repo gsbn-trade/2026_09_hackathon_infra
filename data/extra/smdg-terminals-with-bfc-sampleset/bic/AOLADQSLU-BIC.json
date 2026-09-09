@@ -1,0 +1,87 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.3093,
+                            -8.77251
+                        ],
+                        [
+                            13.3093,
+                            -8.77161
+                        ],
+                        [
+                            13.3083,
+                            -8.77156
+                        ],
+                        [
+                            13.3063,
+                            -8.77193
+                        ],
+                        [
+                            13.3062,
+                            -8.77203
+                        ],
+                        [
+                            13.3065,
+                            -8.77311
+                        ],
+                        [
+                            13.3075,
+                            -8.77289
+                        ],
+                        [
+                            13.3073,
+                            -8.77243
+                        ],
+                        [
+                            13.3082,
+                            -8.77224
+                        ],
+                        [
+                            13.3086,
+                            -8.77223
+                        ],
+                        [
+                            13.3086,
+                            -8.77251
+                        ],
+                        [
+                            13.3093,
+                            -8.77251
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADQSLU",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladqslu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.30795,
+                    -8.772297
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADQSLU",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladqslu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.67189,
+                            40.973972
+                        ],
+                        [
+                            28.671988,
+                            40.972873
+                        ],
+                        [
+                            28.672921,
+                            40.972871
+                        ],
+                        [
+                            28.672944,
+                            40.9727
+                        ],
+                        [
+                            28.673716,
+                            40.972721
+                        ],
+                        [
+                            28.673533,
+                            40.973231
+                        ],
+                        [
+                            28.673447,
+                            40.973218
+                        ],
+                        [
+                            28.672531,
+                            40.974152
+                        ],
+                        [
+                            28.671953,
+                            40.97405
+                        ],
+                        [
+                            28.67189,
+                            40.973972
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTGBRU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-25",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tristgbru/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.673279,
+                            40.972861
+                        ],
+                        [
+                            28.673655,
+                            40.972883
+                        ],
+                        [
+                            28.673717,
+                            40.972723
+                        ],
+                        [
+                            28.673293,
+                            40.97271
+                        ],
+                        [
+                            28.673279,
+                            40.972861
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTGBRU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-25",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tristgbru/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.672681,
+                    40.973376
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTGBRU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tristgbru/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.673445,
+                    40.972808
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTGBRU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/tristgbru/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

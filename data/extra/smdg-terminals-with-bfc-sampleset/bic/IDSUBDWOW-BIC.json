@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            112.696458,
+                            -7.263767
+                        ],
+                        [
+                            112.696367,
+                            -7.263712
+                        ],
+                        [
+                            112.696577,
+                            -7.263227
+                        ],
+                        [
+                            112.696753,
+                            -7.262708
+                        ],
+                        [
+                            112.696859,
+                            -7.261949
+                        ],
+                        [
+                            112.696962,
+                            -7.261059
+                        ],
+                        [
+                            112.697683,
+                            -7.261249
+                        ],
+                        [
+                            112.697553,
+                            -7.262079
+                        ],
+                        [
+                            112.697418,
+                            -7.262992
+                        ],
+                        [
+                            112.696816,
+                            -7.262832
+                        ],
+                        [
+                            112.696665,
+                            -7.26333
+                        ],
+                        [
+                            112.696458,
+                            -7.263767
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "IDSUBDWOW",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/idsubdwow/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.696881,
+                    -7.262723
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "IDSUBDWOW",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/idsubdwow/"
+            }
+        }
+    ]
+}

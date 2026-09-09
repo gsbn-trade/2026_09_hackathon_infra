@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.005378,
+                            18.427432
+                        ],
+                        [
+                            -70.005569,
+                            18.428055
+                        ],
+                        [
+                            -70.006041,
+                            18.427988
+                        ],
+                        [
+                            -70.005989,
+                            18.42692
+                        ],
+                        [
+                            -70.005371,
+                            18.426938
+                        ],
+                        [
+                            -70.005378,
+                            18.427432
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIPALE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaipale/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.005621,
+                    18.427461
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIPALE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaipale/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

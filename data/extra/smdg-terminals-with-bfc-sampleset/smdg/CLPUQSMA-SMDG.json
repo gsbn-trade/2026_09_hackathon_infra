@@ -1,0 +1,245 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.863143,
+                            -53.126943
+                        ],
+                        [
+                            -70.863928,
+                            -53.127427
+                        ],
+                        [
+                            -70.864349,
+                            -53.127657
+                        ],
+                        [
+                            -70.864946,
+                            -53.127972
+                        ],
+                        [
+                            -70.865477,
+                            -53.128293
+                        ],
+                        [
+                            -70.866035,
+                            -53.128652
+                        ],
+                        [
+                            -70.864969,
+                            -53.129767
+                        ],
+                        [
+                            -70.864621,
+                            -53.129845
+                        ],
+                        [
+                            -70.863502,
+                            -53.129072
+                        ],
+                        [
+                            -70.863301,
+                            -53.129201
+                        ],
+                        [
+                            -70.864399,
+                            -53.129901
+                        ],
+                        [
+                            -70.86459,
+                            -53.13018
+                        ],
+                        [
+                            -70.863703,
+                            -53.131266
+                        ],
+                        [
+                            -70.862632,
+                            -53.132512
+                        ],
+                        [
+                            -70.858136,
+                            -53.129679
+                        ],
+                        [
+                            -70.857366,
+                            -53.129193
+                        ],
+                        [
+                            -70.856007,
+                            -53.129965
+                        ],
+                        [
+                            -70.855071,
+                            -53.129641
+                        ],
+                        [
+                            -70.854679,
+                            -53.129525
+                        ],
+                        [
+                            -70.855199,
+                            -53.129218
+                        ],
+                        [
+                            -70.855708,
+                            -53.128946
+                        ],
+                        [
+                            -70.856043,
+                            -53.128726
+                        ],
+                        [
+                            -70.857378,
+                            -53.127989
+                        ],
+                        [
+                            -70.858963,
+                            -53.127059
+                        ],
+                        [
+                            -70.859436,
+                            -53.126689
+                        ],
+                        [
+                            -70.85783,
+                            -53.125896
+                        ],
+                        [
+                            -70.859214,
+                            -53.124883
+                        ],
+                        [
+                            -70.85949,
+                            -53.125029
+                        ],
+                        [
+                            -70.858274,
+                            -53.125902
+                        ],
+                        [
+                            -70.8596,
+                            -53.126584
+                        ],
+                        [
+                            -70.860399,
+                            -53.126141
+                        ],
+                        [
+                            -70.860865,
+                            -53.125853
+                        ],
+                        [
+                            -70.861202,
+                            -53.125673
+                        ],
+                        [
+                            -70.861781,
+                            -53.12605
+                        ],
+                        [
+                            -70.861964,
+                            -53.126162
+                        ],
+                        [
+                            -70.863143,
+                            -53.126943
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLPUQSMA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.859189,
+                            -53.124874
+                        ],
+                        [
+                            -70.857841,
+                            -53.125911
+                        ],
+                        [
+                            -70.85746,
+                            -53.125841
+                        ],
+                        [
+                            -70.858808,
+                            -53.124663
+                        ],
+                        [
+                            -70.859189,
+                            -53.124874
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLPUQSMA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.86076,
+                    -53.128068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLPUQSMA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.858497,
+                    -53.125233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLPUQSMA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

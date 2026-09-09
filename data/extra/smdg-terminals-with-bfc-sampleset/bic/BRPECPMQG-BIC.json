@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.552589,
+                            -3.848738
+                        ],
+                        [
+                            -38.553297,
+                            -3.850429
+                        ],
+                        [
+                            -38.551645,
+                            -3.85112
+                        ],
+                        [
+                            -38.550894,
+                            -3.84938
+                        ],
+                        [
+                            -38.552589,
+                            -3.848738
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECPMQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecpmqg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.552203,
+                    -3.849681
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECPMQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecpmqg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

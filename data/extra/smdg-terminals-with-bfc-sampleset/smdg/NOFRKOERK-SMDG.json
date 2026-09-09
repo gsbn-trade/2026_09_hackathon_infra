@@ -1,0 +1,159 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.95679,
+                            59.185902
+                        ],
+                        [
+                            10.952038,
+                            59.186223
+                        ],
+                        [
+                            10.952614,
+                            59.184387
+                        ],
+                        [
+                            10.952278,
+                            59.184353
+                        ],
+                        [
+                            10.95259,
+                            59.183953
+                        ],
+                        [
+                            10.953086,
+                            59.184002
+                        ],
+                        [
+                            10.9544,
+                            59.181873
+                        ],
+                        [
+                            10.958122,
+                            59.182511
+                        ],
+                        [
+                            10.957144,
+                            59.18471
+                        ],
+                        [
+                            10.95679,
+                            59.185902
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKOERK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-31",
+                "remarks": "Excluding Oraterminalen",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.951974,
+                            59.186225
+                        ],
+                        [
+                            10.950876,
+                            59.186225
+                        ],
+                        [
+                            10.953407,
+                            59.181713
+                        ],
+                        [
+                            10.954402,
+                            59.181866
+                        ],
+                        [
+                            10.953097,
+                            59.183989
+                        ],
+                        [
+                            10.952529,
+                            59.18391
+                        ],
+                        [
+                            10.952232,
+                            59.184379
+                        ],
+                        [
+                            10.952645,
+                            59.184386
+                        ],
+                        [
+                            10.951974,
+                            59.186225
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKOERK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-31",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.954585,
+                    59.184382
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKOERK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-31",
+                "remarks": "Excluding Oraterminalen",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.952571,
+                    59.184324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKOERK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-31",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

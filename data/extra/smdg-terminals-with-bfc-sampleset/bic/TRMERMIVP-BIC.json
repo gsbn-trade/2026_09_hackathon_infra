@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.681823,
+                            36.82181
+                        ],
+                        [
+                            34.681353,
+                            36.820181
+                        ],
+                        [
+                            34.682649,
+                            36.818953
+                        ],
+                        [
+                            34.684831,
+                            36.81873
+                        ],
+                        [
+                            34.684777,
+                            36.819236
+                        ],
+                        [
+                            34.68346,
+                            36.819192
+                        ],
+                        [
+                            34.683142,
+                            36.820408
+                        ],
+                        [
+                            34.683013,
+                            36.821153
+                        ],
+                        [
+                            34.683164,
+                            36.821941
+                        ],
+                        [
+                            34.681823,
+                            36.82181
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIVP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-04-14",
+                "remarks": "  ",
+                "url": "https://www.bic-code.org/facility-codes/trmermivp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.683003,
+                    36.820341
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIVP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-04-14",
+                "remarks": "  ",
+                "url": "https://www.bic-code.org/facility-codes/trmermivp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

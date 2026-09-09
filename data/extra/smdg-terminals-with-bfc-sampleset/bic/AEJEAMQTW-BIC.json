@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            55.018032,
+                            24.960943
+                        ],
+                        [
+                            55.018741,
+                            24.959346
+                        ],
+                        [
+                            55.019624,
+                            24.959628
+                        ],
+                        [
+                            55.01895,
+                            24.961225
+                        ],
+                        [
+                            55.018032,
+                            24.960943
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEJEAMQTW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/aejeamqtw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    55.018676,
+                    24.960417
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEJEAMQTW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/aejeamqtw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

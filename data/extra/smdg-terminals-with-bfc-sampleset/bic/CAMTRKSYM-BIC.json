@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.611872,
+                            45.456713
+                        ],
+                        [
+                            -73.61317,
+                            45.455404
+                        ],
+                        [
+                            -73.610601,
+                            45.454271
+                        ],
+                        [
+                            -73.610547,
+                            45.456111
+                        ],
+                        [
+                            -73.611872,
+                            45.456713
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRKSYM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrksym/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.611612,
+                    45.455842
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRKSYM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrksym/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

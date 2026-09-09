@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.919066,
+                            -37.833688
+                        ],
+                        [
+                            144.916761,
+                            -37.834077
+                        ],
+                        [
+                            144.917206,
+                            -37.835551
+                        ],
+                        [
+                            144.919747,
+                            -37.835928
+                        ],
+                        [
+                            144.919066,
+                            -37.833688
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCUNO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelcuno/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.918369,
+                    -37.834586
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCUNO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelcuno/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

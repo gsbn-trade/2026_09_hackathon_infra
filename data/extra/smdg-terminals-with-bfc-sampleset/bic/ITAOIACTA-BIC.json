@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.494546,
+                            43.6172
+                        ],
+                        [
+                            13.494901,
+                            43.617033
+                        ],
+                        [
+                            13.495256,
+                            43.617432
+                        ],
+                        [
+                            13.495948,
+                            43.617123
+                        ],
+                        [
+                            13.496906,
+                            43.618074
+                        ],
+                        [
+                            13.496454,
+                            43.61828
+                        ],
+                        [
+                            13.495895,
+                            43.618536
+                        ],
+                        [
+                            13.494546,
+                            43.6172
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITAOIACTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-01-25",
+                "url": "https://www.bic-code.org/facility-codes/itaoiacta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.493171,
+                            43.620346
+                        ],
+                        [
+                            13.493718,
+                            43.618622
+                        ],
+                        [
+                            13.492989,
+                            43.617915
+                        ],
+                        [
+                            13.493307,
+                            43.617741
+                        ],
+                        [
+                            13.493493,
+                            43.617926
+                        ],
+                        [
+                            13.493637,
+                            43.617846
+                        ],
+                        [
+                            13.495586,
+                            43.619801
+                        ],
+                        [
+                            13.495514,
+                            43.620119
+                        ],
+                        [
+                            13.495479,
+                            43.62047
+                        ],
+                        [
+                            13.495448,
+                            43.620643
+                        ],
+                        [
+                            13.495411,
+                            43.62088
+                        ],
+                        [
+                            13.495441,
+                            43.621076
+                        ],
+                        [
+                            13.495455,
+                            43.621365
+                        ],
+                        [
+                            13.495383,
+                            43.621649
+                        ],
+                        [
+                            13.495167,
+                            43.622249
+                        ],
+                        [
+                            13.493171,
+                            43.620346
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITAOIACTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-01-25",
+                "url": "https://www.bic-code.org/facility-codes/itaoiacta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.495556,
+                    43.61761
+                ]
+            },
+            "properties": {
+                "code": "ITAOIACTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-01-25",
+                "url": "https://www.bic-code.org/facility-codes/itaoiacta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.494523,
+                    43.619937
+                ]
+            },
+            "properties": {
+                "code": "ITAOIACTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-01-25",
+                "url": "https://www.bic-code.org/facility-codes/itaoiacta/"
+            }
+        }
+    ]
+}

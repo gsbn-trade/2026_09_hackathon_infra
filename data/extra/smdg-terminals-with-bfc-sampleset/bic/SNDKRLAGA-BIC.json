@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.435871,
+                            14.70358
+                        ],
+                        [
+                            -17.434909,
+                            14.703356
+                        ],
+                        [
+                            -17.43502,
+                            14.702618
+                        ],
+                        [
+                            -17.436044,
+                            14.702818
+                        ],
+                        [
+                            -17.435871,
+                            14.70358
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRLAGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/sndkrlaga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.435543,
+                    14.70319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRLAGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/sndkrlaga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

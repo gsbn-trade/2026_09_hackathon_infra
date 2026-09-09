@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.894838,
+                            22.439048
+                        ],
+                        [
+                            -97.893391,
+                            22.43954
+                        ],
+                        [
+                            -97.893121,
+                            22.43922
+                        ],
+                        [
+                            -97.892898,
+                            22.438642
+                        ],
+                        [
+                            -97.892964,
+                            22.437269
+                        ],
+                        [
+                            -97.893718,
+                            22.437048
+                        ],
+                        [
+                            -97.894414,
+                            22.438175
+                        ],
+                        [
+                            -97.894838,
+                            22.439048
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMISYA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxatmisya/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.893773,
+                    22.438499
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMISYA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxatmisya/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

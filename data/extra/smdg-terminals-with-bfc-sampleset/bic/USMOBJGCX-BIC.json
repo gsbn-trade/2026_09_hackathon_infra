@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.069484,
+                            30.731217
+                        ],
+                        [
+                            -88.069225,
+                            30.732032
+                        ],
+                        [
+                            -88.069627,
+                            30.732346
+                        ],
+                        [
+                            -88.068287,
+                            30.732924
+                        ],
+                        [
+                            -88.068572,
+                            30.733423
+                        ],
+                        [
+                            -88.070972,
+                            30.732423
+                        ],
+                        [
+                            -88.071702,
+                            30.732574
+                        ],
+                        [
+                            -88.072482,
+                            30.732623
+                        ],
+                        [
+                            -88.072062,
+                            30.730614
+                        ],
+                        [
+                            -88.070772,
+                            30.730823
+                        ],
+                        [
+                            -88.070463,
+                            30.730673
+                        ],
+                        [
+                            -88.070175,
+                            30.730648
+                        ],
+                        [
+                            -88.069873,
+                            30.730652
+                        ],
+                        [
+                            -88.069666,
+                            30.730022
+                        ],
+                        [
+                            -88.068212,
+                            30.730506
+                        ],
+                        [
+                            -88.068113,
+                            30.730967
+                        ],
+                        [
+                            -88.069484,
+                            30.731217
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBJGCX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/usmobjgcx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.069951,
+                    30.731511
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBJGCX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/usmobjgcx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -104.295022,
+                            19.084292
+                        ],
+                        [
+                            -104.295162,
+                            19.084247
+                        ],
+                        [
+                            -104.294905,
+                            19.083602
+                        ],
+                        [
+                            -104.296384,
+                            19.083101
+                        ],
+                        [
+                            -104.295613,
+                            19.081161
+                        ],
+                        [
+                            -104.2954,
+                            19.081254
+                        ],
+                        [
+                            -104.295302,
+                            19.081017
+                        ],
+                        [
+                            -104.295127,
+                            19.081089
+                        ],
+                        [
+                            -104.295019,
+                            19.080831
+                        ],
+                        [
+                            -104.294534,
+                            19.081143
+                        ],
+                        [
+                            -104.29382,
+                            19.08171
+                        ],
+                        [
+                            -104.29375,
+                            19.081955
+                        ],
+                        [
+                            -104.294137,
+                            19.082381
+                        ],
+                        [
+                            -104.293198,
+                            19.083044
+                        ],
+                        [
+                            -104.29474,
+                            19.084864
+                        ],
+                        [
+                            -104.294876,
+                            19.08478
+                        ],
+                        [
+                            -104.294876,
+                            19.084612
+                        ],
+                        [
+                            -104.294876,
+                            19.084424
+                        ],
+                        [
+                            -104.295022,
+                            19.084292
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLOCBWX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-22",
+                "url": "https://www.bic-code.org/facility-codes/mxzlocbwx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.29483,
+                    19.082832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLOCBWX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-22",
+                "url": "https://www.bic-code.org/facility-codes/mxzlocbwx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

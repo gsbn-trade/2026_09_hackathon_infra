@@ -1,0 +1,349 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.760921,
+                            10.981888
+                        ],
+                        [
+                            -74.762558,
+                            10.981385
+                        ],
+                        [
+                            -74.762261,
+                            10.980618
+                        ],
+                        [
+                            -74.76249,
+                            10.980374
+                        ],
+                        [
+                            -74.76216,
+                            10.979971
+                        ],
+                        [
+                            -74.761972,
+                            10.980076
+                        ],
+                        [
+                            -74.761945,
+                            10.979832
+                        ],
+                        [
+                            -74.762235,
+                            10.97964
+                        ],
+                        [
+                            -74.762342,
+                            10.977974
+                        ],
+                        [
+                            -74.760302,
+                            10.977974
+                        ],
+                        [
+                            -74.760322,
+                            10.978351
+                        ],
+                        [
+                            -74.760538,
+                            10.978285
+                        ],
+                        [
+                            -74.760578,
+                            10.97843
+                        ],
+                        [
+                            -74.76006,
+                            10.978741
+                        ],
+                        [
+                            -74.759979,
+                            10.979098
+                        ],
+                        [
+                            -74.759555,
+                            10.979171
+                        ],
+                        [
+                            -74.759386,
+                            10.978563
+                        ],
+                        [
+                            -74.759148,
+                            10.978662
+                        ],
+                        [
+                            -74.759384,
+                            10.979686
+                        ],
+                        [
+                            -74.759586,
+                            10.979634
+                        ],
+                        [
+                            -74.759525,
+                            10.979356
+                        ],
+                        [
+                            -74.759579,
+                            10.97929
+                        ],
+                        [
+                            -74.759936,
+                            10.979224
+                        ],
+                        [
+                            -74.759983,
+                            10.979415
+                        ],
+                        [
+                            -74.760279,
+                            10.980076
+                        ],
+                        [
+                            -74.760387,
+                            10.980308
+                        ],
+                        [
+                            -74.760515,
+                            10.980678
+                        ],
+                        [
+                            -74.760921,
+                            10.981888
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.760268,
+                            10.980095
+                        ],
+                        [
+                            -74.759784,
+                            10.980485
+                        ],
+                        [
+                            -74.759528,
+                            10.980538
+                        ],
+                        [
+                            -74.759736,
+                            10.982197
+                        ],
+                        [
+                            -74.760895,
+                            10.981899
+                        ],
+                        [
+                            -74.760861,
+                            10.981807
+                        ],
+                        [
+                            -74.760039,
+                            10.982018
+                        ],
+                        [
+                            -74.759864,
+                            10.980597
+                        ],
+                        [
+                            -74.760316,
+                            10.980194
+                        ],
+                        [
+                            -74.760268,
+                            10.980095
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.75973,
+                            10.982203
+                        ],
+                        [
+                            -74.759514,
+                            10.980538
+                        ],
+                        [
+                            -74.759292,
+                            10.980571
+                        ],
+                        [
+                            -74.759501,
+                            10.982243
+                        ],
+                        [
+                            -74.75973,
+                            10.982203
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.759366,
+                            10.979698
+                        ],
+                        [
+                            -74.75913,
+                            10.978634
+                        ],
+                        [
+                            -74.758962,
+                            10.978707
+                        ],
+                        [
+                            -74.75909,
+                            10.979764
+                        ],
+                        [
+                            -74.759366,
+                            10.979698
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.760673,
+                    10.979592
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.760156,
+                    10.980993
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.759553,
+                    10.981552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.759183,
+                    10.9793
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

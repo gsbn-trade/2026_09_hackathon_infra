@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.115677,
+                            8.774049
+                        ],
+                        [
+                            78.113667,
+                            8.775123
+                        ],
+                        [
+                            78.113303,
+                            8.773732
+                        ],
+                        [
+                            78.111953,
+                            8.773916
+                        ],
+                        [
+                            78.111528,
+                            8.772789
+                        ],
+                        [
+                            78.113198,
+                            8.772427
+                        ],
+                        [
+                            78.113227,
+                            8.772588
+                        ],
+                        [
+                            78.114949,
+                            8.771973
+                        ],
+                        [
+                            78.115677,
+                            8.774049
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTSJFS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-13",
+                "url": "https://www.bic-code.org/facility-codes/intutsjfs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.113687,
+                    8.773405
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTSJFS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-13",
+                "url": "https://www.bic-code.org/facility-codes/intutsjfs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

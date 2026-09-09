@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.520159,
+                            -22.93063
+                        ],
+                        [
+                            14.521114,
+                            -22.929543
+                        ],
+                        [
+                            14.521425,
+                            -22.929582
+                        ],
+                        [
+                            14.520652,
+                            -22.930926
+                        ],
+                        [
+                            14.519569,
+                            -22.933732
+                        ],
+                        [
+                            14.517992,
+                            -22.933476
+                        ],
+                        [
+                            14.518335,
+                            -22.932814
+                        ],
+                        [
+                            14.519472,
+                            -22.931331
+                        ],
+                        [
+                            14.520159,
+                            -22.93063
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBNAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbnama/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.519875,
+                    -22.931407
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBNAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbnama/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

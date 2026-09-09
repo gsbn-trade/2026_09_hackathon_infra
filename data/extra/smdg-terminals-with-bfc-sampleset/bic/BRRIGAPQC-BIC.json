@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.129234,
+                            -32.1265
+                        ],
+                        [
+                            -52.129586,
+                            -32.126094
+                        ],
+                        [
+                            -52.131148,
+                            -32.124101
+                        ],
+                        [
+                            -52.132096,
+                            -32.124647
+                        ],
+                        [
+                            -52.128365,
+                            -32.129163
+                        ],
+                        [
+                            -52.127456,
+                            -32.128567
+                        ],
+                        [
+                            -52.129234,
+                            -32.1265
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGAPQC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigapqc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.129588,
+                    -32.12651
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGAPQC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigapqc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

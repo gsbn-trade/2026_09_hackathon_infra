@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            112.679854,
+                            -7.224464
+                        ],
+                        [
+                            112.679786,
+                            -7.225387
+                        ],
+                        [
+                            112.68178,
+                            -7.225662
+                        ],
+                        [
+                            112.681829,
+                            -7.224764
+                        ],
+                        [
+                            112.681529,
+                            -7.224668
+                        ],
+                        [
+                            112.681101,
+                            -7.224617
+                        ],
+                        [
+                            112.681101,
+                            -7.224558
+                        ],
+                        [
+                            112.6801,
+                            -7.224459
+                        ],
+                        [
+                            112.679854,
+                            -7.224464
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            112.681106,
+                            -7.224643
+                        ],
+                        [
+                            112.681658,
+                            -7.224713
+                        ],
+                        [
+                            112.681648,
+                            -7.22486
+                        ],
+                        [
+                            112.681087,
+                            -7.224785
+                        ],
+                        [
+                            112.681106,
+                            -7.224643
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    112.68077,
+                    -7.224783
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    112.681321,
+                    -7.224729
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDSUBDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idsubdcis/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

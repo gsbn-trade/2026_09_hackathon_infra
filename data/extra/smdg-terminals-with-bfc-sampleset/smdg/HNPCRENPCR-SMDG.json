@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.949644,
+                            15.844138
+                        ],
+                        [
+                            -87.949763,
+                            15.843483
+                        ],
+                        [
+                            -87.947675,
+                            15.843177
+                        ],
+                        [
+                            -87.947481,
+                            15.844378
+                        ],
+                        [
+                            -87.949026,
+                            15.844704
+                        ],
+                        [
+                            -87.949136,
+                            15.844056
+                        ],
+                        [
+                            -87.949644,
+                            15.844138
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRENPCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.949767,
+                            15.843479
+                        ],
+                        [
+                            -87.949775,
+                            15.843268
+                        ],
+                        [
+                            -87.947704,
+                            15.842946
+                        ],
+                        [
+                            -87.947667,
+                            15.843178
+                        ],
+                        [
+                            -87.949767,
+                            15.843479
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRENPCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.94891,
+                    15.844011
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRENPCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.948936,
+                    15.84327
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRENPCR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

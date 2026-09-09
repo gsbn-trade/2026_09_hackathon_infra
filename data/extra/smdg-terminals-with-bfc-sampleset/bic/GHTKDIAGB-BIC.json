@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.763398,
+                            4.888838
+                        ],
+                        [
+                            -1.764873,
+                            4.888044
+                        ],
+                        [
+                            -1.764351,
+                            4.88681
+                        ],
+                        [
+                            -1.76349,
+                            4.886998
+                        ],
+                        [
+                            -1.763656,
+                            4.887277
+                        ],
+                        [
+                            -1.76097,
+                            4.88843
+                        ],
+                        [
+                            -1.76104,
+                            4.88858
+                        ],
+                        [
+                            -1.762827,
+                            4.887706
+                        ],
+                        [
+                            -1.763398,
+                            4.888838
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDIAGB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-21",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdiagb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.763111,
+                    4.887947
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDIAGB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-21",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdiagb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

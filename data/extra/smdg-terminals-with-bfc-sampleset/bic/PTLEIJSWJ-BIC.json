@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.691326,
+                            41.256646
+                        ],
+                        [
+                            -8.691787,
+                            41.256406
+                        ],
+                        [
+                            -8.69186,
+                            41.256432
+                        ],
+                        [
+                            -8.692228,
+                            41.256244
+                        ],
+                        [
+                            -8.692267,
+                            41.25634
+                        ],
+                        [
+                            -8.693541,
+                            41.25585
+                        ],
+                        [
+                            -8.693066,
+                            41.255456
+                        ],
+                        [
+                            -8.692811,
+                            41.255743
+                        ],
+                        [
+                            -8.692537,
+                            41.255765
+                        ],
+                        [
+                            -8.692233,
+                            41.255478
+                        ],
+                        [
+                            -8.6909,
+                            41.256266
+                        ],
+                        [
+                            -8.691326,
+                            41.256646
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIJSWJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptleijswj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.692157,
+                    41.256106
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIJSWJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptleijswj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

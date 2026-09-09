@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.0998,
+                            49.287834
+                        ],
+                        [
+                            -123.099522,
+                            49.287735
+                        ],
+                        [
+                            -123.091794,
+                            49.285694
+                        ],
+                        [
+                            -123.091542,
+                            49.285937
+                        ],
+                        [
+                            -123.09113,
+                            49.285742
+                        ],
+                        [
+                            -123.090562,
+                            49.285444
+                        ],
+                        [
+                            -123.090537,
+                            49.285472
+                        ],
+                        [
+                            -123.089544,
+                            49.285043
+                        ],
+                        [
+                            -123.088419,
+                            49.284734
+                        ],
+                        [
+                            -123.088288,
+                            49.284934
+                        ],
+                        [
+                            -123.08737,
+                            49.285228
+                        ],
+                        [
+                            -123.087383,
+                            49.285671
+                        ],
+                        [
+                            -123.08676,
+                            49.285684
+                        ],
+                        [
+                            -123.086699,
+                            49.286622
+                        ],
+                        [
+                            -123.086684,
+                            49.288152
+                        ],
+                        [
+                            -123.090726,
+                            49.289245
+                        ],
+                        [
+                            -123.09174,
+                            49.289532
+                        ],
+                        [
+                            -123.091805,
+                            49.287964
+                        ],
+                        [
+                            -123.100043,
+                            49.290246
+                        ],
+                        [
+                            -123.101114,
+                            49.290549
+                        ],
+                        [
+                            -123.101296,
+                            49.290261
+                        ],
+                        [
+                            -123.101727,
+                            49.289496
+                        ],
+                        [
+                            -123.102126,
+                            49.288786
+                        ],
+                        [
+                            -123.102051,
+                            49.288587
+                        ],
+                        [
+                            -123.101864,
+                            49.288413
+                        ],
+                        [
+                            -123.09997,
+                            49.287853
+                        ],
+                        [
+                            -123.0998,
+                            49.287834
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANCTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.101131,
+                            49.290551
+                        ],
+                        [
+                            -123.09181,
+                            49.287953
+                        ],
+                        [
+                            -123.0917,
+                            49.289548
+                        ],
+                        [
+                            -123.100224,
+                            49.291826
+                        ],
+                        [
+                            -123.101131,
+                            49.290551
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANCTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.094085,
+                    49.287359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANCTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.097199,
+                    49.290086
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANCTM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

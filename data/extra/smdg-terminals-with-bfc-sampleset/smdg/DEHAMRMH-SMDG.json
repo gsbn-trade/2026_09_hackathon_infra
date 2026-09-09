@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.893827,
+                            53.528816
+                        ],
+                        [
+                            9.894004,
+                            53.529287
+                        ],
+                        [
+                            9.893527,
+                            53.529355
+                        ],
+                        [
+                            9.892701,
+                            53.527165
+                        ],
+                        [
+                            9.895748,
+                            53.526795
+                        ],
+                        [
+                            9.895719,
+                            53.526602
+                        ],
+                        [
+                            9.896392,
+                            53.526623
+                        ],
+                        [
+                            9.897213,
+                            53.526769
+                        ],
+                        [
+                            9.898397,
+                            53.527117
+                        ],
+                        [
+                            9.899283,
+                            53.527356
+                        ],
+                        [
+                            9.899867,
+                            53.527518
+                        ],
+                        [
+                            9.900683,
+                            53.5277
+                        ],
+                        [
+                            9.900517,
+                            53.528127
+                        ],
+                        [
+                            9.900216,
+                            53.528363
+                        ],
+                        [
+                            9.898357,
+                            53.529102
+                        ],
+                        [
+                            9.897207,
+                            53.528175
+                        ],
+                        [
+                            9.896348,
+                            53.528529
+                        ],
+                        [
+                            9.893827,
+                            53.528816
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMRMH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.89334,
+                            53.529125
+                        ],
+                        [
+                            9.893003,
+                            53.529172
+                        ],
+                        [
+                            9.892466,
+                            53.527352
+                        ],
+                        [
+                            9.892744,
+                            53.527312
+                        ],
+                        [
+                            9.893419,
+                            53.529122
+                        ],
+                        [
+                            9.89334,
+                            53.529125
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMRMH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.89688,
+                    53.527901
+                ]
+            },
+            "properties": {
+                "code": "DEHAMRMH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.893052,
+                    53.528535
+                ]
+            },
+            "properties": {
+                "code": "DEHAMRMH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

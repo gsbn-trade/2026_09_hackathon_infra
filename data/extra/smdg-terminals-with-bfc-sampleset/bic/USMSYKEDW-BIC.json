@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.941779,
+                            30.012568
+                        ],
+                        [
+                            -89.94158,
+                            30.012589
+                        ],
+                        [
+                            -89.941474,
+                            30.0126
+                        ],
+                        [
+                            -89.941293,
+                            30.012612
+                        ],
+                        [
+                            -89.941276,
+                            30.012485
+                        ],
+                        [
+                            -89.940999,
+                            30.012506
+                        ],
+                        [
+                            -89.940995,
+                            30.012626
+                        ],
+                        [
+                            -89.940882,
+                            30.012633
+                        ],
+                        [
+                            -89.940714,
+                            30.012645
+                        ],
+                        [
+                            -89.940519,
+                            30.01266
+                        ],
+                        [
+                            -89.940636,
+                            30.013946
+                        ],
+                        [
+                            -89.941913,
+                            30.013872
+                        ],
+                        [
+                            -89.941779,
+                            30.012568
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYKEDW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsykedw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.941218,
+                    30.012793
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYKEDW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsykedw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

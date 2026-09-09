@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.143316,
+                            -36.728545
+                        ],
+                        [
+                            -73.146767,
+                            -36.733803
+                        ],
+                        [
+                            -73.146156,
+                            -36.733862
+                        ],
+                        [
+                            -73.145519,
+                            -36.733155
+                        ],
+                        [
+                            -73.144271,
+                            -36.731664
+                        ],
+                        [
+                            -73.144197,
+                            -36.730958
+                        ],
+                        [
+                            -73.142655,
+                            -36.730762
+                        ],
+                        [
+                            -73.141529,
+                            -36.73088
+                        ],
+                        [
+                            -73.140354,
+                            -36.731233
+                        ],
+                        [
+                            -73.139546,
+                            -36.731174
+                        ],
+                        [
+                            -73.139179,
+                            -36.731586
+                        ],
+                        [
+                            -73.141525,
+                            -36.733198
+                        ],
+                        [
+                            -73.141276,
+                            -36.733551
+                        ],
+                        [
+                            -73.134231,
+                            -36.728416
+                        ],
+                        [
+                            -73.134186,
+                            -36.728209
+                        ],
+                        [
+                            -73.134097,
+                            -36.726535
+                        ],
+                        [
+                            -73.133601,
+                            -36.726225
+                        ],
+                        [
+                            -73.133579,
+                            -36.726019
+                        ],
+                        [
+                            -73.133418,
+                            -36.72592
+                        ],
+                        [
+                            -73.133338,
+                            -36.725785
+                        ],
+                        [
+                            -73.133499,
+                            -36.725657
+                        ],
+                        [
+                            -73.133053,
+                            -36.725387
+                        ],
+                        [
+                            -73.13344,
+                            -36.725095
+                        ],
+                        [
+                            -73.134411,
+                            -36.725768
+                        ],
+                        [
+                            -73.134988,
+                            -36.725984
+                        ],
+                        [
+                            -73.135776,
+                            -36.725879
+                        ],
+                        [
+                            -73.136302,
+                            -36.725891
+                        ],
+                        [
+                            -73.136966,
+                            -36.726248
+                        ],
+                        [
+                            -73.1372,
+                            -36.72664
+                        ],
+                        [
+                            -73.137207,
+                            -36.72685
+                        ],
+                        [
+                            -73.139842,
+                            -36.728225
+                        ],
+                        [
+                            -73.141069,
+                            -36.728693
+                        ],
+                        [
+                            -73.14174,
+                            -36.729202
+                        ],
+                        [
+                            -73.14247,
+                            -36.729079
+                        ],
+                        [
+                            -73.142996,
+                            -36.728582
+                        ],
+                        [
+                            -73.143193,
+                            -36.728366
+                        ],
+                        [
+                            -73.143316,
+                            -36.728545
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSVESVTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.134062,
+                            -36.728369
+                        ],
+                        [
+                            -73.141313,
+                            -36.733568
+                        ],
+                        [
+                            -73.141027,
+                            -36.733871
+                        ],
+                        [
+                            -73.133719,
+                            -36.728667
+                        ],
+                        [
+                            -73.134062,
+                            -36.728369
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSVESVTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.138925,
+                    -36.728691
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSVESVTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.136837,
+                    -36.730569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSVESVTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,95 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.048025,
+                            18.90402
+                        ],
+                        [
+                            73.048401,
+                            18.905664
+                        ],
+                        [
+                            73.047516,
+                            18.905801
+                        ],
+                        [
+                            73.047151,
+                            18.906837
+                        ],
+                        [
+                            73.047655,
+                            18.907193
+                        ],
+                        [
+                            73.047521,
+                            18.907446
+                        ],
+                        [
+                            73.048117,
+                            18.907918
+                        ],
+                        [
+                            73.048476,
+                            18.906233
+                        ],
+                        [
+                            73.049356,
+                            18.906106
+                        ],
+                        [
+                            73.048793,
+                            18.905058
+                        ],
+                        [
+                            73.048459,
+                            18.905002
+                        ],
+                        [
+                            73.048112,
+                            18.903944
+                        ],
+                        [
+                            73.048025,
+                            18.90402
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAKGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-31",
+                "remarks": "Geofence created using official boundary coordinates shared by facility management. Verified against facility layout plan.",
+                "url": "https://www.bic-code.org/facility-codes/innsakgla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.048124,
+                    18.905788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSAKGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-31",
+                "remarks": "Geofence created using official boundary coordinates shared by facility management. Verified against facility layout plan.",
+                "url": "https://www.bic-code.org/facility-codes/innsakgla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,515 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.684477,
+                            40.963629
+                        ],
+                        [
+                            28.684758,
+                            40.963629
+                        ],
+                        [
+                            28.684711,
+                            40.964288
+                        ],
+                        [
+                            28.684572,
+                            40.965665
+                        ],
+                        [
+                            28.684327,
+                            40.967855
+                        ],
+                        [
+                            28.684233,
+                            40.968462
+                        ],
+                        [
+                            28.684071,
+                            40.968517
+                        ],
+                        [
+                            28.683971,
+                            40.968909
+                        ],
+                        [
+                            28.683624,
+                            40.971777
+                        ],
+                        [
+                            28.682796,
+                            40.971751
+                        ],
+                        [
+                            28.681888,
+                            40.971628
+                        ],
+                        [
+                            28.681302,
+                            40.971584
+                        ],
+                        [
+                            28.680763,
+                            40.971439
+                        ],
+                        [
+                            28.678924,
+                            40.97075
+                        ],
+                        [
+                            28.678913,
+                            40.97025
+                        ],
+                        [
+                            28.678894,
+                            40.970033
+                        ],
+                        [
+                            28.678891,
+                            40.968941
+                        ],
+                        [
+                            28.678597,
+                            40.968567
+                        ],
+                        [
+                            28.678583,
+                            40.967902
+                        ],
+                        [
+                            28.678619,
+                            40.967711
+                        ],
+                        [
+                            28.678973,
+                            40.967723
+                        ],
+                        [
+                            28.679084,
+                            40.966595
+                        ],
+                        [
+                            28.679554,
+                            40.966623
+                        ],
+                        [
+                            28.679876,
+                            40.963314
+                        ],
+                        [
+                            28.680304,
+                            40.96335
+                        ],
+                        [
+                            28.679997,
+                            40.966491
+                        ],
+                        [
+                            28.680328,
+                            40.966505
+                        ],
+                        [
+                            28.680293,
+                            40.966583
+                        ],
+                        [
+                            28.680594,
+                            40.966535
+                        ],
+                        [
+                            28.681201,
+                            40.966555
+                        ],
+                        [
+                            28.681502,
+                            40.966591
+                        ],
+                        [
+                            28.681925,
+                            40.962927
+                        ],
+                        [
+                            28.682326,
+                            40.962963
+                        ],
+                        [
+                            28.681919,
+                            40.966722
+                        ],
+                        [
+                            28.682541,
+                            40.966724
+                        ],
+                        [
+                            28.683741,
+                            40.966814
+                        ],
+                        [
+                            28.684179,
+                            40.962323
+                        ],
+                        [
+                            28.684589,
+                            40.962351
+                        ],
+                        [
+                            28.684497,
+                            40.963331
+                        ],
+                        [
+                            28.684477,
+                            40.963629
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.683281,
+                            40.972234
+                        ],
+                        [
+                            28.683334,
+                            40.972334
+                        ],
+                        [
+                            28.683388,
+                            40.972434
+                        ],
+                        [
+                            28.683392,
+                            40.972766
+                        ],
+                        [
+                            28.683277,
+                            40.973634
+                        ],
+                        [
+                            28.683114,
+                            40.974701
+                        ],
+                        [
+                            28.682623,
+                            40.974613
+                        ],
+                        [
+                            28.68178,
+                            40.974519
+                        ],
+                        [
+                            28.680779,
+                            40.974382
+                        ],
+                        [
+                            28.679973,
+                            40.974302
+                        ],
+                        [
+                            28.679478,
+                            40.974095
+                        ],
+                        [
+                            28.679468,
+                            40.973984
+                        ],
+                        [
+                            28.679616,
+                            40.974005
+                        ],
+                        [
+                            28.679769,
+                            40.973697
+                        ],
+                        [
+                            28.679366,
+                            40.973427
+                        ],
+                        [
+                            28.679517,
+                            40.972873
+                        ],
+                        [
+                            28.679624,
+                            40.972618
+                        ],
+                        [
+                            28.679839,
+                            40.972195
+                        ],
+                        [
+                            28.680246,
+                            40.972294
+                        ],
+                        [
+                            28.680606,
+                            40.971697
+                        ],
+                        [
+                            28.680747,
+                            40.971857
+                        ],
+                        [
+                            28.681036,
+                            40.971981
+                        ],
+                        [
+                            28.682018,
+                            40.972068
+                        ],
+                        [
+                            28.682969,
+                            40.972167
+                        ],
+                        [
+                            28.683281,
+                            40.972234
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.683258,
+                            40.966769
+                        ],
+                        [
+                            28.683699,
+                            40.962235
+                        ],
+                        [
+                            28.684206,
+                            40.962313
+                        ],
+                        [
+                            28.683718,
+                            40.966804
+                        ],
+                        [
+                            28.683258,
+                            40.966769
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.681954,
+                            40.966705
+                        ],
+                        [
+                            28.682339,
+                            40.962936
+                        ],
+                        [
+                            28.682817,
+                            40.962908
+                        ],
+                        [
+                            28.682386,
+                            40.966719
+                        ],
+                        [
+                            28.681954,
+                            40.966705
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.680035,
+                            40.966479
+                        ],
+                        [
+                            28.680338,
+                            40.96326
+                        ],
+                        [
+                            28.680613,
+                            40.963255
+                        ],
+                        [
+                            28.680351,
+                            40.966499
+                        ],
+                        [
+                            28.680035,
+                            40.966479
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "BERTH",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.68172,
+                    40.966948
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.681301,
+                    40.973084
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.683628,
+                    40.964978
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.68229,
+                    40.965195
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.680274,
+                    40.965194
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTKUMLI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

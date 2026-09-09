@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.175213,
+                            53.609994
+                        ],
+                        [
+                            -0.176471,
+                            53.609588
+                        ],
+                        [
+                            -0.17652,
+                            53.609428
+                        ],
+                        [
+                            -0.176081,
+                            53.609014
+                        ],
+                        [
+                            -0.175871,
+                            53.608902
+                        ],
+                        [
+                            -0.175629,
+                            53.60865
+                        ],
+                        [
+                            -0.174322,
+                            53.60908
+                        ],
+                        [
+                            -0.175213,
+                            53.609994
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULCLEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-16",
+                "url": "https://www.bic-code.org/facility-codes/gbhulclea/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.175665,
+                    53.609331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULCLEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-16",
+                "url": "https://www.bic-code.org/facility-codes/gbhulclea/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

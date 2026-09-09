@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.663291,
+                            -33.804804
+                        ],
+                        [
+                            25.661692,
+                            -33.804242
+                        ],
+                        [
+                            25.66004,
+                            -33.808049
+                        ],
+                        [
+                            25.662046,
+                            -33.808833
+                        ],
+                        [
+                            25.664997,
+                            -33.805508
+                        ],
+                        [
+                            25.663291,
+                            -33.804804
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAIOVM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbaiovm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.66256,
+                    -33.80604
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAIOVM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbaiovm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.219825,
+                            39.645618
+                        ],
+                        [
+                            -0.213418,
+                            39.642631
+                        ],
+                        [
+                            -0.213329,
+                            39.642745
+                        ],
+                        [
+                            -0.213473,
+                            39.642817
+                        ],
+                        [
+                            -0.213504,
+                            39.642846
+                        ],
+                        [
+                            -0.213491,
+                            39.6429
+                        ],
+                        [
+                            -0.213442,
+                            39.64297
+                        ],
+                        [
+                            -0.213581,
+                            39.643045
+                        ],
+                        [
+                            -0.21347,
+                            39.643198
+                        ],
+                        [
+                            -0.21346,
+                            39.643224
+                        ],
+                        [
+                            -0.213464,
+                            39.643254
+                        ],
+                        [
+                            -0.213921,
+                            39.643448
+                        ],
+                        [
+                            -0.21397,
+                            39.64344
+                        ],
+                        [
+                            -0.214075,
+                            39.643413
+                        ],
+                        [
+                            -0.214196,
+                            39.643408
+                        ],
+                        [
+                            -0.214318,
+                            39.64342
+                        ],
+                        [
+                            -0.214433,
+                            39.643443
+                        ],
+                        [
+                            -0.215102,
+                            39.643753
+                        ],
+                        [
+                            -0.214942,
+                            39.643947
+                        ],
+                        [
+                            -0.215223,
+                            39.644065
+                        ],
+                        [
+                            -0.215058,
+                            39.644268
+                        ],
+                        [
+                            -0.214272,
+                            39.643897
+                        ],
+                        [
+                            -0.214092,
+                            39.643933
+                        ],
+                        [
+                            -0.214173,
+                            39.644314
+                        ],
+                        [
+                            -0.214376,
+                            39.645189
+                        ],
+                        [
+                            -0.214436,
+                            39.645326
+                        ],
+                        [
+                            -0.214523,
+                            39.645436
+                        ],
+                        [
+                            -0.214657,
+                            39.645559
+                        ],
+                        [
+                            -0.21475,
+                            39.645622
+                        ],
+                        [
+                            -0.214936,
+                            39.645719
+                        ],
+                        [
+                            -0.215075,
+                            39.645788
+                        ],
+                        [
+                            -0.215258,
+                            39.645873
+                        ],
+                        [
+                            -0.218682,
+                            39.64744
+                        ],
+                        [
+                            -0.219522,
+                            39.646347
+                        ],
+                        [
+                            -0.219565,
+                            39.64626
+                        ],
+                        [
+                            -0.219578,
+                            39.646199
+                        ],
+                        [
+                            -0.219604,
+                            39.646141
+                        ],
+                        [
+                            -0.219766,
+                            39.645927
+                        ],
+                        [
+                            -0.219642,
+                            39.645862
+                        ],
+                        [
+                            -0.219825,
+                            39.645618
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSAGINTERS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.21983,
+                            39.645615
+                        ],
+                        [
+                            -0.220007,
+                            39.64539
+                        ],
+                        [
+                            -0.213603,
+                            39.642414
+                        ],
+                        [
+                            -0.213428,
+                            39.642625
+                        ],
+                        [
+                            -0.21983,
+                            39.645615
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSAGINTERS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.215411,
+                    39.644458
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSAGINTERS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.21734,
+                    39.644332
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSAGINTERS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

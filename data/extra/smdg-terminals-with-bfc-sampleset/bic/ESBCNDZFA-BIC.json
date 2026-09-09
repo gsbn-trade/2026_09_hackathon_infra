@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.121543,
+                            41.327631
+                        ],
+                        [
+                            2.121229,
+                            41.327107
+                        ],
+                        [
+                            2.123407,
+                            41.326332
+                        ],
+                        [
+                            2.123737,
+                            41.326877
+                        ],
+                        [
+                            2.121543,
+                            41.327631
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESBCNDZFA",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-07-17",
+                "url": "https://www.bic-code.org/facility-codes/esbcndzfa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.122292,
+                    41.327116
+                ]
+            },
+            "properties": {
+                "code": "ESBCNDZFA",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-07-17",
+                "url": "https://www.bic-code.org/facility-codes/esbcndzfa/"
+            }
+        }
+    ]
+}

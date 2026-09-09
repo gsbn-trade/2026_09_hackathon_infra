@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.107101,
+                            29.911826
+                        ],
+                        [
+                            -90.107117,
+                            29.911899
+                        ],
+                        [
+                            -90.107286,
+                            29.912716
+                        ],
+                        [
+                            -90.107515,
+                            29.915051
+                        ],
+                        [
+                            -90.109175,
+                            29.914962
+                        ],
+                        [
+                            -90.109326,
+                            29.913882
+                        ],
+                        [
+                            -90.109428,
+                            29.913779
+                        ],
+                        [
+                            -90.112664,
+                            29.913695
+                        ],
+                        [
+                            -90.112725,
+                            29.913149
+                        ],
+                        [
+                            -90.114873,
+                            29.913141
+                        ],
+                        [
+                            -90.114901,
+                            29.911845
+                        ],
+                        [
+                            -90.107101,
+                            29.911826
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOLA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.114929,
+                            29.91184
+                        ],
+                        [
+                            -90.114916,
+                            29.911393
+                        ],
+                        [
+                            -90.107095,
+                            29.911381
+                        ],
+                        [
+                            -90.107135,
+                            29.911829
+                        ],
+                        [
+                            -90.114929,
+                            29.91184
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOLA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.109934,
+                    29.913148
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOLA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.111801,
+                    29.911657
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOLA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

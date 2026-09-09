@@ -1,0 +1,477 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.629026,
+                            35.71611
+                        ],
+                        [
+                            -0.629122,
+                            35.716114
+                        ],
+                        [
+                            -0.629146,
+                            35.716045
+                        ],
+                        [
+                            -0.628601,
+                            35.715202
+                        ],
+                        [
+                            -0.633436,
+                            35.713144
+                        ],
+                        [
+                            -0.633914,
+                            35.709978
+                        ],
+                        [
+                            -0.63579,
+                            35.709611
+                        ],
+                        [
+                            -0.635993,
+                            35.709682
+                        ],
+                        [
+                            -0.635633,
+                            35.712833
+                        ],
+                        [
+                            -0.636959,
+                            35.712368
+                        ],
+                        [
+                            -0.637402,
+                            35.709291
+                        ],
+                        [
+                            -0.638648,
+                            35.709081
+                        ],
+                        [
+                            -0.638386,
+                            35.70765
+                        ],
+                        [
+                            -0.63592,
+                            35.708116
+                        ],
+                        [
+                            -0.634318,
+                            35.708429
+                        ],
+                        [
+                            -0.634189,
+                            35.708462
+                        ],
+                        [
+                            -0.633464,
+                            35.708826
+                        ],
+                        [
+                            -0.63287,
+                            35.708956
+                        ],
+                        [
+                            -0.63291,
+                            35.709173
+                        ],
+                        [
+                            -0.632865,
+                            35.709498
+                        ],
+                        [
+                            -0.63291,
+                            35.710016
+                        ],
+                        [
+                            -0.632628,
+                            35.710211
+                        ],
+                        [
+                            -0.632097,
+                            35.710616
+                        ],
+                        [
+                            -0.63164,
+                            35.710865
+                        ],
+                        [
+                            -0.631159,
+                            35.711095
+                        ],
+                        [
+                            -0.630843,
+                            35.711209
+                        ],
+                        [
+                            -0.629756,
+                            35.711566
+                        ],
+                        [
+                            -0.624767,
+                            35.713488
+                        ],
+                        [
+                            -0.62563,
+                            35.714391
+                        ],
+                        [
+                            -0.626618,
+                            35.713994
+                        ],
+                        [
+                            -0.627191,
+                            35.71489
+                        ],
+                        [
+                            -0.62849,
+                            35.715274
+                        ],
+                        [
+                            -0.628782,
+                            35.715706
+                        ],
+                        [
+                            -0.629026,
+                            35.71611
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.628603,
+                            35.715198
+                        ],
+                        [
+                            -0.628766,
+                            35.715453
+                        ],
+                        [
+                            -0.633592,
+                            35.713384
+                        ],
+                        [
+                            -0.633437,
+                            35.713144
+                        ],
+                        [
+                            -0.628603,
+                            35.715198
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.633594,
+                            35.713388
+                        ],
+                        [
+                            -0.633779,
+                            35.713409
+                        ],
+                        [
+                            -0.634271,
+                            35.70993
+                        ],
+                        [
+                            -0.633918,
+                            35.709992
+                        ],
+                        [
+                            -0.63344,
+                            35.713137
+                        ],
+                        [
+                            -0.633594,
+                            35.713388
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.635535,
+                            35.712777
+                        ],
+                        [
+                            -0.635993,
+                            35.709683
+                        ],
+                        [
+                            -0.635808,
+                            35.709623
+                        ],
+                        [
+                            -0.635594,
+                            35.709665
+                        ],
+                        [
+                            -0.635129,
+                            35.712753
+                        ],
+                        [
+                            -0.635535,
+                            35.712777
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.636968,
+                            35.712399
+                        ],
+                        [
+                            -0.635616,
+                            35.712837
+                        ],
+                        [
+                            -0.635727,
+                            35.713149
+                        ],
+                        [
+                            -0.637182,
+                            35.712681
+                        ],
+                        [
+                            -0.636968,
+                            35.712399
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.63696,
+                            35.712357
+                        ],
+                        [
+                            -0.637403,
+                            35.712377
+                        ],
+                        [
+                            -0.637787,
+                            35.709241
+                        ],
+                        [
+                            -0.637411,
+                            35.709301
+                        ],
+                        [
+                            -0.63696,
+                            35.712357
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "6",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.632063,
+                    35.711706
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.6306,
+                    35.714475
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.633766,
+                    35.712207
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.635599,
+                    35.711213
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.636492,
+                    35.712693
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.637304,
+                    35.711127
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNEPO",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "6",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

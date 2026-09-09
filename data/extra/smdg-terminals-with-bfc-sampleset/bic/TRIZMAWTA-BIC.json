@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.458181,
+                            38.451826
+                        ],
+                        [
+                            27.458248,
+                            38.450786
+                        ],
+                        [
+                            27.458229,
+                            38.449775
+                        ],
+                        [
+                            27.459888,
+                            38.449608
+                        ],
+                        [
+                            27.460188,
+                            38.450193
+                        ],
+                        [
+                            27.460363,
+                            38.450596
+                        ],
+                        [
+                            27.460344,
+                            38.451773
+                        ],
+                        [
+                            27.458181,
+                            38.451826
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMAWTA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/trizmawta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.459203,
+                    38.450798
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMAWTA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-08-17",
+                "url": "https://www.bic-code.org/facility-codes/trizmawta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.5307,
+                            -33.5635
+                        ],
+                        [
+                            -71.530706,
+                            -33.561811
+                        ],
+                        [
+                            -71.532613,
+                            -33.5619
+                        ],
+                        [
+                            -71.532939,
+                            -33.561913
+                        ],
+                        [
+                            -71.5329,
+                            -33.5637
+                        ],
+                        [
+                            -71.5307,
+                            -33.5635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIJIRJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsaijirj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.53176,
+                    -33.562721
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIJIRJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsaijirj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.291552,
+                            -18.458791
+                        ],
+                        [
+                            -70.293383,
+                            -18.457158
+                        ],
+                        [
+                            -70.294161,
+                            -18.457808
+                        ],
+                        [
+                            -70.293742,
+                            -18.458104
+                        ],
+                        [
+                            -70.293328,
+                            -18.457694
+                        ],
+                        [
+                            -70.291772,
+                            -18.459041
+                        ],
+                        [
+                            -70.291552,
+                            -18.458791
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARITISB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "remarks": "Site is two facilities",
+                "url": "https://www.bic-code.org/facility-codes/claritisb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.292784,
+                    -18.458198
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARITISB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "remarks": "Site is two facilities",
+                "url": "https://www.bic-code.org/facility-codes/claritisb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

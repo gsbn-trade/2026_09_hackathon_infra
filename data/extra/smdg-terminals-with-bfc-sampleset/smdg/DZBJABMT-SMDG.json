@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.078986,
+                            36.74352
+                        ],
+                        [
+                            5.079679,
+                            36.739089
+                        ],
+                        [
+                            5.080272,
+                            36.739142
+                        ],
+                        [
+                            5.079517,
+                            36.74358
+                        ],
+                        [
+                            5.078986,
+                            36.74352
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZBJABMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.079676,
+                            36.7391
+                        ],
+                        [
+                            5.078964,
+                            36.743527
+                        ],
+                        [
+                            5.077599,
+                            36.743396
+                        ],
+                        [
+                            5.077013,
+                            36.743343
+                        ],
+                        [
+                            5.076803,
+                            36.743416
+                        ],
+                        [
+                            5.076743,
+                            36.743662
+                        ],
+                        [
+                            5.076122,
+                            36.743627
+                        ],
+                        [
+                            5.075405,
+                            36.743536
+                        ],
+                        [
+                            5.075429,
+                            36.743313
+                        ],
+                        [
+                            5.075579,
+                            36.742408
+                        ],
+                        [
+                            5.075694,
+                            36.742188
+                        ],
+                        [
+                            5.075601,
+                            36.742167
+                        ],
+                        [
+                            5.075674,
+                            36.741782
+                        ],
+                        [
+                            5.077033,
+                            36.741989
+                        ],
+                        [
+                            5.077371,
+                            36.739773
+                        ],
+                        [
+                            5.078006,
+                            36.739765
+                        ],
+                        [
+                            5.078232,
+                            36.738985
+                        ],
+                        [
+                            5.079676,
+                            36.7391
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZBJABMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.079488,
+                    36.74177
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZBJABMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.077034,
+                    36.741949
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZBJABMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.950335,
+                            18.962988
+                        ],
+                        [
+                            72.949465,
+                            18.963338
+                        ],
+                        [
+                            72.94714,
+                            18.958332
+                        ],
+                        [
+                            72.947959,
+                            18.958013
+                        ],
+                        [
+                            72.950335,
+                            18.962988
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "remarks": "Shares boundaries with NSIGT and NSFT. Make sure to adujst their geofences when adjusting this one.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.947966,
+                            18.958009
+                        ],
+                        [
+                            72.948353,
+                            18.95784
+                        ],
+                        [
+                            72.948062,
+                            18.957243
+                        ],
+                        [
+                            72.94986,
+                            18.956474
+                        ],
+                        [
+                            72.949923,
+                            18.956396
+                        ],
+                        [
+                            72.958675,
+                            18.952673
+                        ],
+                        [
+                            72.960355,
+                            18.952666
+                        ],
+                        [
+                            72.96036,
+                            18.953154
+                        ],
+                        [
+                            72.959905,
+                            18.953219
+                        ],
+                        [
+                            72.957681,
+                            18.953247
+                        ],
+                        [
+                            72.954999,
+                            18.954406
+                        ],
+                        [
+                            72.9569,
+                            18.958155
+                        ],
+                        [
+                            72.951985,
+                            18.960309
+                        ],
+                        [
+                            72.952025,
+                            18.962262
+                        ],
+                        [
+                            72.950347,
+                            18.962985
+                        ],
+                        [
+                            72.947966,
+                            18.958009
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "remarks": "Shares boundaries with NSIGT and NSFT. Make sure to adujst their geofences when adjusting this one.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.949047,
+                    18.961132
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "remarks": "Shares boundaries with NSIGT and NSFT. Make sure to adujst their geofences when adjusting this one.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.95346,
+                    18.95669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "remarks": "Shares boundaries with NSIGT and NSFT. Make sure to adujst their geofences when adjusting this one.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

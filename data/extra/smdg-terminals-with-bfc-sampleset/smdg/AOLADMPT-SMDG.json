@@ -1,0 +1,269 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.270445,
+                            -8.789308
+                        ],
+                        [
+                            13.273071,
+                            -8.79218
+                        ],
+                        [
+                            13.273805,
+                            -8.79295
+                        ],
+                        [
+                            13.274691,
+                            -8.792217
+                        ],
+                        [
+                            13.275455,
+                            -8.79301
+                        ],
+                        [
+                            13.276522,
+                            -8.792157
+                        ],
+                        [
+                            13.278474,
+                            -8.790423
+                        ],
+                        [
+                            13.278126,
+                            -8.789869
+                        ],
+                        [
+                            13.277687,
+                            -8.790363
+                        ],
+                        [
+                            13.277172,
+                            -8.790138
+                        ],
+                        [
+                            13.277142,
+                            -8.78954
+                        ],
+                        [
+                            13.277051,
+                            -8.789009
+                        ],
+                        [
+                            13.276847,
+                            -8.788553
+                        ],
+                        [
+                            13.276544,
+                            -8.788202
+                        ],
+                        [
+                            13.276898,
+                            -8.785636
+                        ],
+                        [
+                            13.275589,
+                            -8.784342
+                        ],
+                        [
+                            13.274961,
+                            -8.784492
+                        ],
+                        [
+                            13.27481,
+                            -8.784305
+                        ],
+                        [
+                            13.274242,
+                            -8.784821
+                        ],
+                        [
+                            13.274378,
+                            -8.784978
+                        ],
+                        [
+                            13.274068,
+                            -8.785247
+                        ],
+                        [
+                            13.27366,
+                            -8.784858
+                        ],
+                        [
+                            13.270043,
+                            -8.788182
+                        ],
+                        [
+                            13.266615,
+                            -8.791314
+                        ],
+                        [
+                            13.267218,
+                            -8.791973
+                        ],
+                        [
+                            13.270445,
+                            -8.789308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.273647,
+                            -8.784842
+                        ],
+                        [
+                            13.273341,
+                            -8.784497
+                        ],
+                        [
+                            13.266203,
+                            -8.790936
+                        ],
+                        [
+                            13.266578,
+                            -8.791311
+                        ],
+                        [
+                            13.273647,
+                            -8.784842
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.273647,
+                            -8.784842
+                        ],
+                        [
+                            13.273341,
+                            -8.784497
+                        ],
+                        [
+                            13.266203,
+                            -8.790936
+                        ],
+                        [
+                            13.266578,
+                            -8.791311
+                        ],
+                        [
+                            13.273647,
+                            -8.784842
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.27446,
+                    -8.788745
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.270683,
+                    -8.787286
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.270683,
+                    -8.787286
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

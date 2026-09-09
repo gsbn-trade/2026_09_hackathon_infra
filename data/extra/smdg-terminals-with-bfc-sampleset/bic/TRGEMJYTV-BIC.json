@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.118527,
+                            40.395894
+                        ],
+                        [
+                            29.118216,
+                            40.399193
+                        ],
+                        [
+                            29.117012,
+                            40.399854
+                        ],
+                        [
+                            29.116995,
+                            40.400253
+                        ],
+                        [
+                            29.116209,
+                            40.400347
+                        ],
+                        [
+                            29.115939,
+                            40.397827
+                        ],
+                        [
+                            29.116709,
+                            40.398083
+                        ],
+                        [
+                            29.116946,
+                            40.397684
+                        ],
+                        [
+                            29.117626,
+                            40.397615
+                        ],
+                        [
+                            29.1177,
+                            40.396088
+                        ],
+                        [
+                            29.118527,
+                            40.395894
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMJYTV",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/trgemjytv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.11731,
+                    40.398067
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMJYTV",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/trgemjytv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

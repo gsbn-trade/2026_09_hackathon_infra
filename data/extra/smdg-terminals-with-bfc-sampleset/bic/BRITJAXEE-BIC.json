@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.726629,
+                            -26.888995
+                        ],
+                        [
+                            -48.726398,
+                            -26.886244
+                        ],
+                        [
+                            -48.728587,
+                            -26.886129
+                        ],
+                        [
+                            -48.728029,
+                            -26.887761
+                        ],
+                        [
+                            -48.728018,
+                            -26.888033
+                        ],
+                        [
+                            -48.729542,
+                            -26.887737
+                        ],
+                        [
+                            -48.729601,
+                            -26.888364
+                        ],
+                        [
+                            -48.726629,
+                            -26.888995
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJAXEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjaxee/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.727929,
+                    -26.887782
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJAXEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjaxee/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.662938,
+                            -26.85634
+                        ],
+                        [
+                            -48.663411,
+                            -26.858471
+                        ],
+                        [
+                            -48.660497,
+                            -26.858961
+                        ],
+                        [
+                            -48.660002,
+                            -26.856446
+                        ],
+                        [
+                            -48.662938,
+                            -26.85634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTGKWD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/brnvtgkwd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.661957,
+                    -26.857312
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTGKWD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/brnvtgkwd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

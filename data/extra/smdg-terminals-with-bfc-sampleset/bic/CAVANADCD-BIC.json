@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.931363,
+                            49.170629
+                        ],
+                        [
+                            -122.929915,
+                            49.172874
+                        ],
+                        [
+                            -122.930827,
+                            49.173361
+                        ],
+                        [
+                            -122.930622,
+                            49.173633
+                        ],
+                        [
+                            -122.931391,
+                            49.173841
+                        ],
+                        [
+                            -122.93203,
+                            49.174016
+                        ],
+                        [
+                            -122.932551,
+                            49.173295
+                        ],
+                        [
+                            -122.933125,
+                            49.172608
+                        ],
+                        [
+                            -122.93332,
+                            49.172405
+                        ],
+                        [
+                            -122.932948,
+                            49.172009
+                        ],
+                        [
+                            -122.932125,
+                            49.17147
+                        ],
+                        [
+                            -122.931363,
+                            49.170629
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANADCD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/cavanadcd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.931798,
+                    49.172564
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANADCD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/cavanadcd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

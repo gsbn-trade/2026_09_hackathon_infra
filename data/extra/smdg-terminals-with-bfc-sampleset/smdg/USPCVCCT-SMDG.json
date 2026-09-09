@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.617397,
+                            28.414153
+                        ],
+                        [
+                            -80.617402,
+                            28.415184
+                        ],
+                        [
+                            -80.6199,
+                            28.415171
+                        ],
+                        [
+                            -80.619911,
+                            28.414542
+                        ],
+                        [
+                            -80.621911,
+                            28.414541
+                        ],
+                        [
+                            -80.621917,
+                            28.414193
+                        ],
+                        [
+                            -80.61895,
+                            28.412229
+                        ],
+                        [
+                            -80.618604,
+                            28.412649
+                        ],
+                        [
+                            -80.61825,
+                            28.413072
+                        ],
+                        [
+                            -80.617557,
+                            28.413901
+                        ],
+                        [
+                            -80.617477,
+                            28.413995
+                        ],
+                        [
+                            -80.617401,
+                            28.414095
+                        ],
+                        [
+                            -80.617397,
+                            28.414153
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPCVCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.621831,
+                            28.414131
+                        ],
+                        [
+                            -80.622074,
+                            28.413849
+                        ],
+                        [
+                            -80.619128,
+                            28.412002
+                        ],
+                        [
+                            -80.618953,
+                            28.412225
+                        ],
+                        [
+                            -80.621831,
+                            28.414131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPCVCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.618775,
+                    28.413991
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPCVCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.620763,
+                    28.413268
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPCVCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

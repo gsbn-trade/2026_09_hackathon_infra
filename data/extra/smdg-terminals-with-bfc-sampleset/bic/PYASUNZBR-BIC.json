@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.608727,
+                            -25.612071
+                        ],
+                        [
+                            -57.608528,
+                            -25.612661
+                        ],
+                        [
+                            -57.608292,
+                            -25.613159
+                        ],
+                        [
+                            -57.604298,
+                            -25.614059
+                        ],
+                        [
+                            -57.603561,
+                            -25.612083
+                        ],
+                        [
+                            -57.607418,
+                            -25.610832
+                        ],
+                        [
+                            -57.608748,
+                            -25.611817
+                        ],
+                        [
+                            -57.608822,
+                            -25.611766
+                        ],
+                        [
+                            -57.608356,
+                            -25.611071
+                        ],
+                        [
+                            -57.608659,
+                            -25.610916
+                        ],
+                        [
+                            -57.609053,
+                            -25.61158
+                        ],
+                        [
+                            -57.609663,
+                            -25.612461
+                        ],
+                        [
+                            -57.609395,
+                            -25.612658
+                        ],
+                        [
+                            -57.609057,
+                            -25.612224
+                        ],
+                        [
+                            -57.609006,
+                            -25.612098
+                        ],
+                        [
+                            -57.608727,
+                            -25.612071
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUNZBR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pyasunzbr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.608144,
+                    -25.612095
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUNZBR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pyasunzbr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

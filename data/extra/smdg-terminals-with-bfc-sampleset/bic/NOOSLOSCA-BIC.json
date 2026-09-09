@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.758436,
+                            59.887055
+                        ],
+                        [
+                            10.757841,
+                            59.888202
+                        ],
+                        [
+                            10.757293,
+                            59.888168
+                        ],
+                        [
+                            10.75711,
+                            59.88865
+                        ],
+                        [
+                            10.754092,
+                            59.888397
+                        ],
+                        [
+                            10.750228,
+                            59.887124
+                        ],
+                        [
+                            10.750068,
+                            59.886757
+                        ],
+                        [
+                            10.745495,
+                            59.886241
+                        ],
+                        [
+                            10.745564,
+                            59.885622
+                        ],
+                        [
+                            10.757247,
+                            59.886642
+                        ],
+                        [
+                            10.757247,
+                            59.886872
+                        ],
+                        [
+                            10.75855,
+                            59.886895
+                        ],
+                        [
+                            10.758436,
+                            59.887055
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NOOSLOSCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-21",
+                "url": "https://www.bic-code.org/facility-codes/nooslosca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.760812,
+                            59.889994
+                        ],
+                        [
+                            10.759655,
+                            59.889043
+                        ],
+                        [
+                            10.760477,
+                            59.887393
+                        ],
+                        [
+                            10.763262,
+                            59.887494
+                        ],
+                        [
+                            10.763379,
+                            59.888185
+                        ],
+                        [
+                            10.762826,
+                            59.888875
+                        ],
+                        [
+                            10.761165,
+                            59.889851
+                        ],
+                        [
+                            10.760812,
+                            59.889994
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NOOSLOSCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-02-21",
+                "url": "https://www.bic-code.org/facility-codes/nooslosca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.754431,
+                    59.887206
+                ]
+            },
+            "properties": {
+                "code": "NOOSLOSCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-21",
+                "url": "https://www.bic-code.org/facility-codes/nooslosca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.761548,
+                    59.888854
+                ]
+            },
+            "properties": {
+                "code": "NOOSLOSCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-21",
+                "url": "https://www.bic-code.org/facility-codes/nooslosca/"
+            }
+        }
+    ]
+}

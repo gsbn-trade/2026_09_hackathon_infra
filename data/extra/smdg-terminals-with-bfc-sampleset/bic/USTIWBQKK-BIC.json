@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.391753,
+                            47.275493
+                        ],
+                        [
+                            -122.391702,
+                            47.274683
+                        ],
+                        [
+                            -122.391595,
+                            47.274235
+                        ],
+                        [
+                            -122.391272,
+                            47.273881
+                        ],
+                        [
+                            -122.390422,
+                            47.273669
+                        ],
+                        [
+                            -122.389757,
+                            47.273499
+                        ],
+                        [
+                            -122.389224,
+                            47.273363
+                        ],
+                        [
+                            -122.38863,
+                            47.273214
+                        ],
+                        [
+                            -122.388579,
+                            47.27428
+                        ],
+                        [
+                            -122.39039,
+                            47.274624
+                        ],
+                        [
+                            -122.390408,
+                            47.275166
+                        ],
+                        [
+                            -122.391753,
+                            47.275493
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTIWBQKK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/ustiwbqkk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.390457,
+                    47.2743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTIWBQKK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/ustiwbqkk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

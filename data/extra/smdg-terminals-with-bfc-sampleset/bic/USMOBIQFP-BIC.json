@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.042017,
+                            30.702446
+                        ],
+                        [
+                            -88.04156,
+                            30.701851
+                        ],
+                        [
+                            -88.041395,
+                            30.701687
+                        ],
+                        [
+                            -88.041103,
+                            30.701933
+                        ],
+                        [
+                            -88.041776,
+                            30.702588
+                        ],
+                        [
+                            -88.042017,
+                            30.702446
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBIQFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "TRUCK_QUEUE",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usmobiqfp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.041765,
+                            30.702592
+                        ],
+                        [
+                            -88.041094,
+                            30.70193
+                        ],
+                        [
+                            -88.041399,
+                            30.701674
+                        ],
+                        [
+                            -88.041538,
+                            30.701603
+                        ],
+                        [
+                            -88.041024,
+                            30.700986
+                        ],
+                        [
+                            -88.040726,
+                            30.700533
+                        ],
+                        [
+                            -88.040535,
+                            30.700183
+                        ],
+                        [
+                            -88.040364,
+                            30.699818
+                        ],
+                        [
+                            -88.040237,
+                            30.699474
+                        ],
+                        [
+                            -88.039907,
+                            30.698224
+                        ],
+                        [
+                            -88.039285,
+                            30.695511
+                        ],
+                        [
+                            -88.038783,
+                            30.693289
+                        ],
+                        [
+                            -88.037476,
+                            30.693436
+                        ],
+                        [
+                            -88.03792,
+                            30.696073
+                        ],
+                        [
+                            -88.038117,
+                            30.697192
+                        ],
+                        [
+                            -88.038678,
+                            30.699634
+                        ],
+                        [
+                            -88.039112,
+                            30.701517
+                        ],
+                        [
+                            -88.039493,
+                            30.703116
+                        ],
+                        [
+                            -88.041264,
+                            30.703591
+                        ],
+                        [
+                            -88.041765,
+                            30.702592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBIQFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usmobiqfp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.041645,
+                    30.702158
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBIQFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usmobiqfp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.040024,
+                    30.699648
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBIQFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usmobiqfp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

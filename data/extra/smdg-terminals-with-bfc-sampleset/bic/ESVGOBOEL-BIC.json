@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.631378,
+                            42.387918
+                        ],
+                        [
+                            -8.631672,
+                            42.38763
+                        ],
+                        [
+                            -8.631521,
+                            42.387524
+                        ],
+                        [
+                            -8.631584,
+                            42.387444
+                        ],
+                        [
+                            -8.631336,
+                            42.387338
+                        ],
+                        [
+                            -8.631357,
+                            42.387177
+                        ],
+                        [
+                            -8.630149,
+                            42.386675
+                        ],
+                        [
+                            -8.629667,
+                            42.38745
+                        ],
+                        [
+                            -8.630128,
+                            42.387602
+                        ],
+                        [
+                            -8.630204,
+                            42.387521
+                        ],
+                        [
+                            -8.631378,
+                            42.387918
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVGOBOEL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/esvgoboel/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.630943,
+                    42.387472
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVGOBOEL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/esvgoboel/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

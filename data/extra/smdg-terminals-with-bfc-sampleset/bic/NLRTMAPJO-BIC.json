@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "NLRTMAPJO",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmapjo/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.7890125,
+                            51.9318342
+                        ],
+                        [
+                            4.7889535,
+                            51.9309544
+                        ],
+                        [
+                            4.7896213,
+                            51.9309345
+                        ],
+                        [
+                            4.7895972,
+                            51.9302416
+                        ],
+                        [
+                            4.791464,
+                            51.9301671
+                        ],
+                        [
+                            4.7915391,
+                            51.9301903
+                        ],
+                        [
+                            4.7916411,
+                            51.9317714
+                        ],
+                        [
+                            4.7890125,
+                            51.9318342
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.790105,
+                    51.930991
+                ]
+            },
+            "properties": {
+                "code": "NLRTMAPJO",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmapjo/"
+            }
+        }
+    ]
+}

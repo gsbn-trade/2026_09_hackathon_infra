@@ -1,0 +1,263 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.883279,
+                            44.40805
+                        ],
+                        [
+                            8.88495,
+                            44.40773
+                        ],
+                        [
+                            8.885648,
+                            44.404138
+                        ],
+                        [
+                            8.887544,
+                            44.403781
+                        ],
+                        [
+                            8.887583,
+                            44.403903
+                        ],
+                        [
+                            8.886978,
+                            44.407269
+                        ],
+                        [
+                            8.887412,
+                            44.407279
+                        ],
+                        [
+                            8.888531,
+                            44.407072
+                        ],
+                        [
+                            8.88857,
+                            44.406997
+                        ],
+                        [
+                            8.888979,
+                            44.406997
+                        ],
+                        [
+                            8.889309,
+                            44.4052
+                        ],
+                        [
+                            8.890189,
+                            44.405295
+                        ],
+                        [
+                            8.890545,
+                            44.403245
+                        ],
+                        [
+                            8.891453,
+                            44.403085
+                        ],
+                        [
+                            8.891545,
+                            44.403132
+                        ],
+                        [
+                            8.890874,
+                            44.40679
+                        ],
+                        [
+                            8.890347,
+                            44.407241
+                        ],
+                        [
+                            8.889992,
+                            44.407514
+                        ],
+                        [
+                            8.889544,
+                            44.407721
+                        ],
+                        [
+                            8.889268,
+                            44.408407
+                        ],
+                        [
+                            8.888939,
+                            44.408642
+                        ],
+                        [
+                            8.884832,
+                            44.409639
+                        ],
+                        [
+                            8.884628,
+                            44.409829
+                        ],
+                        [
+                            8.884279,
+                            44.409982
+                        ],
+                        [
+                            8.88395,
+                            44.410043
+                        ],
+                        [
+                            8.883279,
+                            44.40805
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.884933,
+                            44.407703
+                        ],
+                        [
+                            8.884485,
+                            44.407756
+                        ],
+                        [
+                            8.885232,
+                            44.40409
+                        ],
+                        [
+                            8.885618,
+                            44.404126
+                        ],
+                        [
+                            8.884933,
+                            44.407703
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.888944,
+                            44.406982
+                        ],
+                        [
+                            8.888471,
+                            44.406938
+                        ],
+                        [
+                            8.888844,
+                            44.405069
+                        ],
+                        [
+                            8.889355,
+                            44.40514
+                        ],
+                        [
+                            8.888944,
+                            44.406982
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.887786,
+                    44.406809
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.88504,
+                    44.406276
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.888912,
+                    44.406222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOATSG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

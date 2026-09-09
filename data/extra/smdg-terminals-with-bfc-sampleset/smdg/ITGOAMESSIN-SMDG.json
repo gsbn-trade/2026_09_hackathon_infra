@@ -1,0 +1,273 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.880579,
+                            44.41089
+                        ],
+                        [
+                            8.879948,
+                            44.410999
+                        ],
+                        [
+                            8.879524,
+                            44.411151
+                        ],
+                        [
+                            8.879284,
+                            44.411302
+                        ],
+                        [
+                            8.879194,
+                            44.411322
+                        ],
+                        [
+                            8.878936,
+                            44.411315
+                        ],
+                        [
+                            8.878744,
+                            44.411284
+                        ],
+                        [
+                            8.878597,
+                            44.411231
+                        ],
+                        [
+                            8.878499,
+                            44.411147
+                        ],
+                        [
+                            8.878334,
+                            44.410598
+                        ],
+                        [
+                            8.877667,
+                            44.410716
+                        ],
+                        [
+                            8.877559,
+                            44.410353
+                        ],
+                        [
+                            8.877431,
+                            44.40996
+                        ],
+                        [
+                            8.87708,
+                            44.41003
+                        ],
+                        [
+                            8.876656,
+                            44.408768
+                        ],
+                        [
+                            8.876882,
+                            44.40873
+                        ],
+                        [
+                            8.876034,
+                            44.406328
+                        ],
+                        [
+                            8.875555,
+                            44.40641
+                        ],
+                        [
+                            8.87537,
+                            44.405894
+                        ],
+                        [
+                            8.879573,
+                            44.40514
+                        ],
+                        [
+                            8.879596,
+                            44.405191
+                        ],
+                        [
+                            8.87903,
+                            44.408801
+                        ],
+                        [
+                            8.881093,
+                            44.408437
+                        ],
+                        [
+                            8.881714,
+                            44.404761
+                        ],
+                        [
+                            8.883678,
+                            44.404415
+                        ],
+                        [
+                            8.883707,
+                            44.404529
+                        ],
+                        [
+                            8.883055,
+                            44.407958
+                        ],
+                        [
+                            8.883466,
+                            44.408003
+                        ],
+                        [
+                            8.883639,
+                            44.407972
+                        ],
+                        [
+                            8.884272,
+                            44.41
+                        ],
+                        [
+                            8.883862,
+                            44.410075
+                        ],
+                        [
+                            8.883479,
+                            44.408902
+                        ],
+                        [
+                            8.881599,
+                            44.409302
+                        ],
+                        [
+                            8.881561,
+                            44.409184
+                        ],
+                        [
+                            8.879722,
+                            44.409528
+                        ],
+                        [
+                            8.879962,
+                            44.410297
+                        ],
+                        [
+                            8.880396,
+                            44.410226
+                        ],
+                        [
+                            8.880579,
+                            44.41089
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAMESSIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.876642,
+                            44.408772
+                        ],
+                        [
+                            8.876375,
+                            44.408809
+                        ],
+                        [
+                            8.874902,
+                            44.405619
+                        ],
+                        [
+                            8.877222,
+                            44.405168
+                        ],
+                        [
+                            8.877271,
+                            44.405567
+                        ],
+                        [
+                            8.875339,
+                            44.405897
+                        ],
+                        [
+                            8.875546,
+                            44.406409
+                        ],
+                        [
+                            8.876007,
+                            44.406322
+                        ],
+                        [
+                            8.876906,
+                            44.408726
+                        ],
+                        [
+                            8.876642,
+                            44.408772
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAMESSIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.879891,
+                    44.409001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAMESSIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.876285,
+                    44.407006
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAMESSIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

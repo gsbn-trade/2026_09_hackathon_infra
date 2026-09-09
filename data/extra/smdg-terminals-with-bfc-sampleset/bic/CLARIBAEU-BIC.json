@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.291449,
+                            -18.458952
+                        ],
+                        [
+                            -70.29196,
+                            -18.459533
+                        ],
+                        [
+                            -70.290496,
+                            -18.460743
+                        ],
+                        [
+                            -70.289915,
+                            -18.460022
+                        ],
+                        [
+                            -70.291075,
+                            -18.459089
+                        ],
+                        [
+                            -70.291143,
+                            -18.459033
+                        ],
+                        [
+                            -70.291349,
+                            -18.458859
+                        ],
+                        [
+                            -70.291449,
+                            -18.458952
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "CLARIBAEU",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/claribaeu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.291105,
+                    -18.459398
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "CLARIBAEU",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/claribaeu/"
+            }
+        }
+    ]
+}

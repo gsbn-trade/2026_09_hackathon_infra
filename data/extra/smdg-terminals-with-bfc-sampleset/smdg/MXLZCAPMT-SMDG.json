@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.172879,
+                            17.977843
+                        ],
+                        [
+                            -102.176701,
+                            17.977746
+                        ],
+                        [
+                            -102.176854,
+                            17.977733
+                        ],
+                        [
+                            -102.177047,
+                            17.977662
+                        ],
+                        [
+                            -102.177302,
+                            17.977483
+                        ],
+                        [
+                            -102.179095,
+                            17.975664
+                        ],
+                        [
+                            -102.179195,
+                            17.975521
+                        ],
+                        [
+                            -102.179296,
+                            17.975317
+                        ],
+                        [
+                            -102.179329,
+                            17.975171
+                        ],
+                        [
+                            -102.179345,
+                            17.974934
+                        ],
+                        [
+                            -102.17872,
+                            17.96417
+                        ],
+                        [
+                            -102.171682,
+                            17.964586
+                        ],
+                        [
+                            -102.17173,
+                            17.966272
+                        ],
+                        [
+                            -102.171759,
+                            17.966946
+                        ],
+                        [
+                            -102.171899,
+                            17.969801
+                        ],
+                        [
+                            -102.171918,
+                            17.969972
+                        ],
+                        [
+                            -102.171987,
+                            17.970056
+                        ],
+                        [
+                            -102.172095,
+                            17.970092
+                        ],
+                        [
+                            -102.172256,
+                            17.97012
+                        ],
+                        [
+                            -102.172403,
+                            17.97015
+                        ],
+                        [
+                            -102.172563,
+                            17.970142
+                        ],
+                        [
+                            -102.172582,
+                            17.970261
+                        ],
+                        [
+                            -102.172564,
+                            17.970447
+                        ],
+                        [
+                            -102.172586,
+                            17.971037
+                        ],
+                        [
+                            -102.172272,
+                            17.971069
+                        ],
+                        [
+                            -102.172568,
+                            17.977844
+                        ],
+                        [
+                            -102.172879,
+                            17.977843
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.172544,
+                            17.977851
+                        ],
+                        [
+                            -102.172257,
+                            17.971061
+                        ],
+                        [
+                            -102.171671,
+                            17.971129
+                        ],
+                        [
+                            -102.171838,
+                            17.977874
+                        ],
+                        [
+                            -102.172544,
+                            17.977851
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.1745,
+                    17.97244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.172171,
+                    17.975153
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

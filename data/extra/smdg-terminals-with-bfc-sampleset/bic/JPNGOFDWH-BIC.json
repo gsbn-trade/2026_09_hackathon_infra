@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.835905,
+                            35.036288
+                        ],
+                        [
+                            136.835365,
+                            35.036421
+                        ],
+                        [
+                            136.833576,
+                            35.035978
+                        ],
+                        [
+                            136.834461,
+                            35.033483
+                        ],
+                        [
+                            136.836097,
+                            35.02966
+                        ],
+                        [
+                            136.838881,
+                            35.03022
+                        ],
+                        [
+                            136.838642,
+                            35.030976
+                        ],
+                        [
+                            136.838001,
+                            35.032531
+                        ],
+                        [
+                            136.837661,
+                            35.033137
+                        ],
+                        [
+                            136.836436,
+                            35.036192
+                        ],
+                        [
+                            136.836016,
+                            35.036082
+                        ],
+                        [
+                            136.835905,
+                            35.036288
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOFDWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngofdwh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.836412,
+                    35.033938
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOFDWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngofdwh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.99013,
+                            -3.137631
+                        ],
+                        [
+                            -59.989779,
+                            -3.138307
+                        ],
+                        [
+                            -59.989675,
+                            -3.138266
+                        ],
+                        [
+                            -59.989549,
+                            -3.138339
+                        ],
+                        [
+                            -59.98946,
+                            -3.138159
+                        ],
+                        [
+                            -59.989557,
+                            -3.137982
+                        ],
+                        [
+                            -59.989904,
+                            -3.137539
+                        ],
+                        [
+                            -59.99013,
+                            -3.137631
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOEDFY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-30",
+                "url": "https://www.bic-code.org/facility-codes/brmaoedfy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.989773,
+                    -3.137982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOEDFY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-30",
+                "url": "https://www.bic-code.org/facility-codes/brmaoedfy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

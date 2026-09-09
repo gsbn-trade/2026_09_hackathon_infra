@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.339055,
+                            53.768571
+                        ],
+                        [
+                            -0.337776,
+                            53.768501
+                        ],
+                        [
+                            -0.337213,
+                            53.769376
+                        ],
+                        [
+                            -0.338499,
+                            53.769591
+                        ],
+                        [
+                            -0.338618,
+                            53.76957
+                        ],
+                        [
+                            -0.338624,
+                            53.769553
+                        ],
+                        [
+                            -0.338919,
+                            53.768925
+                        ],
+                        [
+                            -0.339055,
+                            53.768571
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULSJSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/gbhulsjsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.33847,
+                    53.769082
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULSJSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/gbhulsjsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

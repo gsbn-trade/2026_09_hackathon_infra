@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.194066,
+                            51.010571
+                        ],
+                        [
+                            2.194799,
+                            51.008407
+                        ],
+                        [
+                            2.196597,
+                            51.008583
+                        ],
+                        [
+                            2.19622,
+                            51.010722
+                        ],
+                        [
+                            2.195928,
+                            51.010926
+                        ],
+                        [
+                            2.194066,
+                            51.010571
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKTSIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-12",
+                "url": "https://www.bic-code.org/facility-codes/frdkktsia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.195279,
+                    51.009963
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKTSIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-12",
+                "url": "https://www.bic-code.org/facility-codes/frdkktsia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

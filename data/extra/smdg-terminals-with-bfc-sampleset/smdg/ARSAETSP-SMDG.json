@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.881809,
+                            -40.802517
+                        ],
+                        [
+                            -64.879373,
+                            -40.801622
+                        ],
+                        [
+                            -64.88037,
+                            -40.800207
+                        ],
+                        [
+                            -64.880079,
+                            -40.800034
+                        ],
+                        [
+                            -64.881421,
+                            -40.797996
+                        ],
+                        [
+                            -64.882875,
+                            -40.798531
+                        ],
+                        [
+                            -64.883117,
+                            -40.798085
+                        ],
+                        [
+                            -64.884321,
+                            -40.798504
+                        ],
+                        [
+                            -64.885338,
+                            -40.797467
+                        ],
+                        [
+                            -64.885622,
+                            -40.797121
+                        ],
+                        [
+                            -64.885449,
+                            -40.796964
+                        ],
+                        [
+                            -64.885518,
+                            -40.796823
+                        ],
+                        [
+                            -64.884723,
+                            -40.796409
+                        ],
+                        [
+                            -64.884416,
+                            -40.79624
+                        ],
+                        [
+                            -64.884331,
+                            -40.796182
+                        ],
+                        [
+                            -64.884462,
+                            -40.796037
+                        ],
+                        [
+                            -64.885263,
+                            -40.796491
+                        ],
+                        [
+                            -64.885205,
+                            -40.796539
+                        ],
+                        [
+                            -64.88563,
+                            -40.796793
+                        ],
+                        [
+                            -64.885758,
+                            -40.796675
+                        ],
+                        [
+                            -64.885991,
+                            -40.796776
+                        ],
+                        [
+                            -64.88644,
+                            -40.796323
+                        ],
+                        [
+                            -64.886519,
+                            -40.796069
+                        ],
+                        [
+                            -64.888807,
+                            -40.796591
+                        ],
+                        [
+                            -64.888704,
+                            -40.796852
+                        ],
+                        [
+                            -64.887411,
+                            -40.796577
+                        ],
+                        [
+                            -64.886592,
+                            -40.796372
+                        ],
+                        [
+                            -64.885774,
+                            -40.797185
+                        ],
+                        [
+                            -64.884499,
+                            -40.798506
+                        ],
+                        [
+                            -64.884503,
+                            -40.798591
+                        ],
+                        [
+                            -64.884902,
+                            -40.798742
+                        ],
+                        [
+                            -64.885166,
+                            -40.799409
+                        ],
+                        [
+                            -64.885334,
+                            -40.799539
+                        ],
+                        [
+                            -64.884737,
+                            -40.800439
+                        ],
+                        [
+                            -64.883885,
+                            -40.801594
+                        ],
+                        [
+                            -64.882633,
+                            -40.801231
+                        ],
+                        [
+                            -64.881809,
+                            -40.802517
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARSAETSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.888817,
+                            -40.796575
+                        ],
+                        [
+                            -64.886508,
+                            -40.796084
+                        ],
+                        [
+                            -64.886567,
+                            -40.795927
+                        ],
+                        [
+                            -64.888886,
+                            -40.796425
+                        ],
+                        [
+                            -64.888817,
+                            -40.796575
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARSAETSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.884562,
+                    -40.798123
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARSAETSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.887919,
+                    -40.796317
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARSAETSP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

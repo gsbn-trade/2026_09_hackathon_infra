@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.8568,
+                            -19.8042
+                        ],
+                        [
+                            34.8606,
+                            -19.8065
+                        ],
+                        [
+                            34.8617,
+                            -19.805
+                        ],
+                        [
+                            34.8598,
+                            -19.8039
+                        ],
+                        [
+                            34.8578,
+                            -19.8027
+                        ],
+                        [
+                            34.8568,
+                            -19.8042
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWADTX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzbewadtx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.858917,
+                    -19.804417
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWADTX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/mzbewadtx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

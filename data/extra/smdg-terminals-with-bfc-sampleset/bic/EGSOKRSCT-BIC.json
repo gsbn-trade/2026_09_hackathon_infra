@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.350561,
+                            29.64484
+                        ],
+                        [
+                            32.337271,
+                            29.645055
+                        ],
+                        [
+                            32.337221,
+                            29.642756
+                        ],
+                        [
+                            32.346891,
+                            29.643002
+                        ],
+                        [
+                            32.346891,
+                            29.643692
+                        ],
+                        [
+                            32.347888,
+                            29.643711
+                        ],
+                        [
+                            32.34792,
+                            29.642899
+                        ],
+                        [
+                            32.350629,
+                            29.642929
+                        ],
+                        [
+                            32.350561,
+                            29.64484
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKRSCT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/egsokrsct/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.346204,
+                    29.643747
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKRSCT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/egsokrsct/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

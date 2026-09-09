@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.497626,
+                            -3.8778
+                        ],
+                        [
+                            -38.497712,
+                            -3.878041
+                        ],
+                        [
+                            -38.497567,
+                            -3.87806
+                        ],
+                        [
+                            -38.497732,
+                            -3.878519
+                        ],
+                        [
+                            -38.496865,
+                            -3.878602
+                        ],
+                        [
+                            -38.496687,
+                            -3.877912
+                        ],
+                        [
+                            -38.497626,
+                            -3.8778
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECCZJF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecczjf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.497402,
+                    -3.878105
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECCZJF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecczjf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

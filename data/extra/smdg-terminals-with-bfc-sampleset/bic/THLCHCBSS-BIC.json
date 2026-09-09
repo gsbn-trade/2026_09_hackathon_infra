@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.89,
+                            13.0771
+                        ],
+                        [
+                            100.895,
+                            13.0796
+                        ],
+                        [
+                            100.894,
+                            13.0813
+                        ],
+                        [
+                            100.893,
+                            13.0814
+                        ],
+                        [
+                            100.889,
+                            13.079
+                        ],
+                        [
+                            100.89,
+                            13.0771
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHCBSS",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/thlchcbss/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.891833,
+                    13.07925
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHCBSS",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/thlchcbss/"
+            }
+        }
+    ]
+}

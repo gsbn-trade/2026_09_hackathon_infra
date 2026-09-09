@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.758483,
+                            17.706308
+                        ],
+                        [
+                            -64.757181,
+                            17.702411
+                        ],
+                        [
+                            -64.756853,
+                            17.701397
+                        ],
+                        [
+                            -64.755955,
+                            17.699352
+                        ],
+                        [
+                            -64.756207,
+                            17.699207
+                        ],
+                        [
+                            -64.75616,
+                            17.698904
+                        ],
+                        [
+                            -64.756136,
+                            17.698311
+                        ],
+                        [
+                            -64.755984,
+                            17.697573
+                        ],
+                        [
+                            -64.755884,
+                            17.69722
+                        ],
+                        [
+                            -64.755789,
+                            17.697198
+                        ],
+                        [
+                            -64.755656,
+                            17.697002
+                        ],
+                        [
+                            -64.755167,
+                            17.697188
+                        ],
+                        [
+                            -64.75396,
+                            17.694694
+                        ],
+                        [
+                            -64.753699,
+                            17.694762
+                        ],
+                        [
+                            -64.752463,
+                            17.692386
+                        ],
+                        [
+                            -64.751974,
+                            17.692589
+                        ],
+                        [
+                            -64.755347,
+                            17.699393
+                        ],
+                        [
+                            -64.754487,
+                            17.699813
+                        ],
+                        [
+                            -64.756633,
+                            17.703317
+                        ],
+                        [
+                            -64.757767,
+                            17.706532
+                        ],
+                        [
+                            -64.758483,
+                            17.706308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICTDWACP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -64.755502,
+                            17.697041
+                        ],
+                        [
+                            -64.754241,
+                            17.694458
+                        ],
+                        [
+                            -64.753953,
+                            17.694681
+                        ],
+                        [
+                            -64.755159,
+                            17.697169
+                        ],
+                        [
+                            -64.755502,
+                            17.697041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICTDWACP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.755727,
+                    17.699136
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICTDWACP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.754871,
+                    17.696078
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VICTDWACP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

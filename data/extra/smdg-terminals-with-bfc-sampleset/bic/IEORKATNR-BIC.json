@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.405812,
+                            51.903844
+                        ],
+                        [
+                            -8.405527,
+                            51.903123
+                        ],
+                        [
+                            -8.405332,
+                            51.903137
+                        ],
+                        [
+                            -8.405144,
+                            51.902595
+                        ],
+                        [
+                            -8.404153,
+                            51.902754
+                        ],
+                        [
+                            -8.40143,
+                            51.903105
+                        ],
+                        [
+                            -8.40169,
+                            51.904083
+                        ],
+                        [
+                            -8.404629,
+                            51.903736
+                        ],
+                        [
+                            -8.404718,
+                            51.903988
+                        ],
+                        [
+                            -8.405812,
+                            51.903844
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKATNR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorkatnr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.404425,
+                    51.903421
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKATNR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorkatnr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

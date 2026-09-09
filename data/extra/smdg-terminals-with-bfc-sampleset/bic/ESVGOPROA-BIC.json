@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.71466,
+                            42.2407
+                        ],
+                        [
+                            -8.71456,
+                            42.2398
+                        ],
+                        [
+                            -8.71374,
+                            42.2399
+                        ],
+                        [
+                            -8.71291,
+                            42.2401
+                        ],
+                        [
+                            -8.71228,
+                            42.2404
+                        ],
+                        [
+                            -8.71275,
+                            42.2408
+                        ],
+                        [
+                            -8.71466,
+                            42.2407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVGOPROA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/esvgoproa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.713651,
+                    42.240343
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVGOPROA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/esvgoproa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

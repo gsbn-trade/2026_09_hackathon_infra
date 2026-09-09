@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.335668,
+                            22.556664
+                        ],
+                        [
+                            120.333012,
+                            22.559646
+                        ],
+                        [
+                            120.330486,
+                            22.557879
+                        ],
+                        [
+                            120.3299,
+                            22.558528
+                        ],
+                        [
+                            120.32895,
+                            22.557831
+                        ],
+                        [
+                            120.328455,
+                            22.558444
+                        ],
+                        [
+                            120.325916,
+                            22.556616
+                        ],
+                        [
+                            120.329627,
+                            22.552275
+                        ],
+                        [
+                            120.335668,
+                            22.556664
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHHJPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.325868,
+                            22.556595
+                        ],
+                        [
+                            120.325334,
+                            22.556235
+                        ],
+                        [
+                            120.328915,
+                            22.551839
+                        ],
+                        [
+                            120.329622,
+                            22.552284
+                        ],
+                        [
+                            120.325868,
+                            22.556595
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHHJPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.330854,
+                    22.557172
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHHJPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.327121,
+                    22.55471
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHHJPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.5862,
+                            -33.5896
+                        ],
+                        [
+                            -71.583401,
+                            -33.591895
+                        ],
+                        [
+                            -71.58255,
+                            -33.591245
+                        ],
+                        [
+                            -71.5811,
+                            -33.5923
+                        ],
+                        [
+                            -71.5797,
+                            -33.5912
+                        ],
+                        [
+                            -71.5792,
+                            -33.5901
+                        ],
+                        [
+                            -71.583,
+                            -33.5868
+                        ],
+                        [
+                            -71.5847,
+                            -33.5881
+                        ],
+                        [
+                            -71.5854,
+                            -33.589
+                        ],
+                        [
+                            -71.5862,
+                            -33.5896
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILGWF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsailgwf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.583145,
+                    -33.589984
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAILGWF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsailgwf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

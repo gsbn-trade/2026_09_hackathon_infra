@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.679289,
+                            40.996624
+                        ],
+                        [
+                            28.679129,
+                            40.996283
+                        ],
+                        [
+                            28.67992,
+                            40.994015
+                        ],
+                        [
+                            28.680961,
+                            40.994387
+                        ],
+                        [
+                            28.681135,
+                            40.994267
+                        ],
+                        [
+                            28.681836,
+                            40.995073
+                        ],
+                        [
+                            28.680871,
+                            40.995733
+                        ],
+                        [
+                            28.679289,
+                            40.996624
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTBPXA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-11-28",
+                "url": "https://www.bic-code.org/facility-codes/tristbpxa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.680304,
+                    40.995376
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTBPXA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-11-28",
+                "url": "https://www.bic-code.org/facility-codes/tristbpxa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

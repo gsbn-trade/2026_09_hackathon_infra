@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.764178,
+                            20.835869
+                        ],
+                        [
+                            106.764529,
+                            20.835256
+                        ],
+                        [
+                            106.764911,
+                            20.834648
+                        ],
+                        [
+                            106.766472,
+                            20.835455
+                        ],
+                        [
+                            106.765691,
+                            20.836702
+                        ],
+                        [
+                            106.764178,
+                            20.835869
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCIMC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "remarks": "CIMC DEPOT",
+                "url": "https://www.bic-code.org/facility-codes/vnhphcimc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.764993,
+                    20.835633
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCIMC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "CIMC DEPOT",
+                "url": "https://www.bic-code.org/facility-codes/vnhphcimc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

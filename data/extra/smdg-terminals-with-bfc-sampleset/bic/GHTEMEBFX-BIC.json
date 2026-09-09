@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.033313,
+                            5.682441
+                        ],
+                        [
+                            0.036376,
+                            5.683621
+                        ],
+                        [
+                            0.036736,
+                            5.682932
+                        ],
+                        [
+                            0.037449,
+                            5.683231
+                        ],
+                        [
+                            0.037803,
+                            5.682558
+                        ],
+                        [
+                            0.034676,
+                            5.681309
+                        ],
+                        [
+                            0.034359,
+                            5.681998
+                        ],
+                        [
+                            0.033592,
+                            5.681704
+                        ],
+                        [
+                            0.033313,
+                            5.682441
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMEBFX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-20",
+                "url": "https://www.bic-code.org/facility-codes/ghtemebfx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.035291,
+                    5.682471
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMEBFX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-20",
+                "url": "https://www.bic-code.org/facility-codes/ghtemebfx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.131912,
+                            -27.442744
+                        ],
+                        [
+                            153.13013,
+                            -27.444248
+                        ],
+                        [
+                            153.133447,
+                            -27.444807
+                        ],
+                        [
+                            153.135056,
+                            -27.443187
+                        ],
+                        [
+                            153.131912,
+                            -27.442744
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEUZYK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aubneuzyk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.132491,
+                    -27.443546
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEUZYK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aubneuzyk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

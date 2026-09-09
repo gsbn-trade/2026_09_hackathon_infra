@@ -1,0 +1,337 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.014795,
+                            51.954459
+                        ],
+                        [
+                            4.015291,
+                            51.954502
+                        ],
+                        [
+                            4.016366,
+                            51.954333
+                        ],
+                        [
+                            4.017337,
+                            51.95432
+                        ],
+                        [
+                            4.018007,
+                            51.954406
+                        ],
+                        [
+                            4.01819,
+                            51.954696
+                        ],
+                        [
+                            4.017824,
+                            51.955054
+                        ],
+                        [
+                            4.017309,
+                            51.955536
+                        ],
+                        [
+                            4.017073,
+                            51.955801
+                        ],
+                        [
+                            4.016961,
+                            51.956002
+                        ],
+                        [
+                            4.016848,
+                            51.95629
+                        ],
+                        [
+                            4.016697,
+                            51.956441
+                        ],
+                        [
+                            4.016693,
+                            51.956518
+                        ],
+                        [
+                            4.016583,
+                            51.956677
+                        ],
+                        [
+                            4.016559,
+                            51.956882
+                        ],
+                        [
+                            4.016709,
+                            51.957143
+                        ],
+                        [
+                            4.0159,
+                            51.95736
+                        ],
+                        [
+                            4.01537,
+                            51.95727
+                        ],
+                        [
+                            4.013214,
+                            51.955522
+                        ],
+                        [
+                            4.007441,
+                            51.958126
+                        ],
+                        [
+                            3.997965,
+                            51.950518
+                        ],
+                        [
+                            3.997096,
+                            51.95067
+                        ],
+                        [
+                            3.996774,
+                            51.950538
+                        ],
+                        [
+                            3.997128,
+                            51.9502
+                        ],
+                        [
+                            3.982135,
+                            51.937838
+                        ],
+                        [
+                            3.983702,
+                            51.937242
+                        ],
+                        [
+                            3.985463,
+                            51.937247
+                        ],
+                        [
+                            3.985936,
+                            51.937244
+                        ],
+                        [
+                            3.986195,
+                            51.937147
+                        ],
+                        [
+                            3.986829,
+                            51.936833
+                        ],
+                        [
+                            3.988416,
+                            51.936842
+                        ],
+                        [
+                            3.989296,
+                            51.936889
+                        ],
+                        [
+                            3.989499,
+                            51.937037
+                        ],
+                        [
+                            3.989444,
+                            51.937221
+                        ],
+                        [
+                            3.989641,
+                            51.937247
+                        ],
+                        [
+                            3.989698,
+                            51.937071
+                        ],
+                        [
+                            3.989935,
+                            51.936947
+                        ],
+                        [
+                            3.991283,
+                            51.937192
+                        ],
+                        [
+                            3.992783,
+                            51.937529
+                        ],
+                        [
+                            4.011956,
+                            51.952951
+                        ],
+                        [
+                            4.013834,
+                            51.953639
+                        ],
+                        [
+                            4.015041,
+                            51.953804
+                        ],
+                        [
+                            4.014795,
+                            51.954459
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.007395,
+                            51.958155
+                        ],
+                        [
+                            4.006346,
+                            51.958554
+                        ],
+                        [
+                            3.997094,
+                            51.950856
+                        ],
+                        [
+                            3.997958,
+                            51.950571
+                        ],
+                        [
+                            4.007395,
+                            51.958155
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.007518,
+                            51.958155
+                        ],
+                        [
+                            4.013101,
+                            51.955532
+                        ],
+                        [
+                            4.013563,
+                            51.955931
+                        ],
+                        [
+                            4.008043,
+                            51.958554
+                        ],
+                        [
+                            4.007518,
+                            51.958155
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.004326,
+                    51.948643
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.003238,
+                    51.955258
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.009949,
+                    51.957265
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLMVII",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpsexperience.arcgis.comexperience0127b94d675f48dd80702b5b81be6020drafttrueorgportofrotterdam",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

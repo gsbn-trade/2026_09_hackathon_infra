@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -34.954216,
+                            -8.191712
+                        ],
+                        [
+                            -34.954294,
+                            -8.19188
+                        ],
+                        [
+                            -34.95376,
+                            -8.192119
+                        ],
+                        [
+                            -34.953688,
+                            -8.191942
+                        ],
+                        [
+                            -34.953964,
+                            -8.191825
+                        ],
+                        [
+                            -34.954216,
+                            -8.191712
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUABEIX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuabeix/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.954023,
+                    -8.191865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUABEIX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuabeix/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

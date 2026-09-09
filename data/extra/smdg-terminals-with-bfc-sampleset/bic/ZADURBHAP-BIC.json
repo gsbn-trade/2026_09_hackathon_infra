@@ -1,0 +1,127 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.027572,
+                            -29.883463
+                        ],
+                        [
+                            31.027668,
+                            -29.883533
+                        ],
+                        [
+                            31.027667,
+                            -29.883649
+                        ],
+                        [
+                            31.027515,
+                            -29.884178
+                        ],
+                        [
+                            31.027285,
+                            -29.884645
+                        ],
+                        [
+                            31.027531,
+                            -29.884721
+                        ],
+                        [
+                            31.027772,
+                            -29.884549
+                        ],
+                        [
+                            31.028003,
+                            -29.884274
+                        ],
+                        [
+                            31.028213,
+                            -29.884029
+                        ],
+                        [
+                            31.028808,
+                            -29.883224
+                        ],
+                        [
+                            31.02899,
+                            -29.883064
+                        ],
+                        [
+                            31.030166,
+                            -29.882329
+                        ],
+                        [
+                            31.030406,
+                            -29.882238
+                        ],
+                        [
+                            31.030593,
+                            -29.882294
+                        ],
+                        [
+                            31.032865,
+                            -29.876943
+                        ],
+                        [
+                            31.032942,
+                            -29.876173
+                        ],
+                        [
+                            31.029731,
+                            -29.876811
+                        ],
+                        [
+                            31.027266,
+                            -29.882623
+                        ],
+                        [
+                            31.027124,
+                            -29.883083
+                        ],
+                        [
+                            31.027269,
+                            -29.883426
+                        ],
+                        [
+                            31.027572,
+                            -29.883463
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURBHAP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-09",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://www.bic-code.org/facility-codes/zadurbhap/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.028712,
+                    -29.88251
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURBHAP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-09",
+                "remarks": "Based on facility-provided BIC geofence. To be verified by the facility, especially - gate area. - boundary between Pier 1 and Pier 2. ",
+                "url": "https://www.bic-code.org/facility-codes/zadurbhap/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

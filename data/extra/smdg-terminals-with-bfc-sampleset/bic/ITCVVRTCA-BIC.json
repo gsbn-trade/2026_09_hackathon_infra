@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.772708,
+                            42.104152
+                        ],
+                        [
+                            11.773569,
+                            42.104593
+                        ],
+                        [
+                            11.774138,
+                            42.104038
+                        ],
+                        [
+                            11.776309,
+                            42.105256
+                        ],
+                        [
+                            11.775594,
+                            42.10595
+                        ],
+                        [
+                            11.773683,
+                            42.107959
+                        ],
+                        [
+                            11.773455,
+                            42.108809
+                        ],
+                        [
+                            11.772764,
+                            42.108411
+                        ],
+                        [
+                            11.772837,
+                            42.108309
+                        ],
+                        [
+                            11.770077,
+                            42.106811
+                        ],
+                        [
+                            11.772708,
+                            42.104152
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-06-26",
+                "url": "https://www.bic-code.org/facility-codes/itcvvrtca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.77344,
+                    42.106222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://www.bic-code.org/facility-codes/itcvvrtca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

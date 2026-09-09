@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -63.622456,
+                            44.66794
+                        ],
+                        [
+                            -63.623368,
+                            44.668032
+                        ],
+                        [
+                            -63.624205,
+                            44.668306
+                        ],
+                        [
+                            -63.624817,
+                            44.669155
+                        ],
+                        [
+                            -63.624645,
+                            44.670323
+                        ],
+                        [
+                            -63.625278,
+                            44.670498
+                        ],
+                        [
+                            -63.624634,
+                            44.671589
+                        ],
+                        [
+                            -63.625385,
+                            44.671749
+                        ],
+                        [
+                            -63.628722,
+                            44.665866
+                        ],
+                        [
+                            -63.629162,
+                            44.665958
+                        ],
+                        [
+                            -63.63061,
+                            44.663432
+                        ],
+                        [
+                            -63.627923,
+                            44.663417
+                        ],
+                        [
+                            -63.626636,
+                            44.663715
+                        ],
+                        [
+                            -63.625498,
+                            44.664111
+                        ],
+                        [
+                            -63.623953,
+                            44.665088
+                        ],
+                        [
+                            -63.623224,
+                            44.665767
+                        ],
+                        [
+                            -63.622456,
+                            44.66794
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAHALFCOVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -63.625397,
+                            44.671765
+                        ],
+                        [
+                            -63.626838,
+                            44.672128
+                        ],
+                        [
+                            -63.630232,
+                            44.666393
+                        ],
+                        [
+                            -63.628701,
+                            44.665891
+                        ],
+                        [
+                            -63.625397,
+                            44.671765
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAHALFCOVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63.625469,
+                    44.667229
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAHALFCOVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63.627313,
+                    44.669588
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAHALFCOVE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

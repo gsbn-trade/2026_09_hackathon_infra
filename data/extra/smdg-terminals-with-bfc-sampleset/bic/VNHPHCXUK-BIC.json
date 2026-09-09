@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.784726,
+                            20.831923
+                        ],
+                        [
+                            106.784063,
+                            20.831066
+                        ],
+                        [
+                            106.784179,
+                            20.830963
+                        ],
+                        [
+                            106.782603,
+                            20.829018
+                        ],
+                        [
+                            106.784604,
+                            20.82763
+                        ],
+                        [
+                            106.784842,
+                            20.827947
+                        ],
+                        [
+                            106.786339,
+                            20.826959
+                        ],
+                        [
+                            106.788339,
+                            20.829633
+                        ],
+                        [
+                            106.784726,
+                            20.831923
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCXUK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-12",
+                "url": "https://www.bic-code.org/facility-codes/vnhphcxuk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.784936,
+                    20.829674
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCXUK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-12",
+                "url": "https://www.bic-code.org/facility-codes/vnhphcxuk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.329822,
+                            43.353077
+                        ],
+                        [
+                            5.330484,
+                            43.353018
+                        ],
+                        [
+                            5.33176,
+                            43.352938
+                        ],
+                        [
+                            5.332255,
+                            43.352784
+                        ],
+                        [
+                            5.332241,
+                            43.352725
+                        ],
+                        [
+                            5.33166,
+                            43.352477
+                        ],
+                        [
+                            5.331549,
+                            43.352559
+                        ],
+                        [
+                            5.331196,
+                            43.352303
+                        ],
+                        [
+                            5.330357,
+                            43.351269
+                        ],
+                        [
+                            5.33012,
+                            43.351362
+                        ],
+                        [
+                            5.330348,
+                            43.351668
+                        ],
+                        [
+                            5.33005,
+                            43.351774
+                        ],
+                        [
+                            5.33017,
+                            43.351943
+                        ],
+                        [
+                            5.32919,
+                            43.352341
+                        ],
+                        [
+                            5.329822,
+                            43.353077
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMRSPROA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-13",
+                "url": "https://www.bic-code.org/facility-codes/frmrsproa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.330735,
+                    43.352354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMRSPROA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-13",
+                "url": "https://www.bic-code.org/facility-codes/frmrsproa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

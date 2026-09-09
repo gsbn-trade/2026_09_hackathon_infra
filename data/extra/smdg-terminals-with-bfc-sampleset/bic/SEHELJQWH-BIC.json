@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.756959,
+                            56.067928
+                        ],
+                        [
+                            12.756369,
+                            56.06751
+                        ],
+                        [
+                            12.756316,
+                            56.06742
+                        ],
+                        [
+                            12.756487,
+                            56.066983
+                        ],
+                        [
+                            12.756852,
+                            56.066839
+                        ],
+                        [
+                            12.75726,
+                            56.066689
+                        ],
+                        [
+                            12.75741,
+                            56.066521
+                        ],
+                        [
+                            12.757464,
+                            56.0663
+                        ],
+                        [
+                            12.757539,
+                            56.065707
+                        ],
+                        [
+                            12.761069,
+                            56.06588
+                        ],
+                        [
+                            12.760961,
+                            56.066293
+                        ],
+                        [
+                            12.756959,
+                            56.067928
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELJQWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/seheljqwh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.757637,
+                    56.066833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELJQWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/seheljqwh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

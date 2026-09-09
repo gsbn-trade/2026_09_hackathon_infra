@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.373916,
+                            5.381864
+                        ],
+                        [
+                            100.374367,
+                            5.381202
+                        ],
+                        [
+                            100.375289,
+                            5.381747
+                        ],
+                        [
+                            100.376405,
+                            5.384086
+                        ],
+                        [
+                            100.373916,
+                            5.381864
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "MYPENDUID",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-01-10",
+                "remarks": "MULTIMODAL FREIGHT SDN BHD PCT 1",
+                "url": "https://www.bic-code.org/facility-codes/mypenduid/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374779,
+                    5.382153
+                ]
+            },
+            "properties": {
+                "code": "MYPENDUID",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-01-10",
+                "remarks": "MULTIMODAL FREIGHT SDN BHD PCT 1",
+                "url": "https://www.bic-code.org/facility-codes/mypenduid/"
+            }
+        }
+    ]
+}

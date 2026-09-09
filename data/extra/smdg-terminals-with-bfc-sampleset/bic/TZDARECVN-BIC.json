@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.293027,
+                            -6.841956
+                        ],
+                        [
+                            39.292867,
+                            -6.841849
+                        ],
+                        [
+                            39.292423,
+                            -6.842126
+                        ],
+                        [
+                            39.292004,
+                            -6.84259
+                        ],
+                        [
+                            39.291358,
+                            -6.843529
+                        ],
+                        [
+                            39.291847,
+                            -6.843919
+                        ],
+                        [
+                            39.292433,
+                            -6.843219
+                        ],
+                        [
+                            39.292195,
+                            -6.843047
+                        ],
+                        [
+                            39.292441,
+                            -6.84279
+                        ],
+                        [
+                            39.292392,
+                            -6.842731
+                        ],
+                        [
+                            39.292832,
+                            -6.842215
+                        ],
+                        [
+                            39.292891,
+                            -6.842261
+                        ],
+                        [
+                            39.292959,
+                            -6.841981
+                        ],
+                        [
+                            39.293,
+                            -6.842014
+                        ],
+                        [
+                            39.293027,
+                            -6.841956
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARECVN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-26",
+                "url": "https://www.bic-code.org/facility-codes/tzdarecvn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.292513,
+                    -6.842546
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARECVN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-26",
+                "url": "https://www.bic-code.org/facility-codes/tzdarecvn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

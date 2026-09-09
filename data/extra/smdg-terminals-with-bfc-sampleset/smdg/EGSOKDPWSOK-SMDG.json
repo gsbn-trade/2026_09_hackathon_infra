@@ -1,0 +1,253 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.346968,
+                            29.649591
+                        ],
+                        [
+                            32.346443,
+                            29.649719
+                        ],
+                        [
+                            32.344415,
+                            29.649701
+                        ],
+                        [
+                            32.344407,
+                            29.648015
+                        ],
+                        [
+                            32.352492,
+                            29.64803
+                        ],
+                        [
+                            32.352518,
+                            29.648491
+                        ],
+                        [
+                            32.352493,
+                            29.648536
+                        ],
+                        [
+                            32.35188,
+                            29.649603
+                        ],
+                        [
+                            32.35205,
+                            29.649595
+                        ],
+                        [
+                            32.352895,
+                            29.649599
+                        ],
+                        [
+                            32.352957,
+                            29.649639
+                        ],
+                        [
+                            32.349097,
+                            29.655434
+                        ],
+                        [
+                            32.352215,
+                            29.657026
+                        ],
+                        [
+                            32.356053,
+                            29.651168
+                        ],
+                        [
+                            32.356081,
+                            29.651205
+                        ],
+                        [
+                            32.356205,
+                            29.651589
+                        ],
+                        [
+                            32.359022,
+                            29.653015
+                        ],
+                        [
+                            32.35728,
+                            29.655654
+                        ],
+                        [
+                            32.357737,
+                            29.655883
+                        ],
+                        [
+                            32.354486,
+                            29.660774
+                        ],
+                        [
+                            32.354068,
+                            29.660511
+                        ],
+                        [
+                            32.346567,
+                            29.656723
+                        ],
+                        [
+                            32.344121,
+                            29.655492
+                        ],
+                        [
+                            32.343807,
+                            29.655964
+                        ],
+                        [
+                            32.343279,
+                            29.655706
+                        ],
+                        [
+                            32.343112,
+                            29.655625
+                        ],
+                        [
+                            32.343031,
+                            29.655581
+                        ],
+                        [
+                            32.343602,
+                            29.654709
+                        ],
+                        [
+                            32.343838,
+                            29.654517
+                        ],
+                        [
+                            32.343801,
+                            29.654468
+                        ],
+                        [
+                            32.343753,
+                            29.654404
+                        ],
+                        [
+                            32.343879,
+                            29.65431
+                        ],
+                        [
+                            32.346968,
+                            29.649591
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKDPWSOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.350013,
+                            29.65582
+                        ],
+                        [
+                            32.349126,
+                            29.65549
+                        ],
+                        [
+                            32.353032,
+                            29.649599
+                        ],
+                        [
+                            32.351977,
+                            29.649489
+                        ],
+                        [
+                            32.352631,
+                            29.648517
+                        ],
+                        [
+                            32.352547,
+                            29.648003
+                        ],
+                        [
+                            32.344354,
+                            29.648003
+                        ],
+                        [
+                            32.344312,
+                            29.646993
+                        ],
+                        [
+                            32.354912,
+                            29.647195
+                        ],
+                        [
+                            32.350013,
+                            29.65582
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKDPWSOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.34944,
+                    29.653026
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKDPWSOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.350292,
+                    29.650493
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKDPWSOK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

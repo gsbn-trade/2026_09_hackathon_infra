@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.994252,
+                            57.762476
+                        ],
+                        [
+                            11.994154,
+                            57.762461
+                        ],
+                        [
+                            11.994126,
+                            57.762335
+                        ],
+                        [
+                            11.994133,
+                            57.761997
+                        ],
+                        [
+                            11.994189,
+                            57.761685
+                        ],
+                        [
+                            11.994328,
+                            57.761181
+                        ],
+                        [
+                            11.996833,
+                            57.760843
+                        ],
+                        [
+                            11.997585,
+                            57.762071
+                        ],
+                        [
+                            11.996318,
+                            57.762294
+                        ],
+                        [
+                            11.994252,
+                            57.762476
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTAAYP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-17",
+                "url": "https://www.bic-code.org/facility-codes/segotaayp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.995017,
+                    57.761982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTAAYP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://www.bic-code.org/facility-codes/segotaayp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

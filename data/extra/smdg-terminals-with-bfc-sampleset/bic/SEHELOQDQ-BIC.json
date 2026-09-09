@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.698692,
+                            56.033326
+                        ],
+                        [
+                            12.695238,
+                            56.038183
+                        ],
+                        [
+                            12.694737,
+                            56.038733
+                        ],
+                        [
+                            12.693903,
+                            56.038314
+                        ],
+                        [
+                            12.693853,
+                            56.038071
+                        ],
+                        [
+                            12.693903,
+                            56.037754
+                        ],
+                        [
+                            12.692501,
+                            56.037232
+                        ],
+                        [
+                            12.693402,
+                            56.036514
+                        ],
+                        [
+                            12.694387,
+                            56.035433
+                        ],
+                        [
+                            12.695705,
+                            56.033913
+                        ],
+                        [
+                            12.695889,
+                            56.033839
+                        ],
+                        [
+                            12.696623,
+                            56.032813
+                        ],
+                        [
+                            12.698692,
+                            56.033326
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELOQDQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/seheloqdq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.695194,
+                    56.035958
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELOQDQ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/seheloqdq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

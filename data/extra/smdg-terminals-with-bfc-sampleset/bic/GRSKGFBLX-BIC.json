@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            22.883412,
+                            40.651961
+                        ],
+                        [
+                            22.88209,
+                            40.652066
+                        ],
+                        [
+                            22.881992,
+                            40.651717
+                        ],
+                        [
+                            22.882801,
+                            40.650884
+                        ],
+                        [
+                            22.883408,
+                            40.651937
+                        ],
+                        [
+                            22.883412,
+                            40.651961
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGFBLX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-11",
+                "url": "https://www.bic-code.org/facility-codes/grskgfblx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.882852,
+                    40.651754
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGFBLX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-11",
+                "url": "https://www.bic-code.org/facility-codes/grskgfblx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

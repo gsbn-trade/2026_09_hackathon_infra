@@ -1,0 +1,219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.892279,
+                            13.057201
+                        ],
+                        [
+                            100.888027,
+                            13.055921
+                        ],
+                        [
+                            100.887467,
+                            13.056241
+                        ],
+                        [
+                            100.887523,
+                            13.056761
+                        ],
+                        [
+                            100.888592,
+                            13.057362
+                        ],
+                        [
+                            100.890037,
+                            13.05783
+                        ],
+                        [
+                            100.887804,
+                            13.061926
+                        ],
+                        [
+                            100.884508,
+                            13.059997
+                        ],
+                        [
+                            100.884824,
+                            13.059598
+                        ],
+                        [
+                            100.885242,
+                            13.059864
+                        ],
+                        [
+                            100.887355,
+                            13.05608
+                        ],
+                        [
+                            100.888258,
+                            13.05462
+                        ],
+                        [
+                            100.889025,
+                            13.052029
+                        ],
+                        [
+                            100.893593,
+                            13.053308
+                        ],
+                        [
+                            100.892279,
+                            13.057201
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.889025,
+                            13.051973
+                        ],
+                        [
+                            100.889225,
+                            13.051445
+                        ],
+                        [
+                            100.893793,
+                            13.052696
+                        ],
+                        [
+                            100.893621,
+                            13.053308
+                        ],
+                        [
+                            100.889025,
+                            13.051973
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.88742,
+                            13.062398
+                        ],
+                        [
+                            100.884125,
+                            13.060485
+                        ],
+                        [
+                            100.884432,
+                            13.060019
+                        ],
+                        [
+                            100.887796,
+                            13.061949
+                        ],
+                        [
+                            100.88742,
+                            13.062398
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.888454,
+                    13.057063
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.890938,
+                    13.052279
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.886239,
+                    13.06145
+                ]
+            },
+            "properties": {
+                "code": "THLCHLCIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.177963,
+                            -27.362296
+                        ],
+                        [
+                            153.172918,
+                            -27.36944
+                        ],
+                        [
+                            153.174134,
+                            -27.37012
+                        ],
+                        [
+                            153.174171,
+                            -27.370353
+                        ],
+                        [
+                            153.176213,
+                            -27.371487
+                        ],
+                        [
+                            153.176244,
+                            -27.371502
+                        ],
+                        [
+                            153.176592,
+                            -27.371002
+                        ],
+                        [
+                            153.176427,
+                            -27.370911
+                        ],
+                        [
+                            153.176842,
+                            -27.370341
+                        ],
+                        [
+                            153.177008,
+                            -27.370364
+                        ],
+                        [
+                            153.178766,
+                            -27.367895
+                        ],
+                        [
+                            153.179843,
+                            -27.368489
+                        ],
+                        [
+                            153.180012,
+                            -27.368474
+                        ],
+                        [
+                            153.182449,
+                            -27.364989
+                        ],
+                        [
+                            153.18248,
+                            -27.36489
+                        ],
+                        [
+                            153.182455,
+                            -27.36483
+                        ],
+                        [
+                            153.182333,
+                            -27.364755
+                        ],
+                        [
+                            153.181335,
+                            -27.364199
+                        ],
+                        [
+                            153.177963,
+                            -27.362296
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEPTFIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.177938,
+                            -27.362296
+                        ],
+                        [
+                            153.177102,
+                            -27.361813
+                        ],
+                        [
+                            153.172263,
+                            -27.369136
+                        ],
+                        [
+                            153.172926,
+                            -27.369466
+                        ],
+                        [
+                            153.177938,
+                            -27.362296
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEPTFIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.178218,
+                    -27.367823
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEPTFIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.175633,
+                    -27.365001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEPTFIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMBJTV",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehambjtv/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.9843598,
+                            53.4961368
+                        ],
+                        [
+                            9.9833996,
+                            53.4966506
+                        ],
+                        [
+                            9.9830563,
+                            53.4967878
+                        ],
+                        [
+                            9.9827237,
+                            53.4968134
+                        ],
+                        [
+                            9.9826379,
+                            53.4967208
+                        ],
+                        [
+                            9.9826983,
+                            53.4964839
+                        ],
+                        [
+                            9.9826083,
+                            53.4963682
+                        ],
+                        [
+                            9.9824662,
+                            53.4963697
+                        ],
+                        [
+                            9.9824474,
+                            53.4961392
+                        ],
+                        [
+                            9.9823509,
+                            53.4959374
+                        ],
+                        [
+                            9.9824501,
+                            53.4957635
+                        ],
+                        [
+                            9.9824018,
+                            53.4955177
+                        ],
+                        [
+                            9.9824287,
+                            53.4951284
+                        ],
+                        [
+                            9.9827398,
+                            53.4951507
+                        ],
+                        [
+                            9.9843598,
+                            53.4961368
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.982875,
+                    53.49614
+                ]
+            },
+            "properties": {
+                "code": "DEHAMBJTV",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehambjtv/"
+            }
+        }
+    ]
+}

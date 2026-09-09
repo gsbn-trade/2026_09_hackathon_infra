@@ -1,0 +1,389 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.751587,
+                            25.15237
+                        ],
+                        [
+                            121.746521,
+                            25.149992
+                        ],
+                        [
+                            121.746408,
+                            25.150061
+                        ],
+                        [
+                            121.745945,
+                            25.150351
+                        ],
+                        [
+                            121.745724,
+                            25.150281
+                        ],
+                        [
+                            121.745216,
+                            25.149871
+                        ],
+                        [
+                            121.745558,
+                            25.149622
+                        ],
+                        [
+                            121.745967,
+                            25.148962
+                        ],
+                        [
+                            121.746143,
+                            25.148752
+                        ],
+                        [
+                            121.746673,
+                            25.148242
+                        ],
+                        [
+                            121.746994,
+                            25.148112
+                        ],
+                        [
+                            121.747336,
+                            25.147952
+                        ],
+                        [
+                            121.747424,
+                            25.147752
+                        ],
+                        [
+                            121.747391,
+                            25.147402
+                        ],
+                        [
+                            121.747446,
+                            25.146973
+                        ],
+                        [
+                            121.747491,
+                            25.146683
+                        ],
+                        [
+                            121.747833,
+                            25.146063
+                        ],
+                        [
+                            121.748208,
+                            25.145683
+                        ],
+                        [
+                            121.748882,
+                            25.145693
+                        ],
+                        [
+                            121.749299,
+                            25.14534
+                        ],
+                        [
+                            121.749909,
+                            25.145673
+                        ],
+                        [
+                            121.74939,
+                            25.146463
+                        ],
+                        [
+                            121.750317,
+                            25.146923
+                        ],
+                        [
+                            121.749191,
+                            25.148782
+                        ],
+                        [
+                            121.752703,
+                            25.150521
+                        ],
+                        [
+                            121.751587,
+                            25.15237
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.747186,
+                            25.150285
+                        ],
+                        [
+                            121.751587,
+                            25.152444
+                        ],
+                        [
+                            121.752785,
+                            25.150524
+                        ],
+                        [
+                            121.749229,
+                            25.148745
+                        ],
+                        [
+                            121.749527,
+                            25.148335
+                        ],
+                        [
+                            121.752774,
+                            25.149935
+                        ],
+                        [
+                            121.753315,
+                            25.150245
+                        ],
+                        [
+                            121.753138,
+                            25.150604
+                        ],
+                        [
+                            121.751736,
+                            25.152993
+                        ],
+                        [
+                            121.746954,
+                            25.150704
+                        ],
+                        [
+                            121.747186,
+                            25.150285
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.749415,
+                            25.142193
+                        ],
+                        [
+                            121.749536,
+                            25.142281
+                        ],
+                        [
+                            121.753582,
+                            25.145069
+                        ],
+                        [
+                            121.753633,
+                            25.145152
+                        ],
+                        [
+                            121.749909,
+                            25.144831
+                        ],
+                        [
+                            121.7499,
+                            25.145667
+                        ],
+                        [
+                            121.749283,
+                            25.145329
+                        ],
+                        [
+                            121.749639,
+                            25.145025
+                        ],
+                        [
+                            121.749835,
+                            25.144493
+                        ],
+                        [
+                            121.74962,
+                            25.143876
+                        ],
+                        [
+                            121.748939,
+                            25.143386
+                        ],
+                        [
+                            121.748589,
+                            25.14312
+                        ],
+                        [
+                            121.748664,
+                            25.142987
+                        ],
+                        [
+                            121.748775,
+                            25.14287
+                        ],
+                        [
+                            121.748937,
+                            25.142733
+                        ],
+                        [
+                            121.749415,
+                            25.142193
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.75365,
+                            25.145122
+                        ],
+                        [
+                            121.749414,
+                            25.142179
+                        ],
+                        [
+                            121.749658,
+                            25.141909
+                        ],
+                        [
+                            121.753917,
+                            25.14488
+                        ],
+                        [
+                            121.75365,
+                            25.145122
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.747967,
+                    25.148342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.750492,
+                    25.150464
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.749854,
+                    25.143825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.752058,
+                    25.143842
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELTIPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

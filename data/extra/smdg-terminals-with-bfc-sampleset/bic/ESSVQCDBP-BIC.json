@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.002296,
+                            37.359743
+                        ],
+                        [
+                            -6.002468,
+                            37.359991
+                        ],
+                        [
+                            -6.002918,
+                            37.359812
+                        ],
+                        [
+                            -6.003412,
+                            37.358839
+                        ],
+                        [
+                            -6.003347,
+                            37.358063
+                        ],
+                        [
+                            -6.003047,
+                            37.357586
+                        ],
+                        [
+                            -6.002465,
+                            37.35712
+                        ],
+                        [
+                            -6.002296,
+                            37.359743
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSVQCDBP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/essvqcdbp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.002781,
+                    37.358862
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSVQCDBP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/essvqcdbp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

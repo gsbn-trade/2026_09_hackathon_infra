@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.285801,
+                            40.837245
+                        ],
+                        [
+                            14.286702,
+                            40.840006
+                        ],
+                        [
+                            14.287805,
+                            40.839559
+                        ],
+                        [
+                            14.288125,
+                            40.839991
+                        ],
+                        [
+                            14.288321,
+                            40.840283
+                        ],
+                        [
+                            14.288106,
+                            40.840372
+                        ],
+                        [
+                            14.287812,
+                            40.84048
+                        ],
+                        [
+                            14.287511,
+                            40.840579
+                        ],
+                        [
+                            14.287244,
+                            40.840717
+                        ],
+                        [
+                            14.287303,
+                            40.840801
+                        ],
+                        [
+                            14.287185,
+                            40.840959
+                        ],
+                        [
+                            14.287002,
+                            40.841305
+                        ],
+                        [
+                            14.28336,
+                            40.842836
+                        ],
+                        [
+                            14.282067,
+                            40.84327
+                        ],
+                        [
+                            14.281793,
+                            40.842984
+                        ],
+                        [
+                            14.281897,
+                            40.842935
+                        ],
+                        [
+                            14.281845,
+                            40.842787
+                        ],
+                        [
+                            14.28195,
+                            40.842609
+                        ],
+                        [
+                            14.283412,
+                            40.842115
+                        ],
+                        [
+                            14.283281,
+                            40.841888
+                        ],
+                        [
+                            14.283477,
+                            40.841809
+                        ],
+                        [
+                            14.283321,
+                            40.841532
+                        ],
+                        [
+                            14.283203,
+                            40.841552
+                        ],
+                        [
+                            14.282994,
+                            40.841295
+                        ],
+                        [
+                            14.28507,
+                            40.840505
+                        ],
+                        [
+                            14.284208,
+                            40.837907
+                        ],
+                        [
+                            14.285801,
+                            40.837245
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.293569,
+                            40.833626
+                        ],
+                        [
+                            14.298948,
+                            40.829734
+                        ],
+                        [
+                            14.299758,
+                            40.830307
+                        ],
+                        [
+                            14.298426,
+                            40.831354
+                        ],
+                        [
+                            14.299601,
+                            40.832421
+                        ],
+                        [
+                            14.300551,
+                            40.833206
+                        ],
+                        [
+                            14.29965,
+                            40.833653
+                        ],
+                        [
+                            14.299539,
+                            40.833747
+                        ],
+                        [
+                            14.299668,
+                            40.833921
+                        ],
+                        [
+                            14.299941,
+                            40.833962
+                        ],
+                        [
+                            14.299269,
+                            40.834315
+                        ],
+                        [
+                            14.298262,
+                            40.83485
+                        ],
+                        [
+                            14.298916,
+                            40.835542
+                        ],
+                        [
+                            14.297723,
+                            40.836132
+                        ],
+                        [
+                            14.29793,
+                            40.836372
+                        ],
+                        [
+                            14.293178,
+                            40.83898
+                        ],
+                        [
+                            14.292734,
+                            40.838288
+                        ],
+                        [
+                            14.292864,
+                            40.838051
+                        ],
+                        [
+                            14.295365,
+                            40.836767
+                        ],
+                        [
+                            14.295254,
+                            40.836629
+                        ],
+                        [
+                            14.295972,
+                            40.836234
+                        ],
+                        [
+                            14.293569,
+                            40.833626
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.286779,
+                            40.839895
+                        ],
+                        [
+                            14.285818,
+                            40.837177
+                        ],
+                        [
+                            14.286436,
+                            40.836831
+                        ],
+                        [
+                            14.287603,
+                            40.839583
+                        ],
+                        [
+                            14.286779,
+                            40.839895
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.294924,
+                            40.836225
+                        ],
+                        [
+                            14.29465,
+                            40.83645
+                        ],
+                        [
+                            14.292179,
+                            40.833802
+                        ],
+                        [
+                            14.296297,
+                            40.830738
+                        ],
+                        [
+                            14.297029,
+                            40.830963
+                        ],
+                        [
+                            14.293185,
+                            40.833802
+                        ],
+                        [
+                            14.295199,
+                            40.836087
+                        ],
+                        [
+                            14.294924,
+                            40.836225
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.285059,
+                    40.840947
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.297304,
+                    40.834623
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.286683,
+                    40.838676
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.294798,
+                    40.834286
+                ]
+            },
+            "properties": {
+                "code": "ITNAPCONA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

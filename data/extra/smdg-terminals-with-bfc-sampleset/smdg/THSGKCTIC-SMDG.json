@@ -1,0 +1,201 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.568634,
+                            7.227909
+                        ],
+                        [
+                            100.568753,
+                            7.227786
+                        ],
+                        [
+                            100.568001,
+                            7.226994
+                        ],
+                        [
+                            100.568182,
+                            7.226779
+                        ],
+                        [
+                            100.567949,
+                            7.226538
+                        ],
+                        [
+                            100.568383,
+                            7.226194
+                        ],
+                        [
+                            100.56887,
+                            7.226742
+                        ],
+                        [
+                            100.569463,
+                            7.227603
+                        ],
+                        [
+                            100.569809,
+                            7.227475
+                        ],
+                        [
+                            100.571159,
+                            7.228377
+                        ],
+                        [
+                            100.571292,
+                            7.22846
+                        ],
+                        [
+                            100.573776,
+                            7.228464
+                        ],
+                        [
+                            100.57508,
+                            7.229802
+                        ],
+                        [
+                            100.575086,
+                            7.23012
+                        ],
+                        [
+                            100.574797,
+                            7.230131
+                        ],
+                        [
+                            100.574786,
+                            7.230309
+                        ],
+                        [
+                            100.570136,
+                            7.230326
+                        ],
+                        [
+                            100.570131,
+                            7.230149
+                        ],
+                        [
+                            100.569929,
+                            7.230155
+                        ],
+                        [
+                            100.569879,
+                            7.228842
+                        ],
+                        [
+                            100.569686,
+                            7.228757
+                        ],
+                        [
+                            100.569551,
+                            7.228667
+                        ],
+                        [
+                            100.569264,
+                            7.22853
+                        ],
+                        [
+                            100.568838,
+                            7.228159
+                        ],
+                        [
+                            100.568634,
+                            7.227909
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THSGKCTIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-01",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.570136,
+                            7.230329
+                        ],
+                        [
+                            100.574799,
+                            7.230347
+                        ],
+                        [
+                            100.574799,
+                            7.230743
+                        ],
+                        [
+                            100.570123,
+                            7.230731
+                        ],
+                        [
+                            100.570136,
+                            7.230329
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THSGKCTIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-01",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.570403,
+                    7.228447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THSGKCTIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-01",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.571999,
+                    7.230496
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "THSGKCTIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-01",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

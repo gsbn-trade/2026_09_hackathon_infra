@@ -1,0 +1,337 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.578819,
+                            37.95983
+                        ],
+                        [
+                            23.580944,
+                            37.953036
+                        ],
+                        [
+                            23.586383,
+                            37.952652
+                        ],
+                        [
+                            23.584882,
+                            37.95797
+                        ],
+                        [
+                            23.585272,
+                            37.958016
+                        ],
+                        [
+                            23.585155,
+                            37.958401
+                        ],
+                        [
+                            23.588098,
+                            37.958001
+                        ],
+                        [
+                            23.589931,
+                            37.951884
+                        ],
+                        [
+                            23.595896,
+                            37.951469
+                        ],
+                        [
+                            23.593283,
+                            37.959461
+                        ],
+                        [
+                            23.595065,
+                            37.959739
+                        ],
+                        [
+                            23.596385,
+                            37.959997
+                        ],
+                        [
+                            23.596611,
+                            37.960322
+                        ],
+                        [
+                            23.594336,
+                            37.960537
+                        ],
+                        [
+                            23.593225,
+                            37.961013
+                        ],
+                        [
+                            23.592428,
+                            37.960789
+                        ],
+                        [
+                            23.590857,
+                            37.960847
+                        ],
+                        [
+                            23.589102,
+                            37.960898
+                        ],
+                        [
+                            23.585952,
+                            37.961304
+                        ],
+                        [
+                            23.58473,
+                            37.961202
+                        ],
+                        [
+                            23.584734,
+                            37.961046
+                        ],
+                        [
+                            23.584492,
+                            37.959215
+                        ],
+                        [
+                            23.583342,
+                            37.959492
+                        ],
+                        [
+                            23.581958,
+                            37.960399
+                        ],
+                        [
+                            23.581471,
+                            37.960537
+                        ],
+                        [
+                            23.578819,
+                            37.95983
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.578724,
+                            37.959809
+                        ],
+                        [
+                            23.57829,
+                            37.959674
+                        ],
+                        [
+                            23.58028,
+                            37.952909
+                        ],
+                        [
+                            23.580877,
+                            37.953038
+                        ],
+                        [
+                            23.578724,
+                            37.959809
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.584979,
+                            37.957947
+                        ],
+                        [
+                            23.586429,
+                            37.952634
+                        ],
+                        [
+                            23.587006,
+                            37.95266
+                        ],
+                        [
+                            23.585622,
+                            37.957999
+                        ],
+                        [
+                            23.584979,
+                            37.957947
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.588093,
+                            37.957947
+                        ],
+                        [
+                            23.587517,
+                            37.957856
+                        ],
+                        [
+                            23.589395,
+                            37.951477
+                        ],
+                        [
+                            23.596727,
+                            37.951101
+                        ],
+                        [
+                            23.594503,
+                            37.958441
+                        ],
+                        [
+                            23.593827,
+                            37.958441
+                        ],
+                        [
+                            23.595936,
+                            37.951413
+                        ],
+                        [
+                            23.589889,
+                            37.951854
+                        ],
+                        [
+                            23.588093,
+                            37.957947
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.587776,
+                    37.958765
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.579379,
+                    37.957048
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.585803,
+                    37.955837
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.591553,
+                    37.955164
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRGRPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

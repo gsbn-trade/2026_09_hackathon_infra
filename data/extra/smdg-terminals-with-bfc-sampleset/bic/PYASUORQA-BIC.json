@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.554343,
+                            -25.21371
+                        ],
+                        [
+                            -57.556322,
+                            -25.213201
+                        ],
+                        [
+                            -57.557164,
+                            -25.215452
+                        ],
+                        [
+                            -57.554348,
+                            -25.216171
+                        ],
+                        [
+                            -57.554477,
+                            -25.215113
+                        ],
+                        [
+                            -57.55431,
+                            -25.214632
+                        ],
+                        [
+                            -57.554359,
+                            -25.214535
+                        ],
+                        [
+                            -57.55416,
+                            -25.213768
+                        ],
+                        [
+                            -57.554343,
+                            -25.21371
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUORQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pyasuorqa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.55487,
+                    -25.214477
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUORQA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pyasuorqa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

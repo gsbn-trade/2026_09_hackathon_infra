@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.514375,
+                            59.589904
+                        ],
+                        [
+                            16.51767,
+                            59.588255
+                        ],
+                        [
+                            16.525599,
+                            59.592732
+                        ],
+                        [
+                            16.525563,
+                            59.593446
+                        ],
+                        [
+                            16.525808,
+                            59.59359
+                        ],
+                        [
+                            16.525961,
+                            59.593329
+                        ],
+                        [
+                            16.526395,
+                            59.593352
+                        ],
+                        [
+                            16.526155,
+                            59.594096
+                        ],
+                        [
+                            16.526122,
+                            59.594263
+                        ],
+                        [
+                            16.525874,
+                            59.594245
+                        ],
+                        [
+                            16.525702,
+                            59.594689
+                        ],
+                        [
+                            16.525765,
+                            59.594807
+                        ],
+                        [
+                            16.526483,
+                            59.594869
+                        ],
+                        [
+                            16.527094,
+                            59.59505
+                        ],
+                        [
+                            16.526425,
+                            59.595519
+                        ],
+                        [
+                            16.52387,
+                            59.595146
+                        ],
+                        [
+                            16.514375,
+                            59.589904
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEVSTXVJY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sevstxvjy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.524073,
+                    59.593364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEVSTXVJY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-10",
+                "url": "https://www.bic-code.org/facility-codes/sevstxvjy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

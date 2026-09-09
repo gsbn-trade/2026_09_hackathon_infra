@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.734037,
+                            56.019861
+                        ],
+                        [
+                            -3.734519,
+                            56.02028
+                        ],
+                        [
+                            -3.736324,
+                            56.019695
+                        ],
+                        [
+                            -3.735607,
+                            56.019023
+                        ],
+                        [
+                            -3.735875,
+                            56.01893
+                        ],
+                        [
+                            -3.734776,
+                            56.017921
+                        ],
+                        [
+                            -3.734188,
+                            56.018126
+                        ],
+                        [
+                            -3.734261,
+                            56.018191
+                        ],
+                        [
+                            -3.734195,
+                            56.018397
+                        ],
+                        [
+                            -3.733117,
+                            56.018765
+                        ],
+                        [
+                            -3.734198,
+                            56.019716
+                        ],
+                        [
+                            -3.734096,
+                            56.01984
+                        ],
+                        [
+                            -3.734037,
+                            56.019861
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGTANA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgtana/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.734556,
+                    56.019124
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGTANA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgtana/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.084053,
+                            18.44921
+                        ],
+                        [
+                            -66.084253,
+                            18.448675
+                        ],
+                        [
+                            -66.084222,
+                            18.448525
+                        ],
+                        [
+                            -66.084344,
+                            18.448013
+                        ],
+                        [
+                            -66.084586,
+                            18.447708
+                        ],
+                        [
+                            -66.084417,
+                            18.447616
+                        ],
+                        [
+                            -66.084053,
+                            18.447409
+                        ],
+                        [
+                            -66.083871,
+                            18.447363
+                        ],
+                        [
+                            -66.083586,
+                            18.447368
+                        ],
+                        [
+                            -66.083525,
+                            18.447506
+                        ],
+                        [
+                            -66.083131,
+                            18.448951
+                        ],
+                        [
+                            -66.084053,
+                            18.44921
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJUYENO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/prsjuyeno/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.084008,
+                    18.44813
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PRSJUYENO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/prsjuyeno/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,545 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.902642,
+                            44.403791
+                        ],
+                        [
+                            8.90312,
+                            44.40384
+                        ],
+                        [
+                            8.902906,
+                            44.404945
+                        ],
+                        [
+                            8.902715,
+                            44.40499
+                        ],
+                        [
+                            8.902446,
+                            44.405056
+                        ],
+                        [
+                            8.90128,
+                            44.405308
+                        ],
+                        [
+                            8.900712,
+                            44.405422
+                        ],
+                        [
+                            8.90046,
+                            44.405337
+                        ],
+                        [
+                            8.900391,
+                            44.405116
+                        ],
+                        [
+                            8.900385,
+                            44.405102
+                        ],
+                        [
+                            8.898675,
+                            44.405439
+                        ],
+                        [
+                            8.898034,
+                            44.405553
+                        ],
+                        [
+                            8.897824,
+                            44.405604
+                        ],
+                        [
+                            8.897742,
+                            44.405634
+                        ],
+                        [
+                            8.897672,
+                            44.405667
+                        ],
+                        [
+                            8.897554,
+                            44.405735
+                        ],
+                        [
+                            8.897444,
+                            44.405809
+                        ],
+                        [
+                            8.89736,
+                            44.405874
+                        ],
+                        [
+                            8.897252,
+                            44.405982
+                        ],
+                        [
+                            8.897103,
+                            44.406183
+                        ],
+                        [
+                            8.897019,
+                            44.406152
+                        ],
+                        [
+                            8.896795,
+                            44.406437
+                        ],
+                        [
+                            8.896673,
+                            44.406537
+                        ],
+                        [
+                            8.896438,
+                            44.406708
+                        ],
+                        [
+                            8.89624,
+                            44.40679
+                        ],
+                        [
+                            8.896,
+                            44.406882
+                        ],
+                        [
+                            8.895774,
+                            44.406947
+                        ],
+                        [
+                            8.894971,
+                            44.407118
+                        ],
+                        [
+                            8.894881,
+                            44.406964
+                        ],
+                        [
+                            8.894975,
+                            44.406852
+                        ],
+                        [
+                            8.895334,
+                            44.40675
+                        ],
+                        [
+                            8.89517,
+                            44.406551
+                        ],
+                        [
+                            8.895075,
+                            44.406302
+                        ],
+                        [
+                            8.894925,
+                            44.40624
+                        ],
+                        [
+                            8.894862,
+                            44.406062
+                        ],
+                        [
+                            8.894819,
+                            44.405952
+                        ],
+                        [
+                            8.896514,
+                            44.405622
+                        ],
+                        [
+                            8.897146,
+                            44.402118
+                        ],
+                        [
+                            8.897237,
+                            44.402052
+                        ],
+                        [
+                            8.898826,
+                            44.401764
+                        ],
+                        [
+                            8.89893,
+                            44.401777
+                        ],
+                        [
+                            8.898565,
+                            44.403766
+                        ],
+                        [
+                            8.898996,
+                            44.403813
+                        ],
+                        [
+                            8.898997,
+                            44.403877
+                        ],
+                        [
+                            8.900268,
+                            44.403656
+                        ],
+                        [
+                            8.90046,
+                            44.403616
+                        ],
+                        [
+                            8.90087,
+                            44.401294
+                        ],
+                        [
+                            8.901115,
+                            44.401229
+                        ],
+                        [
+                            8.901155,
+                            44.401554
+                        ],
+                        [
+                            8.901946,
+                            44.401615
+                        ],
+                        [
+                            8.901694,
+                            44.403074
+                        ],
+                        [
+                            8.901679,
+                            44.40327
+                        ],
+                        [
+                            8.901744,
+                            44.40343
+                        ],
+                        [
+                            8.901943,
+                            44.403591
+                        ],
+                        [
+                            8.902489,
+                            44.403692
+                        ],
+                        [
+                            8.90256,
+                            44.403775
+                        ],
+                        [
+                            8.902642,
+                            44.403791
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.896482,
+                            44.405631
+                        ],
+                        [
+                            8.895958,
+                            44.405623
+                        ],
+                        [
+                            8.896706,
+                            44.40203
+                        ],
+                        [
+                            8.897197,
+                            44.40203
+                        ],
+                        [
+                            8.896482,
+                            44.405631
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.900086,
+                            44.40367
+                        ],
+                        [
+                            8.900486,
+                            44.401289
+                        ],
+                        [
+                            8.900866,
+                            44.401289
+                        ],
+                        [
+                            8.90046,
+                            44.40361
+                        ],
+                        [
+                            8.900086,
+                            44.40367
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.898577,
+                            44.403763
+                        ],
+                        [
+                            8.898928,
+                            44.401752
+                        ],
+                        [
+                            8.899218,
+                            44.40179
+                        ],
+                        [
+                            8.89889,
+                            44.403796
+                        ],
+                        [
+                            8.898577,
+                            44.403763
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.887084,
+                            44.40988
+                        ],
+                        [
+                            8.887035,
+                            44.409768
+                        ],
+                        [
+                            8.887727,
+                            44.409556
+                        ],
+                        [
+                            8.888548,
+                            44.409227
+                        ],
+                        [
+                            8.893923,
+                            44.407951
+                        ],
+                        [
+                            8.896539,
+                            44.40741
+                        ],
+                        [
+                            8.897443,
+                            44.407201
+                        ],
+                        [
+                            8.897476,
+                            44.407251
+                        ],
+                        [
+                            8.89693,
+                            44.407398
+                        ],
+                        [
+                            8.895873,
+                            44.407742
+                        ],
+                        [
+                            8.895431,
+                            44.407895
+                        ],
+                        [
+                            8.891157,
+                            44.408935
+                        ],
+                        [
+                            8.887084,
+                            44.40988
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "ASSOCIATED_RAIL",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.898762,
+                    44.404807
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.896565,
+                    44.404189
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.900397,
+                    44.402706
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.898838,
+                    44.402973
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.892481,
+                    44.408469
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAGPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2026-06-09",
+                "remarks": "Adding Associated Rail",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

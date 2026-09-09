@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.249189,
+                            44.44528
+                        ],
+                        [
+                            12.249308,
+                            44.445312
+                        ],
+                        [
+                            12.249317,
+                            44.445495
+                        ],
+                        [
+                            12.249308,
+                            44.445692
+                        ],
+                        [
+                            12.249304,
+                            44.445861
+                        ],
+                        [
+                            12.249242,
+                            44.446813
+                        ],
+                        [
+                            12.249154,
+                            44.44681
+                        ],
+                        [
+                            12.248969,
+                            44.446807
+                        ],
+                        [
+                            12.248837,
+                            44.446854
+                        ],
+                        [
+                            12.248719,
+                            44.446889
+                        ],
+                        [
+                            12.248635,
+                            44.446728
+                        ],
+                        [
+                            12.248595,
+                            44.446509
+                        ],
+                        [
+                            12.2486,
+                            44.446135
+                        ],
+                        [
+                            12.248653,
+                            44.44594
+                        ],
+                        [
+                            12.24882,
+                            44.445689
+                        ],
+                        [
+                            12.249189,
+                            44.44528
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITRANCSRA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/itrancsra/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.24899,
+                    44.446131
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITRANCSRA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/itrancsra/"
+            }
+        }
+    ]
+}

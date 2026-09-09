@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.62041,
+                            15.694494
+                        ],
+                        [
+                            -88.619502,
+                            15.692671
+                        ],
+                        [
+                            -88.619086,
+                            15.692893
+                        ],
+                        [
+                            -88.618778,
+                            15.692305
+                        ],
+                        [
+                            -88.617255,
+                            15.693091
+                        ],
+                        [
+                            -88.616606,
+                            15.69196
+                        ],
+                        [
+                            -88.615943,
+                            15.692291
+                        ],
+                        [
+                            -88.615629,
+                            15.691648
+                        ],
+                        [
+                            -88.613128,
+                            15.692897
+                        ],
+                        [
+                            -88.613463,
+                            15.693516
+                        ],
+                        [
+                            -88.612121,
+                            15.694112
+                        ],
+                        [
+                            -88.612505,
+                            15.694845
+                        ],
+                        [
+                            -88.611586,
+                            15.695294
+                        ],
+                        [
+                            -88.610977,
+                            15.694032
+                        ],
+                        [
+                            -88.605607,
+                            15.696617
+                        ],
+                        [
+                            -88.607874,
+                            15.700717
+                        ],
+                        [
+                            -88.62041,
+                            15.694494
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GTSTCEPSTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.620409,
+                            15.694449
+                        ],
+                        [
+                            -88.612086,
+                            15.698666
+                        ],
+                        [
+                            -88.612372,
+                            15.699153
+                        ],
+                        [
+                            -88.620661,
+                            15.695041
+                        ],
+                        [
+                            -88.620409,
+                            15.694449
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GTSTCEPSTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.614758,
+                    15.693993
+                ]
+            },
+            "properties": {
+                "code": "GTSTCEPSTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.617187,
+                    15.696352
+                ]
+            },
+            "properties": {
+                "code": "GTSTCEPSTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.380154,
+                            43.599333
+                        ],
+                        [
+                            10.380234,
+                            43.598809
+                        ],
+                        [
+                            10.38842,
+                            43.599671
+                        ],
+                        [
+                            10.389767,
+                            43.599628
+                        ],
+                        [
+                            10.389965,
+                            43.599679
+                        ],
+                        [
+                            10.389879,
+                            43.599904
+                        ],
+                        [
+                            10.388501,
+                            43.600067
+                        ],
+                        [
+                            10.387948,
+                            43.600137
+                        ],
+                        [
+                            10.383753,
+                            43.599679
+                        ],
+                        [
+                            10.380154,
+                            43.599333
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVGNIX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-26",
+                "url": "https://www.bic-code.org/facility-codes/itlivgnix/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.385877,
+                    43.599624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVGNIX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-26",
+                "url": "https://www.bic-code.org/facility-codes/itlivgnix/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

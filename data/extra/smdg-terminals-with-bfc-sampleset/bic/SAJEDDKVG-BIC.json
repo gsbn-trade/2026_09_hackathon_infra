@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.191188,
+                            21.424968
+                        ],
+                        [
+                            39.190974,
+                            21.424698
+                        ],
+                        [
+                            39.191001,
+                            21.423845
+                        ],
+                        [
+                            39.191306,
+                            21.422636
+                        ],
+                        [
+                            39.191939,
+                            21.421762
+                        ],
+                        [
+                            39.193211,
+                            21.420833
+                        ],
+                        [
+                            39.194552,
+                            21.422551
+                        ],
+                        [
+                            39.191188,
+                            21.424968
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDKVG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajeddkvg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.19192,
+                    21.423283
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDDKVG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-09-26",
+                "url": "https://www.bic-code.org/facility-codes/sajeddkvg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

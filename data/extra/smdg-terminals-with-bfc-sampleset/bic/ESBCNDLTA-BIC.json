@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.138176,
+                            41.304368
+                        ],
+                        [
+                            2.139101,
+                            41.303838
+                        ],
+                        [
+                            2.137552,
+                            41.302301
+                        ],
+                        [
+                            2.136559,
+                            41.302831
+                        ],
+                        [
+                            2.138176,
+                            41.304368
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNDLTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/esbcndlta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.137913,
+                    41.303541
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNDLTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/esbcndlta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.330188,
+                            47.536782
+                        ],
+                        [
+                            -122.328348,
+                            47.536766
+                        ],
+                        [
+                            -122.328555,
+                            47.536947
+                        ],
+                        [
+                            -122.328263,
+                            47.537144
+                        ],
+                        [
+                            -122.328616,
+                            47.537424
+                        ],
+                        [
+                            -122.328933,
+                            47.53721
+                        ],
+                        [
+                            -122.330944,
+                            47.538814
+                        ],
+                        [
+                            -122.331041,
+                            47.536805
+                        ],
+                        [
+                            -122.330188,
+                            47.536782
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEAHHUJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-19",
+                "url": "https://www.bic-code.org/facility-codes/usseahhuj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.329453,
+                    47.537186
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEAHHUJ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-19",
+                "url": "https://www.bic-code.org/facility-codes/usseahhuj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

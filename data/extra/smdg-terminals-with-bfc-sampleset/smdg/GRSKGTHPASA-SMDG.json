@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.904559,
+                            40.638716
+                        ],
+                        [
+                            22.905289,
+                            40.637942
+                        ],
+                        [
+                            22.906054,
+                            40.637887
+                        ],
+                        [
+                            22.905555,
+                            40.633026
+                        ],
+                        [
+                            22.905635,
+                            40.633024
+                        ],
+                        [
+                            22.905647,
+                            40.633129
+                        ],
+                        [
+                            22.905985,
+                            40.63313
+                        ],
+                        [
+                            22.906428,
+                            40.633379
+                        ],
+                        [
+                            22.907758,
+                            40.633288
+                        ],
+                        [
+                            22.907793,
+                            40.63352
+                        ],
+                        [
+                            22.90896,
+                            40.633441
+                        ],
+                        [
+                            22.90898,
+                            40.63375
+                        ],
+                        [
+                            22.910803,
+                            40.633638
+                        ],
+                        [
+                            22.911172,
+                            40.637157
+                        ],
+                        [
+                            22.910334,
+                            40.637193
+                        ],
+                        [
+                            22.910484,
+                            40.638793
+                        ],
+                        [
+                            22.911326,
+                            40.638729
+                        ],
+                        [
+                            22.911472,
+                            40.639905
+                        ],
+                        [
+                            22.911445,
+                            40.640065
+                        ],
+                        [
+                            22.911362,
+                            40.640141
+                        ],
+                        [
+                            22.911096,
+                            40.64026
+                        ],
+                        [
+                            22.91072,
+                            40.640427
+                        ],
+                        [
+                            22.91051,
+                            40.640371
+                        ],
+                        [
+                            22.910335,
+                            40.640294
+                        ],
+                        [
+                            22.910005,
+                            40.640107
+                        ],
+                        [
+                            22.909779,
+                            40.6399
+                        ],
+                        [
+                            22.909483,
+                            40.64003
+                        ],
+                        [
+                            22.907476,
+                            40.640996
+                        ],
+                        [
+                            22.905654,
+                            40.640233
+                        ],
+                        [
+                            22.904559,
+                            40.638716
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GRSKGTHPASA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-05",
+                "remarks": "ThPA S.A. Container Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.906025,
+                            40.637884
+                        ],
+                        [
+                            22.905472,
+                            40.637905
+                        ],
+                        [
+                            22.905085,
+                            40.633059
+                        ],
+                        [
+                            22.905537,
+                            40.633038
+                        ],
+                        [
+                            22.906025,
+                            40.637884
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GRSKGTHPASA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.908555,
+                    40.637373
+                ]
+            },
+            "properties": {
+                "code": "GRSKGTHPASA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "remarks": "ThPA S.A. Container Terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.905629,
+                    40.635954
+                ]
+            },
+            "properties": {
+                "code": "GRSKGTHPASA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

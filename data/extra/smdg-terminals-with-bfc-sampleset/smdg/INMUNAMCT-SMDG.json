@@ -1,0 +1,313 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.710194,
+                            22.745143
+                        ],
+                        [
+                            69.705322,
+                            22.748602
+                        ],
+                        [
+                            69.70504,
+                            22.748246
+                        ],
+                        [
+                            69.704856,
+                            22.747451
+                        ],
+                        [
+                            69.704835,
+                            22.746378
+                        ],
+                        [
+                            69.704411,
+                            22.746393
+                        ],
+                        [
+                            69.703751,
+                            22.744815
+                        ],
+                        [
+                            69.703896,
+                            22.744018
+                        ],
+                        [
+                            69.707512,
+                            22.741615
+                        ],
+                        [
+                            69.710194,
+                            22.745143
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.705324,
+                            22.748621
+                        ],
+                        [
+                            69.710198,
+                            22.745142
+                        ],
+                        [
+                            69.710749,
+                            22.745976
+                        ],
+                        [
+                            69.705776,
+                            22.749246
+                        ],
+                        [
+                            69.705324,
+                            22.748621
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.715159,
+                            22.741799
+                        ],
+                        [
+                            69.712112,
+                            22.737988
+                        ],
+                        [
+                            69.712332,
+                            22.737722
+                        ],
+                        [
+                            69.712705,
+                            22.737378
+                        ],
+                        [
+                            69.712909,
+                            22.736784
+                        ],
+                        [
+                            69.712078,
+                            22.735736
+                        ],
+                        [
+                            69.712604,
+                            22.735017
+                        ],
+                        [
+                            69.713672,
+                            22.734439
+                        ],
+                        [
+                            69.715944,
+                            22.734986
+                        ],
+                        [
+                            69.716927,
+                            22.73608
+                        ],
+                        [
+                            69.716723,
+                            22.736346
+                        ],
+                        [
+                            69.717012,
+                            22.737081
+                        ],
+                        [
+                            69.713977,
+                            22.739036
+                        ],
+                        [
+                            69.715096,
+                            22.740537
+                        ],
+                        [
+                            69.714938,
+                            22.740845
+                        ],
+                        [
+                            69.715125,
+                            22.741173
+                        ],
+                        [
+                            69.719245,
+                            22.738265
+                        ],
+                        [
+                            69.719736,
+                            22.738672
+                        ],
+                        [
+                            69.715159,
+                            22.741799
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.715181,
+                            22.741835
+                        ],
+                        [
+                            69.719758,
+                            22.738661
+                        ],
+                        [
+                            69.72008,
+                            22.739005
+                        ],
+                        [
+                            69.715655,
+                            22.742444
+                        ],
+                        [
+                            69.715181,
+                            22.741835
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.706001,
+                    22.74578
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.707474,
+                    22.747521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.714919,
+                    22.737983
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.717171,
+                    22.740756
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

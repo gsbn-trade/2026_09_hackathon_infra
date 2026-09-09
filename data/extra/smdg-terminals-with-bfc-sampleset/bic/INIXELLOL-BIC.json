@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            74.821254,
+                            12.930998
+                        ],
+                        [
+                            74.821906,
+                            12.92876
+                        ],
+                        [
+                            74.82218,
+                            12.928847
+                        ],
+                        [
+                            74.82239,
+                            12.929123
+                        ],
+                        [
+                            74.823629,
+                            12.930875
+                        ],
+                        [
+                            74.821956,
+                            12.933065
+                        ],
+                        [
+                            74.820737,
+                            12.934401
+                        ],
+                        [
+                            74.818719,
+                            12.936093
+                        ],
+                        [
+                            74.817704,
+                            12.935751
+                        ],
+                        [
+                            74.818362,
+                            12.932818
+                        ],
+                        [
+                            74.818793,
+                            12.930501
+                        ],
+                        [
+                            74.821193,
+                            12.931036
+                        ],
+                        [
+                            74.821254,
+                            12.930998
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXELLOL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inixellol/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    74.820775,
+                    12.93179
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXELLOL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inixellol/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

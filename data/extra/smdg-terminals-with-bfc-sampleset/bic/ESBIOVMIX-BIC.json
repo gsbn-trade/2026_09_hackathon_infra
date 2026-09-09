@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.055743,
+                            43.34515
+                        ],
+                        [
+                            -3.055915,
+                            43.345415
+                        ],
+                        [
+                            -3.05835,
+                            43.346469
+                        ],
+                        [
+                            -3.060464,
+                            43.346617
+                        ],
+                        [
+                            -3.061558,
+                            43.345478
+                        ],
+                        [
+                            -3.058339,
+                            43.34398
+                        ],
+                        [
+                            -3.057578,
+                            43.343597
+                        ],
+                        [
+                            -3.056923,
+                            43.343324
+                        ],
+                        [
+                            -3.056869,
+                            43.343473
+                        ],
+                        [
+                            -3.056912,
+                            43.343753
+                        ],
+                        [
+                            -3.056848,
+                            43.343894
+                        ],
+                        [
+                            -3.055743,
+                            43.34515
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOVMIX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esbiovmix/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.057604,
+                    43.344692
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOVMIX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esbiovmix/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

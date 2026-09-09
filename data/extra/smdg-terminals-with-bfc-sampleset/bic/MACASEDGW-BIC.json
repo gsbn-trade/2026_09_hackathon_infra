@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.607973,
+                            33.606913
+                        ],
+                        [
+                            -7.606578,
+                            33.604697
+                        ],
+                        [
+                            -7.605205,
+                            33.602481
+                        ],
+                        [
+                            -7.604519,
+                            33.601801
+                        ],
+                        [
+                            -7.603102,
+                            33.60139
+                        ],
+                        [
+                            -7.601708,
+                            33.599335
+                        ],
+                        [
+                            -7.600635,
+                            33.599514
+                        ],
+                        [
+                            -7.605806,
+                            33.607806
+                        ],
+                        [
+                            -7.607973,
+                            33.606913
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MACASEDGW",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/macasedgw/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.604833,
+                    33.603428
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MACASEDGW",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/macasedgw/"
+            }
+        }
+    ]
+}

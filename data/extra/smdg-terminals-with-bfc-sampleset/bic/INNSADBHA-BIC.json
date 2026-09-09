@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.058257,
+                            18.892987
+                        ],
+                        [
+                            73.059014,
+                            18.893076
+                        ],
+                        [
+                            73.059858,
+                            18.893246
+                        ],
+                        [
+                            73.060311,
+                            18.893386
+                        ],
+                        [
+                            73.060569,
+                            18.89383
+                        ],
+                        [
+                            73.060319,
+                            18.894244
+                        ],
+                        [
+                            73.059827,
+                            18.894643
+                        ],
+                        [
+                            73.059343,
+                            18.895064
+                        ],
+                        [
+                            73.059132,
+                            18.894938
+                        ],
+                        [
+                            73.059061,
+                            18.894894
+                        ],
+                        [
+                            73.058593,
+                            18.894894
+                        ],
+                        [
+                            73.058241,
+                            18.893741
+                        ],
+                        [
+                            73.058257,
+                            18.892987
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADBHA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadbha/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.058239,
+                            18.893673
+                        ],
+                        [
+                            73.058544,
+                            18.893685
+                        ],
+                        [
+                            73.058541,
+                            18.893358
+                        ],
+                        [
+                            73.058254,
+                            18.893322
+                        ],
+                        [
+                            73.058239,
+                            18.893673
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADBHA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadbha/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.059291,
+                    18.893995
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADBHA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadbha/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.058363,
+                    18.893542
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADBHA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadbha/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.785506,
+                            42.600471
+                        ],
+                        [
+                            -8.785393,
+                            42.600041
+                        ],
+                        [
+                            -8.783525,
+                            42.600018
+                        ],
+                        [
+                            -8.783511,
+                            42.599945
+                        ],
+                        [
+                            -8.783444,
+                            42.599832
+                        ],
+                        [
+                            -8.783391,
+                            42.599592
+                        ],
+                        [
+                            -8.783176,
+                            42.598979
+                        ],
+                        [
+                            -8.782877,
+                            42.598047
+                        ],
+                        [
+                            -8.782689,
+                            42.597947
+                        ],
+                        [
+                            -8.782229,
+                            42.597991
+                        ],
+                        [
+                            -8.779169,
+                            42.598533
+                        ],
+                        [
+                            -8.779004,
+                            42.598647
+                        ],
+                        [
+                            -8.78056,
+                            42.600145
+                        ],
+                        [
+                            -8.785191,
+                            42.600213
+                        ],
+                        [
+                            -8.785197,
+                            42.600475
+                        ],
+                        [
+                            -8.785506,
+                            42.600471
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVILBMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.778996,
+                            42.598641
+                        ],
+                        [
+                            -8.779157,
+                            42.598529
+                        ],
+                        [
+                            -8.78221,
+                            42.597993
+                        ],
+                        [
+                            -8.78211,
+                            42.597756
+                        ],
+                        [
+                            -8.778696,
+                            42.598356
+                        ],
+                        [
+                            -8.778996,
+                            42.598641
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVILBMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.783148,
+                    42.599459
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVILBMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.780027,
+                    42.598319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVILBMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

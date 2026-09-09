@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.1922,
+                            12.543409
+                        ],
+                        [
+                            -87.193135,
+                            12.542805
+                        ],
+                        [
+                            -87.19589,
+                            12.544647
+                        ],
+                        [
+                            -87.195153,
+                            12.545554
+                        ],
+                        [
+                            -87.1922,
+                            12.543409
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOMIRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciomira/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.193716,
+                    12.543965
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOMIRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciomira/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

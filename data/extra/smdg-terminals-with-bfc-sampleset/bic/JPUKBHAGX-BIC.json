@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.228064,
+                            34.657982
+                        ],
+                        [
+                            135.229799,
+                            34.655068
+                        ],
+                        [
+                            135.233064,
+                            34.656115
+                        ],
+                        [
+                            135.231687,
+                            34.659071
+                        ],
+                        [
+                            135.228064,
+                            34.657982
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBHAGX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-17",
+                "url": "https://www.bic-code.org/facility-codes/jpukbhagx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.230136,
+                    34.657244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBHAGX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://www.bic-code.org/facility-codes/jpukbhagx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,207 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.00528,
+                            5.624413
+                        ],
+                        [
+                            0.00475,
+                            5.62406
+                        ],
+                        [
+                            0.006635,
+                            5.623191
+                        ],
+                        [
+                            0.006695,
+                            5.623298
+                        ],
+                        [
+                            0.006719,
+                            5.623465
+                        ],
+                        [
+                            0.00657,
+                            5.623554
+                        ],
+                        [
+                            0.006564,
+                            5.623602
+                        ],
+                        [
+                            0.006857,
+                            5.62378
+                        ],
+                        [
+                            0.010799,
+                            5.626586
+                        ],
+                        [
+                            0.010793,
+                            5.626634
+                        ],
+                        [
+                            0.009799,
+                            5.627551
+                        ],
+                        [
+                            0.00528,
+                            5.624413
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.006572,
+                            5.623598
+                        ],
+                        [
+                            0.006853,
+                            5.623412
+                        ],
+                        [
+                            0.011135,
+                            5.626325
+                        ],
+                        [
+                            0.010833,
+                            5.626574
+                        ],
+                        [
+                            0.006572,
+                            5.623598
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.00528,
+                            5.624407
+                        ],
+                        [
+                            0.009822,
+                            5.627538
+                        ],
+                        [
+                            0.009572,
+                            5.627787
+                        ],
+                        [
+                            0.005124,
+                            5.624604
+                        ],
+                        [
+                            0.00528,
+                            5.624407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.007228,
+                    5.624546
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.008393,
+                    5.624701
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.007016,
+                    5.625749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTEMTPT2",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

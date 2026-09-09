@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.331779,
+                            36.85374
+                        ],
+                        [
+                            -76.331044,
+                            36.853234
+                        ],
+                        [
+                            -76.330034,
+                            36.852837
+                        ],
+                        [
+                            -76.328833,
+                            36.852484
+                        ],
+                        [
+                            -76.32807,
+                            36.85246
+                        ],
+                        [
+                            -76.324334,
+                            36.852691
+                        ],
+                        [
+                            -76.322818,
+                            36.852828
+                        ],
+                        [
+                            -76.322019,
+                            36.852896
+                        ],
+                        [
+                            -76.321411,
+                            36.853008
+                        ],
+                        [
+                            -76.320735,
+                            36.853412
+                        ],
+                        [
+                            -76.319299,
+                            36.854484
+                        ],
+                        [
+                            -76.318112,
+                            36.85483
+                        ],
+                        [
+                            -76.317651,
+                            36.855291
+                        ],
+                        [
+                            -76.316259,
+                            36.857253
+                        ],
+                        [
+                            -76.316711,
+                            36.857576
+                        ],
+                        [
+                            -76.316615,
+                            36.857768
+                        ],
+                        [
+                            -76.316574,
+                            36.857866
+                        ],
+                        [
+                            -76.32003,
+                            36.858035
+                        ],
+                        [
+                            -76.331985,
+                            36.856556
+                        ],
+                        [
+                            -76.331848,
+                            36.855975
+                        ],
+                        [
+                            -76.331985,
+                            36.855723
+                        ],
+                        [
+                            -76.331779,
+                            36.85374
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.332019,
+                            36.856574
+                        ],
+                        [
+                            -76.327584,
+                            36.857106
+                        ],
+                        [
+                            -76.319996,
+                            36.858032
+                        ],
+                        [
+                            -76.31656,
+                            36.857857
+                        ],
+                        [
+                            -76.316487,
+                            36.858272
+                        ],
+                        [
+                            -76.320019,
+                            36.858415
+                        ],
+                        [
+                            -76.325254,
+                            36.857851
+                        ],
+                        [
+                            -76.332173,
+                            36.856983
+                        ],
+                        [
+                            -76.332019,
+                            36.856574
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.324088,
+                    36.854758
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.324679,
+                    36.857518
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

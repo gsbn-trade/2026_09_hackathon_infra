@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.328574,
+                            13.319231
+                        ],
+                        [
+                            80.327203,
+                            13.319568
+                        ],
+                        [
+                            80.326748,
+                            13.319646
+                        ],
+                        [
+                            80.325788,
+                            13.319804
+                        ],
+                        [
+                            80.325643,
+                            13.31966
+                        ],
+                        [
+                            80.32553,
+                            13.319375
+                        ],
+                        [
+                            80.325321,
+                            13.318804
+                        ],
+                        [
+                            80.324816,
+                            13.317247
+                        ],
+                        [
+                            80.326037,
+                            13.317155
+                        ],
+                        [
+                            80.328027,
+                            13.317138
+                        ],
+                        [
+                            80.328574,
+                            13.319231
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACWQP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/inmaacwqp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.326569,
+                    13.318805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACWQP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/inmaacwqp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

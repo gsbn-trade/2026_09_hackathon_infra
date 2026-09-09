@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.286432,
+                            22.518706
+                        ],
+                        [
+                            88.287497,
+                            22.518802
+                        ],
+                        [
+                            88.287949,
+                            22.519254
+                        ],
+                        [
+                            88.288068,
+                            22.519524
+                        ],
+                        [
+                            88.287657,
+                            22.519699
+                        ],
+                        [
+                            88.287815,
+                            22.520188
+                        ],
+                        [
+                            88.286867,
+                            22.520444
+                        ],
+                        [
+                            88.286361,
+                            22.519407
+                        ],
+                        [
+                            88.286614,
+                            22.519254
+                        ],
+                        [
+                            88.286432,
+                            22.518706
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUDPRD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inccudprd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.287345,
+                            22.519536
+                        ],
+                        [
+                            88.287598,
+                            22.520497
+                        ],
+                        [
+                            88.28766,
+                            22.520489
+                        ],
+                        [
+                            88.287441,
+                            22.519506
+                        ],
+                        [
+                            88.287345,
+                            22.519536
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUDPRD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inccudprd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.287169,
+                    22.519398
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUDPRD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inccudprd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.287478,
+                    22.519913
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUDPRD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inccudprd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

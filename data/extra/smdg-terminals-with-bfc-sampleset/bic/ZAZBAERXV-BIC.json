@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.658653,
+                            -33.810567
+                        ],
+                        [
+                            25.655968,
+                            -33.809792
+                        ],
+                        [
+                            25.65435,
+                            -33.813647
+                        ],
+                        [
+                            25.657206,
+                            -33.814427
+                        ],
+                        [
+                            25.658729,
+                            -33.810604
+                        ],
+                        [
+                            25.658653,
+                            -33.810567
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAERXV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbaerxv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.65726,
+                    -33.811601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAERXV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbaerxv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

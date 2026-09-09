@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.192942,
+                            62.478036
+                        ],
+                        [
+                            6.194051,
+                            62.479273
+                        ],
+                        [
+                            6.18975,
+                            62.480174
+                        ],
+                        [
+                            6.189576,
+                            62.480052
+                        ],
+                        [
+                            6.189096,
+                            62.480156
+                        ],
+                        [
+                            6.189454,
+                            62.480529
+                        ],
+                        [
+                            6.189144,
+                            62.480595
+                        ],
+                        [
+                            6.188864,
+                            62.480285
+                        ],
+                        [
+                            6.185156,
+                            62.479933
+                        ],
+                        [
+                            6.185602,
+                            62.479558
+                        ],
+                        [
+                            6.192101,
+                            62.478043
+                        ],
+                        [
+                            6.192942,
+                            62.478036
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESBIKJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/noaesbikj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.18989,
+                    62.479556
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESBIKJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/noaesbikj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,183 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.191031,
+                            60.210735
+                        ],
+                        [
+                            25.188802,
+                            60.21208
+                        ],
+                        [
+                            25.187898,
+                            60.211731
+                        ],
+                        [
+                            25.190025,
+                            60.210347
+                        ],
+                        [
+                            25.191031,
+                            60.210735
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.174132,
+                            60.215176
+                        ],
+                        [
+                            25.174685,
+                            60.213728
+                        ],
+                        [
+                            25.176845,
+                            60.213939
+                        ],
+                        [
+                            25.176327,
+                            60.215376
+                        ],
+                        [
+                            25.174132,
+                            60.215176
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.176429,
+                            60.213711
+                        ],
+                        [
+                            25.176739,
+                            60.213001
+                        ],
+                        [
+                            25.179164,
+                            60.213233
+                        ],
+                        [
+                            25.180763,
+                            60.213459
+                        ],
+                        [
+                            25.180559,
+                            60.214095
+                        ],
+                        [
+                            25.176429,
+                            60.213711
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.189757,
+                    60.211126
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.175224,
+                    60.214679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.178347,
+                    60.213535
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELEMAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-15",
+                "url": "https://www.bic-code.org/facility-codes/fihelemaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

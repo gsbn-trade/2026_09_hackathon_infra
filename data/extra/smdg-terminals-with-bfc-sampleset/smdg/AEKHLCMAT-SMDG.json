@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            54.656949,
+                            24.822531
+                        ],
+                        [
+                            54.656956,
+                            24.822534
+                        ],
+                        [
+                            54.659744,
+                            24.824653
+                        ],
+                        [
+                            54.660768,
+                            24.825392
+                        ],
+                        [
+                            54.663275,
+                            24.827315
+                        ],
+                        [
+                            54.665908,
+                            24.829261
+                        ],
+                        [
+                            54.66612,
+                            24.829399
+                        ],
+                        [
+                            54.664415,
+                            24.831334
+                        ],
+                        [
+                            54.662657,
+                            24.833227
+                        ],
+                        [
+                            54.662748,
+                            24.833265
+                        ],
+                        [
+                            54.662563,
+                            24.833529
+                        ],
+                        [
+                            54.653296,
+                            24.826572
+                        ],
+                        [
+                            54.656949,
+                            24.822531
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEKHLCMAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            54.662563,
+                            24.833535
+                        ],
+                        [
+                            54.66213,
+                            24.834028
+                        ],
+                        [
+                            54.652685,
+                            24.827236
+                        ],
+                        [
+                            54.653288,
+                            24.826574
+                        ],
+                        [
+                            54.662563,
+                            24.833535
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEKHLCMAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.66095,
+                    24.827811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEKHLCMAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.658646,
+                    24.830982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEKHLCMAT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.875943,
+                            38.515981
+                        ],
+                        [
+                            -8.875652,
+                            38.51654
+                        ],
+                        [
+                            -8.874513,
+                            38.51806
+                        ],
+                        [
+                            -8.874895,
+                            38.518199
+                        ],
+                        [
+                            -8.877834,
+                            38.519069
+                        ],
+                        [
+                            -8.877926,
+                            38.519074
+                        ],
+                        [
+                            -8.877939,
+                            38.519122
+                        ],
+                        [
+                            -8.87881,
+                            38.519438
+                        ],
+                        [
+                            -8.879457,
+                            38.519679
+                        ],
+                        [
+                            -8.880815,
+                            38.520309
+                        ],
+                        [
+                            -8.881152,
+                            38.520429
+                        ],
+                        [
+                            -8.882181,
+                            38.520887
+                        ],
+                        [
+                            -8.883163,
+                            38.521187
+                        ],
+                        [
+                            -8.883414,
+                            38.520229
+                        ],
+                        [
+                            -8.883477,
+                            38.520206
+                        ],
+                        [
+                            -8.884212,
+                            38.520326
+                        ],
+                        [
+                            -8.88428,
+                            38.520114
+                        ],
+                        [
+                            -8.884203,
+                            38.520096
+                        ],
+                        [
+                            -8.884128,
+                            38.520069
+                        ],
+                        [
+                            -8.884058,
+                            38.52003
+                        ],
+                        [
+                            -8.883969,
+                            38.519967
+                        ],
+                        [
+                            -8.883637,
+                            38.519703
+                        ],
+                        [
+                            -8.88368,
+                            38.519587
+                        ],
+                        [
+                            -8.877004,
+                            38.51804
+                        ],
+                        [
+                            -8.877133,
+                            38.517688
+                        ],
+                        [
+                            -8.875943,
+                            38.515981
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETAPSS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.876341,
+                            38.515532
+                        ],
+                        [
+                            -8.87597,
+                            38.515979
+                        ],
+                        [
+                            -8.877142,
+                            38.517687
+                        ],
+                        [
+                            -8.877015,
+                            38.518035
+                        ],
+                        [
+                            -8.883681,
+                            38.51958
+                        ],
+                        [
+                            -8.883849,
+                            38.519099
+                        ],
+                        [
+                            -8.877849,
+                            38.517677
+                        ],
+                        [
+                            -8.876341,
+                            38.515532
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETAPSS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.880362,
+                    38.519231
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETAPSS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.878523,
+                    38.51739
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETAPSS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

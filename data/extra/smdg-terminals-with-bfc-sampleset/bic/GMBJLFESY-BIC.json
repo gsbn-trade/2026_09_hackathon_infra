@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.5949,
+                            13.4584
+                        ],
+                        [
+                            -16.5953,
+                            13.4589
+                        ],
+                        [
+                            -16.5959,
+                            13.4583
+                        ],
+                        [
+                            -16.596335,
+                            13.457739
+                        ],
+                        [
+                            -16.59415,
+                            13.455417
+                        ],
+                        [
+                            -16.593181,
+                            13.456438
+                        ],
+                        [
+                            -16.5945,
+                            13.458
+                        ],
+                        [
+                            -16.5949,
+                            13.4584
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GMBJLFESY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-20",
+                "url": "https://www.bic-code.org/facility-codes/gmbjlfesy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.594896,
+                    13.457699
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GMBJLFESY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-20",
+                "url": "https://www.bic-code.org/facility-codes/gmbjlfesy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

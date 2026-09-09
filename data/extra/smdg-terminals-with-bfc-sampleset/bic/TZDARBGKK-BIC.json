@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.2936,
+                            -6.85579
+                        ],
+                        [
+                            39.2934,
+                            -6.85592
+                        ],
+                        [
+                            39.2926,
+                            -6.85701
+                        ],
+                        [
+                            39.2923,
+                            -6.85773
+                        ],
+                        [
+                            39.2936,
+                            -6.85812
+                        ],
+                        [
+                            39.2936,
+                            -6.85579
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARBGKK",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/tzdarbgkk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.293183,
+                    -6.856727
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARBGKK",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/tzdarbgkk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

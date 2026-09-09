@@ -1,0 +1,440 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.014297,
+                            -29.878917
+                        ],
+                        [
+                            31.014011,
+                            -29.879598
+                        ],
+                        [
+                            31.014089,
+                            -29.879893
+                        ],
+                        [
+                            31.023276,
+                            -29.878066
+                        ],
+                        [
+                            31.023054,
+                            -29.877211
+                        ],
+                        [
+                            31.014297,
+                            -29.878917
+                        ]
+                    ]
+                ]
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.024205,
+                            -29.878039
+                        ],
+                        [
+                            31.021851,
+                            -29.883656
+                        ],
+                        [
+                            31.027231,
+                            -29.882618
+                        ],
+                        [
+                            31.026725,
+                            -29.881984
+                        ],
+                        [
+                            31.023101,
+                            -29.882722
+                        ],
+                        [
+                            31.025026,
+                            -29.878351
+                        ],
+                        [
+                            31.024205,
+                            -29.878039
+                        ]
+                    ]
+                ]
+            },
+            "id": 2,
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.027255,
+                            -29.884626
+                        ],
+                        [
+                            31.027284,
+                            -29.884642
+                        ],
+                        [
+                            31.027514,
+                            -29.884178
+                        ],
+                        [
+                            31.027662,
+                            -29.883652
+                        ],
+                        [
+                            31.027664,
+                            -29.883535
+                        ],
+                        [
+                            31.027568,
+                            -29.883465
+                        ],
+                        [
+                            31.027268,
+                            -29.883429
+                        ],
+                        [
+                            31.027124,
+                            -29.883083
+                        ],
+                        [
+                            31.027256,
+                            -29.882629
+                        ],
+                        [
+                            31.021818,
+                            -29.883681
+                        ],
+                        [
+                            31.024194,
+                            -29.878048
+                        ],
+                        [
+                            31.023852,
+                            -29.877733
+                        ],
+                        [
+                            31.023226,
+                            -29.877856
+                        ],
+                        [
+                            31.023279,
+                            -29.878075
+                        ],
+                        [
+                            31.014076,
+                            -29.879902
+                        ],
+                        [
+                            31.013993,
+                            -29.879585
+                        ],
+                        [
+                            31.013257,
+                            -29.879304
+                        ],
+                        [
+                            31.013256,
+                            -29.878916
+                        ],
+                        [
+                            31.013182,
+                            -29.878857
+                        ],
+                        [
+                            31.011945,
+                            -29.879115
+                        ],
+                        [
+                            31.011922,
+                            -29.879175
+                        ],
+                        [
+                            31.012136,
+                            -29.880107
+                        ],
+                        [
+                            31.011741,
+                            -29.880375
+                        ],
+                        [
+                            31.011592,
+                            -29.880892
+                        ],
+                        [
+                            31.012464,
+                            -29.884139
+                        ],
+                        [
+                            31.016756,
+                            -29.883334
+                        ],
+                        [
+                            31.016894,
+                            -29.88348
+                        ],
+                        [
+                            31.015323,
+                            -29.887243
+                        ],
+                        [
+                            31.014839,
+                            -29.888357
+                        ],
+                        [
+                            31.014225,
+                            -29.889735
+                        ],
+                        [
+                            31.013948,
+                            -29.890331
+                        ],
+                        [
+                            31.01393,
+                            -29.890402
+                        ],
+                        [
+                            31.013981,
+                            -29.890507
+                        ],
+                        [
+                            31.014106,
+                            -29.890573
+                        ],
+                        [
+                            31.014211,
+                            -29.890597
+                        ],
+                        [
+                            31.014243,
+                            -29.890488
+                        ],
+                        [
+                            31.014488,
+                            -29.890568
+                        ],
+                        [
+                            31.014449,
+                            -29.890669
+                        ],
+                        [
+                            31.015004,
+                            -29.890856
+                        ],
+                        [
+                            31.01518,
+                            -29.890433
+                        ],
+                        [
+                            31.015455,
+                            -29.890525
+                        ],
+                        [
+                            31.015522,
+                            -29.89036
+                        ],
+                        [
+                            31.015527,
+                            -29.890278
+                        ],
+                        [
+                            31.015523,
+                            -29.890151
+                        ],
+                        [
+                            31.015538,
+                            -29.890066
+                        ],
+                        [
+                            31.015578,
+                            -29.889974
+                        ],
+                        [
+                            31.015879,
+                            -29.890072
+                        ],
+                        [
+                            31.015604,
+                            -29.890721
+                        ],
+                        [
+                            31.017091,
+                            -29.891193
+                        ],
+                        [
+                            31.017244,
+                            -29.891062
+                        ],
+                        [
+                            31.01738,
+                            -29.890955
+                        ],
+                        [
+                            31.017616,
+                            -29.890792
+                        ],
+                        [
+                            31.018074,
+                            -29.890475
+                        ],
+                        [
+                            31.018204,
+                            -29.890389
+                        ],
+                        [
+                            31.018331,
+                            -29.890299
+                        ],
+                        [
+                            31.018418,
+                            -29.890225
+                        ],
+                        [
+                            31.018491,
+                            -29.890156
+                        ],
+                        [
+                            31.018549,
+                            -29.890079
+                        ],
+                        [
+                            31.018605,
+                            -29.889989
+                        ],
+                        [
+                            31.018653,
+                            -29.889901
+                        ],
+                        [
+                            31.018677,
+                            -29.889771
+                        ],
+                        [
+                            31.018709,
+                            -29.889686
+                        ],
+                        [
+                            31.018767,
+                            -29.889596
+                        ],
+                        [
+                            31.019116,
+                            -29.889927
+                        ],
+                        [
+                            31.027255,
+                            -29.884626
+                        ]
+                    ]
+                ]
+            },
+            "id": 3,
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.017171,
+                    -29.878767
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.024621,
+                    -29.880773
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.017968,
+                    -29.886428
+                ]
+            },
+            "properties": {
+                "code": "ZADURTNP2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "remarks": "Based on facility-provided geofence. Terminal to verify gate areas, boundary Pier1 and Pier2, railways, Freightmax and further south, overpasses.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

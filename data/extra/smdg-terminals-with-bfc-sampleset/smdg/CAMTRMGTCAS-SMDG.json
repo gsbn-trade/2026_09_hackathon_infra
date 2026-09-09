@@ -1,0 +1,277 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.509673,
+                            45.59195
+                        ],
+                        [
+                            -73.508957,
+                            45.589607
+                        ],
+                        [
+                            -73.50823,
+                            45.588154
+                        ],
+                        [
+                            -73.507817,
+                            45.588196
+                        ],
+                        [
+                            -73.507605,
+                            45.587533
+                        ],
+                        [
+                            -73.50737,
+                            45.586808
+                        ],
+                        [
+                            -73.507132,
+                            45.58635
+                        ],
+                        [
+                            -73.50728,
+                            45.585921
+                        ],
+                        [
+                            -73.507042,
+                            45.585899
+                        ],
+                        [
+                            -73.507009,
+                            45.586241
+                        ],
+                        [
+                            -73.506918,
+                            45.586319
+                        ],
+                        [
+                            -73.506018,
+                            45.586123
+                        ],
+                        [
+                            -73.506087,
+                            45.585845
+                        ],
+                        [
+                            -73.505874,
+                            45.585779
+                        ],
+                        [
+                            -73.505764,
+                            45.585477
+                        ],
+                        [
+                            -73.505698,
+                            45.584948
+                        ],
+                        [
+                            -73.505953,
+                            45.584392
+                        ],
+                        [
+                            -73.50618,
+                            45.583996
+                        ],
+                        [
+                            -73.506067,
+                            45.583876
+                        ],
+                        [
+                            -73.506426,
+                            45.583195
+                        ],
+                        [
+                            -73.50721,
+                            45.581714
+                        ],
+                        [
+                            -73.508495,
+                            45.579994
+                        ],
+                        [
+                            -73.509289,
+                            45.579075
+                        ],
+                        [
+                            -73.509251,
+                            45.57889
+                        ],
+                        [
+                            -73.509081,
+                            45.578632
+                        ],
+                        [
+                            -73.508939,
+                            45.578407
+                        ],
+                        [
+                            -73.508609,
+                            45.578407
+                        ],
+                        [
+                            -73.508476,
+                            45.578486
+                        ],
+                        [
+                            -73.507522,
+                            45.578215
+                        ],
+                        [
+                            -73.50585,
+                            45.580568
+                        ],
+                        [
+                            -73.506058,
+                            45.580667
+                        ],
+                        [
+                            -73.504631,
+                            45.583961
+                        ],
+                        [
+                            -73.505614,
+                            45.584331
+                        ],
+                        [
+                            -73.505415,
+                            45.585072
+                        ],
+                        [
+                            -73.505037,
+                            45.584986
+                        ],
+                        [
+                            -73.503975,
+                            45.587706
+                        ],
+                        [
+                            -73.50553,
+                            45.591986
+                        ],
+                        [
+                            -73.506126,
+                            45.591878
+                        ],
+                        [
+                            -73.50711,
+                            45.591823
+                        ],
+                        [
+                            -73.507914,
+                            45.591841
+                        ],
+                        [
+                            -73.508795,
+                            45.592041
+                        ],
+                        [
+                            -73.509673,
+                            45.59195
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRMGTCAS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.505554,
+                            45.59201
+                        ],
+                        [
+                            -73.503982,
+                            45.58769
+                        ],
+                        [
+                            -73.505015,
+                            45.585012
+                        ],
+                        [
+                            -73.504193,
+                            45.584766
+                        ],
+                        [
+                            -73.502996,
+                            45.58769
+                        ],
+                        [
+                            -73.504756,
+                            45.592158
+                        ],
+                        [
+                            -73.505554,
+                            45.59201
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRMGTCAS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.507088,
+                    45.585172
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRMGTCAS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.504579,
+                    45.588762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRMGTCAS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

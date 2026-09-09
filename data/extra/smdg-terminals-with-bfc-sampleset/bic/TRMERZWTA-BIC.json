@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.338716,
+                            38.762019
+                        ],
+                        [
+                            35.338467,
+                            38.76227
+                        ],
+                        [
+                            35.336075,
+                            38.761719
+                        ],
+                        [
+                            35.333773,
+                            38.760914
+                        ],
+                        [
+                            35.334206,
+                            38.760336
+                        ],
+                        [
+                            35.338716,
+                            38.762019
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRMERZWTA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/trmerzwta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.336659,
+                    38.761546
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRMERZWTA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/trmerzwta/"
+            }
+        }
+    ]
+}

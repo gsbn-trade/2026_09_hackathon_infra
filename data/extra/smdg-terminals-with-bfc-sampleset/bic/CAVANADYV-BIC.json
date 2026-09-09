@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.878747,
+                            49.149336
+                        ],
+                        [
+                            -123.879178,
+                            49.149173
+                        ],
+                        [
+                            -123.879558,
+                            49.149534
+                        ],
+                        [
+                            -123.880429,
+                            49.150061
+                        ],
+                        [
+                            -123.880552,
+                            49.149956
+                        ],
+                        [
+                            -123.880812,
+                            49.149678
+                        ],
+                        [
+                            -123.880086,
+                            49.149143
+                        ],
+                        [
+                            -123.882044,
+                            49.14794
+                        ],
+                        [
+                            -123.881967,
+                            49.147887
+                        ],
+                        [
+                            -123.881692,
+                            49.14787
+                        ],
+                        [
+                            -123.881265,
+                            49.147536
+                        ],
+                        [
+                            -123.8811,
+                            49.147397
+                        ],
+                        [
+                            -123.881014,
+                            49.147423
+                        ],
+                        [
+                            -123.879748,
+                            49.146401
+                        ],
+                        [
+                            -123.877964,
+                            49.147197
+                        ],
+                        [
+                            -123.877273,
+                            49.1478
+                        ],
+                        [
+                            -123.877451,
+                            49.148021
+                        ],
+                        [
+                            -123.877077,
+                            49.14829
+                        ],
+                        [
+                            -123.87864,
+                            49.149427
+                        ],
+                        [
+                            -123.878747,
+                            49.149336
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANADYV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanadyv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.879767,
+                    49.14847
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANADYV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanadyv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

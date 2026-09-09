@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.761067,
+                            4.888566
+                        ],
+                        [
+                            -1.760696,
+                            4.887829
+                        ],
+                        [
+                            -1.762595,
+                            4.887372
+                        ],
+                        [
+                            -1.762802,
+                            4.887757
+                        ],
+                        [
+                            -1.761067,
+                            4.888566
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.761645,
+                    4.888018
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

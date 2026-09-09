@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.480568,
+                            40.802201
+                        ],
+                        [
+                            29.4804,
+                            40.8021
+                        ],
+                        [
+                            29.4805,
+                            40.8018
+                        ],
+                        [
+                            29.4792,
+                            40.8015
+                        ],
+                        [
+                            29.478897,
+                            40.802328
+                        ],
+                        [
+                            29.479098,
+                            40.802903
+                        ],
+                        [
+                            29.479848,
+                            40.803183
+                        ],
+                        [
+                            29.480155,
+                            40.803269
+                        ],
+                        [
+                            29.48019,
+                            40.803179
+                        ],
+                        [
+                            29.480335,
+                            40.80284
+                        ],
+                        [
+                            29.480606,
+                            40.802604
+                        ],
+                        [
+                            29.480739,
+                            40.802301
+                        ],
+                        [
+                            29.480568,
+                            40.802201
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBEAZK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/trgebeazk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.480085,
+                    40.802493
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBEAZK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/trgebeazk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

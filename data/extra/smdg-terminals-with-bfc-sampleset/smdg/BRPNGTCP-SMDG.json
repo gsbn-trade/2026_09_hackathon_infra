@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.492309,
+                            -25.499724
+                        ],
+                        [
+                            -48.50304,
+                            -25.501188
+                        ],
+                        [
+                            -48.502997,
+                            -25.501444
+                        ],
+                        [
+                            -48.504327,
+                            -25.50162
+                        ],
+                        [
+                            -48.503468,
+                            -25.506187
+                        ],
+                        [
+                            -48.49756,
+                            -25.505377
+                        ],
+                        [
+                            -48.496731,
+                            -25.50532
+                        ],
+                        [
+                            -48.493642,
+                            -25.504878
+                        ],
+                        [
+                            -48.494377,
+                            -25.500463
+                        ],
+                        [
+                            -48.492234,
+                            -25.500173
+                        ],
+                        [
+                            -48.492309,
+                            -25.499724
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGTCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "remarks": "Redraw using OSM.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.492314,
+                            -25.499711
+                        ],
+                        [
+                            -48.492451,
+                            -25.499059
+                        ],
+                        [
+                            -48.50316,
+                            -25.500544
+                        ],
+                        [
+                            -48.503047,
+                            -25.501179
+                        ],
+                        [
+                            -48.492314,
+                            -25.499711
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGTCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-13",
+                "remarks": "Redraw using OSM.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.497545,
+                    -25.502373
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGTCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "remarks": "Redraw using OSM.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.496657,
+                    -25.500041
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGTCP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "remarks": "Redraw using OSM.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

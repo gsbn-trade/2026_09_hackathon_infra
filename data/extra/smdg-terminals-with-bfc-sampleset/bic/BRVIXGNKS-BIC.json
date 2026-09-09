@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -40.327742,
+                            -20.354373
+                        ],
+                        [
+                            -40.32746,
+                            -20.355138
+                        ],
+                        [
+                            -40.326583,
+                            -20.354867
+                        ],
+                        [
+                            -40.326942,
+                            -20.354102
+                        ],
+                        [
+                            -40.327742,
+                            -20.354373
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVIXGNKS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-08",
+                "url": "https://www.bic-code.org/facility-codes/brvixgnks/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -40.327294,
+                    -20.354571
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVIXGNKS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-08",
+                "url": "https://www.bic-code.org/facility-codes/brvixgnks/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

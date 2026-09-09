@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.715167,
+                            22.741755
+                        ],
+                        [
+                            69.710155,
+                            22.745155
+                        ],
+                        [
+                            69.709654,
+                            22.744489
+                        ],
+                        [
+                            69.709324,
+                            22.744138
+                        ],
+                        [
+                            69.708924,
+                            22.743644
+                        ],
+                        [
+                            69.708573,
+                            22.743188
+                        ],
+                        [
+                            69.708351,
+                            22.742768
+                        ],
+                        [
+                            69.707415,
+                            22.741473
+                        ],
+                        [
+                            69.712189,
+                            22.738071
+                        ],
+                        [
+                            69.715167,
+                            22.741755
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNMICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.710204,
+                            22.745195
+                        ],
+                        [
+                            69.715183,
+                            22.741734
+                        ],
+                        [
+                            69.715723,
+                            22.742596
+                        ],
+                        [
+                            69.710788,
+                            22.745909
+                        ],
+                        [
+                            69.710204,
+                            22.745195
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNMICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.710492,
+                    22.742644
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNMICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.71242,
+                    22.744126
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNMICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-07-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

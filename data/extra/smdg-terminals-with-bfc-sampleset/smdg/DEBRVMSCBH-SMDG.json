@@ -1,0 +1,257 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.534052,
+                            53.579991
+                        ],
+                        [
+                            8.546148,
+                            53.567142
+                        ],
+                        [
+                            8.54513,
+                            53.566825
+                        ],
+                        [
+                            8.533021,
+                            53.579642
+                        ],
+                        [
+                            8.534052,
+                            53.579991
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVMSCBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-08-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.534061,
+                            53.579994
+                        ],
+                        [
+                            8.546164,
+                            53.567128
+                        ],
+                        [
+                            8.547776,
+                            53.567649
+                        ],
+                        [
+                            8.547907,
+                            53.567769
+                        ],
+                        [
+                            8.548246,
+                            53.568494
+                        ],
+                        [
+                            8.548351,
+                            53.568577
+                        ],
+                        [
+                            8.548673,
+                            53.568734
+                        ],
+                        [
+                            8.548753,
+                            53.568802
+                        ],
+                        [
+                            8.548796,
+                            53.568881
+                        ],
+                        [
+                            8.548934,
+                            53.569766
+                        ],
+                        [
+                            8.549178,
+                            53.571798
+                        ],
+                        [
+                            8.548644,
+                            53.57183
+                        ],
+                        [
+                            8.548658,
+                            53.571985
+                        ],
+                        [
+                            8.548446,
+                            53.571995
+                        ],
+                        [
+                            8.546804,
+                            53.57376
+                        ],
+                        [
+                            8.546991,
+                            53.575428
+                        ],
+                        [
+                            8.547335,
+                            53.578758
+                        ],
+                        [
+                            8.547319,
+                            53.579334
+                        ],
+                        [
+                            8.546808,
+                            53.579329
+                        ],
+                        [
+                            8.54638,
+                            53.579323
+                        ],
+                        [
+                            8.546254,
+                            53.579375
+                        ],
+                        [
+                            8.545993,
+                            53.57956
+                        ],
+                        [
+                            8.545924,
+                            53.579695
+                        ],
+                        [
+                            8.544896,
+                            53.580793
+                        ],
+                        [
+                            8.544878,
+                            53.58086
+                        ],
+                        [
+                            8.544908,
+                            53.580942
+                        ],
+                        [
+                            8.545023,
+                            53.581013
+                        ],
+                        [
+                            8.545354,
+                            53.581092
+                        ],
+                        [
+                            8.54616,
+                            53.58123
+                        ],
+                        [
+                            8.546215,
+                            53.581258
+                        ],
+                        [
+                            8.546251,
+                            53.581293
+                        ],
+                        [
+                            8.546242,
+                            53.581396
+                        ],
+                        [
+                            8.546426,
+                            53.581408
+                        ],
+                        [
+                            8.546358,
+                            53.581601
+                        ],
+                        [
+                            8.540033,
+                            53.579766
+                        ],
+                        [
+                            8.53705,
+                            53.582937
+                        ],
+                        [
+                            8.533416,
+                            53.581706
+                        ],
+                        [
+                            8.53479,
+                            53.580238
+                        ],
+                        [
+                            8.534061,
+                            53.579994
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVMSCBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-08-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.538481,
+                    53.574718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVMSCBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-08-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.545242,
+                    53.576551
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVMSCBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-08-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

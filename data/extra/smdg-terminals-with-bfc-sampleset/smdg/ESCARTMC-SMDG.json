@@ -1,0 +1,225 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.972734,
+                            37.597179
+                        ],
+                        [
+                            -0.972986,
+                            37.597024
+                        ],
+                        [
+                            -0.973246,
+                            37.59699
+                        ],
+                        [
+                            -0.973736,
+                            37.596716
+                        ],
+                        [
+                            -0.973881,
+                            37.596716
+                        ],
+                        [
+                            -0.973816,
+                            37.596367
+                        ],
+                        [
+                            -0.974313,
+                            37.59631
+                        ],
+                        [
+                            -0.974328,
+                            37.596447
+                        ],
+                        [
+                            -0.97497,
+                            37.596379
+                        ],
+                        [
+                            -0.974962,
+                            37.596276
+                        ],
+                        [
+                            -0.975352,
+                            37.596196
+                        ],
+                        [
+                            -0.975496,
+                            37.596362
+                        ],
+                        [
+                            -0.975655,
+                            37.596293
+                        ],
+                        [
+                            -0.973607,
+                            37.593173
+                        ],
+                        [
+                            -0.973509,
+                            37.593043
+                        ],
+                        [
+                            -0.973619,
+                            37.592859
+                        ],
+                        [
+                            -0.973686,
+                            37.592756
+                        ],
+                        [
+                            -0.971897,
+                            37.592164
+                        ],
+                        [
+                            -0.97137,
+                            37.591945
+                        ],
+                        [
+                            -0.971167,
+                            37.592143
+                        ],
+                        [
+                            -0.970992,
+                            37.592471
+                        ],
+                        [
+                            -0.970679,
+                            37.592912
+                        ],
+                        [
+                            -0.970034,
+                            37.593313
+                        ],
+                        [
+                            -0.969719,
+                            37.593651
+                        ],
+                        [
+                            -0.969648,
+                            37.594001
+                        ],
+                        [
+                            -0.969632,
+                            37.594188
+                        ],
+                        [
+                            -0.96973,
+                            37.594295
+                        ],
+                        [
+                            -0.969858,
+                            37.59443
+                        ],
+                        [
+                            -0.970015,
+                            37.594406
+                        ],
+                        [
+                            -0.970589,
+                            37.595216
+                        ],
+                        [
+                            -0.972734,
+                            37.597179
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCARTMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.975649,
+                            37.596288
+                        ],
+                        [
+                            -0.97625,
+                            37.596018
+                        ],
+                        [
+                            -0.974227,
+                            37.59292
+                        ],
+                        [
+                            -0.973639,
+                            37.593169
+                        ],
+                        [
+                            -0.975649,
+                            37.596288
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCARTMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.972515,
+                    37.594819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCARTMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.975083,
+                    37.594937
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCARTMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

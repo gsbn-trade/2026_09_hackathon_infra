@@ -1,0 +1,237 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.225206,
+                            51.338286
+                        ],
+                        [
+                            3.223797,
+                            51.338201
+                        ],
+                        [
+                            3.222062,
+                            51.337917
+                        ],
+                        [
+                            3.221821,
+                            51.337859
+                        ],
+                        [
+                            3.220226,
+                            51.337458
+                        ],
+                        [
+                            3.219651,
+                            51.337238
+                        ],
+                        [
+                            3.219219,
+                            51.336349
+                        ],
+                        [
+                            3.22177,
+                            51.332901
+                        ],
+                        [
+                            3.22222,
+                            51.332971
+                        ],
+                        [
+                            3.222761,
+                            51.332843
+                        ],
+                        [
+                            3.222704,
+                            51.332627
+                        ],
+                        [
+                            3.223446,
+                            51.331594
+                        ],
+                        [
+                            3.224846,
+                            51.331638
+                        ],
+                        [
+                            3.228906,
+                            51.332512
+                        ],
+                        [
+                            3.225206,
+                            51.338286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEZEEFBPL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/bezeefbpl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.225295,
+                            51.345919
+                        ],
+                        [
+                            3.22333,
+                            51.345673
+                        ],
+                        [
+                            3.224076,
+                            51.343331
+                        ],
+                        [
+                            3.218905,
+                            51.342618
+                        ],
+                        [
+                            3.218345,
+                            51.342254
+                        ],
+                        [
+                            3.219061,
+                            51.340008
+                        ],
+                        [
+                            3.218723,
+                            51.339459
+                        ],
+                        [
+                            3.217547,
+                            51.339831
+                        ],
+                        [
+                            3.216357,
+                            51.339426
+                        ],
+                        [
+                            3.215722,
+                            51.339282
+                        ],
+                        [
+                            3.215032,
+                            51.339257
+                        ],
+                        [
+                            3.214681,
+                            51.33989
+                        ],
+                        [
+                            3.213978,
+                            51.339755
+                        ],
+                        [
+                            3.21272,
+                            51.341867
+                        ],
+                        [
+                            3.212396,
+                            51.3419
+                        ],
+                        [
+                            3.212179,
+                            51.341757
+                        ],
+                        [
+                            3.215208,
+                            51.336782
+                        ],
+                        [
+                            3.221779,
+                            51.338167
+                        ],
+                        [
+                            3.226768,
+                            51.338978
+                        ],
+                        [
+                            3.22712,
+                            51.339451
+                        ],
+                        [
+                            3.226588,
+                            51.339956
+                        ],
+                        [
+                            3.22652,
+                            51.340127
+                        ],
+                        [
+                            3.227271,
+                            51.340267
+                        ],
+                        [
+                            3.225295,
+                            51.345919
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEZEEFBPL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/bezeefbpl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.222923,
+                    51.335245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEZEEFBPL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/bezeefbpl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.219787,
+                    51.340911
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEZEEFBPL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/bezeefbpl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

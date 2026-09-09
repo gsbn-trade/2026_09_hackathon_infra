@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            129.067577,
+                            35.107937
+                        ],
+                        [
+                            129.07502,
+                            35.103603
+                        ],
+                        [
+                            129.075032,
+                            35.108978
+                        ],
+                        [
+                            129.071346,
+                            35.110697
+                        ],
+                        [
+                            129.071143,
+                            35.110698
+                        ],
+                        [
+                            129.070443,
+                            35.110604
+                        ],
+                        [
+                            129.069885,
+                            35.110961
+                        ],
+                        [
+                            129.069843,
+                            35.110909
+                        ],
+                        [
+                            129.069702,
+                            35.110733
+                        ],
+                        [
+                            129.067577,
+                            35.107937
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSDPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-26",
+                "remarks": "adding berth to pan soo submission",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            129.067825,
+                            35.10778
+                        ],
+                        [
+                            129.067407,
+                            35.107304
+                        ],
+                        [
+                            129.074546,
+                            35.103153
+                        ],
+                        [
+                            129.074969,
+                            35.103589
+                        ],
+                        [
+                            129.067825,
+                            35.10778
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSDPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-26",
+                "remarks": "adding berth to pan soo submission",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.070757,
+                    35.109306
+                ]
+            },
+            "properties": {
+                "code": "KRPUSDPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-26",
+                "remarks": "adding berth to pan soo submission",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.070514,
+                    35.105921
+                ]
+            },
+            "properties": {
+                "code": "KRPUSDPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-26",
+                "remarks": "adding berth to pan soo submission",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

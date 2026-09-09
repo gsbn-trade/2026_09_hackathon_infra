@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.643523,
+                            4.784606
+                        ],
+                        [
+                            -6.64429,
+                            4.784742
+                        ],
+                        [
+                            -6.64539,
+                            4.785092
+                        ],
+                        [
+                            -6.645304,
+                            4.783194
+                        ],
+                        [
+                            -6.644221,
+                            4.782735
+                        ],
+                        [
+                            -6.643523,
+                            4.784606
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYFOFI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispyfofi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.644375,
+                    4.784162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYFOFI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispyfofi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.0867,
+                            -5.08546
+                        ],
+                        [
+                            -81.089,
+                            -5.08582
+                        ],
+                        [
+                            -81.0906,
+                            -5.0888
+                        ],
+                        [
+                            -81.0897,
+                            -5.08925
+                        ],
+                        [
+                            -81.0888,
+                            -5.08972
+                        ],
+                        [
+                            -81.0867,
+                            -5.08546
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIPDIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaipdic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.088583,
+                    -5.087418
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIPDIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaipdic/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.933046,
+                            -6.142159
+                        ],
+                        [
+                            106.933015,
+                            -6.144141
+                        ],
+                        [
+                            106.933032,
+                            -6.144185
+                        ],
+                        [
+                            106.933064,
+                            -6.144224
+                        ],
+                        [
+                            106.933108,
+                            -6.144245
+                        ],
+                        [
+                            106.933178,
+                            -6.144247
+                        ],
+                        [
+                            106.934334,
+                            -6.14427
+                        ],
+                        [
+                            106.935319,
+                            -6.144294
+                        ],
+                        [
+                            106.935348,
+                            -6.142198
+                        ],
+                        [
+                            106.934386,
+                            -6.142134
+                        ],
+                        [
+                            106.933417,
+                            -6.142119
+                        ],
+                        [
+                            106.933414,
+                            -6.142166
+                        ],
+                        [
+                            106.933046,
+                            -6.142159
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.934207,
+                            -6.142552
+                        ],
+                        [
+                            106.934467,
+                            -6.14255
+                        ],
+                        [
+                            106.934466,
+                            -6.14273
+                        ],
+                        [
+                            106.934203,
+                            -6.14273
+                        ],
+                        [
+                            106.934207,
+                            -6.142552
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.93367,
+                    -6.143272
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcic/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.93431,
+                    -6.142623
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcic/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

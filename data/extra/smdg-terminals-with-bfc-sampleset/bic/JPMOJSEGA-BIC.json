@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.988614,
+                            33.887108
+                        ],
+                        [
+                            130.989298,
+                            33.888581
+                        ],
+                        [
+                            130.988929,
+                            33.888637
+                        ],
+                        [
+                            130.988191,
+                            33.887236
+                        ],
+                        [
+                            130.988231,
+                            33.887144
+                        ],
+                        [
+                            130.988614,
+                            33.887108
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJSEGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "This is a warehouse.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojsega/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.988646,
+                    33.887636
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJSEGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "This is a warehouse.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojsega/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

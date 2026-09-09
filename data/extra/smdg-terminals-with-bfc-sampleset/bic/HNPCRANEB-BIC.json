@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.9064,
+                            15.826378
+                        ],
+                        [
+                            -87.905404,
+                            15.82588
+                        ],
+                        [
+                            -87.904837,
+                            15.828421
+                        ],
+                        [
+                            -87.905914,
+                            15.828499
+                        ],
+                        [
+                            -87.9064,
+                            15.826378
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRANEB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnpcraneb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.905791,
+                    15.827111
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRANEB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnpcraneb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

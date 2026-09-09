@@ -1,0 +1,237 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.915167,
+                            -37.809881
+                        ],
+                        [
+                            144.915016,
+                            -37.809874
+                        ],
+                        [
+                            144.914682,
+                            -37.817816
+                        ],
+                        [
+                            144.914984,
+                            -37.81782
+                        ],
+                        [
+                            144.916392,
+                            -37.818263
+                        ],
+                        [
+                            144.916135,
+                            -37.817866
+                        ],
+                        [
+                            144.915994,
+                            -37.817915
+                        ],
+                        [
+                            144.915961,
+                            -37.817858
+                        ],
+                        [
+                            144.921237,
+                            -37.815826
+                        ],
+                        [
+                            144.921227,
+                            -37.81581
+                        ],
+                        [
+                            144.921274,
+                            -37.815789
+                        ],
+                        [
+                            144.921148,
+                            -37.81557
+                        ],
+                        [
+                            144.921391,
+                            -37.815477
+                        ],
+                        [
+                            144.923619,
+                            -37.814093
+                        ],
+                        [
+                            144.923788,
+                            -37.813849
+                        ],
+                        [
+                            144.924054,
+                            -37.813316
+                        ],
+                        [
+                            144.924292,
+                            -37.813106
+                        ],
+                        [
+                            144.924838,
+                            -37.812734
+                        ],
+                        [
+                            144.924789,
+                            -37.812603
+                        ],
+                        [
+                            144.92451,
+                            -37.812517
+                        ],
+                        [
+                            144.923221,
+                            -37.812394
+                        ],
+                        [
+                            144.922991,
+                            -37.812544
+                        ],
+                        [
+                            144.922646,
+                            -37.812515
+                        ],
+                        [
+                            144.922355,
+                            -37.812397
+                        ],
+                        [
+                            144.921518,
+                            -37.812297
+                        ],
+                        [
+                            144.921485,
+                            -37.811935
+                        ],
+                        [
+                            144.921425,
+                            -37.811927
+                        ],
+                        [
+                            144.921706,
+                            -37.810315
+                        ],
+                        [
+                            144.91998,
+                            -37.810126
+                        ],
+                        [
+                            144.918578,
+                            -37.809977
+                        ],
+                        [
+                            144.91811,
+                            -37.809668
+                        ],
+                        [
+                            144.915909,
+                            -37.809468
+                        ],
+                        [
+                            144.915198,
+                            -37.809354
+                        ],
+                        [
+                            144.915167,
+                            -37.809881
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELASES1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.91503,
+                            -37.809856
+                        ],
+                        [
+                            144.914338,
+                            -37.809844
+                        ],
+                        [
+                            144.914021,
+                            -37.817875
+                        ],
+                        [
+                            144.914684,
+                            -37.817841
+                        ],
+                        [
+                            144.91503,
+                            -37.809856
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELASES1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.920023,
+                    -37.813317
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELASES1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.914621,
+                    -37.813054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELASES1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            50.186261,
+                            26.455708
+                        ],
+                        [
+                            50.185773,
+                            26.455029
+                        ],
+                        [
+                            50.187476,
+                            26.454057
+                        ],
+                        [
+                            50.187802,
+                            26.454511
+                        ],
+                        [
+                            50.187709,
+                            26.454888
+                        ],
+                        [
+                            50.186261,
+                            26.455708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-04-14",
+                "url": "https://www.bic-code.org/facility-codes/sadmmstol/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.18688,
+                    26.454983
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-04-14",
+                "url": "https://www.bic-code.org/facility-codes/sadmmstol/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

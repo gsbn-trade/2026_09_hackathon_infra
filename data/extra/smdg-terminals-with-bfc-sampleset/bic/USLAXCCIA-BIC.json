@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.245919,
+                            33.800015
+                        ],
+                        [
+                            -118.245575,
+                            33.795837
+                        ],
+                        [
+                            -118.241553,
+                            33.795991
+                        ],
+                        [
+                            -118.241333,
+                            33.795958
+                        ],
+                        [
+                            -118.240971,
+                            33.796522
+                        ],
+                        [
+                            -118.243542,
+                            33.799599
+                        ],
+                        [
+                            -118.243702,
+                            33.799737
+                        ],
+                        [
+                            -118.244026,
+                            33.799957
+                        ],
+                        [
+                            -118.244129,
+                            33.800018
+                        ],
+                        [
+                            -118.244415,
+                            33.800082
+                        ],
+                        [
+                            -118.245919,
+                            33.800015
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-06-05",
+                "url": "https://www.bic-code.org/facility-codes/uslaxccia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.24385,
+                            33.800088
+                        ],
+                        [
+                            -118.243319,
+                            33.799795
+                        ],
+                        [
+                            -118.242993,
+                            33.799403
+                        ],
+                        [
+                            -118.241173,
+                            33.797322
+                        ],
+                        [
+                            -118.240635,
+                            33.797692
+                        ],
+                        [
+                            -118.240223,
+                            33.797741
+                        ],
+                        [
+                            -118.238691,
+                            33.80033
+                        ],
+                        [
+                            -118.238724,
+                            33.800397
+                        ],
+                        [
+                            -118.243554,
+                            33.800203
+                        ],
+                        [
+                            -118.24385,
+                            33.800088
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-06-05",
+                "url": "https://www.bic-code.org/facility-codes/uslaxccia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.243735,
+                    33.798521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-06-05",
+                "url": "https://www.bic-code.org/facility-codes/uslaxccia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.241701,
+                    33.799306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXCCIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-06-05",
+                "url": "https://www.bic-code.org/facility-codes/uslaxccia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

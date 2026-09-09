@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.7294,
+                            46.504147
+                        ],
+                        [
+                            30.729392,
+                            46.50301
+                        ],
+                        [
+                            30.727717,
+                            46.502871
+                        ],
+                        [
+                            30.727859,
+                            46.501807
+                        ],
+                        [
+                            30.728282,
+                            46.50073
+                        ],
+                        [
+                            30.730619,
+                            46.501249
+                        ],
+                        [
+                            30.731774,
+                            46.501513
+                        ],
+                        [
+                            30.731419,
+                            46.502327
+                        ],
+                        [
+                            30.73048,
+                            46.504333
+                        ],
+                        [
+                            30.7294,
+                            46.504147
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSBROOKL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "remarks": "added berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.730519,
+                            46.504355
+                        ],
+                        [
+                            30.731391,
+                            46.502371
+                        ],
+                        [
+                            30.73232,
+                            46.502595
+                        ],
+                        [
+                            30.731402,
+                            46.504546
+                        ],
+                        [
+                            30.730519,
+                            46.504355
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSBROOKL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "added berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.729634,
+                    46.502613
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSBROOKL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "added berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.73123,
+                    46.503644
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSBROOKL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "added berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

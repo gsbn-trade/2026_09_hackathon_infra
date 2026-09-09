@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.526026,
+                            45.556922
+                        ],
+                        [
+                            -73.527593,
+                            45.551772
+                        ],
+                        [
+                            -73.528384,
+                            45.550249
+                        ],
+                        [
+                            -73.531069,
+                            45.547066
+                        ],
+                        [
+                            -73.531645,
+                            45.546109
+                        ],
+                        [
+                            -73.528977,
+                            45.54687
+                        ],
+                        [
+                            -73.521776,
+                            45.555423
+                        ],
+                        [
+                            -73.523835,
+                            45.556392
+                        ],
+                        [
+                            -73.525054,
+                            45.556772
+                        ],
+                        [
+                            -73.526026,
+                            45.556922
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRLTRJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/camtrltrj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.527038,
+                    45.55245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRLTRJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-20",
+                "url": "https://www.bic-code.org/facility-codes/camtrltrj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

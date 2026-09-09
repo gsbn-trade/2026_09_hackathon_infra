@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.034103,
+                            51.943122
+                        ],
+                        [
+                            4.034811,
+                            51.943268
+                        ],
+                        [
+                            4.035348,
+                            51.942388
+                        ],
+                        [
+                            4.036361,
+                            51.942653
+                        ],
+                        [
+                            4.036431,
+                            51.942772
+                        ],
+                        [
+                            4.036238,
+                            51.942854
+                        ],
+                        [
+                            4.035836,
+                            51.943638
+                        ],
+                        [
+                            4.035975,
+                            51.943684
+                        ],
+                        [
+                            4.032896,
+                            51.948783
+                        ],
+                        [
+                            4.032215,
+                            51.949292
+                        ],
+                        [
+                            4.031195,
+                            51.949587
+                        ],
+                        [
+                            4.030289,
+                            51.949665
+                        ],
+                        [
+                            4.030058,
+                            51.949621
+                        ],
+                        [
+                            4.029377,
+                            51.949589
+                        ],
+                        [
+                            4.028739,
+                            51.949524
+                        ],
+                        [
+                            4.028238,
+                            51.949393
+                        ],
+                        [
+                            4.027835,
+                            51.94917
+                        ],
+                        [
+                            4.027457,
+                            51.948932
+                        ],
+                        [
+                            4.028991,
+                            51.946406
+                        ],
+                        [
+                            4.031748,
+                            51.947041
+                        ],
+                        [
+                            4.034103,
+                            51.943122
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMKRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.031884,
+                            51.946729
+                        ],
+                        [
+                            4.03119,
+                            51.946571
+                        ],
+                        [
+                            4.033391,
+                            51.942964
+                        ],
+                        [
+                            4.03407,
+                            51.943122
+                        ],
+                        [
+                            4.031884,
+                            51.946729
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMKRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032297,
+                    51.946405
+                ]
+            },
+            "properties": {
+                "code": "NLRTMKRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032484,
+                    51.945223
+                ]
+            },
+            "properties": {
+                "code": "NLRTMKRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

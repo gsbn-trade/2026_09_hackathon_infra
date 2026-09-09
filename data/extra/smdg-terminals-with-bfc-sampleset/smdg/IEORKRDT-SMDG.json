@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.326397,
+                            51.830907
+                        ],
+                        [
+                            -8.325845,
+                            51.8311
+                        ],
+                        [
+                            -8.326778,
+                            51.831484
+                        ],
+                        [
+                            -8.326868,
+                            51.831547
+                        ],
+                        [
+                            -8.327027,
+                            51.831822
+                        ],
+                        [
+                            -8.326429,
+                            51.832121
+                        ],
+                        [
+                            -8.330667,
+                            51.835555
+                        ],
+                        [
+                            -8.330936,
+                            51.835422
+                        ],
+                        [
+                            -8.333103,
+                            51.836907
+                        ],
+                        [
+                            -8.333328,
+                            51.836907
+                        ],
+                        [
+                            -8.334015,
+                            51.836688
+                        ],
+                        [
+                            -8.333221,
+                            51.835164
+                        ],
+                        [
+                            -8.33351,
+                            51.835031
+                        ],
+                        [
+                            -8.33336,
+                            51.83464
+                        ],
+                        [
+                            -8.331933,
+                            51.833241
+                        ],
+                        [
+                            -8.332824,
+                            51.832863
+                        ],
+                        [
+                            -8.332405,
+                            51.832591
+                        ],
+                        [
+                            -8.331686,
+                            51.832207
+                        ],
+                        [
+                            -8.329648,
+                            51.831444
+                        ],
+                        [
+                            -8.32953,
+                            51.831511
+                        ],
+                        [
+                            -8.329326,
+                            51.831418
+                        ],
+                        [
+                            -8.329423,
+                            51.831345
+                        ],
+                        [
+                            -8.328414,
+                            51.83096
+                        ],
+                        [
+                            -8.327164,
+                            51.830708
+                        ],
+                        [
+                            -8.326832,
+                            51.830675
+                        ],
+                        [
+                            -8.326633,
+                            51.830738
+                        ],
+                        [
+                            -8.326397,
+                            51.830907
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKRDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.330665,
+                            51.835592
+                        ],
+                        [
+                            -8.326435,
+                            51.832118
+                        ],
+                        [
+                            -8.325674,
+                            51.832444
+                        ],
+                        [
+                            -8.330059,
+                            51.835863
+                        ],
+                        [
+                            -8.330665,
+                            51.835592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKRDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.329767,
+                    51.832811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKRDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.3287,
+                    51.834322
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKRDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

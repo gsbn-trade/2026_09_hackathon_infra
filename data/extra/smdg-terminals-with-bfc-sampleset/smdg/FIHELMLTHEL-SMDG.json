@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.194656,
+                            60.21088
+                        ],
+                        [
+                            25.194983,
+                            60.211024
+                        ],
+                        [
+                            25.190532,
+                            60.213669
+                        ],
+                        [
+                            25.190166,
+                            60.213517
+                        ],
+                        [
+                            25.194656,
+                            60.21088
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELMLTHEL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.189702,
+                            60.210132
+                        ],
+                        [
+                            25.191072,
+                            60.21074
+                        ],
+                        [
+                            25.19246,
+                            60.209942
+                        ],
+                        [
+                            25.194656,
+                            60.210879
+                        ],
+                        [
+                            25.194288,
+                            60.211092
+                        ],
+                        [
+                            25.190076,
+                            60.213526
+                        ],
+                        [
+                            25.189389,
+                            60.213249
+                        ],
+                        [
+                            25.190297,
+                            60.212751
+                        ],
+                        [
+                            25.187352,
+                            60.211512
+                        ],
+                        [
+                            25.189702,
+                            60.210132
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELMLTHEL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.192999,
+                    60.211994
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELMLTHEL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.190899,
+                    60.211396
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELMLTHEL",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

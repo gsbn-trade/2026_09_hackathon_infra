@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            125.659213,
+                            7.139749
+                        ],
+                        [
+                            125.658131,
+                            7.140043
+                        ],
+                        [
+                            125.658212,
+                            7.140286
+                        ],
+                        [
+                            125.657303,
+                            7.140733
+                        ],
+                        [
+                            125.657236,
+                            7.13963
+                        ],
+                        [
+                            125.659136,
+                            7.139037
+                        ],
+                        [
+                            125.659213,
+                            7.139749
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOEZWG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phdvoezwg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.658349,
+                    7.13989
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOEZWG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phdvoezwg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

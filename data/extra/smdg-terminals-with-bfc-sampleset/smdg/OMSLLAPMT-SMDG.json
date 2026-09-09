@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            53.996436,
+                            16.942407
+                        ],
+                        [
+                            53.995432,
+                            16.942129
+                        ],
+                        [
+                            53.995917,
+                            16.940983
+                        ],
+                        [
+                            53.998555,
+                            16.942106
+                        ],
+                        [
+                            54.000363,
+                            16.942871
+                        ],
+                        [
+                            54.00038,
+                            16.942831
+                        ],
+                        [
+                            54.019297,
+                            16.950844
+                        ],
+                        [
+                            54.018,
+                            16.953634
+                        ],
+                        [
+                            53.999401,
+                            16.945853
+                        ],
+                        [
+                            53.999344,
+                            16.9458
+                        ],
+                        [
+                            53.998455,
+                            16.943238
+                        ],
+                        [
+                            53.998416,
+                            16.943124
+                        ],
+                        [
+                            53.998372,
+                            16.943064
+                        ],
+                        [
+                            53.998302,
+                            16.943025
+                        ],
+                        [
+                            53.996436,
+                            16.942407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "OMSLLAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-12",
+                "remarks": "Excluded parking area outside the gate and public road running along the north side.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            54.000123,
+                            16.942685
+                        ],
+                        [
+                            54.000376,
+                            16.94215
+                        ],
+                        [
+                            54.01984,
+                            16.950378
+                        ],
+                        [
+                            54.019554,
+                            16.950944
+                        ],
+                        [
+                            54.000123,
+                            16.942685
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "OMSLLAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-12",
+                "remarks": "Excluded parking area outside the gate and public road running along the north side.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.000874,
+                    16.944288
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "OMSLLAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-12",
+                "remarks": "Excluded parking area outside the gate and public road running along the north side.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.008003,
+                    16.945768
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "OMSLLAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-12",
+                "remarks": "Excluded parking area outside the gate and public road running along the north side.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

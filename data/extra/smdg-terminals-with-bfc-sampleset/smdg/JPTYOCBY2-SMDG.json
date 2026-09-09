@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.79819,
+                            35.589417
+                        ],
+                        [
+                            139.797599,
+                            35.588755
+                        ],
+                        [
+                            139.80119,
+                            35.586664
+                        ],
+                        [
+                            139.801746,
+                            35.587315
+                        ],
+                        [
+                            139.79819,
+                            35.589417
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOCBY2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-chubousoto-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.798191,
+                            35.589426
+                        ],
+                        [
+                            139.801751,
+                            35.587323
+                        ],
+                        [
+                            139.804471,
+                            35.590394
+                        ],
+                        [
+                            139.801565,
+                            35.592097
+                        ],
+                        [
+                            139.80141,
+                            35.59192
+                        ],
+                        [
+                            139.800762,
+                            35.592289
+                        ],
+                        [
+                            139.798191,
+                            35.589426
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOCBY2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-chubousoto-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.799383,
+                    35.588314
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOCBY2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-chubousoto-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.800906,
+                    35.590411
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOCBY2",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-chubousoto-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

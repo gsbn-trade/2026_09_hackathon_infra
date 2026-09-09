@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.869299,
+                            15.825747
+                        ],
+                        [
+                            -87.869159,
+                            15.82529
+                        ],
+                        [
+                            -87.869189,
+                            15.825067
+                        ],
+                        [
+                            -87.869104,
+                            15.824964
+                        ],
+                        [
+                            -87.868758,
+                            15.824861
+                        ],
+                        [
+                            -87.868217,
+                            15.82467
+                        ],
+                        [
+                            -87.867011,
+                            15.824411
+                        ],
+                        [
+                            -87.866689,
+                            15.824293
+                        ],
+                        [
+                            -87.866486,
+                            15.824833
+                        ],
+                        [
+                            -87.866888,
+                            15.82496
+                        ],
+                        [
+                            -87.866614,
+                            15.825884
+                        ],
+                        [
+                            -87.867483,
+                            15.826026
+                        ],
+                        [
+                            -87.867935,
+                            15.826032
+                        ],
+                        [
+                            -87.868427,
+                            15.825967
+                        ],
+                        [
+                            -87.86872,
+                            15.825901
+                        ],
+                        [
+                            -87.869112,
+                            15.825809
+                        ],
+                        [
+                            -87.869299,
+                            15.825747
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCREXAA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrexaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.868141,
+                    15.825321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCREXAA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrexaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

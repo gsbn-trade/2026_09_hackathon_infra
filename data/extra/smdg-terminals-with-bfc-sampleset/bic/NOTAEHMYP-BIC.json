@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.589783,
+                            58.921483
+                        ],
+                        [
+                            5.587831,
+                            58.921542
+                        ],
+                        [
+                            5.587701,
+                            58.920697
+                        ],
+                        [
+                            5.586656,
+                            58.920839
+                        ],
+                        [
+                            5.586243,
+                            58.918283
+                        ],
+                        [
+                            5.585392,
+                            58.918304
+                        ],
+                        [
+                            5.584792,
+                            58.91822
+                        ],
+                        [
+                            5.584031,
+                            58.919973
+                        ],
+                        [
+                            5.583828,
+                            58.919969
+                        ],
+                        [
+                            5.584055,
+                            58.919404
+                        ],
+                        [
+                            5.583561,
+                            58.919229
+                        ],
+                        [
+                            5.583212,
+                            58.919178
+                        ],
+                        [
+                            5.58271,
+                            58.918986
+                        ],
+                        [
+                            5.585424,
+                            58.917288
+                        ],
+                        [
+                            5.590974,
+                            58.917363
+                        ],
+                        [
+                            5.590958,
+                            58.91748
+                        ],
+                        [
+                            5.589394,
+                            58.917488
+                        ],
+                        [
+                            5.58937,
+                            58.917656
+                        ],
+                        [
+                            5.589394,
+                            58.9183
+                        ],
+                        [
+                            5.589783,
+                            58.921483
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOTAEHMYP",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/notaehmyp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.586755,
+                    58.919158
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOTAEHMYP",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/notaehmyp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

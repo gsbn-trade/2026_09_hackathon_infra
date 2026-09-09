@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.128367,
+                            41.344383
+                        ],
+                        [
+                            2.12827,
+                            41.344369
+                        ],
+                        [
+                            2.128415,
+                            41.34421
+                        ],
+                        [
+                            2.128534,
+                            41.344227
+                        ],
+                        [
+                            2.128805,
+                            41.34426
+                        ],
+                        [
+                            2.129016,
+                            41.344285
+                        ],
+                        [
+                            2.129443,
+                            41.344385
+                        ],
+                        [
+                            2.129551,
+                            41.344305
+                        ],
+                        [
+                            2.13153,
+                            41.34499
+                        ],
+                        [
+                            2.131281,
+                            41.345392
+                        ],
+                        [
+                            2.128367,
+                            41.344383
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ESBCNBLAA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-21",
+                "url": "https://www.bic-code.org/facility-codes/esbcnblaa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.129234,
+                    41.344472
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ESBCNBLAA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-21",
+                "url": "https://www.bic-code.org/facility-codes/esbcnblaa/"
+            }
+        }
+    ]
+}

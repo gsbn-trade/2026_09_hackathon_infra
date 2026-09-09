@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.581835,
+                            51.679565
+                        ],
+                        [
+                            4.582273,
+                            51.678626
+                        ],
+                        [
+                            4.583845,
+                            51.678904
+                        ],
+                        [
+                            4.584096,
+                            51.678918
+                        ],
+                        [
+                            4.585657,
+                            51.679179
+                        ],
+                        [
+                            4.585681,
+                            51.679125
+                        ],
+                        [
+                            4.586091,
+                            51.679194
+                        ],
+                        [
+                            4.585637,
+                            51.680176
+                        ],
+                        [
+                            4.585618,
+                            51.680221
+                        ],
+                        [
+                            4.581835,
+                            51.679565
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOESTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/nlmoestol/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.584257,
+                    51.679347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOESTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/nlmoestol/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

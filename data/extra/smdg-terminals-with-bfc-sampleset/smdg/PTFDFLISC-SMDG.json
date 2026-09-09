@@ -1,0 +1,253 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.839181,
+                            40.148144
+                        ],
+                        [
+                            -8.839804,
+                            40.148137
+                        ],
+                        [
+                            -8.840412,
+                            40.148099
+                        ],
+                        [
+                            -8.842086,
+                            40.147895
+                        ],
+                        [
+                            -8.842532,
+                            40.14787
+                        ],
+                        [
+                            -8.844838,
+                            40.14786
+                        ],
+                        [
+                            -8.848509,
+                            40.147895
+                        ],
+                        [
+                            -8.848508,
+                            40.147821
+                        ],
+                        [
+                            -8.851472,
+                            40.14785
+                        ],
+                        [
+                            -8.85147,
+                            40.147923
+                        ],
+                        [
+                            -8.851695,
+                            40.147925
+                        ],
+                        [
+                            -8.851696,
+                            40.147851
+                        ],
+                        [
+                            -8.853178,
+                            40.147863
+                        ],
+                        [
+                            -8.853206,
+                            40.147855
+                        ],
+                        [
+                            -8.853223,
+                            40.147834
+                        ],
+                        [
+                            -8.853232,
+                            40.147126
+                        ],
+                        [
+                            -8.853249,
+                            40.147125
+                        ],
+                        [
+                            -8.853249,
+                            40.146986
+                        ],
+                        [
+                            -8.847775,
+                            40.146933
+                        ],
+                        [
+                            -8.843,
+                            40.146447
+                        ],
+                        [
+                            -8.842986,
+                            40.146579
+                        ],
+                        [
+                            -8.842233,
+                            40.146486
+                        ],
+                        [
+                            -8.842017,
+                            40.146239
+                        ],
+                        [
+                            -8.84184,
+                            40.146255
+                        ],
+                        [
+                            -8.841742,
+                            40.146362
+                        ],
+                        [
+                            -8.841137,
+                            40.146497
+                        ],
+                        [
+                            -8.839482,
+                            40.14712
+                        ],
+                        [
+                            -8.838734,
+                            40.147072
+                        ],
+                        [
+                            -8.838585,
+                            40.147184
+                        ],
+                        [
+                            -8.838565,
+                            40.147367
+                        ],
+                        [
+                            -8.838736,
+                            40.147465
+                        ],
+                        [
+                            -8.838644,
+                            40.14799
+                        ],
+                        [
+                            -8.838974,
+                            40.148013
+                        ],
+                        [
+                            -8.83904,
+                            40.148102
+                        ],
+                        [
+                            -8.839181,
+                            40.148144
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTFDFLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-11",
+                "remarks": "Check geofence. According to the Yilport website, the CT berth is only 240m. The adjacent part to the left appears to be the multipurpose terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.853247,
+                            40.146979
+                        ],
+                        [
+                            -8.853246,
+                            40.146721
+                        ],
+                        [
+                            -8.847799,
+                            40.146679
+                        ],
+                        [
+                            -8.84303,
+                            40.146177
+                        ],
+                        [
+                            -8.842994,
+                            40.146437
+                        ],
+                        [
+                            -8.847774,
+                            40.14692
+                        ],
+                        [
+                            -8.853247,
+                            40.146979
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTFDFLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-11",
+                "remarks": "Check geofence. According to the Yilport website, the CT berth is only 240m. The adjacent part to the left appears to be the multipurpose terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.844692,
+                    40.147438
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTFDFLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "remarks": "Check geofence. According to the Yilport website, the CT berth is only 240m. The adjacent part to the left appears to be the multipurpose terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.848762,
+                    40.146699
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTFDFLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-11",
+                "remarks": "Check geofence. According to the Yilport website, the CT berth is only 240m. The adjacent part to the left appears to be the multipurpose terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

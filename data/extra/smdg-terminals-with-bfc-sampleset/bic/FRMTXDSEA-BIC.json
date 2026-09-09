@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.163829,
+                            47.332951
+                        ],
+                        [
+                            -2.162566,
+                            47.333443
+                        ],
+                        [
+                            -2.162342,
+                            47.333244
+                        ],
+                        [
+                            -2.16185,
+                            47.333444
+                        ],
+                        [
+                            -2.161728,
+                            47.333493
+                        ],
+                        [
+                            -2.161286,
+                            47.333027
+                        ],
+                        [
+                            -2.161396,
+                            47.332951
+                        ],
+                        [
+                            -2.161936,
+                            47.332719
+                        ],
+                        [
+                            -2.162386,
+                            47.332515
+                        ],
+                        [
+                            -2.162437,
+                            47.332437
+                        ],
+                        [
+                            -2.16255,
+                            47.332475
+                        ],
+                        [
+                            -2.163778,
+                            47.332704
+                        ],
+                        [
+                            -2.163829,
+                            47.332951
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDSEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdsea/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.162455,
+                    47.33295
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDSEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-04-09",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdsea/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            151.217043,
+                            -33.965532
+                        ],
+                        [
+                            151.21734,
+                            -33.966453
+                        ],
+                        [
+                            151.218623,
+                            -33.966137
+                        ],
+                        [
+                            151.21871,
+                            -33.966345
+                        ],
+                        [
+                            151.219535,
+                            -33.966147
+                        ],
+                        [
+                            151.219404,
+                            -33.965817
+                        ],
+                        [
+                            151.219,
+                            -33.9656
+                        ],
+                        [
+                            151.219,
+                            -33.9655
+                        ],
+                        [
+                            151.218,
+                            -33.9654
+                        ],
+                        [
+                            151.218,
+                            -33.9654
+                        ],
+                        [
+                            151.217429,
+                            -33.965353
+                        ],
+                        [
+                            151.217043,
+                            -33.965532
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AUSYDQZXT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/ausydqzxt/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.218261,
+                    -33.965768
+                ]
+            },
+            "properties": {
+                "code": "AUSYDQZXT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/ausydqzxt/"
+            }
+        }
+    ]
+}

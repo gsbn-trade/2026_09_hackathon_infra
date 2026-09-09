@@ -1,0 +1,293 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.732466,
+                            45.555699
+                        ],
+                        [
+                            13.731796,
+                            45.555661
+                        ],
+                        [
+                            13.731014,
+                            45.555603
+                        ],
+                        [
+                            13.728862,
+                            45.55541
+                        ],
+                        [
+                            13.728944,
+                            45.553092
+                        ],
+                        [
+                            13.738463,
+                            45.553401
+                        ],
+                        [
+                            13.738712,
+                            45.55228
+                        ],
+                        [
+                            13.739181,
+                            45.551855
+                        ],
+                        [
+                            13.741802,
+                            45.554212
+                        ],
+                        [
+                            13.74216,
+                            45.554386
+                        ],
+                        [
+                            13.743899,
+                            45.553459
+                        ],
+                        [
+                            13.747017,
+                            45.556666
+                        ],
+                        [
+                            13.745251,
+                            45.556241
+                        ],
+                        [
+                            13.74354,
+                            45.554908
+                        ],
+                        [
+                            13.742657,
+                            45.555739
+                        ],
+                        [
+                            13.740946,
+                            45.555835
+                        ],
+                        [
+                            13.732973,
+                            45.555719
+                        ],
+                        [
+                            13.732466,
+                            45.555699
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.749555,
+                            45.556434
+                        ],
+                        [
+                            13.748368,
+                            45.556279
+                        ],
+                        [
+                            13.74641,
+                            45.554483
+                        ],
+                        [
+                            13.747237,
+                            45.554
+                        ],
+                        [
+                            13.749555,
+                            45.556434
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.753969,
+                            45.556376
+                        ],
+                        [
+                            13.751486,
+                            45.556627
+                        ],
+                        [
+                            13.748424,
+                            45.553401
+                        ],
+                        [
+                            13.750134,
+                            45.552628
+                        ],
+                        [
+                            13.753611,
+                            45.556183
+                        ],
+                        [
+                            13.753969,
+                            45.556376
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.72891,
+                            45.553085
+                        ],
+                        [
+                            13.728961,
+                            45.552453
+                        ],
+                        [
+                            13.737857,
+                            45.552799
+                        ],
+                        [
+                            13.737806,
+                            45.553358
+                        ],
+                        [
+                            13.72891,
+                            45.553085
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.737897,
+                    45.55477
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.748225,
+                    45.555526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.751932,
+                    45.555265
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.732489,
+                    45.552956
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPLUKA",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-05-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

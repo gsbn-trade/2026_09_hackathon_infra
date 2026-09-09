@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            135.25341,
+                            34.684192
+                        ],
+                        [
+                            135.254059,
+                            34.680274
+                        ],
+                        [
+                            135.258383,
+                            34.680645
+                        ],
+                        [
+                            135.257567,
+                            34.684656
+                        ],
+                        [
+                            135.25341,
+                            34.684192
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPUKBCCAT",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/jpukbccat/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.255366,
+                    34.682792
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPUKBCCAT",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/jpukbccat/"
+            }
+        }
+    ]
+}

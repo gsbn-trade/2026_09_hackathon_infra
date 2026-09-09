@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.384023,
+                            6.437542
+                        ],
+                        [
+                            3.392396,
+                            6.434045
+                        ],
+                        [
+                            3.392484,
+                            6.434213
+                        ],
+                        [
+                            3.392594,
+                            6.434178
+                        ],
+                        [
+                            3.392684,
+                            6.434176
+                        ],
+                        [
+                            3.392784,
+                            6.434243
+                        ],
+                        [
+                            3.393017,
+                            6.434784
+                        ],
+                        [
+                            3.393194,
+                            6.435217
+                        ],
+                        [
+                            3.393394,
+                            6.4357
+                        ],
+                        [
+                            3.392442,
+                            6.43613
+                        ],
+                        [
+                            3.393079,
+                            6.437806
+                        ],
+                        [
+                            3.392116,
+                            6.438242
+                        ],
+                        [
+                            3.385518,
+                            6.440967
+                        ],
+                        [
+                            3.383742,
+                            6.441639
+                        ],
+                        [
+                            3.38311,
+                            6.440199
+                        ],
+                        [
+                            3.38485,
+                            6.439539
+                        ],
+                        [
+                            3.38464,
+                            6.439112
+                        ],
+                        [
+                            3.384023,
+                            6.437542
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAPMTER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.384013,
+                            6.437536
+                        ],
+                        [
+                            3.383835,
+                            6.436932
+                        ],
+                        [
+                            3.392206,
+                            6.433477
+                        ],
+                        [
+                            3.392409,
+                            6.434024
+                        ],
+                        [
+                            3.384013,
+                            6.437536
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAPMTER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.389449,
+                    6.43696
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAPMTER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.387295,
+                    6.435901
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPAPMTER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-18",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

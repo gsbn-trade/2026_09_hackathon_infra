@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.92,
+                            38.7504
+                        ],
+                        [
+                            26.9196,
+                            38.75
+                        ],
+                        [
+                            26.9226,
+                            38.748
+                        ],
+                        [
+                            26.9227,
+                            38.7484
+                        ],
+                        [
+                            26.9219,
+                            38.7499
+                        ],
+                        [
+                            26.9209,
+                            38.7504
+                        ],
+                        [
+                            26.92,
+                            38.7504
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIIQYQ",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/traliiqyq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.9211,
+                    38.749643
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRALIIQYQ",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2024-11-20",
+                "url": "https://www.bic-code.org/facility-codes/traliiqyq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.7283,
+                            9.95899
+                        ],
+                        [
+                            -84.7282,
+                            9.95936
+                        ],
+                        [
+                            -84.7282,
+                            9.95955
+                        ],
+                        [
+                            -84.7282,
+                            9.95973
+                        ],
+                        [
+                            -84.7283,
+                            9.96013
+                        ],
+                        [
+                            -84.7287,
+                            9.96078
+                        ],
+                        [
+                            -84.7297,
+                            9.9604
+                        ],
+                        [
+                            -84.7293,
+                            9.95985
+                        ],
+                        [
+                            -84.7294,
+                            9.95918
+                        ],
+                        [
+                            -84.7283,
+                            9.95899
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALUNSX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalunsx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.72866,
+                    9.959696
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALUNSX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalunsx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,241 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.345694,
+                            47.54921
+                        ],
+                        [
+                            -122.346697,
+                            47.553043
+                        ],
+                        [
+                            -122.346789,
+                            47.553438
+                        ],
+                        [
+                            -122.34726,
+                            47.553317
+                        ],
+                        [
+                            -122.347486,
+                            47.552546
+                        ],
+                        [
+                            -122.347526,
+                            47.552449
+                        ],
+                        [
+                            -122.347474,
+                            47.552367
+                        ],
+                        [
+                            -122.347179,
+                            47.552419
+                        ],
+                        [
+                            -122.347123,
+                            47.552361
+                        ],
+                        [
+                            -122.347369,
+                            47.552322
+                        ],
+                        [
+                            -122.347426,
+                            47.552104
+                        ],
+                        [
+                            -122.347498,
+                            47.551831
+                        ],
+                        [
+                            -122.34749,
+                            47.551626
+                        ],
+                        [
+                            -122.347422,
+                            47.551453
+                        ],
+                        [
+                            -122.347217,
+                            47.550856
+                        ],
+                        [
+                            -122.347039,
+                            47.550552
+                        ],
+                        [
+                            -122.34684,
+                            47.550056
+                        ],
+                        [
+                            -122.346629,
+                            47.549875
+                        ],
+                        [
+                            -122.346485,
+                            47.549897
+                        ],
+                        [
+                            -122.346363,
+                            47.549779
+                        ],
+                        [
+                            -122.346646,
+                            47.54976
+                        ],
+                        [
+                            -122.34626,
+                            47.549349
+                        ],
+                        [
+                            -122.345846,
+                            47.549171
+                        ],
+                        [
+                            -122.345694,
+                            47.54921
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEADUMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/usseadumd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.345528,
+                            47.550134
+                        ],
+                        [
+                            -122.341626,
+                            47.550156
+                        ],
+                        [
+                            -122.341642,
+                            47.549827
+                        ],
+                        [
+                            -122.341488,
+                            47.549827
+                        ],
+                        [
+                            -122.341455,
+                            47.5502
+                        ],
+                        [
+                            -122.340992,
+                            47.550266
+                        ],
+                        [
+                            -122.341179,
+                            47.550776
+                        ],
+                        [
+                            -122.341455,
+                            47.55076
+                        ],
+                        [
+                            -122.341414,
+                            47.550963
+                        ],
+                        [
+                            -122.341528,
+                            47.551122
+                        ],
+                        [
+                            -122.341865,
+                            47.551159
+                        ],
+                        [
+                            -122.341869,
+                            47.551486
+                        ],
+                        [
+                            -122.341723,
+                            47.551474
+                        ],
+                        [
+                            -122.342171,
+                            47.552329
+                        ],
+                        [
+                            -122.346113,
+                            47.552246
+                        ],
+                        [
+                            -122.345528,
+                            47.550134
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEADUMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/usseadumd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.346894,
+                    47.551208
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEADUMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/usseadumd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.342349,
+                    47.550804
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEADUMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "url": "https://www.bic-code.org/facility-codes/usseadumd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

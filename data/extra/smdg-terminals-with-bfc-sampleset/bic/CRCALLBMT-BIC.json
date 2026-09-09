@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.7105,
+                            9.91562
+                        ],
+                        [
+                            -84.712,
+                            9.91276
+                        ],
+                        [
+                            -84.7123,
+                            9.91237
+                        ],
+                        [
+                            -84.712,
+                            9.9122
+                        ],
+                        [
+                            -84.7119,
+                            9.91243
+                        ],
+                        [
+                            -84.7109,
+                            9.91223
+                        ],
+                        [
+                            -84.7102,
+                            9.91244
+                        ],
+                        [
+                            -84.71,
+                            9.9129
+                        ],
+                        [
+                            -84.7096,
+                            9.91446
+                        ],
+                        [
+                            -84.7093,
+                            9.91486
+                        ],
+                        [
+                            -84.7095,
+                            9.9155
+                        ],
+                        [
+                            -84.7105,
+                            9.91562
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALLBMT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcallbmt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.710725,
+                    9.913616
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALLBMT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcallbmt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

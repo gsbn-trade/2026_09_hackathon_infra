@@ -1,0 +1,147 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.115851,
+                            38.71851
+                        ],
+                        [
+                            -9.112422,
+                            38.721863
+                        ],
+                        [
+                            -9.113281,
+                            38.722407
+                        ],
+                        [
+                            -9.113554,
+                            38.722163
+                        ],
+                        [
+                            -9.113873,
+                            38.721804
+                        ],
+                        [
+                            -9.114115,
+                            38.721435
+                        ],
+                        [
+                            -9.114207,
+                            38.721481
+                        ],
+                        [
+                            -9.116118,
+                            38.719285
+                        ],
+                        [
+                            -9.11604,
+                            38.719239
+                        ],
+                        [
+                            -9.116081,
+                            38.719194
+                        ],
+                        [
+                            -9.116047,
+                            38.719175
+                        ],
+                        [
+                            -9.116148,
+                            38.719064
+                        ],
+                        [
+                            -9.116198,
+                            38.719093
+                        ],
+                        [
+                            -9.116614,
+                            38.718687
+                        ],
+                        [
+                            -9.116656,
+                            38.718713
+                        ],
+                        [
+                            -9.116774,
+                            38.718585
+                        ],
+                        [
+                            -9.116796,
+                            38.718552
+                        ],
+                        [
+                            -9.116806,
+                            38.718517
+                        ],
+                        [
+                            -9.116809,
+                            38.71848
+                        ],
+                        [
+                            -9.116796,
+                            38.718444
+                        ],
+                        [
+                            -9.116844,
+                            38.718395
+                        ],
+                        [
+                            -9.116895,
+                            38.718383
+                        ],
+                        [
+                            -9.117698,
+                            38.717605
+                        ],
+                        [
+                            -9.117349,
+                            38.717403
+                        ],
+                        [
+                            -9.116066,
+                            38.71864
+                        ],
+                        [
+                            -9.115851,
+                            38.71851
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISWIDN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-19",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://www.bic-code.org/facility-codes/ptliswidn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.115842,
+                    38.71937
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISWIDN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-19",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://www.bic-code.org/facility-codes/ptliswidn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

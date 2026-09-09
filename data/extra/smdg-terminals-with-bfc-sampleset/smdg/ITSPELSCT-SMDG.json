@@ -1,0 +1,449 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.856211,
+                            44.10728
+                        ],
+                        [
+                            9.855639,
+                            44.108928
+                        ],
+                        [
+                            9.855075,
+                            44.109627
+                        ],
+                        [
+                            9.854388,
+                            44.110209
+                        ],
+                        [
+                            9.853871,
+                            44.110507
+                        ],
+                        [
+                            9.853272,
+                            44.110592
+                        ],
+                        [
+                            9.84973,
+                            44.110816
+                        ],
+                        [
+                            9.848435,
+                            44.110877
+                        ],
+                        [
+                            9.847234,
+                            44.110822
+                        ],
+                        [
+                            9.846249,
+                            44.110776
+                        ],
+                        [
+                            9.844913,
+                            44.110789
+                        ],
+                        [
+                            9.844686,
+                            44.110646
+                        ],
+                        [
+                            9.844179,
+                            44.110827
+                        ],
+                        [
+                            9.84342,
+                            44.111021
+                        ],
+                        [
+                            9.842809,
+                            44.111117
+                        ],
+                        [
+                            9.842212,
+                            44.111116
+                        ],
+                        [
+                            9.841396,
+                            44.111095
+                        ],
+                        [
+                            9.840688,
+                            44.110864
+                        ],
+                        [
+                            9.840088,
+                            44.110887
+                        ],
+                        [
+                            9.839538,
+                            44.110718
+                        ],
+                        [
+                            9.838737,
+                            44.110477
+                        ],
+                        [
+                            9.838162,
+                            44.110638
+                        ],
+                        [
+                            9.836808,
+                            44.110639
+                        ],
+                        [
+                            9.836171,
+                            44.110582
+                        ],
+                        [
+                            9.834939,
+                            44.110378
+                        ],
+                        [
+                            9.83395,
+                            44.110059
+                        ],
+                        [
+                            9.83311,
+                            44.109506
+                        ],
+                        [
+                            9.829841,
+                            44.106813
+                        ],
+                        [
+                            9.830359,
+                            44.10655
+                        ],
+                        [
+                            9.830634,
+                            44.106811
+                        ],
+                        [
+                            9.83113,
+                            44.106508
+                        ],
+                        [
+                            9.831253,
+                            44.106562
+                        ],
+                        [
+                            9.832216,
+                            44.106208
+                        ],
+                        [
+                            9.835848,
+                            44.11016
+                        ],
+                        [
+                            9.837845,
+                            44.109917
+                        ],
+                        [
+                            9.83792,
+                            44.107081
+                        ],
+                        [
+                            9.837994,
+                            44.104244
+                        ],
+                        [
+                            9.840009,
+                            44.104278
+                        ],
+                        [
+                            9.839821,
+                            44.109392
+                        ],
+                        [
+                            9.84008,
+                            44.109389
+                        ],
+                        [
+                            9.840054,
+                            44.109667
+                        ],
+                        [
+                            9.843867,
+                            44.109291
+                        ],
+                        [
+                            9.844002,
+                            44.104645
+                        ],
+                        [
+                            9.845857,
+                            44.104615
+                        ],
+                        [
+                            9.847727,
+                            44.108581
+                        ],
+                        [
+                            9.848818,
+                            44.10824
+                        ],
+                        [
+                            9.848952,
+                            44.108544
+                        ],
+                        [
+                            9.848586,
+                            44.108926
+                        ],
+                        [
+                            9.848474,
+                            44.108931
+                        ],
+                        [
+                            9.847951,
+                            44.110372
+                        ],
+                        [
+                            9.848587,
+                            44.110561
+                        ],
+                        [
+                            9.848953,
+                            44.110546
+                        ],
+                        [
+                            9.850664,
+                            44.110431
+                        ],
+                        [
+                            9.852348,
+                            44.110267
+                        ],
+                        [
+                            9.85074,
+                            44.107727
+                        ],
+                        [
+                            9.853805,
+                            44.106848
+                        ],
+                        [
+                            9.854207,
+                            44.106981
+                        ],
+                        [
+                            9.856211,
+                            44.10728
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.83719,
+                            44.109954
+                        ],
+                        [
+                            9.83735,
+                            44.104248
+                        ],
+                        [
+                            9.837947,
+                            44.104248
+                        ],
+                        [
+                            9.837868,
+                            44.109912
+                        ],
+                        [
+                            9.83719,
+                            44.109954
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.847746,
+                            44.108567
+                        ],
+                        [
+                            9.845814,
+                            44.104563
+                        ],
+                        [
+                            9.846591,
+                            44.10442
+                        ],
+                        [
+                            9.848682,
+                            44.108267
+                        ],
+                        [
+                            9.847746,
+                            44.108567
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.843971,
+                            44.104617
+                        ],
+                        [
+                            9.843909,
+                            44.109199
+                        ],
+                        [
+                            9.843291,
+                            44.109272
+                        ],
+                        [
+                            9.84325,
+                            44.104631
+                        ],
+                        [
+                            9.843971,
+                            44.104617
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.843632,
+                    44.109106
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.837509,
+                    44.107663
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.847316,
+                    44.106877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.843678,
+                    44.106467
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPELSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

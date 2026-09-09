@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.129157,
+                            -11.969301
+                        ],
+                        [
+                            -77.129372,
+                            -11.967359
+                        ],
+                        [
+                            -77.133578,
+                            -11.967894
+                        ],
+                        [
+                            -77.133492,
+                            -11.968556
+                        ],
+                        [
+                            -77.13067,
+                            -11.96822
+                        ],
+                        [
+                            -77.130509,
+                            -11.969427
+                        ],
+                        [
+                            -77.129157,
+                            -11.969301
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLEZOI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-24",
+                "url": "https://www.bic-code.org/facility-codes/pecllezoi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.130848,
+                    -11.96858
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLEZOI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-24",
+                "url": "https://www.bic-code.org/facility-codes/pecllezoi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

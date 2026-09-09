@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.960821,
+                            -29.905639
+                        ],
+                        [
+                            30.960789,
+                            -29.905969
+                        ],
+                        [
+                            30.960655,
+                            -29.906443
+                        ],
+                        [
+                            30.960334,
+                            -29.906646
+                        ],
+                        [
+                            30.959855,
+                            -29.906825
+                        ],
+                        [
+                            30.960168,
+                            -29.907425
+                        ],
+                        [
+                            30.960504,
+                            -29.907622
+                        ],
+                        [
+                            30.961071,
+                            -29.907622
+                        ],
+                        [
+                            30.961589,
+                            -29.907557
+                        ],
+                        [
+                            30.962322,
+                            -29.907293
+                        ],
+                        [
+                            30.962414,
+                            -29.907195
+                        ],
+                        [
+                            30.96243,
+                            -29.907154
+                        ],
+                        [
+                            30.962406,
+                            -29.907102
+                        ],
+                        [
+                            30.962352,
+                            -29.906984
+                        ],
+                        [
+                            30.962404,
+                            -29.906886
+                        ],
+                        [
+                            30.962227,
+                            -29.906599
+                        ],
+                        [
+                            30.961411,
+                            -29.906056
+                        ],
+                        [
+                            30.960821,
+                            -29.905639
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURBNJR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-08",
+                "url": "https://www.bic-code.org/facility-codes/zadurbnjr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.961365,
+                    -29.906814
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURBNJR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-08",
+                "url": "https://www.bic-code.org/facility-codes/zadurbnjr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

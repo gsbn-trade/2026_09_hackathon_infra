@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.342758,
+                            29.656535
+                        ],
+                        [
+                            32.343583,
+                            29.655236
+                        ],
+                        [
+                            32.343995,
+                            29.655281
+                        ],
+                        [
+                            32.346736,
+                            29.656723
+                        ],
+                        [
+                            32.345808,
+                            29.658111
+                        ],
+                        [
+                            32.342758,
+                            29.656535
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKOSTS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/egsokosts/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.344273,
+                    29.656403
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGSOKOSTS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/egsokosts/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

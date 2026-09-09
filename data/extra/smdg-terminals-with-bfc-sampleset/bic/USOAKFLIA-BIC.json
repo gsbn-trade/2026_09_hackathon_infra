@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.181797,
+                            37.741425
+                        ],
+                        [
+                            -122.181074,
+                            37.741766
+                        ],
+                        [
+                            -122.180493,
+                            37.742034
+                        ],
+                        [
+                            -122.182802,
+                            37.744156
+                        ],
+                        [
+                            -122.184203,
+                            37.743475
+                        ],
+                        [
+                            -122.181797,
+                            37.741425
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKFLIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-08-22",
+                "url": "https://www.bic-code.org/facility-codes/usoakflia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.182028,
+                    37.74238
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKFLIA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-08-22",
+                "url": "https://www.bic-code.org/facility-codes/usoakflia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

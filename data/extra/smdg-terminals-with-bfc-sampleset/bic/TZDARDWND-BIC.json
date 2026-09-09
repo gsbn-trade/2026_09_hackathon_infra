@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.292082,
+                            -6.848684
+                        ],
+                        [
+                            39.29199,
+                            -6.848712
+                        ],
+                        [
+                            39.291893,
+                            -6.850573
+                        ],
+                        [
+                            39.291703,
+                            -6.85407
+                        ],
+                        [
+                            39.292462,
+                            -6.854042
+                        ],
+                        [
+                            39.292717,
+                            -6.84861
+                        ],
+                        [
+                            39.292082,
+                            -6.848684
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARDWND",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/tzdardwnd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.292133,
+                    -6.850482
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZDARDWND",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/tzdardwnd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

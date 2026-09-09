@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.868006,
+                            2.715306
+                        ],
+                        [
+                            9.867921,
+                            2.715018
+                        ],
+                        [
+                            9.867879,
+                            2.714285
+                        ],
+                        [
+                            9.868734,
+                            2.713632
+                        ],
+                        [
+                            9.86958,
+                            2.714849
+                        ],
+                        [
+                            9.869034,
+                            2.715103
+                        ],
+                        [
+                            9.868395,
+                            2.715263
+                        ],
+                        [
+                            9.868006,
+                            2.715306
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMKBITLCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-08-13",
+                "url": "https://www.bic-code.org/facility-codes/cmkbitlca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.868444,
+                    2.714845
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMKBITLCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-08-13",
+                "url": "https://www.bic-code.org/facility-codes/cmkbitlca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

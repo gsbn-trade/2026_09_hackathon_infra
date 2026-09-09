@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.12949,
+                            22.325878
+                        ],
+                        [
+                            114.130682,
+                            22.322317
+                        ],
+                        [
+                            114.137438,
+                            22.326915
+                        ],
+                        [
+                            114.137261,
+                            22.327441
+                        ],
+                        [
+                            114.137241,
+                            22.327501
+                        ],
+                        [
+                            114.137056,
+                            22.328048
+                        ],
+                        [
+                            114.1363,
+                            22.330294
+                        ],
+                        [
+                            114.136221,
+                            22.330601
+                        ],
+                        [
+                            114.136142,
+                            22.330817
+                        ],
+                        [
+                            114.13607,
+                            22.330974
+                        ],
+                        [
+                            114.136047,
+                            22.331025
+                        ],
+                        [
+                            114.135996,
+                            22.331088
+                        ],
+                        [
+                            114.135959,
+                            22.331116
+                        ],
+                        [
+                            114.135902,
+                            22.331148
+                        ],
+                        [
+                            114.135833,
+                            22.331177
+                        ],
+                        [
+                            114.135757,
+                            22.331185
+                        ],
+                        [
+                            114.135675,
+                            22.331179
+                        ],
+                        [
+                            114.135589,
+                            22.331156
+                        ],
+                        [
+                            114.135434,
+                            22.331108
+                        ],
+                        [
+                            114.135373,
+                            22.331089
+                        ],
+                        [
+                            114.135152,
+                            22.331031
+                        ],
+                        [
+                            114.134999,
+                            22.331005
+                        ],
+                        [
+                            114.134886,
+                            22.330991
+                        ],
+                        [
+                            114.134718,
+                            22.330991
+                        ],
+                        [
+                            114.134569,
+                            22.331006
+                        ],
+                        [
+                            114.134401,
+                            22.331031
+                        ],
+                        [
+                            114.134277,
+                            22.331062
+                        ],
+                        [
+                            114.133051,
+                            22.330706
+                        ],
+                        [
+                            114.133194,
+                            22.330268
+                        ],
+                        [
+                            114.134115,
+                            22.330543
+                        ],
+                        [
+                            114.134466,
+                            22.330378
+                        ],
+                        [
+                            114.135388,
+                            22.32761
+                        ],
+                        [
+                            114.133545,
+                            22.327069
+                        ],
+                        [
+                            114.130718,
+                            22.326239
+                        ],
+                        [
+                            114.12949,
+                            22.325878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCHTHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.129483,
+                            22.326011
+                        ],
+                        [
+                            114.13533,
+                            22.327642
+                        ],
+                        [
+                            114.134475,
+                            22.330326
+                        ],
+                        [
+                            114.134124,
+                            22.330509
+                        ],
+                        [
+                            114.133261,
+                            22.330262
+                        ],
+                        [
+                            114.133292,
+                            22.329838
+                        ],
+                        [
+                            114.133979,
+                            22.3301
+                        ],
+                        [
+                            114.134406,
+                            22.328094
+                        ],
+                        [
+                            114.129269,
+                            22.326668
+                        ],
+                        [
+                            114.129483,
+                            22.326011
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCHTHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.134812,
+                    22.329653
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCHTHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.13271,
+                    22.328546
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCHTHK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.419499,
+                            51.880904
+                        ],
+                        [
+                            4.409768,
+                            51.883026
+                        ],
+                        [
+                            4.40962,
+                            51.882792
+                        ],
+                        [
+                            4.419377,
+                            51.880682
+                        ],
+                        [
+                            4.419499,
+                            51.880904
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.421393,
+                            51.881847
+                        ],
+                        [
+                            4.421933,
+                            51.881919
+                        ],
+                        [
+                            4.421885,
+                            51.882074
+                        ],
+                        [
+                            4.420903,
+                            51.882131
+                        ],
+                        [
+                            4.419943,
+                            51.882336
+                        ],
+                        [
+                            4.420083,
+                            51.882558
+                        ],
+                        [
+                            4.421609,
+                            51.882207
+                        ],
+                        [
+                            4.422012,
+                            51.882929
+                        ],
+                        [
+                            4.409173,
+                            51.885834
+                        ],
+                        [
+                            4.408722,
+                            51.885122
+                        ],
+                        [
+                            4.4095,
+                            51.884241
+                        ],
+                        [
+                            4.408921,
+                            51.884046
+                        ],
+                        [
+                            4.409747,
+                            51.883056
+                        ],
+                        [
+                            4.419526,
+                            51.880923
+                        ],
+                        [
+                            4.419665,
+                            51.881158
+                        ],
+                        [
+                            4.420186,
+                            51.881258
+                        ],
+                        [
+                            4.420781,
+                            51.881605
+                        ],
+                        [
+                            4.421393,
+                            51.881847
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.409418,
+                            51.88614
+                        ],
+                        [
+                            4.409249,
+                            51.885838
+                        ],
+                        [
+                            4.422096,
+                            51.883021
+                        ],
+                        [
+                            4.422327,
+                            51.883346
+                        ],
+                        [
+                            4.409418,
+                            51.88614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415553,
+                    51.881662
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417632,
+                    51.882616
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414502,
+                    51.884897
+                ]
+            },
+            "properties": {
+                "code": "NLRTMNLSBH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

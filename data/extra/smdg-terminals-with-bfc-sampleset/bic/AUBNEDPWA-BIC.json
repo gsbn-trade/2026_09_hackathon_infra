@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.175825,
+                            -27.380185
+                        ],
+                        [
+                            153.173604,
+                            -27.378993
+                        ],
+                        [
+                            153.172365,
+                            -27.380766
+                        ],
+                        [
+                            153.174521,
+                            -27.381971
+                        ],
+                        [
+                            153.175825,
+                            -27.380185
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEDPWA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubnedpwa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.174428,
+                    -27.38042
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEDPWA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/aubnedpwa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

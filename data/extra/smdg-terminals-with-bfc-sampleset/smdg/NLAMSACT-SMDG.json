@@ -1,0 +1,303 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.765779,
+                            52.42508
+                        ],
+                        [
+                            4.760161,
+                            52.423983
+                        ],
+                        [
+                            4.759912,
+                            52.424468
+                        ],
+                        [
+                            4.76552,
+                            52.425565
+                        ],
+                        [
+                            4.765254,
+                            52.426091
+                        ],
+                        [
+                            4.764992,
+                            52.426225
+                        ],
+                        [
+                            4.764938,
+                            52.426273
+                        ],
+                        [
+                            4.764921,
+                            52.42627
+                        ],
+                        [
+                            4.764371,
+                            52.426454
+                        ],
+                        [
+                            4.763917,
+                            52.426588
+                        ],
+                        [
+                            4.762696,
+                            52.426758
+                        ],
+                        [
+                            4.761215,
+                            52.426455
+                        ],
+                        [
+                            4.757388,
+                            52.425706
+                        ],
+                        [
+                            4.757199,
+                            52.425679
+                        ],
+                        [
+                            4.758214,
+                            52.423731
+                        ],
+                        [
+                            4.758194,
+                            52.423687
+                        ],
+                        [
+                            4.758168,
+                            52.423657
+                        ],
+                        [
+                            4.75809,
+                            52.423622
+                        ],
+                        [
+                            4.757365,
+                            52.423469
+                        ],
+                        [
+                            4.758187,
+                            52.421942
+                        ],
+                        [
+                            4.759018,
+                            52.420342
+                        ],
+                        [
+                            4.759047,
+                            52.420283
+                        ],
+                        [
+                            4.759037,
+                            52.420227
+                        ],
+                        [
+                            4.75901,
+                            52.420176
+                        ],
+                        [
+                            4.758951,
+                            52.420136
+                        ],
+                        [
+                            4.757134,
+                            52.419471
+                        ],
+                        [
+                            4.756985,
+                            52.419419
+                        ],
+                        [
+                            4.756869,
+                            52.419396
+                        ],
+                        [
+                            4.755064,
+                            52.419047
+                        ],
+                        [
+                            4.754749,
+                            52.418985
+                        ],
+                        [
+                            4.754703,
+                            52.418965
+                        ],
+                        [
+                            4.754673,
+                            52.418938
+                        ],
+                        [
+                            4.754672,
+                            52.418894
+                        ],
+                        [
+                            4.755153,
+                            52.417256
+                        ],
+                        [
+                            4.76853,
+                            52.419762
+                        ],
+                        [
+                            4.765779,
+                            52.42508
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.765773,
+                            52.425081
+                        ],
+                        [
+                            4.768509,
+                            52.41975
+                        ],
+                        [
+                            4.769013,
+                            52.419815
+                        ],
+                        [
+                            4.766247,
+                            52.425193
+                        ],
+                        [
+                            4.765773,
+                            52.425081
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.759935,
+                            52.424448
+                        ],
+                        [
+                            4.760057,
+                            52.424224
+                        ],
+                        [
+                            4.765651,
+                            52.425352
+                        ],
+                        [
+                            4.765529,
+                            52.425585
+                        ],
+                        [
+                            4.759935,
+                            52.424448
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.759885,
+                    52.422724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.767063,
+                    52.422984
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.762221,
+                    52.424811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-01-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

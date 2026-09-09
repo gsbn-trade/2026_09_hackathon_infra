@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.370004,
+                            5.415649
+                        ],
+                        [
+                            100.370749,
+                            5.415562
+                        ],
+                        [
+                            100.371266,
+                            5.416404
+                        ],
+                        [
+                            100.370046,
+                            5.416343
+                        ],
+                        [
+                            100.370004,
+                            5.415649
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENDCPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypendcpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.370332,
+                            5.416359
+                        ],
+                        [
+                            100.370552,
+                            5.416368
+                        ],
+                        [
+                            100.370503,
+                            5.416094
+                        ],
+                        [
+                            100.370325,
+                            5.416098
+                        ],
+                        [
+                            100.370332,
+                            5.416359
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENDCPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypendcpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.370414,
+                    5.415921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENDCPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypendcpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.370409,
+                    5.416256
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENDCPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypendcpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

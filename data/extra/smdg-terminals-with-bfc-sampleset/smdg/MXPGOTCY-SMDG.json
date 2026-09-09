@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.678606,
+                            21.347004
+                        ],
+                        [
+                            -89.678571,
+                            21.344789
+                        ],
+                        [
+                            -89.675944,
+                            21.344874
+                        ],
+                        [
+                            -89.674485,
+                            21.346285
+                        ],
+                        [
+                            -89.674093,
+                            21.346714
+                        ],
+                        [
+                            -89.674809,
+                            21.347608
+                        ],
+                        [
+                            -89.675481,
+                            21.348175
+                        ],
+                        [
+                            -89.678537,
+                            21.348684
+                        ],
+                        [
+                            -89.678579,
+                            21.348431
+                        ],
+                        [
+                            -89.678566,
+                            21.347793
+                        ],
+                        [
+                            -89.678606,
+                            21.347004
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTCY",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.678552,
+                            21.344764
+                        ],
+                        [
+                            -89.678533,
+                            21.344237
+                        ],
+                        [
+                            -89.676144,
+                            21.344255
+                        ],
+                        [
+                            -89.674292,
+                            21.346042
+                        ],
+                        [
+                            -89.674513,
+                            21.346212
+                        ],
+                        [
+                            -89.675933,
+                            21.344853
+                        ],
+                        [
+                            -89.678552,
+                            21.344764
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTCY",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.676934,
+                    21.347033
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTCY",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.676646,
+                    21.345018
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTCY",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

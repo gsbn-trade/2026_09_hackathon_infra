@@ -1,0 +1,338 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.900753,
+                            53.535246
+                        ],
+                        [
+                            9.914811,
+                            53.529406
+                        ],
+                        [
+                            9.915455,
+                            53.529958
+                        ],
+                        [
+                            9.901514,
+                            53.535824
+                        ],
+                        [
+                            9.900753,
+                            53.535246
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.890268,
+                            53.535297
+                        ],
+                        [
+                            9.890199,
+                            53.533952
+                        ],
+                        [
+                            9.888571,
+                            53.534239
+                        ],
+                        [
+                            9.888259,
+                            53.53427
+                        ],
+                        [
+                            9.88845,
+                            53.534187
+                        ],
+                        [
+                            9.888926,
+                            53.534048
+                        ],
+                        [
+                            9.889465,
+                            53.533895
+                        ],
+                        [
+                            9.88999,
+                            53.533725
+                        ],
+                        [
+                            9.890383,
+                            53.533573
+                        ],
+                        [
+                            9.896213,
+                            53.531132
+                        ],
+                        [
+                            9.897789,
+                            53.530693
+                        ],
+                        [
+                            9.903796,
+                            53.528239
+                        ],
+                        [
+                            9.90429,
+                            53.527963
+                        ],
+                        [
+                            9.904662,
+                            53.528092
+                        ],
+                        [
+                            9.905078,
+                            53.527761
+                        ],
+                        [
+                            9.905683,
+                            53.527378
+                        ],
+                        [
+                            9.906401,
+                            53.52702
+                        ],
+                        [
+                            9.906965,
+                            53.526882
+                        ],
+                        [
+                            9.907354,
+                            53.526788
+                        ],
+                        [
+                            9.907795,
+                            53.526614
+                        ],
+                        [
+                            9.908614,
+                            53.526265
+                        ],
+                        [
+                            9.909629,
+                            53.52584
+                        ],
+                        [
+                            9.913746,
+                            53.524143
+                        ],
+                        [
+                            9.916338,
+                            53.523059
+                        ],
+                        [
+                            9.9176,
+                            53.522532
+                        ],
+                        [
+                            9.918242,
+                            53.522242
+                        ],
+                        [
+                            9.918421,
+                            53.522272
+                        ],
+                        [
+                            9.921519,
+                            53.520981
+                        ],
+                        [
+                            9.921945,
+                            53.520908
+                        ],
+                        [
+                            9.922397,
+                            53.520925
+                        ],
+                        [
+                            9.923146,
+                            53.521089
+                        ],
+                        [
+                            9.923534,
+                            53.521263
+                        ],
+                        [
+                            9.924256,
+                            53.521823
+                        ],
+                        [
+                            9.924366,
+                            53.522151
+                        ],
+                        [
+                            9.924276,
+                            53.522637
+                        ],
+                        [
+                            9.924338,
+                            53.522825
+                        ],
+                        [
+                            9.925897,
+                            53.524192
+                        ],
+                        [
+                            9.926265,
+                            53.524289
+                        ],
+                        [
+                            9.926841,
+                            53.524746
+                        ],
+                        [
+                            9.915145,
+                            53.529604
+                        ],
+                        [
+                            9.914866,
+                            53.529336
+                        ],
+                        [
+                            9.900721,
+                            53.535211
+                        ],
+                        [
+                            9.890268,
+                            53.535297
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.915178,
+                            53.529625
+                        ],
+                        [
+                            9.926829,
+                            53.524776
+                        ],
+                        [
+                            9.927329,
+                            53.525318
+                        ],
+                        [
+                            9.915746,
+                            53.530147
+                        ],
+                        [
+                            9.915178,
+                            53.529625
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.906657,
+                    53.533136
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.90844,
+                    53.527427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.920052,
+                    53.527898
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMEGH",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-06-10",
+                "remarks": "suggestion to split berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

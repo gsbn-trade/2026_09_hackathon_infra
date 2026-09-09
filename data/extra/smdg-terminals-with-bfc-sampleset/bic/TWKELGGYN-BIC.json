@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.700296,
+                            25.14594
+                        ],
+                        [
+                            121.698614,
+                            25.14495
+                        ],
+                        [
+                            121.69824,
+                            25.144987
+                        ],
+                        [
+                            121.698164,
+                            25.145097
+                        ],
+                        [
+                            121.697888,
+                            25.145059
+                        ],
+                        [
+                            121.697891,
+                            25.144903
+                        ],
+                        [
+                            121.697119,
+                            25.144655
+                        ],
+                        [
+                            121.697396,
+                            25.143806
+                        ],
+                        [
+                            121.698461,
+                            25.143785
+                        ],
+                        [
+                            121.698461,
+                            25.144068
+                        ],
+                        [
+                            121.699513,
+                            25.144162
+                        ],
+                        [
+                            121.699931,
+                            25.144679
+                        ],
+                        [
+                            121.700042,
+                            25.145249
+                        ],
+                        [
+                            121.699879,
+                            25.145572
+                        ],
+                        [
+                            121.700371,
+                            25.145838
+                        ],
+                        [
+                            121.700296,
+                            25.14594
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELGGYN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twkelggyn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.69891,
+                    25.144918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELGGYN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-21",
+                "url": "https://www.bic-code.org/facility-codes/twkelggyn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

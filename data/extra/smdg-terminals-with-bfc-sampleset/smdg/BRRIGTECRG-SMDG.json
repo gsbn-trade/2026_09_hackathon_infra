@@ -1,0 +1,253 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.102294,
+                            -32.122171
+                        ],
+                        [
+                            -52.102558,
+                            -32.122193
+                        ],
+                        [
+                            -52.102577,
+                            -32.122277
+                        ],
+                        [
+                            -52.103266,
+                            -32.122139
+                        ],
+                        [
+                            -52.103528,
+                            -32.122116
+                        ],
+                        [
+                            -52.103687,
+                            -32.122174
+                        ],
+                        [
+                            -52.103809,
+                            -32.122201
+                        ],
+                        [
+                            -52.103985,
+                            -32.122315
+                        ],
+                        [
+                            -52.104153,
+                            -32.122352
+                        ],
+                        [
+                            -52.1044,
+                            -32.122366
+                        ],
+                        [
+                            -52.10474,
+                            -32.122409
+                        ],
+                        [
+                            -52.104838,
+                            -32.123697
+                        ],
+                        [
+                            -52.106428,
+                            -32.12371
+                        ],
+                        [
+                            -52.106516,
+                            -32.124599
+                        ],
+                        [
+                            -52.108923,
+                            -32.124547
+                        ],
+                        [
+                            -52.108941,
+                            -32.125384
+                        ],
+                        [
+                            -52.110878,
+                            -32.125195
+                        ],
+                        [
+                            -52.110802,
+                            -32.123145
+                        ],
+                        [
+                            -52.110774,
+                            -32.122693
+                        ],
+                        [
+                            -52.111164,
+                            -32.12262
+                        ],
+                        [
+                            -52.11122,
+                            -32.125203
+                        ],
+                        [
+                            -52.111283,
+                            -32.126703
+                        ],
+                        [
+                            -52.11125,
+                            -32.127614
+                        ],
+                        [
+                            -52.108519,
+                            -32.127689
+                        ],
+                        [
+                            -52.108515,
+                            -32.12912
+                        ],
+                        [
+                            -52.108337,
+                            -32.129143
+                        ],
+                        [
+                            -52.108125,
+                            -32.129148
+                        ],
+                        [
+                            -52.108149,
+                            -32.129463
+                        ],
+                        [
+                            -52.108209,
+                            -32.130161
+                        ],
+                        [
+                            -52.10781,
+                            -32.13013
+                        ],
+                        [
+                            -52.107783,
+                            -32.130348
+                        ],
+                        [
+                            -52.107444,
+                            -32.130326
+                        ],
+                        [
+                            -52.106268,
+                            -32.13026
+                        ],
+                        [
+                            -52.104564,
+                            -32.130233
+                        ],
+                        [
+                            -52.104111,
+                            -32.130303
+                        ],
+                        [
+                            -52.103599,
+                            -32.130327
+                        ],
+                        [
+                            -52.102761,
+                            -32.130398
+                        ],
+                        [
+                            -52.102294,
+                            -32.122171
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGTECRG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.102279,
+                            -32.122175
+                        ],
+                        [
+                            -52.102761,
+                            -32.130407
+                        ],
+                        [
+                            -52.102274,
+                            -32.130436
+                        ],
+                        [
+                            -52.101592,
+                            -32.122203
+                        ],
+                        [
+                            -52.102279,
+                            -32.122175
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGTECRG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.10654,
+                    -32.125764
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGTECRG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.102237,
+                    -32.125479
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGTECRG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

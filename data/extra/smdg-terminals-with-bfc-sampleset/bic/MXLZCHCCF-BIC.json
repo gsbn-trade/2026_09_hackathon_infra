@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.178054,
+                            17.955387
+                        ],
+                        [
+                            -102.178011,
+                            17.954772
+                        ],
+                        [
+                            -102.177298,
+                            17.954802
+                        ],
+                        [
+                            -102.177372,
+                            17.955762
+                        ],
+                        [
+                            -102.177798,
+                            17.955721
+                        ],
+                        [
+                            -102.177844,
+                            17.955404
+                        ],
+                        [
+                            -102.178054,
+                            17.955387
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCHCCF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mxlzchccf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.177776,
+                    17.955319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCHCCF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mxlzchccf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

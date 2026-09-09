@@ -1,0 +1,143 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.543224,
+                            35.859225
+                        ],
+                        [
+                            -5.541104,
+                            35.857751
+                        ],
+                        [
+                            -5.541042,
+                            35.857741
+                        ],
+                        [
+                            -5.541009,
+                            35.857755
+                        ],
+                        [
+                            -5.54099,
+                            35.85777
+                        ],
+                        [
+                            -5.540031,
+                            35.857084
+                        ],
+                        [
+                            -5.539186,
+                            35.856487
+                        ],
+                        [
+                            -5.53899,
+                            35.856144
+                        ],
+                        [
+                            -5.538806,
+                            35.856312
+                        ],
+                        [
+                            -5.538585,
+                            35.85651
+                        ],
+                        [
+                            -5.53845,
+                            35.856564
+                        ],
+                        [
+                            -5.534071,
+                            35.860712
+                        ],
+                        [
+                            -5.533609,
+                            35.861771
+                        ],
+                        [
+                            -5.533715,
+                            35.861943
+                        ],
+                        [
+                            -5.530659,
+                            35.864811
+                        ],
+                        [
+                            -5.530052,
+                            35.865293
+                        ],
+                        [
+                            -5.528416,
+                            35.866838
+                        ],
+                        [
+                            -5.527877,
+                            35.867466
+                        ],
+                        [
+                            -5.527382,
+                            35.868175
+                        ],
+                        [
+                            -5.527126,
+                            35.868464
+                        ],
+                        [
+                            -5.52615,
+                            35.869135
+                        ],
+                        [
+                            -5.524804,
+                            35.870162
+                        ],
+                        [
+                            -5.524878,
+                            35.870223
+                        ],
+                        [
+                            -5.528668,
+                            35.872886
+                        ],
+                        [
+                            -5.543224,
+                            35.859225
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMQRBY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-05-14",
+                "remarks": "Included gate area. Geofenced phases 1, 2, and 3.",
+                "url": "https://www.bic-code.org/facility-codes/maptmqrby/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.534482,
+                    35.862258
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MAPTMQRBY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-05-14",
+                "remarks": "Included gate area. Geofenced phases 1, 2, and 3.",
+                "url": "https://www.bic-code.org/facility-codes/maptmqrby/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

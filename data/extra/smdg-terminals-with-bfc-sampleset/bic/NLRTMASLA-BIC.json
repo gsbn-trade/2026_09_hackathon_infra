@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "NLRTMASLA",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmasla/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.1856958,
+                            51.9186156
+                        ],
+                        [
+                            4.1873748,
+                            51.9199292
+                        ],
+                        [
+                            4.1818924,
+                            51.922695
+                        ],
+                        [
+                            4.1812486,
+                            51.9222848
+                        ],
+                        [
+                            4.1810341,
+                            51.9218878
+                        ],
+                        [
+                            4.1810555,
+                            51.9214908
+                        ],
+                        [
+                            4.1812165,
+                            51.9210673
+                        ],
+                        [
+                            4.1815169,
+                            51.9206835
+                        ],
+                        [
+                            4.1819997,
+                            51.9204056
+                        ],
+                        [
+                            4.1824074,
+                            51.9201806
+                        ],
+                        [
+                            4.1856958,
+                            51.9186156
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.182831,
+                    51.920714
+                ]
+            },
+            "properties": {
+                "code": "NLRTMASLA",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/nlrtmasla/"
+            }
+        }
+    ]
+}

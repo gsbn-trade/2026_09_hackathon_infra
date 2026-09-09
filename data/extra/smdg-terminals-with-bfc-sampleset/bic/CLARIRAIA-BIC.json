@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.293738,
+                            -18.458109
+                        ],
+                        [
+                            -70.292136,
+                            -18.459483
+                        ],
+                        [
+                            -70.291778,
+                            -18.45905
+                        ],
+                        [
+                            -70.293329,
+                            -18.457711
+                        ],
+                        [
+                            -70.293738,
+                            -18.458109
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARIRAIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/clariraia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.292944,
+                    -18.458492
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARIRAIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-24",
+                "url": "https://www.bic-code.org/facility-codes/clariraia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

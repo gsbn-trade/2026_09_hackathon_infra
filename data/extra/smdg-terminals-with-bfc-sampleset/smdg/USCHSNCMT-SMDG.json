@@ -1,0 +1,283 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.967654,
+                            32.904137
+                        ],
+                        [
+                            -79.961782,
+                            32.899808
+                        ],
+                        [
+                            -79.956573,
+                            32.904934
+                        ],
+                        [
+                            -79.956723,
+                            32.90505
+                        ],
+                        [
+                            -79.956694,
+                            32.905085
+                        ],
+                        [
+                            -79.957075,
+                            32.906055
+                        ],
+                        [
+                            -79.955476,
+                            32.906551
+                        ],
+                        [
+                            -79.955004,
+                            32.906803
+                        ],
+                        [
+                            -79.954915,
+                            32.906954
+                        ],
+                        [
+                            -79.954939,
+                            32.907078
+                        ],
+                        [
+                            -79.958306,
+                            32.910401
+                        ],
+                        [
+                            -79.961221,
+                            32.90765
+                        ],
+                        [
+                            -79.962289,
+                            32.90724
+                        ],
+                        [
+                            -79.969997,
+                            32.904438
+                        ],
+                        [
+                            -79.969836,
+                            32.904191
+                        ],
+                        [
+                            -79.967675,
+                            32.904276
+                        ],
+                        [
+                            -79.967654,
+                            32.904137
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.961769,
+                            32.899804
+                        ],
+                        [
+                            -79.961338,
+                            32.899514
+                        ],
+                        [
+                            -79.956055,
+                            32.904575
+                        ],
+                        [
+                            -79.956551,
+                            32.904928
+                        ],
+                        [
+                            -79.961769,
+                            32.899804
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.969952,
+                            32.904378
+                        ],
+                        [
+                            -79.969913,
+                            32.904313
+                        ],
+                        [
+                            -79.969668,
+                            32.904358
+                        ],
+                        [
+                            -79.969473,
+                            32.904335
+                        ],
+                        [
+                            -79.969362,
+                            32.904352
+                        ],
+                        [
+                            -79.969234,
+                            32.904373
+                        ],
+                        [
+                            -79.968987,
+                            32.904414
+                        ],
+                        [
+                            -79.968565,
+                            32.904463
+                        ],
+                        [
+                            -79.967312,
+                            32.90469
+                        ],
+                        [
+                            -79.966682,
+                            32.904811
+                        ],
+                        [
+                            -79.966049,
+                            32.904925
+                        ],
+                        [
+                            -79.965321,
+                            32.905202
+                        ],
+                        [
+                            -79.965529,
+                            32.905612
+                        ],
+                        [
+                            -79.967667,
+                            32.904942
+                        ],
+                        [
+                            -79.967809,
+                            32.904908
+                        ],
+                        [
+                            -79.968005,
+                            32.904852
+                        ],
+                        [
+                            -79.968607,
+                            32.904646
+                        ],
+                        [
+                            -79.969386,
+                            32.904487
+                        ],
+                        [
+                            -79.969952,
+                            32.904378
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "TRUCK_QUEUE",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.960813,
+                    32.905576
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.959496,
+                    32.901725
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.968288,
+                    32.904655
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USCHSNCMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

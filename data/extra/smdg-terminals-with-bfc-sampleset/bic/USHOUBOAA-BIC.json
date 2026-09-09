@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -95.114506,
+                            29.766363
+                        ],
+                        [
+                            -95.114518,
+                            29.76615
+                        ],
+                        [
+                            -95.114647,
+                            29.763457
+                        ],
+                        [
+                            -95.113714,
+                            29.762767
+                        ],
+                        [
+                            -95.112911,
+                            29.763184
+                        ],
+                        [
+                            -95.113723,
+                            29.764242
+                        ],
+                        [
+                            -95.113079,
+                            29.764575
+                        ],
+                        [
+                            -95.111505,
+                            29.764774
+                        ],
+                        [
+                            -95.111477,
+                            29.765662
+                        ],
+                        [
+                            -95.111433,
+                            29.767178
+                        ],
+                        [
+                            -95.111341,
+                            29.768907
+                        ],
+                        [
+                            -95.114223,
+                            29.769534
+                        ],
+                        [
+                            -95.114391,
+                            29.76699
+                        ],
+                        [
+                            -95.114394,
+                            29.766904
+                        ],
+                        [
+                            -95.114417,
+                            29.766466
+                        ],
+                        [
+                            -95.114506,
+                            29.766363
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUBOAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouboaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.113424,
+                    29.765845
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USHOUBOAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/ushouboaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

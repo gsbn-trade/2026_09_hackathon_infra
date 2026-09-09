@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.669031,
+                            9.909446
+                        ],
+                        [
+                            -84.669375,
+                            9.909155
+                        ],
+                        [
+                            -84.66908,
+                            9.908912
+                        ],
+                        [
+                            -84.668752,
+                            9.909208
+                        ],
+                        [
+                            -84.669031,
+                            9.909446
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALKABB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalkabb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.669054,
+                    9.909233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALKABB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalkabb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            36.209139,
+                            36.613774
+                        ],
+                        [
+                            36.209485,
+                            36.614509
+                        ],
+                        [
+                            36.209218,
+                            36.614766
+                        ],
+                        [
+                            36.208926,
+                            36.614898
+                        ],
+                        [
+                            36.208617,
+                            36.613924
+                        ],
+                        [
+                            36.209139,
+                            36.613774
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "TRISKRRWH",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-14",
+                "url": "https://www.bic-code.org/facility-codes/triskrrwh/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.209087,
+                    36.614274
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "TRISKRRWH",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-14",
+                "url": "https://www.bic-code.org/facility-codes/triskrrwh/"
+            }
+        }
+    ]
+}

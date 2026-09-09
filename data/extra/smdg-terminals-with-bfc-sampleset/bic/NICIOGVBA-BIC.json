@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.178876,
+                            12.553799
+                        ],
+                        [
+                            -87.178152,
+                            12.553177
+                        ],
+                        [
+                            -87.177274,
+                            12.554139
+                        ],
+                        [
+                            -87.178008,
+                            12.554746
+                        ],
+                        [
+                            -87.178876,
+                            12.553799
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOGVBA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciogvba/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.178237,
+                    12.553932
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOGVBA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciogvba/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

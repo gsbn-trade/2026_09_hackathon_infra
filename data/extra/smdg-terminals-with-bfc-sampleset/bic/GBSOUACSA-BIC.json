@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.479067,
+                            50.914634
+                        ],
+                        [
+                            -1.479863,
+                            50.914391
+                        ],
+                        [
+                            -1.48028,
+                            50.914611
+                        ],
+                        [
+                            -1.480598,
+                            50.914492
+                        ],
+                        [
+                            -1.480892,
+                            50.914396
+                        ],
+                        [
+                            -1.481054,
+                            50.914329
+                        ],
+                        [
+                            -1.481968,
+                            50.914042
+                        ],
+                        [
+                            -1.481445,
+                            50.913383
+                        ],
+                        [
+                            -1.481275,
+                            50.913129
+                        ],
+                        [
+                            -1.480417,
+                            50.913357
+                        ],
+                        [
+                            -1.480187,
+                            50.913018
+                        ],
+                        [
+                            -1.48066,
+                            50.912893
+                        ],
+                        [
+                            -1.480305,
+                            50.91238
+                        ],
+                        [
+                            -1.480173,
+                            50.912414
+                        ],
+                        [
+                            -1.480207,
+                            50.912285
+                        ],
+                        [
+                            -1.479838,
+                            50.912391
+                        ],
+                        [
+                            -1.479695,
+                            50.912159
+                        ],
+                        [
+                            -1.478924,
+                            50.912302
+                        ],
+                        [
+                            -1.47836,
+                            50.912563
+                        ],
+                        [
+                            -1.478911,
+                            50.913756
+                        ],
+                        [
+                            -1.479067,
+                            50.914634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUACSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouacsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.480152,
+                    50.913408
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUACSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsouacsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

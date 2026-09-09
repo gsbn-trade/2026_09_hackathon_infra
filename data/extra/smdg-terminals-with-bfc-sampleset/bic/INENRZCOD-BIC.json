@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.333549,
+                            13.273759
+                        ],
+                        [
+                            80.333524,
+                            13.273417
+                        ],
+                        [
+                            80.333547,
+                            13.270213
+                        ],
+                        [
+                            80.338158,
+                            13.270188
+                        ],
+                        [
+                            80.338142,
+                            13.273782
+                        ],
+                        [
+                            80.333549,
+                            13.273759
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INENRZCOD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inenrzcod/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.335078,
+                    13.27252
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INENRZCOD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-13",
+                "url": "https://www.bic-code.org/facility-codes/inenrzcod/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

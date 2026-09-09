@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.095509,
+                            56.993793
+                        ],
+                        [
+                            24.099527,
+                            56.994064
+                        ],
+                        [
+                            24.099708,
+                            56.992952
+                        ],
+                        [
+                            24.099757,
+                            56.992133
+                        ],
+                        [
+                            24.098053,
+                            56.99145
+                        ],
+                        [
+                            24.098023,
+                            56.991543
+                        ],
+                        [
+                            24.096901,
+                            56.991512
+                        ],
+                        [
+                            24.096821,
+                            56.992144
+                        ],
+                        [
+                            24.096013,
+                            56.992093
+                        ],
+                        [
+                            24.095332,
+                            56.992137
+                        ],
+                        [
+                            24.095363,
+                            56.993101
+                        ],
+                        [
+                            24.095521,
+                            56.993113
+                        ],
+                        [
+                            24.095509,
+                            56.993793
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXAQRM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixaqrm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.09708,
+                    56.992602
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXAQRM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixaqrm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

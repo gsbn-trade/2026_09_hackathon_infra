@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.9428,
+                            34.1615
+                        ],
+                        [
+                            -77.940839,
+                            34.161818
+                        ],
+                        [
+                            -77.941076,
+                            34.162607
+                        ],
+                        [
+                            -77.941225,
+                            34.163151
+                        ],
+                        [
+                            -77.941345,
+                            34.163627
+                        ],
+                        [
+                            -77.945523,
+                            34.16279
+                        ],
+                        [
+                            -77.9449,
+                            34.1622
+                        ],
+                        [
+                            -77.9442,
+                            34.1617
+                        ],
+                        [
+                            -77.943537,
+                            34.161784
+                        ],
+                        [
+                            -77.943183,
+                            34.161878
+                        ],
+                        [
+                            -77.943,
+                            34.1618
+                        ],
+                        [
+                            -77.9428,
+                            34.1615
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USILMSTNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-05",
+                "url": "https://www.bic-code.org/facility-codes/usilmstna/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.942869,
+                    34.162196
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USILMSTNA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-05",
+                "url": "https://www.bic-code.org/facility-codes/usilmstna/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.34295,
+                            25.85802
+                        ],
+                        [
+                            -80.340815,
+                            25.858027
+                        ],
+                        [
+                            -80.340838,
+                            25.858887
+                        ],
+                        [
+                            -80.343009,
+                            25.858887
+                        ],
+                        [
+                            -80.343067,
+                            25.858395
+                        ],
+                        [
+                            -80.34309,
+                            25.858248
+                        ],
+                        [
+                            -80.343096,
+                            25.85814
+                        ],
+                        [
+                            -80.343088,
+                            25.858091
+                        ],
+                        [
+                            -80.343034,
+                            25.858027
+                        ],
+                        [
+                            -80.34295,
+                            25.85802
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIARSEF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiarsef/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.342594,
+                    25.858274
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMIARSEF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-02-11",
+                "url": "https://www.bic-code.org/facility-codes/usmiarsef/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

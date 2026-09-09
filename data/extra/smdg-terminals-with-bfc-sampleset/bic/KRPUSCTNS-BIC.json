@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            129.069681,
+                            35.110949
+                        ],
+                        [
+                            129.067296,
+                            35.108143
+                        ],
+                        [
+                            129.075021,
+                            35.103614
+                        ],
+                        [
+                            129.074997,
+                            35.106267
+                        ],
+                        [
+                            129.075021,
+                            35.107628
+                        ],
+                        [
+                            129.075008,
+                            35.1083
+                        ],
+                        [
+                            129.075067,
+                            35.108913
+                        ],
+                        [
+                            129.073866,
+                            35.109518
+                        ],
+                        [
+                            129.073516,
+                            35.10966
+                        ],
+                        [
+                            129.07336,
+                            35.109618
+                        ],
+                        [
+                            129.073184,
+                            35.109539
+                        ],
+                        [
+                            129.072983,
+                            35.109338
+                        ],
+                        [
+                            129.072505,
+                            35.109609
+                        ],
+                        [
+                            129.072714,
+                            35.10982
+                        ],
+                        [
+                            129.072696,
+                            35.10995
+                        ],
+                        [
+                            129.072579,
+                            35.110005
+                        ],
+                        [
+                            129.071231,
+                            35.11061
+                        ],
+                        [
+                            129.07038,
+                            35.110517
+                        ],
+                        [
+                            129.069681,
+                            35.110949
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSCTNS",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-15",
+                "url": "https://www.bic-code.org/facility-codes/krpusctns/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.072673,
+                    35.109102
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSCTNS",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-15",
+                "url": "https://www.bic-code.org/facility-codes/krpusctns/"
+            }
+        }
+    ]
+}

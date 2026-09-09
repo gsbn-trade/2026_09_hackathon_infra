@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.6586,
+                            -26.859249
+                        ],
+                        [
+                            -48.65801,
+                            -26.8567
+                        ],
+                        [
+                            -48.65774,
+                            -26.855277
+                        ],
+                        [
+                            -48.65836,
+                            -26.855298
+                        ],
+                        [
+                            -48.659151,
+                            -26.855405
+                        ],
+                        [
+                            -48.659556,
+                            -26.855408
+                        ],
+                        [
+                            -48.660172,
+                            -26.855365
+                        ],
+                        [
+                            -48.661917,
+                            -26.855351
+                        ],
+                        [
+                            -48.664068,
+                            -26.855241
+                        ],
+                        [
+                            -48.66476,
+                            -26.856107
+                        ],
+                        [
+                            -48.659985,
+                            -26.85632
+                        ],
+                        [
+                            -48.660535,
+                            -26.858929
+                        ],
+                        [
+                            -48.6586,
+                            -26.859249
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTDYJW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/brnvtdyjw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.660112,
+                    -26.856454
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRNVTDYJW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/brnvtdyjw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

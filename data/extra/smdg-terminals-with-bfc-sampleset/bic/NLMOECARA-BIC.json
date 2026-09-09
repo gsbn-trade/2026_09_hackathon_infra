@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.606653,
+                            51.683506
+                        ],
+                        [
+                            4.604714,
+                            51.683808
+                        ],
+                        [
+                            4.604509,
+                            51.683316
+                        ],
+                        [
+                            4.60386,
+                            51.683416
+                        ],
+                        [
+                            4.603578,
+                            51.682692
+                        ],
+                        [
+                            4.601611,
+                            51.68302
+                        ],
+                        [
+                            4.601411,
+                            51.682998
+                        ],
+                        [
+                            4.601248,
+                            51.682933
+                        ],
+                        [
+                            4.601217,
+                            51.682847
+                        ],
+                        [
+                            4.601296,
+                            51.682431
+                        ],
+                        [
+                            4.603338,
+                            51.68213
+                        ],
+                        [
+                            4.603148,
+                            51.681651
+                        ],
+                        [
+                            4.605769,
+                            51.681232
+                        ],
+                        [
+                            4.60646,
+                            51.682942
+                        ],
+                        [
+                            4.606653,
+                            51.683506
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECARA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecara/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.603698,
+                    51.682829
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECARA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecara/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

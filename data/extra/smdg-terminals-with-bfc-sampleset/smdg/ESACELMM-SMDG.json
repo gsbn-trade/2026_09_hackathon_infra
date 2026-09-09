@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -13.529241,
+                            28.97356
+                        ],
+                        [
+                            -13.52928,
+                            28.973301
+                        ],
+                        [
+                            -13.529706,
+                            28.972132
+                        ],
+                        [
+                            -13.530012,
+                            28.97186
+                        ],
+                        [
+                            -13.530073,
+                            28.971867
+                        ],
+                        [
+                            -13.531087,
+                            28.968434
+                        ],
+                        [
+                            -13.531006,
+                            28.968416
+                        ],
+                        [
+                            -13.53099,
+                            28.968554
+                        ],
+                        [
+                            -13.530708,
+                            28.96849
+                        ],
+                        [
+                            -13.530643,
+                            28.96843
+                        ],
+                        [
+                            -13.53068,
+                            28.967847
+                        ],
+                        [
+                            -13.530233,
+                            28.967272
+                        ],
+                        [
+                            -13.530277,
+                            28.967184
+                        ],
+                        [
+                            -13.530184,
+                            28.967159
+                        ],
+                        [
+                            -13.529299,
+                            28.970341
+                        ],
+                        [
+                            -13.529081,
+                            28.970295
+                        ],
+                        [
+                            -13.528771,
+                            28.971346
+                        ],
+                        [
+                            -13.528372,
+                            28.971254
+                        ],
+                        [
+                            -13.526703,
+                            28.971836
+                        ],
+                        [
+                            -13.526598,
+                            28.971582
+                        ],
+                        [
+                            -13.526288,
+                            28.971515
+                        ],
+                        [
+                            -13.528555,
+                            28.964261
+                        ],
+                        [
+                            -13.528313,
+                            28.964205
+                        ],
+                        [
+                            -13.5306,
+                            28.960883
+                        ],
+                        [
+                            -13.530434,
+                            28.960795
+                        ],
+                        [
+                            -13.528129,
+                            28.964158
+                        ],
+                        [
+                            -13.526882,
+                            28.968062
+                        ],
+                        [
+                            -13.526147,
+                            28.970457
+                        ],
+                        [
+                            -13.525349,
+                            28.973261
+                        ],
+                        [
+                            -13.525329,
+                            28.973359
+                        ],
+                        [
+                            -13.525333,
+                            28.9735
+                        ],
+                        [
+                            -13.525365,
+                            28.97361
+                        ],
+                        [
+                            -13.525445,
+                            28.973754
+                        ],
+                        [
+                            -13.525506,
+                            28.973839
+                        ],
+                        [
+                            -13.525394,
+                            28.974192
+                        ],
+                        [
+                            -13.525656,
+                            28.974241
+                        ],
+                        [
+                            -13.525841,
+                            28.97391
+                        ],
+                        [
+                            -13.526403,
+                            28.973602
+                        ],
+                        [
+                            -13.526919,
+                            28.973486
+                        ],
+                        [
+                            -13.529241,
+                            28.97356
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESACELMM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -13.529304,
+                            28.970334
+                        ],
+                        [
+                            -13.530188,
+                            28.96716
+                        ],
+                        [
+                            -13.529951,
+                            28.967114
+                        ],
+                        [
+                            -13.529092,
+                            28.970293
+                        ],
+                        [
+                            -13.529304,
+                            28.970334
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESACELMM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.528252,
+                    28.970245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESACELMM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.529568,
+                    28.969047
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESACELMM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

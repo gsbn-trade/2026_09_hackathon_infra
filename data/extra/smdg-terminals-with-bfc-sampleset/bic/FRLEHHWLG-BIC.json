@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.202187,
+                            49.48457
+                        ],
+                        [
+                            0.201665,
+                            49.483072
+                        ],
+                        [
+                            0.203829,
+                            49.482785
+                        ],
+                        [
+                            0.204307,
+                            49.482775
+                        ],
+                        [
+                            0.206166,
+                            49.482509
+                        ],
+                        [
+                            0.207609,
+                            49.482286
+                        ],
+                        [
+                            0.207847,
+                            49.482317
+                        ],
+                        [
+                            0.208254,
+                            49.482445
+                        ],
+                        [
+                            0.208505,
+                            49.482785
+                        ],
+                        [
+                            0.208702,
+                            49.483252
+                        ],
+                        [
+                            0.20862,
+                            49.483446
+                        ],
+                        [
+                            0.206856,
+                            49.483578
+                        ],
+                        [
+                            0.206374,
+                            49.483882
+                        ],
+                        [
+                            0.202187,
+                            49.48457
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHHWLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-21",
+                "url": "https://www.bic-code.org/facility-codes/frlehhwlg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.205936,
+                    49.483162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHHWLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-21",
+                "url": "https://www.bic-code.org/facility-codes/frlehhwlg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

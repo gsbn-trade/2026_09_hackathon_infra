@@ -1,0 +1,253 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.226534,
+                            58.625238
+                        ],
+                        [
+                            16.226424,
+                            58.624363
+                        ],
+                        [
+                            16.227755,
+                            58.624296
+                        ],
+                        [
+                            16.2296,
+                            58.624173
+                        ],
+                        [
+                            16.231016,
+                            58.623983
+                        ],
+                        [
+                            16.229493,
+                            58.623346
+                        ],
+                        [
+                            16.227412,
+                            58.624184
+                        ],
+                        [
+                            16.225394,
+                            58.624106
+                        ],
+                        [
+                            16.224021,
+                            58.623659
+                        ],
+                        [
+                            16.222798,
+                            58.622955
+                        ],
+                        [
+                            16.222305,
+                            58.622162
+                        ],
+                        [
+                            16.222669,
+                            58.621704
+                        ],
+                        [
+                            16.222909,
+                            58.62143
+                        ],
+                        [
+                            16.224067,
+                            58.621895
+                        ],
+                        [
+                            16.225023,
+                            58.621117
+                        ],
+                        [
+                            16.230115,
+                            58.623492
+                        ],
+                        [
+                            16.230673,
+                            58.623257
+                        ],
+                        [
+                            16.231188,
+                            58.623425
+                        ],
+                        [
+                            16.232733,
+                            58.623246
+                        ],
+                        [
+                            16.237175,
+                            58.620453
+                        ],
+                        [
+                            16.24005,
+                            58.619134
+                        ],
+                        [
+                            16.241037,
+                            58.619436
+                        ],
+                        [
+                            16.241852,
+                            58.619134
+                        ],
+                        [
+                            16.244556,
+                            58.620252
+                        ],
+                        [
+                            16.243934,
+                            58.620699
+                        ],
+                        [
+                            16.245908,
+                            58.622486
+                        ],
+                        [
+                            16.240544,
+                            58.624117
+                        ],
+                        [
+                            16.240737,
+                            58.62424
+                        ],
+                        [
+                            16.240093,
+                            58.624419
+                        ],
+                        [
+                            16.235935,
+                            58.625309
+                        ],
+                        [
+                            16.234621,
+                            58.624151
+                        ],
+                        [
+                            16.233706,
+                            58.624163
+                        ],
+                        [
+                            16.23263,
+                            58.624342
+                        ],
+                        [
+                            16.231657,
+                            58.624557
+                        ],
+                        [
+                            16.230823,
+                            58.625079
+                        ],
+                        [
+                            16.226534,
+                            58.625238
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKSEPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.235912,
+                            58.625358
+                        ],
+                        [
+                            16.240844,
+                            58.624263
+                        ],
+                        [
+                            16.240671,
+                            58.624101
+                        ],
+                        [
+                            16.245983,
+                            58.622489
+                        ],
+                        [
+                            16.24626,
+                            58.622831
+                        ],
+                        [
+                            16.236276,
+                            58.625579
+                        ],
+                        [
+                            16.235912,
+                            58.625358
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKSEPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.232053,
+                    58.623034
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKSEPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.240265,
+                    58.624283
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKSEPCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

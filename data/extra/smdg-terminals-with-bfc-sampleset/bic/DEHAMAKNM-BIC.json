@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMAKNM",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehamaknm/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.895287,
+                            53.5239712
+                        ],
+                        [
+                            9.8973497,
+                            53.5257427
+                        ],
+                        [
+                            9.8970787,
+                            53.5257554
+                        ],
+                        [
+                            9.8973148,
+                            53.5264251
+                        ],
+                        [
+                            9.8972128,
+                            53.5267694
+                        ],
+                        [
+                            9.8963921,
+                            53.5266228
+                        ],
+                        [
+                            9.89603,
+                            53.5266005
+                        ],
+                        [
+                            9.8957188,
+                            53.5266021
+                        ],
+                        [
+                            9.8957484,
+                            53.526795
+                        ],
+                        [
+                            9.8927014,
+                            53.5271649
+                        ],
+                        [
+                            9.8925029,
+                            53.526441
+                        ],
+                        [
+                            9.8927899,
+                            53.5263022
+                        ],
+                        [
+                            9.8935919,
+                            53.5246903
+                        ],
+                        [
+                            9.895287,
+                            53.5239712
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.895358,
+                    53.525989
+                ]
+            },
+            "properties": {
+                "code": "DEHAMAKNM",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehamaknm/"
+            }
+        }
+    ]
+}

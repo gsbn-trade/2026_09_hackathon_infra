@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.95679,
+                            59.185902
+                        ],
+                        [
+                            10.952038,
+                            59.186223
+                        ],
+                        [
+                            10.952614,
+                            59.184387
+                        ],
+                        [
+                            10.952278,
+                            59.184353
+                        ],
+                        [
+                            10.95259,
+                            59.183953
+                        ],
+                        [
+                            10.953086,
+                            59.184002
+                        ],
+                        [
+                            10.9544,
+                            59.181873
+                        ],
+                        [
+                            10.958122,
+                            59.182511
+                        ],
+                        [
+                            10.957144,
+                            59.18471
+                        ],
+                        [
+                            10.95679,
+                            59.185902
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKXMIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "remarks": "Excluding Oraterminalen",
+                "url": "https://www.bic-code.org/facility-codes/nofrkxmit/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.954585,
+                    59.184382
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFRKXMIT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "remarks": "Excluding Oraterminalen",
+                "url": "https://www.bic-code.org/facility-codes/nofrkxmit/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,193 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.186666,
+                            60.21931
+                        ],
+                        [
+                            25.187221,
+                            60.219551
+                        ],
+                        [
+                            25.1877,
+                            60.219757
+                        ],
+                        [
+                            25.187375,
+                            60.219953
+                        ],
+                        [
+                            25.18722,
+                            60.220037
+                        ],
+                        [
+                            25.187086,
+                            60.22011
+                        ],
+                        [
+                            25.187013,
+                            60.220154
+                        ],
+                        [
+                            25.187001,
+                            60.220227
+                        ],
+                        [
+                            25.186349,
+                            60.22019
+                        ],
+                        [
+                            25.185677,
+                            60.22016
+                        ],
+                        [
+                            25.185649,
+                            60.220119
+                        ],
+                        [
+                            25.18603,
+                            60.219776
+                        ],
+                        [
+                            25.185452,
+                            60.219528
+                        ],
+                        [
+                            25.184797,
+                            60.219251
+                        ],
+                        [
+                            25.185474,
+                            60.218821
+                        ],
+                        [
+                            25.186326,
+                            60.219186
+                        ],
+                        [
+                            25.186666,
+                            60.21931
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELOMWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/fihelomwh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.188133,
+                            60.219797
+                        ],
+                        [
+                            25.185609,
+                            60.218732
+                        ],
+                        [
+                            25.186048,
+                            60.218468
+                        ],
+                        [
+                            25.18684,
+                            60.2188
+                        ],
+                        [
+                            25.188914,
+                            60.217584
+                        ],
+                        [
+                            25.189548,
+                            60.217638
+                        ],
+                        [
+                            25.190934,
+                            60.218174
+                        ],
+                        [
+                            25.188777,
+                            60.219433
+                        ],
+                        [
+                            25.188548,
+                            60.219577
+                        ],
+                        [
+                            25.188325,
+                            60.219725
+                        ],
+                        [
+                            25.188133,
+                            60.219797
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELOMWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/fihelomwh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.186453,
+                    60.219732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELOMWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/fihelomwh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.188164,
+                    60.218884
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELOMWH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/fihelomwh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

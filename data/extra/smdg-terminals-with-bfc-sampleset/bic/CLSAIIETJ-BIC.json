@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.532958,
+                            -33.57665
+                        ],
+                        [
+                            -71.547343,
+                            -33.574748
+                        ],
+                        [
+                            -71.54705,
+                            -33.57161
+                        ],
+                        [
+                            -71.546559,
+                            -33.571238
+                        ],
+                        [
+                            -71.541062,
+                            -33.571801
+                        ],
+                        [
+                            -71.536597,
+                            -33.572444
+                        ],
+                        [
+                            -71.536205,
+                            -33.572799
+                        ],
+                        [
+                            -71.532979,
+                            -33.573286
+                        ],
+                        [
+                            -71.532958,
+                            -33.57665
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIIETJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsaiietj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.539301,
+                    -33.57347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIIETJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-01-09",
+                "url": "https://www.bic-code.org/facility-codes/clsaiietj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

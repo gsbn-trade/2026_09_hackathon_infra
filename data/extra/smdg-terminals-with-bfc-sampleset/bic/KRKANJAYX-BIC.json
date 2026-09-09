@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            127.751268,
+                            34.940927
+                        ],
+                        [
+                            127.752076,
+                            34.939855
+                        ],
+                        [
+                            127.753499,
+                            34.94061
+                        ],
+                        [
+                            127.752707,
+                            34.941633
+                        ],
+                        [
+                            127.751268,
+                            34.940927
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANJAYX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by Evergreen",
+                "url": "https://www.bic-code.org/facility-codes/krkanjayx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    127.752164,
+                    34.94079
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANJAYX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Evergreen",
+                "url": "https://www.bic-code.org/facility-codes/krkanjayx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.167245,
+                            49.487012
+                        ],
+                        [
+                            0.167692,
+                            49.486394
+                        ],
+                        [
+                            0.168539,
+                            49.486652
+                        ],
+                        [
+                            0.168978,
+                            49.486044
+                        ],
+                        [
+                            0.169797,
+                            49.486294
+                        ],
+                        [
+                            0.170185,
+                            49.485756
+                        ],
+                        [
+                            0.1714,
+                            49.486126
+                        ],
+                        [
+                            0.170552,
+                            49.48737
+                        ],
+                        [
+                            0.170504,
+                            49.487445
+                        ],
+                        [
+                            0.170177,
+                            49.487777
+                        ],
+                        [
+                            0.170132,
+                            49.487807
+                        ],
+                        [
+                            0.170089,
+                            49.487828
+                        ],
+                        [
+                            0.170026,
+                            49.487839
+                        ],
+                        [
+                            0.169969,
+                            49.487842
+                        ],
+                        [
+                            0.167245,
+                            49.487012
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAOTZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-07-24",
+                "url": "https://www.bic-code.org/facility-codes/frlehaotz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.169502,
+                    49.487013
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHAOTZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-07-24",
+                "url": "https://www.bic-code.org/facility-codes/frlehaotz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

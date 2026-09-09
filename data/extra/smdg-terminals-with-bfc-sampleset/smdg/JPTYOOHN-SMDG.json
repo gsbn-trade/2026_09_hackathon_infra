@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.765511,
+                            35.599068
+                        ],
+                        [
+                            139.769324,
+                            35.593853
+                        ],
+                        [
+                            139.769501,
+                            35.593833
+                        ],
+                        [
+                            139.7732,
+                            35.595675
+                        ],
+                        [
+                            139.769284,
+                            35.600931
+                        ],
+                        [
+                            139.765511,
+                            35.599068
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOOHN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-oi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.769295,
+                            35.600936
+                        ],
+                        [
+                            139.773211,
+                            35.595686
+                        ],
+                        [
+                            139.773628,
+                            35.595889
+                        ],
+                        [
+                            139.769716,
+                            35.601149
+                        ],
+                        [
+                            139.769295,
+                            35.600936
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOOHN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-oi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.768722,
+                    35.597071
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOOHN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-oi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.771029,
+                    35.598919
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOOHN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-02",
+                "remarks": "See www.tptc.co.jp-guide-oi-about. Replace - with forward slashes in the URL.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.831196,
+                            17.993145
+                        ],
+                        [
+                            -76.831357,
+                            17.993298
+                        ],
+                        [
+                            -76.832033,
+                            17.993543
+                        ],
+                        [
+                            -76.832859,
+                            17.993696
+                        ],
+                        [
+                            -76.833562,
+                            17.99365
+                        ],
+                        [
+                            -76.834726,
+                            17.993436
+                        ],
+                        [
+                            -76.835074,
+                            17.993094
+                        ],
+                        [
+                            -76.834854,
+                            17.992727
+                        ],
+                        [
+                            -76.832929,
+                            17.991191
+                        ],
+                        [
+                            -76.831196,
+                            17.993145
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMKINPOGC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmkinpogc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.832979,
+                    17.993092
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMKINPOGC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmkinpogc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

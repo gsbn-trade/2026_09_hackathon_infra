@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            55.092685,
+                            24.933631
+                        ],
+                        [
+                            55.091575,
+                            24.932317
+                        ],
+                        [
+                            55.091253,
+                            24.931945
+                        ],
+                        [
+                            55.091888,
+                            24.931455
+                        ],
+                        [
+                            55.092404,
+                            24.931445
+                        ],
+                        [
+                            55.093669,
+                            24.932913
+                        ],
+                        [
+                            55.093432,
+                            24.933097
+                        ],
+                        [
+                            55.093069,
+                            24.933375
+                        ],
+                        [
+                            55.092685,
+                            24.933631
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEJEASTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/aejeastol/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    55.092518,
+                    24.932645
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEJEASTOL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/aejeastol/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

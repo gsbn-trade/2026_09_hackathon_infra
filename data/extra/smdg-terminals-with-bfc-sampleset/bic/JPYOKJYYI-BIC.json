@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.671321,
+                            35.426609
+                        ],
+                        [
+                            139.671268,
+                            35.426104
+                        ],
+                        [
+                            139.671219,
+                            35.425326
+                        ],
+                        [
+                            139.671086,
+                            35.422937
+                        ],
+                        [
+                            139.671211,
+                            35.42273
+                        ],
+                        [
+                            139.671126,
+                            35.421181
+                        ],
+                        [
+                            139.671365,
+                            35.421168
+                        ],
+                        [
+                            139.671777,
+                            35.424249
+                        ],
+                        [
+                            139.672028,
+                            35.426579
+                        ],
+                        [
+                            139.671321,
+                            35.426609
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKJYYI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/jpyokjyyi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.671372,
+                    35.424349
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKJYYI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/jpyokjyyi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

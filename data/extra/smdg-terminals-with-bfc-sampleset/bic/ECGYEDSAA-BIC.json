@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.942482,
+                            -2.079452
+                        ],
+                        [
+                            -79.942365,
+                            -2.079433
+                        ],
+                        [
+                            -79.942251,
+                            -2.07843
+                        ],
+                        [
+                            -79.941896,
+                            -2.078062
+                        ],
+                        [
+                            -79.941725,
+                            -2.078008
+                        ],
+                        [
+                            -79.942362,
+                            -2.077456
+                        ],
+                        [
+                            -79.942594,
+                            -2.077608
+                        ],
+                        [
+                            -79.942816,
+                            -2.077218
+                        ],
+                        [
+                            -79.943568,
+                            -2.077637
+                        ],
+                        [
+                            -79.942482,
+                            -2.079452
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEDSAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyedsaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.942454,
+                    -2.078276
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEDSAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyedsaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

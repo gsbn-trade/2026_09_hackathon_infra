@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.842237,
+                            -33.038125
+                        ],
+                        [
+                            27.840456,
+                            -33.038844
+                        ],
+                        [
+                            27.841239,
+                            -33.040166
+                        ],
+                        [
+                            27.842998,
+                            -33.039357
+                        ],
+                        [
+                            27.842237,
+                            -33.038125
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSBNOU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-17",
+                "url": "https://www.bic-code.org/facility-codes/zaelsbnou/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.841833,
+                    -33.038923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSBNOU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-17",
+                "url": "https://www.bic-code.org/facility-codes/zaelsbnou/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

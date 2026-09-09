@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            16.811154,
+                            41.127058
+                        ],
+                        [
+                            16.81261,
+                            41.127077
+                        ],
+                        [
+                            16.814136,
+                            41.127137
+                        ],
+                        [
+                            16.813765,
+                            41.131949
+                        ],
+                        [
+                            16.812983,
+                            41.132869
+                        ],
+                        [
+                            16.812581,
+                            41.133214
+                        ],
+                        [
+                            16.811947,
+                            41.133519
+                        ],
+                        [
+                            16.811219,
+                            41.133729
+                        ],
+                        [
+                            16.810738,
+                            41.133825
+                        ],
+                        [
+                            16.810312,
+                            41.133529
+                        ],
+                        [
+                            16.810632,
+                            41.13308
+                        ],
+                        [
+                            16.810793,
+                            41.132516
+                        ],
+                        [
+                            16.811154,
+                            41.127058
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITBRITMIA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/itbritmia/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.811848,
+                    41.131274
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITBRITMIA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/itbritmia/"
+            }
+        }
+    ]
+}

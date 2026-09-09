@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.600787,
+                            35.64122
+                        ],
+                        [
+                            -0.600206,
+                            35.640379
+                        ],
+                        [
+                            -0.597789,
+                            35.641551
+                        ],
+                        [
+                            -0.599073,
+                            35.64338
+                        ],
+                        [
+                            -0.599896,
+                            35.642975
+                        ],
+                        [
+                            -0.599194,
+                            35.641957
+                        ],
+                        [
+                            -0.600787,
+                            35.64122
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNDSAT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzorndsat/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.600754,
+                            35.641165
+                        ],
+                        [
+                            -0.600406,
+                            35.641314
+                        ],
+                        [
+                            -0.600344,
+                            35.641228
+                        ],
+                        [
+                            -0.600697,
+                            35.641088
+                        ],
+                        [
+                            -0.600754,
+                            35.641165
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNDSAT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzorndsat/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.599676,
+                    35.641812
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNDSAT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzorndsat/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.600591,
+                    35.641192
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZORNDSAT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzorndsat/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

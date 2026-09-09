@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.253927,
+                            51.353419
+                        ],
+                        [
+                            4.263969,
+                            51.350887
+                        ],
+                        [
+                            4.279183,
+                            51.347349
+                        ],
+                        [
+                            4.279348,
+                            51.347614
+                        ],
+                        [
+                            4.278569,
+                            51.347825
+                        ],
+                        [
+                            4.278342,
+                            51.348087
+                        ],
+                        [
+                            4.278617,
+                            51.348745
+                        ],
+                        [
+                            4.281512,
+                            51.348191
+                        ],
+                        [
+                            4.281739,
+                            51.350022
+                        ],
+                        [
+                            4.282193,
+                            51.350121
+                        ],
+                        [
+                            4.281953,
+                            51.351181
+                        ],
+                        [
+                            4.280919,
+                            51.35198
+                        ],
+                        [
+                            4.279541,
+                            51.352371
+                        ],
+                        [
+                            4.277563,
+                            51.352612
+                        ],
+                        [
+                            4.275599,
+                            51.352729
+                        ],
+                        [
+                            4.268883,
+                            51.353125
+                        ],
+                        [
+                            4.269248,
+                            51.353728
+                        ],
+                        [
+                            4.268733,
+                            51.353795
+                        ],
+                        [
+                            4.268089,
+                            51.353955
+                        ],
+                        [
+                            4.267402,
+                            51.354022
+                        ],
+                        [
+                            4.266737,
+                            51.354304
+                        ],
+                        [
+                            4.265943,
+                            51.354532
+                        ],
+                        [
+                            4.265235,
+                            51.354826
+                        ],
+                        [
+                            4.263476,
+                            51.355979
+                        ],
+                        [
+                            4.263218,
+                            51.355858
+                        ],
+                        [
+                            4.263089,
+                            51.356019
+                        ],
+                        [
+                            4.263282,
+                            51.356113
+                        ],
+                        [
+                            4.259055,
+                            51.359275
+                        ],
+                        [
+                            4.25809,
+                            51.359088
+                        ],
+                        [
+                            4.254034,
+                            51.356059
+                        ],
+                        [
+                            4.254957,
+                            51.35484
+                        ],
+                        [
+                            4.253927,
+                            51.353419
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.253878,
+                            51.353409
+                        ],
+                        [
+                            4.252805,
+                            51.353704
+                        ],
+                        [
+                            4.252397,
+                            51.353074
+                        ],
+                        [
+                            4.271688,
+                            51.34841
+                        ],
+                        [
+                            4.272053,
+                            51.348973
+                        ],
+                        [
+                            4.253878,
+                            51.353409
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.291402,
+                            51.350766
+                        ],
+                        [
+                            4.290942,
+                            51.347807
+                        ],
+                        [
+                            4.291793,
+                            51.347764
+                        ],
+                        [
+                            4.29223,
+                            51.35068
+                        ],
+                        [
+                            4.291402,
+                            51.350766
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.292253,
+                            51.35068
+                        ],
+                        [
+                            4.291747,
+                            51.347621
+                        ],
+                        [
+                            4.292253,
+                            51.347592
+                        ],
+                        [
+                            4.292735,
+                            51.350622
+                        ],
+                        [
+                            4.292253,
+                            51.35068
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.269574,
+                    51.352877
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25945,
+                    51.35183
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.291554,
+                    51.349557
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.292248,
+                    51.349439
+                ]
+            },
+            "properties": {
+                "code": "BEANRK913",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

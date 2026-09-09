@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.396571,
+                            51.876663
+                        ],
+                        [
+                            4.396523,
+                            51.876678
+                        ],
+                        [
+                            4.396269,
+                            51.876174
+                        ],
+                        [
+                            4.396794,
+                            51.876044
+                        ],
+                        [
+                            4.396751,
+                            51.875985
+                        ],
+                        [
+                            4.397722,
+                            51.875785
+                        ],
+                        [
+                            4.397758,
+                            51.875839
+                        ],
+                        [
+                            4.399302,
+                            51.875524
+                        ],
+                        [
+                            4.399423,
+                            51.876268
+                        ],
+                        [
+                            4.397186,
+                            51.876633
+                        ],
+                        [
+                            4.397172,
+                            51.876577
+                        ],
+                        [
+                            4.396571,
+                            51.876663
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECARL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecarl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.397337,
+                    51.876236
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECARL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecarl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

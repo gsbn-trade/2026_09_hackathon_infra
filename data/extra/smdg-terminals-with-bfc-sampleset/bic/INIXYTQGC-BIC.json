@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            70.149658,
+                            23.030708
+                        ],
+                        [
+                            70.150033,
+                            23.031498
+                        ],
+                        [
+                            70.150827,
+                            23.03441
+                        ],
+                        [
+                            70.148574,
+                            23.034914
+                        ],
+                        [
+                            70.148392,
+                            23.034183
+                        ],
+                        [
+                            70.148896,
+                            23.034016
+                        ],
+                        [
+                            70.148156,
+                            23.033038
+                        ],
+                        [
+                            70.149003,
+                            23.031152
+                        ],
+                        [
+                            70.149658,
+                            23.030708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYTQGC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inixytqgc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.149244,
+                    23.032736
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYTQGC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inixytqgc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.992664,
+                            58.142894
+                        ],
+                        [
+                            7.992508,
+                            58.142805
+                        ],
+                        [
+                            7.992603,
+                            58.142609
+                        ],
+                        [
+                            7.992542,
+                            58.142412
+                        ],
+                        [
+                            7.992317,
+                            58.142222
+                        ],
+                        [
+                            7.991881,
+                            58.142343
+                        ],
+                        [
+                            7.99119,
+                            58.141526
+                        ],
+                        [
+                            7.994016,
+                            58.14045
+                        ],
+                        [
+                            7.994493,
+                            58.140473
+                        ],
+                        [
+                            7.994377,
+                            58.140833
+                        ],
+                        [
+                            7.994497,
+                            58.141182
+                        ],
+                        [
+                            7.994977,
+                            58.141914
+                        ],
+                        [
+                            7.992664,
+                            58.142894
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOKRSLPXW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nokrslpxw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.993133,
+                    58.141889
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOKRSLPXW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nokrslpxw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

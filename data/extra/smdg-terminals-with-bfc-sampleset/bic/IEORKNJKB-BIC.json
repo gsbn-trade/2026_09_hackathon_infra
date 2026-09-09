@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.400186,
+                            51.904266
+                        ],
+                        [
+                            -8.401719,
+                            51.904081
+                        ],
+                        [
+                            -8.401502,
+                            51.903036
+                        ],
+                        [
+                            -8.399792,
+                            51.903204
+                        ],
+                        [
+                            -8.400186,
+                            51.904266
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKNJKB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorknjkb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.400677,
+                    51.903771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKNJKB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorknjkb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

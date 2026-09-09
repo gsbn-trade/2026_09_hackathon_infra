@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.033116,
+                            62.374532
+                        ],
+                        [
+                            6.032749,
+                            62.374025
+                        ],
+                        [
+                            6.03274,
+                            62.374025
+                        ],
+                        [
+                            6.033919,
+                            62.373697
+                        ],
+                        [
+                            6.034066,
+                            62.373815
+                        ],
+                        [
+                            6.034731,
+                            62.374666
+                        ],
+                        [
+                            6.034368,
+                            62.374728
+                        ],
+                        [
+                            6.034182,
+                            62.37476
+                        ],
+                        [
+                            6.034096,
+                            62.374648
+                        ],
+                        [
+                            6.033517,
+                            62.374738
+                        ],
+                        [
+                            6.033383,
+                            62.374572
+                        ],
+                        [
+                            6.033116,
+                            62.374532
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESXRFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-15",
+                "url": "https://www.bic-code.org/facility-codes/noaesxrfz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.033665,
+                    62.374395
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESXRFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-15",
+                "url": "https://www.bic-code.org/facility-codes/noaesxrfz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,241 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.434419,
+                            27.905336
+                        ],
+                        [
+                            -82.434341,
+                            27.905389
+                        ],
+                        [
+                            -82.433468,
+                            27.906456
+                        ],
+                        [
+                            -82.433014,
+                            27.907056
+                        ],
+                        [
+                            -82.432419,
+                            27.907795
+                        ],
+                        [
+                            -82.432067,
+                            27.908254
+                        ],
+                        [
+                            -82.431823,
+                            27.908586
+                        ],
+                        [
+                            -82.431467,
+                            27.909038
+                        ],
+                        [
+                            -82.43136,
+                            27.909144
+                        ],
+                        [
+                            -82.431066,
+                            27.908958
+                        ],
+                        [
+                            -82.429986,
+                            27.910339
+                        ],
+                        [
+                            -82.42948,
+                            27.910983
+                        ],
+                        [
+                            -82.428793,
+                            27.911878
+                        ],
+                        [
+                            -82.428787,
+                            27.917323
+                        ],
+                        [
+                            -82.43136,
+                            27.917318
+                        ],
+                        [
+                            -82.431355,
+                            27.916608
+                        ],
+                        [
+                            -82.431864,
+                            27.91662
+                        ],
+                        [
+                            -82.431867,
+                            27.916112
+                        ],
+                        [
+                            -82.431813,
+                            27.916033
+                        ],
+                        [
+                            -82.431824,
+                            27.915646
+                        ],
+                        [
+                            -82.43181,
+                            27.914671
+                        ],
+                        [
+                            -82.43192,
+                            27.914674
+                        ],
+                        [
+                            -82.431912,
+                            27.913922
+                        ],
+                        [
+                            -82.431899,
+                            27.91256
+                        ],
+                        [
+                            -82.433726,
+                            27.910239
+                        ],
+                        [
+                            -82.433774,
+                            27.910179
+                        ],
+                        [
+                            -82.433903,
+                            27.910117
+                        ],
+                        [
+                            -82.434018,
+                            27.910086
+                        ],
+                        [
+                            -82.434158,
+                            27.910063
+                        ],
+                        [
+                            -82.434937,
+                            27.910077
+                        ],
+                        [
+                            -82.435258,
+                            27.909923
+                        ],
+                        [
+                            -82.434855,
+                            27.908068
+                        ],
+                        [
+                            -82.434419,
+                            27.905336
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTPAPTCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.42877,
+                            27.917319
+                        ],
+                        [
+                            -82.428767,
+                            27.911869
+                        ],
+                        [
+                            -82.431048,
+                            27.908938
+                        ],
+                        [
+                            -82.430434,
+                            27.908582
+                        ],
+                        [
+                            -82.428077,
+                            27.911718
+                        ],
+                        [
+                            -82.427959,
+                            27.917321
+                        ],
+                        [
+                            -82.42877,
+                            27.917319
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTPAPTCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-07-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.432399,
+                    27.911054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTPAPTCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.429118,
+                    27.913295
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USTPAPTCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

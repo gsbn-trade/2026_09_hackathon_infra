@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.025374,
+                            33.318901
+                        ],
+                        [
+                            44.023904,
+                            33.316487
+                        ],
+                        [
+                            44.027917,
+                            33.314755
+                        ],
+                        [
+                            44.028016,
+                            33.314925
+                        ],
+                        [
+                            44.028653,
+                            33.314652
+                        ],
+                        [
+                            44.028551,
+                            33.314486
+                        ],
+                        [
+                            44.028898,
+                            33.314339
+                        ],
+                        [
+                            44.030375,
+                            33.316738
+                        ],
+                        [
+                            44.025374,
+                            33.318901
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRDBGT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iquqrdbgt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.024291,
+                            33.316643
+                        ],
+                        [
+                            44.024506,
+                            33.316539
+                        ],
+                        [
+                            44.024355,
+                            33.316291
+                        ],
+                        [
+                            44.024127,
+                            33.316391
+                        ],
+                        [
+                            44.024291,
+                            33.316643
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRDBGT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iquqrdbgt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.027451,
+                    33.31602
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRDBGT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iquqrdbgt/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.024314,
+                    33.316501
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IQUQRDBGT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iquqrdbgt/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

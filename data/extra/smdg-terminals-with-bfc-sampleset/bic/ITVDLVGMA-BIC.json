@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.430497,
+                            44.273457
+                        ],
+                        [
+                            8.43045,
+                            44.2735
+                        ],
+                        [
+                            8.429648,
+                            44.2729
+                        ],
+                        [
+                            8.429964,
+                            44.272663
+                        ],
+                        [
+                            8.430347,
+                            44.272401
+                        ],
+                        [
+                            8.430448,
+                            44.27233
+                        ],
+                        [
+                            8.430564,
+                            44.272315
+                        ],
+                        [
+                            8.430706,
+                            44.272408
+                        ],
+                        [
+                            8.43103,
+                            44.272598
+                        ],
+                        [
+                            8.431338,
+                            44.272827
+                        ],
+                        [
+                            8.430963,
+                            44.273104
+                        ],
+                        [
+                            8.43054,
+                            44.273421
+                        ],
+                        [
+                            8.430497,
+                            44.273457
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-28",
+                "url": "https://www.bic-code.org/facility-codes/itvdlvgma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.430538,
+                    44.272875
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVGMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-28",
+                "url": "https://www.bic-code.org/facility-codes/itvdlvgma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

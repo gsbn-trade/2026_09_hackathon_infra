@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.81431,
+                            38.496684
+                        ],
+                        [
+                            -8.812751,
+                            38.496935
+                        ],
+                        [
+                            -8.812331,
+                            38.495615
+                        ],
+                        [
+                            -8.813833,
+                            38.495347
+                        ],
+                        [
+                            -8.81431,
+                            38.496684
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETCPSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptsetcpsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.813507,
+                    38.496253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSETCPSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptsetcpsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

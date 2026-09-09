@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.696914,
+                            56.032658
+                        ],
+                        [
+                            12.697849,
+                            56.031362
+                        ],
+                        [
+                            12.698577,
+                            56.031453
+                        ],
+                        [
+                            12.698721,
+                            56.031453
+                        ],
+                        [
+                            12.699085,
+                            56.031574
+                        ],
+                        [
+                            12.699584,
+                            56.031914
+                        ],
+                        [
+                            12.699627,
+                            56.032002
+                        ],
+                        [
+                            12.699618,
+                            56.032066
+                        ],
+                        [
+                            12.699445,
+                            56.032206
+                        ],
+                        [
+                            12.698232,
+                            56.032948
+                        ],
+                        [
+                            12.698007,
+                            56.03302
+                        ],
+                        [
+                            12.697786,
+                            56.033036
+                        ],
+                        [
+                            12.696789,
+                            56.032817
+                        ],
+                        [
+                            12.696914,
+                            56.032658
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELCPOU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/sehelcpou/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.698368,
+                    56.032226
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELCPOU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/sehelcpou/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

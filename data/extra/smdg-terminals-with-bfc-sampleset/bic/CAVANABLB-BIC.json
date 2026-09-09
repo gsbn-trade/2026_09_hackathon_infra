@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.973761,
+                            49.150935
+                        ],
+                        [
+                            -122.973745,
+                            49.151798
+                        ],
+                        [
+                            -122.973737,
+                            49.15428
+                        ],
+                        [
+                            -122.975047,
+                            49.1542
+                        ],
+                        [
+                            -122.975,
+                            49.1536
+                        ],
+                        [
+                            -122.975,
+                            49.1525
+                        ],
+                        [
+                            -122.975,
+                            49.1505
+                        ],
+                        [
+                            -122.974,
+                            49.1507
+                        ],
+                        [
+                            -122.973826,
+                            49.150695
+                        ],
+                        [
+                            -122.973761,
+                            49.150935
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANABLB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanablb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.974288,
+                    49.152014
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANABLB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/cavanablb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

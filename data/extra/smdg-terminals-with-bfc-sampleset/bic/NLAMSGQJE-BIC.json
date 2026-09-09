@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.82325,
+                            52.3982
+                        ],
+                        [
+                            4.82323,
+                            52.3964
+                        ],
+                        [
+                            4.82418,
+                            52.3964
+                        ],
+                        [
+                            4.82421,
+                            52.3961
+                        ],
+                        [
+                            4.82625,
+                            52.3961
+                        ],
+                        [
+                            4.82629,
+                            52.3959
+                        ],
+                        [
+                            4.829031,
+                            52.395857
+                        ],
+                        [
+                            4.829075,
+                            52.395629
+                        ],
+                        [
+                            4.830679,
+                            52.395628
+                        ],
+                        [
+                            4.830651,
+                            52.395868
+                        ],
+                        [
+                            4.83343,
+                            52.395898
+                        ],
+                        [
+                            4.83331,
+                            52.3983
+                        ],
+                        [
+                            4.8315,
+                            52.3982
+                        ],
+                        [
+                            4.83143,
+                            52.3984
+                        ],
+                        [
+                            4.83098,
+                            52.3984
+                        ],
+                        [
+                            4.83072,
+                            52.3982
+                        ],
+                        [
+                            4.82325,
+                            52.3982
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSGQJE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-29",
+                "url": "https://www.bic-code.org/facility-codes/nlamsgqje/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.828322,
+                    52.396922
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSGQJE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-29",
+                "url": "https://www.bic-code.org/facility-codes/nlamsgqje/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

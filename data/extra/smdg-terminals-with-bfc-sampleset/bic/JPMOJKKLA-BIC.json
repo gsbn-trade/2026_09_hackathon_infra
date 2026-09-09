@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.996243,
+                            33.964158
+                        ],
+                        [
+                            130.99693,
+                            33.963539
+                        ],
+                        [
+                            130.99749,
+                            33.964009
+                        ],
+                        [
+                            130.997537,
+                            33.964087
+                        ],
+                        [
+                            130.996949,
+                            33.964618
+                        ],
+                        [
+                            130.996821,
+                            33.964594
+                        ],
+                        [
+                            130.996243,
+                            33.964158
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJKKLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "This is a container depot.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojkkla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.996888,
+                    33.964166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJKKLA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "This is a container depot.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojkkla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.190447,
+                            17.993843
+                        ],
+                        [
+                            -102.191841,
+                            17.992067
+                        ],
+                        [
+                            -102.190785,
+                            17.991455
+                        ],
+                        [
+                            -102.190012,
+                            17.991368
+                        ],
+                        [
+                            -102.189375,
+                            17.991023
+                        ],
+                        [
+                            -102.186713,
+                            17.989087
+                        ],
+                        [
+                            -102.185164,
+                            17.986891
+                        ],
+                        [
+                            -102.184975,
+                            17.98682
+                        ],
+                        [
+                            -102.184508,
+                            17.988069
+                        ],
+                        [
+                            -102.190447,
+                            17.993843
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCVASA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/mxlzcvasa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.188427,
+                    17.990447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXLZCVASA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/mxlzcvasa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

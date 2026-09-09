@@ -1,0 +1,321 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.587431,
+                            31.371703
+                        ],
+                        [
+                            121.587818,
+                            31.372253
+                        ],
+                        [
+                            121.596014,
+                            31.36813
+                        ],
+                        [
+                            121.595542,
+                            31.367416
+                        ],
+                        [
+                            121.587431,
+                            31.371703
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.585876,
+                            31.369904
+                        ],
+                        [
+                            121.58446,
+                            31.368145
+                        ],
+                        [
+                            121.583065,
+                            31.366441
+                        ],
+                        [
+                            121.582872,
+                            31.366166
+                        ],
+                        [
+                            121.582807,
+                            31.365727
+                        ],
+                        [
+                            121.584202,
+                            31.361824
+                        ],
+                        [
+                            121.586112,
+                            31.357078
+                        ],
+                        [
+                            121.587035,
+                            31.357042
+                        ],
+                        [
+                            121.587357,
+                            31.357005
+                        ],
+                        [
+                            121.58766,
+                            31.357247
+                        ],
+                        [
+                            121.593665,
+                            31.364139
+                        ],
+                        [
+                            121.593953,
+                            31.364464
+                        ],
+                        [
+                            121.593633,
+                            31.364764
+                        ],
+                        [
+                            121.593257,
+                            31.365107
+                        ],
+                        [
+                            121.592876,
+                            31.36546
+                        ],
+                        [
+                            121.592506,
+                            31.365776
+                        ],
+                        [
+                            121.593976,
+                            31.367718
+                        ],
+                        [
+                            121.595306,
+                            31.367049
+                        ],
+                        [
+                            121.59551,
+                            31.367379
+                        ],
+                        [
+                            121.587378,
+                            31.371685
+                        ],
+                        [
+                            121.587152,
+                            31.371263
+                        ],
+                        [
+                            121.588891,
+                            31.370402
+                        ],
+                        [
+                            121.587925,
+                            31.369156
+                        ],
+                        [
+                            121.586713,
+                            31.369959
+                        ],
+                        [
+                            121.586262,
+                            31.37027
+                        ],
+                        [
+                            121.585876,
+                            31.369904
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.584272,
+                            31.365858
+                        ],
+                        [
+                            121.58461,
+                            31.365657
+                        ],
+                        [
+                            121.58403,
+                            31.364869
+                        ],
+                        [
+                            121.58365,
+                            31.365089
+                        ],
+                        [
+                            121.584272,
+                            31.365858
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.593193,
+                            31.364347
+                        ],
+                        [
+                            121.593075,
+                            31.364177
+                        ],
+                        [
+                            121.593488,
+                            31.363994
+                        ],
+                        [
+                            121.593579,
+                            31.364113
+                        ],
+                        [
+                            121.593193,
+                            31.364347
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "GATE",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.590847,
+                    31.370241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.588705,
+                    31.365811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.584167,
+                    31.365466
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.593306,
+                    31.364196
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CNSGHSPICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-08-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

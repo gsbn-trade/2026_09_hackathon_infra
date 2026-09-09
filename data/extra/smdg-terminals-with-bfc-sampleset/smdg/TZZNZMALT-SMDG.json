@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.193798,
+                            -6.156887
+                        ],
+                        [
+                            39.193999,
+                            -6.156762
+                        ],
+                        [
+                            39.193481,
+                            -6.155874
+                        ],
+                        [
+                            39.193122,
+                            -6.155508
+                        ],
+                        [
+                            39.1932,
+                            -6.154551
+                        ],
+                        [
+                            39.192127,
+                            -6.154474
+                        ],
+                        [
+                            39.191961,
+                            -6.156676
+                        ],
+                        [
+                            39.192181,
+                            -6.157058
+                        ],
+                        [
+                            39.192049,
+                            -6.157836
+                        ],
+                        [
+                            39.192143,
+                            -6.157852
+                        ],
+                        [
+                            39.192441,
+                            -6.157871
+                        ],
+                        [
+                            39.193798,
+                            -6.156887
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZZNZMALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.193202,
+                            -6.154544
+                        ],
+                        [
+                            39.193227,
+                            -6.154333
+                        ],
+                        [
+                            39.191741,
+                            -6.154298
+                        ],
+                        [
+                            39.191671,
+                            -6.156714
+                        ],
+                        [
+                            39.191966,
+                            -6.156706
+                        ],
+                        [
+                            39.192129,
+                            -6.154477
+                        ],
+                        [
+                            39.193202,
+                            -6.154544
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZZNZMALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.192858,
+                    -6.15652
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZZNZMALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.192448,
+                    -6.155088
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TZZNZMALT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

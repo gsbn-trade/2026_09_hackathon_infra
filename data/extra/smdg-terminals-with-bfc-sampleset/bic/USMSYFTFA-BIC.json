@@ -1,0 +1,221 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.981271,
+                            29.938413
+                        ],
+                        [
+                            -89.981273,
+                            29.938327
+                        ],
+                        [
+                            -89.980027,
+                            29.937797
+                        ],
+                        [
+                            -89.97927,
+                            29.93747
+                        ],
+                        [
+                            -89.9791,
+                            29.937788
+                        ],
+                        [
+                            -89.978738,
+                            29.938423
+                        ],
+                        [
+                            -89.978075,
+                            29.939653
+                        ],
+                        [
+                            -89.977776,
+                            29.940224
+                        ],
+                        [
+                            -89.977653,
+                            29.940405
+                        ],
+                        [
+                            -89.97763,
+                            29.940473
+                        ],
+                        [
+                            -89.977634,
+                            29.940583
+                        ],
+                        [
+                            -89.977671,
+                            29.940659
+                        ],
+                        [
+                            -89.977714,
+                            29.940707
+                        ],
+                        [
+                            -89.980096,
+                            29.941712
+                        ],
+                        [
+                            -89.980727,
+                            29.940502
+                        ],
+                        [
+                            -89.981102,
+                            29.939836
+                        ],
+                        [
+                            -89.981528,
+                            29.939038
+                        ],
+                        [
+                            -89.981513,
+                            29.938964
+                        ],
+                        [
+                            -89.981479,
+                            29.938902
+                        ],
+                        [
+                            -89.981436,
+                            29.938844
+                        ],
+                        [
+                            -89.981361,
+                            29.938789
+                        ],
+                        [
+                            -89.981397,
+                            29.93871
+                        ],
+                        [
+                            -89.981168,
+                            29.938611
+                        ],
+                        [
+                            -89.981271,
+                            29.938413
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYFTFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyftfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.981476,
+                            29.938513
+                        ],
+                        [
+                            -89.981377,
+                            29.938698
+                        ],
+                        [
+                            -89.981396,
+                            29.938708
+                        ],
+                        [
+                            -89.981364,
+                            29.938786
+                        ],
+                        [
+                            -89.981434,
+                            29.938829
+                        ],
+                        [
+                            -89.981482,
+                            29.938888
+                        ],
+                        [
+                            -89.981523,
+                            29.938963
+                        ],
+                        [
+                            -89.98153,
+                            29.939033
+                        ],
+                        [
+                            -89.981728,
+                            29.938856
+                        ],
+                        [
+                            -89.981764,
+                            29.938716
+                        ],
+                        [
+                            -89.981476,
+                            29.938513
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYFTFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "TRUCK_QUEUE",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyftfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.979871,
+                    29.939302
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYFTFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyftfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.981505,
+                    29.938773
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYFTFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyftfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

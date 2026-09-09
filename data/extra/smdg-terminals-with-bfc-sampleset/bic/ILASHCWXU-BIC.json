@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.679424,
+                            31.83502
+                        ],
+                        [
+                            34.679313,
+                            31.837893
+                        ],
+                        [
+                            34.679681,
+                            31.83822
+                        ],
+                        [
+                            34.679347,
+                            31.838635
+                        ],
+                        [
+                            34.671305,
+                            31.8325
+                        ],
+                        [
+                            34.671613,
+                            31.83221
+                        ],
+                        [
+                            34.673504,
+                            31.833562
+                        ],
+                        [
+                            34.675164,
+                            31.833533
+                        ],
+                        [
+                            34.675189,
+                            31.83463
+                        ],
+                        [
+                            34.679416,
+                            31.834615
+                        ],
+                        [
+                            34.679424,
+                            31.83502
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHCWXU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ilashcwxu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.676671,
+                    31.835076
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHCWXU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ilashcwxu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

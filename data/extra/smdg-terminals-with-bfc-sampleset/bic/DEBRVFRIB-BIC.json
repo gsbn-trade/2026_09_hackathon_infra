@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.56696,
+                            53.5931
+                        ],
+                        [
+                            8.567373,
+                            53.594065
+                        ],
+                        [
+                            8.567441,
+                            53.594476
+                        ],
+                        [
+                            8.56754,
+                            53.5953
+                        ],
+                        [
+                            8.56735,
+                            53.5954
+                        ],
+                        [
+                            8.566033,
+                            53.595744
+                        ],
+                        [
+                            8.564395,
+                            53.596029
+                        ],
+                        [
+                            8.562573,
+                            53.596151
+                        ],
+                        [
+                            8.561624,
+                            53.596144
+                        ],
+                        [
+                            8.561282,
+                            53.59603
+                        ],
+                        [
+                            8.56084,
+                            53.5941
+                        ],
+                        [
+                            8.56696,
+                            53.5931
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DEBRVFRIB",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-27",
+                "url": "https://www.bic-code.org/facility-codes/debrvfrib/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.565031,
+                    53.59497
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DEBRVFRIB",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-27",
+                "url": "https://www.bic-code.org/facility-codes/debrvfrib/"
+            }
+        }
+    ]
+}

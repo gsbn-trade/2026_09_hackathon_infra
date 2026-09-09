@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.310636,
+                            53.415022
+                        ],
+                        [
+                            -6.310658,
+                            53.414346
+                        ],
+                        [
+                            -6.310922,
+                            53.414199
+                        ],
+                        [
+                            -6.310909,
+                            53.413989
+                        ],
+                        [
+                            -6.308464,
+                            53.413398
+                        ],
+                        [
+                            -6.308025,
+                            53.413228
+                        ],
+                        [
+                            -6.307551,
+                            53.413218
+                        ],
+                        [
+                            -6.307228,
+                            53.413187
+                        ],
+                        [
+                            -6.307033,
+                            53.414322
+                        ],
+                        [
+                            -6.307155,
+                            53.414958
+                        ],
+                        [
+                            -6.310636,
+                            53.415022
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iedubdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.310648,
+                            53.414716
+                        ],
+                        [
+                            -6.310089,
+                            53.41471
+                        ],
+                        [
+                            -6.310092,
+                            53.414596
+                        ],
+                        [
+                            -6.310651,
+                            53.414603
+                        ],
+                        [
+                            -6.310648,
+                            53.414716
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iedubdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.30902,
+                    53.414081
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iedubdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.310426,
+                    53.414668
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/iedubdcci/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

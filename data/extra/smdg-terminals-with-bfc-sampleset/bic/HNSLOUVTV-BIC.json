@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.452916,
+                            13.44766
+                        ],
+                        [
+                            -87.453276,
+                            13.447628
+                        ],
+                        [
+                            -87.45314,
+                            13.446837
+                        ],
+                        [
+                            -87.452087,
+                            13.447081
+                        ],
+                        [
+                            -87.451443,
+                            13.447352
+                        ],
+                        [
+                            -87.450919,
+                            13.447697
+                        ],
+                        [
+                            -87.450352,
+                            13.448095
+                        ],
+                        [
+                            -87.450679,
+                            13.448721
+                        ],
+                        [
+                            -87.451721,
+                            13.448721
+                        ],
+                        [
+                            -87.452965,
+                            13.448816
+                        ],
+                        [
+                            -87.452916,
+                            13.44766
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOUVTV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/hnslouvtv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.452038,
+                    13.447843
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOUVTV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/hnslouvtv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.976449,
+                            30.013031
+                        ],
+                        [
+                            -89.973562,
+                            30.013282
+                        ],
+                        [
+                            -89.973795,
+                            30.015744
+                        ],
+                        [
+                            -89.9767,
+                            30.0151
+                        ],
+                        [
+                            -89.976449,
+                            30.013031
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYAXMD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyaxmd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.975391,
+                    30.014038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYAXMD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyaxmd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

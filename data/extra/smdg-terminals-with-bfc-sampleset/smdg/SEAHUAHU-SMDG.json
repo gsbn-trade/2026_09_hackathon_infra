@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.313479,
+                            55.928829
+                        ],
+                        [
+                            14.312889,
+                            55.92855
+                        ],
+                        [
+                            14.314438,
+                            55.928598
+                        ],
+                        [
+                            14.314345,
+                            55.929014
+                        ],
+                        [
+                            14.319239,
+                            55.930047
+                        ],
+                        [
+                            14.319138,
+                            55.930923
+                        ],
+                        [
+                            14.319812,
+                            55.931079
+                        ],
+                        [
+                            14.321817,
+                            55.931439
+                        ],
+                        [
+                            14.323343,
+                            55.931435
+                        ],
+                        [
+                            14.323459,
+                            55.930329
+                        ],
+                        [
+                            14.323916,
+                            55.930346
+                        ],
+                        [
+                            14.324133,
+                            55.929136
+                        ],
+                        [
+                            14.323645,
+                            55.929093
+                        ],
+                        [
+                            14.323854,
+                            55.92793
+                        ],
+                        [
+                            14.327337,
+                            55.928137
+                        ],
+                        [
+                            14.327266,
+                            55.928427
+                        ],
+                        [
+                            14.325824,
+                            55.928376
+                        ],
+                        [
+                            14.325813,
+                            55.929062
+                        ],
+                        [
+                            14.325201,
+                            55.929075
+                        ],
+                        [
+                            14.324628,
+                            55.931674
+                        ],
+                        [
+                            14.32126,
+                            55.931535
+                        ],
+                        [
+                            14.318906,
+                            55.930961
+                        ],
+                        [
+                            14.318968,
+                            55.930198
+                        ],
+                        [
+                            14.313479,
+                            55.928829
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEAHUAHU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.322355,
+                            55.927853
+                        ],
+                        [
+                            14.32237,
+                            55.927671
+                        ],
+                        [
+                            14.327418,
+                            55.927867
+                        ],
+                        [
+                            14.327323,
+                            55.928121
+                        ],
+                        [
+                            14.322355,
+                            55.927853
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEAHUAHU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.321091,
+                    55.929709
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEAHUAHU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.324364,
+                    55.927873
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEAHUAHU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

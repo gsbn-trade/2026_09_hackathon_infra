@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.198901,
+                            36.609806
+                        ],
+                        [
+                            36.198937,
+                            36.609726
+                        ],
+                        [
+                            36.199063,
+                            36.609777
+                        ],
+                        [
+                            36.19903,
+                            36.60985
+                        ],
+                        [
+                            36.198901,
+                            36.609806
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/triskdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.201024,
+                            36.611368
+                        ],
+                        [
+                            36.201197,
+                            36.611363
+                        ],
+                        [
+                            36.20115,
+                            36.611243
+                        ],
+                        [
+                            36.201012,
+                            36.611251
+                        ],
+                        [
+                            36.201024,
+                            36.611368
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/triskdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.198966,
+                    36.609793
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/triskdcis/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.201081,
+                    36.611319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKDCIS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/triskdcis/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

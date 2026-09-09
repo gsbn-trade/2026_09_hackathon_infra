@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.000048,
+                            59.464298
+                        ],
+                        [
+                            24.997435,
+                            59.464624
+                        ],
+                        [
+                            24.996492,
+                            59.462488
+                        ],
+                        [
+                            24.996318,
+                            59.462218
+                        ],
+                        [
+                            24.998901,
+                            59.46191
+                        ],
+                        [
+                            24.999506,
+                            59.463084
+                        ],
+                        [
+                            25.000048,
+                            59.464298
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGINTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-22",
+                "url": "https://www.bic-code.org/facility-codes/eemuginta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.998393,
+                    59.463274
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGINTA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-22",
+                "url": "https://www.bic-code.org/facility-codes/eemuginta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.376276,
+                            3.032263
+                        ],
+                        [
+                            101.375348,
+                            3.032939
+                        ],
+                        [
+                            101.374,
+                            3.031071
+                        ],
+                        [
+                            101.374926,
+                            3.030381
+                        ],
+                        [
+                            101.376276,
+                            3.032263
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGAVMI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgavmi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.375912,
+                            3.031751
+                        ],
+                        [
+                            101.375758,
+                            3.031866
+                        ],
+                        [
+                            101.375818,
+                            3.031949
+                        ],
+                        [
+                            101.375972,
+                            3.031836
+                        ],
+                        [
+                            101.375912,
+                            3.031751
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGAVMI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgavmi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.375365,
+                    3.031783
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGAVMI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgavmi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.375874,
+                    3.031831
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGAVMI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgavmi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

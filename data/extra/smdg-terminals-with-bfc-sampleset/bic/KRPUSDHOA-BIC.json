@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.798546,
+                            35.089358
+                        ],
+                        [
+                            128.798336,
+                            35.089214
+                        ],
+                        [
+                            128.798272,
+                            35.089035
+                        ],
+                        [
+                            128.798176,
+                            35.088704
+                        ],
+                        [
+                            128.798308,
+                            35.088487
+                        ],
+                        [
+                            128.797661,
+                            35.086451
+                        ],
+                        [
+                            128.797793,
+                            35.086309
+                        ],
+                        [
+                            128.798156,
+                            35.08626
+                        ],
+                        [
+                            128.798613,
+                            35.086174
+                        ],
+                        [
+                            128.799028,
+                            35.086139
+                        ],
+                        [
+                            128.799222,
+                            35.086284
+                        ],
+                        [
+                            128.800513,
+                            35.086248
+                        ],
+                        [
+                            128.800537,
+                            35.089605
+                        ],
+                        [
+                            128.798979,
+                            35.089612
+                        ],
+                        [
+                            128.798546,
+                            35.089358
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSDHOA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krpusdhoa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.798712,
+                    35.087816
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRPUSDHOA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krpusdhoa/"
+            }
+        }
+    ]
+}

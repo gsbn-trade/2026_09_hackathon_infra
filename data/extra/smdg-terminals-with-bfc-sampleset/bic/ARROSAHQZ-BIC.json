@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -60.672523,
+                            -33.009729
+                        ],
+                        [
+                            -60.672466,
+                            -33.010058
+                        ],
+                        [
+                            -60.669578,
+                            -33.011557
+                        ],
+                        [
+                            -60.669784,
+                            -33.009634
+                        ],
+                        [
+                            -60.670892,
+                            -33.009701
+                        ],
+                        [
+                            -60.672523,
+                            -33.009729
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSAHQZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrosahqz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.671294,
+                    -33.010068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARROSAHQZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arrosahqz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.681568,
+                            -14.607729
+                        ],
+                        [
+                            40.684325,
+                            -14.607989
+                        ],
+                        [
+                            40.68513,
+                            -14.608913
+                        ],
+                        [
+                            40.685548,
+                            -14.60964
+                        ],
+                        [
+                            40.68161,
+                            -14.609702
+                        ],
+                        [
+                            40.681568,
+                            -14.607729
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCBMXY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmncbmxy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.683292,
+                    -14.608617
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCBMXY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmncbmxy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.607537,
+                            -25.559516
+                        ],
+                        [
+                            -48.606946,
+                            -25.559365
+                        ],
+                        [
+                            -48.607781,
+                            -25.555538
+                        ],
+                        [
+                            -48.608405,
+                            -25.55565
+                        ],
+                        [
+                            -48.609098,
+                            -25.556553
+                        ],
+                        [
+                            -48.608665,
+                            -25.557882
+                        ],
+                        [
+                            -48.607914,
+                            -25.557711
+                        ],
+                        [
+                            -48.607537,
+                            -25.559516
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGGOZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/brpnggoza/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.607985,
+                    -25.557716
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGGOZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/brpnggoza/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

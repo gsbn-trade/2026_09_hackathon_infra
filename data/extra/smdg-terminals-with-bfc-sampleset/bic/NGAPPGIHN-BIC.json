@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.52607,
+                            6.84834
+                        ],
+                        [
+                            3.52632,
+                            6.84724
+                        ],
+                        [
+                            3.52739,
+                            6.84759
+                        ],
+                        [
+                            3.52702,
+                            6.84866
+                        ],
+                        [
+                            3.52607,
+                            6.84834
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPGIHN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappgihn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.526574,
+                    6.848034
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPGIHN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappgihn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

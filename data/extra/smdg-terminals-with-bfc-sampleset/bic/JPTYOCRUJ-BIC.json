@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.763464,
+                            35.608686
+                        ],
+                        [
+                            139.759737,
+                            35.606732
+                        ],
+                        [
+                            139.763618,
+                            35.601735
+                        ],
+                        [
+                            139.767331,
+                            35.603564
+                        ],
+                        [
+                            139.763464,
+                            35.608686
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPTYOCRUJ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyocruj/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.763523,
+                    35.605881
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPTYOCRUJ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyocruj/"
+            }
+        }
+    ]
+}

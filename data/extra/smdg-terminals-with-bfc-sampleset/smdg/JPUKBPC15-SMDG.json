@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.238883,
+                            34.66126
+                        ],
+                        [
+                            135.23629,
+                            34.660465
+                        ],
+                        [
+                            135.236424,
+                            34.660194
+                        ],
+                        [
+                            135.235441,
+                            34.659834
+                        ],
+                        [
+                            135.236366,
+                            34.657736
+                        ],
+                        [
+                            135.236658,
+                            34.657836
+                        ],
+                        [
+                            135.23783,
+                            34.655803
+                        ],
+                        [
+                            135.240278,
+                            34.651868
+                        ],
+                        [
+                            135.243072,
+                            34.652956
+                        ],
+                        [
+                            135.24331,
+                            34.652525
+                        ],
+                        [
+                            135.243922,
+                            34.652758
+                        ],
+                        [
+                            135.238883,
+                            34.66126
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPC15",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.238898,
+                            34.661279
+                        ],
+                        [
+                            135.243934,
+                            34.652727
+                        ],
+                        [
+                            135.244437,
+                            34.652958
+                        ],
+                        [
+                            135.239535,
+                            34.661498
+                        ],
+                        [
+                            135.238898,
+                            34.661279
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPC15",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.238946,
+                    34.657041
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPC15",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.24114,
+                    34.657948
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPC15",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

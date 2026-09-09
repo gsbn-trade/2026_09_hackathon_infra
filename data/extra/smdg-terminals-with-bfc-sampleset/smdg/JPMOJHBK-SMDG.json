@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.76044,
+                            33.929457
+                        ],
+                        [
+                            130.7687,
+                            33.929449
+                        ],
+                        [
+                            130.768662,
+                            33.930906
+                        ],
+                        [
+                            130.768852,
+                            33.93089
+                        ],
+                        [
+                            130.768824,
+                            33.933939
+                        ],
+                        [
+                            130.760449,
+                            33.933939
+                        ],
+                        [
+                            130.76044,
+                            33.929457
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJHBK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.760441,
+                            33.933954
+                        ],
+                        [
+                            130.768853,
+                            33.933954
+                        ],
+                        [
+                            130.768814,
+                            33.934568
+                        ],
+                        [
+                            130.760431,
+                            33.934568
+                        ],
+                        [
+                            130.760441,
+                            33.933954
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJHBK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.765195,
+                    33.931148
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJHBK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.763796,
+                    33.9342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJHBK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

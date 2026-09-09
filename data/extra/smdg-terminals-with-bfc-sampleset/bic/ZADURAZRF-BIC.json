@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.895,
+                            -30.0254
+                        ],
+                        [
+                            30.8956,
+                            -30.0249
+                        ],
+                        [
+                            30.896,
+                            -30.0253
+                        ],
+                        [
+                            30.8976,
+                            -30.0239
+                        ],
+                        [
+                            30.8953,
+                            -30.0231
+                        ],
+                        [
+                            30.8938,
+                            -30.0244
+                        ],
+                        [
+                            30.895,
+                            -30.0254
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAZRF",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-12-08",
+                "url": "https://www.bic-code.org/facility-codes/zadurazrf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.895471,
+                    -30.024629
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZADURAZRF",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-12-08",
+                "url": "https://www.bic-code.org/facility-codes/zadurazrf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

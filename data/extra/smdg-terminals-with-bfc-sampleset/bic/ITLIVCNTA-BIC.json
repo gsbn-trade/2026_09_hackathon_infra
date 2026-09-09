@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.333015,
+                            43.576761
+                        ],
+                        [
+                            10.331927,
+                            43.577806
+                        ],
+                        [
+                            10.329944,
+                            43.577161
+                        ],
+                        [
+                            10.331503,
+                            43.574907
+                        ],
+                        [
+                            10.332731,
+                            43.575501
+                        ],
+                        [
+                            10.332004,
+                            43.576235
+                        ],
+                        [
+                            10.333015,
+                            43.576761
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITLIVCNTA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itlivcnta/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33202,
+                    43.576447
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITLIVCNTA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itlivcnta/"
+            }
+        }
+    ]
+}

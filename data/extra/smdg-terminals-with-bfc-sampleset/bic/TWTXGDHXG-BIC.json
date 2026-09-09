@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.515935,
+                            24.274698
+                        ],
+                        [
+                            120.514913,
+                            24.272173
+                        ],
+                        [
+                            120.519484,
+                            24.270449
+                        ],
+                        [
+                            120.520566,
+                            24.273039
+                        ],
+                        [
+                            120.515935,
+                            24.274698
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "TWTXGDHXG",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-03",
+                "url": "https://www.bic-code.org/facility-codes/twtxgdhxg/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.517367,
+                    24.273011
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "TWTXGDHXG",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-03",
+                "url": "https://www.bic-code.org/facility-codes/twtxgdhxg/"
+            }
+        }
+    ]
+}

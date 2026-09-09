@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -60.002035,
+                            -3.144297
+                        ],
+                        [
+                            -60.002586,
+                            -3.145134
+                        ],
+                        [
+                            -60.001688,
+                            -3.145734
+                        ],
+                        [
+                            -60.001174,
+                            -3.144953
+                        ],
+                        [
+                            -60.002035,
+                            -3.144297
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBVRG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaobvrg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.001904,
+                    -3.144883
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOBVRG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaobvrg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

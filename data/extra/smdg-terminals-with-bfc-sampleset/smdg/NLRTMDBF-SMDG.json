@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.075236,
+                            51.952217
+                        ],
+                        [
+                            4.076038,
+                            51.952341
+                        ],
+                        [
+                            4.076445,
+                            51.951686
+                        ],
+                        [
+                            4.076735,
+                            51.951752
+                        ],
+                        [
+                            4.077357,
+                            51.95207
+                        ],
+                        [
+                            4.075329,
+                            51.955931
+                        ],
+                        [
+                            4.073321,
+                            51.959612
+                        ],
+                        [
+                            4.073189,
+                            51.959584
+                        ],
+                        [
+                            4.072296,
+                            51.959791
+                        ],
+                        [
+                            4.072159,
+                            51.95973
+                        ],
+                        [
+                            4.072386,
+                            51.959138
+                        ],
+                        [
+                            4.072328,
+                            51.958815
+                        ],
+                        [
+                            4.07261,
+                            51.958101
+                        ],
+                        [
+                            4.072745,
+                            51.957864
+                        ],
+                        [
+                            4.07326,
+                            51.956773
+                        ],
+                        [
+                            4.073915,
+                            51.955467
+                        ],
+                        [
+                            4.074096,
+                            51.95529
+                        ],
+                        [
+                            4.074102,
+                            51.9552
+                        ],
+                        [
+                            4.07394,
+                            51.955075
+                        ],
+                        [
+                            4.074003,
+                            51.954944
+                        ],
+                        [
+                            4.073899,
+                            51.954711
+                        ],
+                        [
+                            4.073949,
+                            51.954312
+                        ],
+                        [
+                            4.074993,
+                            51.952309
+                        ],
+                        [
+                            4.075236,
+                            51.952217
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMDBF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.073333,
+                            51.959631
+                        ],
+                        [
+                            4.07735,
+                            51.952072
+                        ],
+                        [
+                            4.078116,
+                            51.952219
+                        ],
+                        [
+                            4.074121,
+                            51.959771
+                        ],
+                        [
+                            4.073333,
+                            51.959631
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMDBF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.074149,
+                    51.955622
+                ]
+            },
+            "properties": {
+                "code": "NLRTMDBF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075251,
+                    51.956665
+                ]
+            },
+            "properties": {
+                "code": "NLRTMDBF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

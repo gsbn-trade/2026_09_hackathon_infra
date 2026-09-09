@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -55.170339,
+                            5.811319
+                        ],
+                        [
+                            -55.170542,
+                            5.811058
+                        ],
+                        [
+                            -55.170153,
+                            5.810865
+                        ],
+                        [
+                            -55.170255,
+                            5.810705
+                        ],
+                        [
+                            -55.170094,
+                            5.810613
+                        ],
+                        [
+                            -55.170331,
+                            5.810326
+                        ],
+                        [
+                            -55.169451,
+                            5.809754
+                        ],
+                        [
+                            -55.169164,
+                            5.810806
+                        ],
+                        [
+                            -55.170339,
+                            5.811319
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SRPBMIHOI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-22",
+                "url": "https://www.bic-code.org/facility-codes/srpbmihoi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -55.170074,
+                    5.810752
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SRPBMIHOI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-22",
+                "url": "https://www.bic-code.org/facility-codes/srpbmihoi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

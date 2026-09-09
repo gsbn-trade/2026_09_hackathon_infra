@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.365662,
+                            18.696837
+                        ],
+                        [
+                            -72.366221,
+                            18.695735
+                        ],
+                        [
+                            -72.366709,
+                            18.694783
+                        ],
+                        [
+                            -72.366689,
+                            18.694708
+                        ],
+                        [
+                            -72.366777,
+                            18.694505
+                        ],
+                        [
+                            -72.363382,
+                            18.692956
+                        ],
+                        [
+                            -72.363225,
+                            18.693273
+                        ],
+                        [
+                            -72.362932,
+                            18.69321
+                        ],
+                        [
+                            -72.362656,
+                            18.692936
+                        ],
+                        [
+                            -72.362569,
+                            18.692972
+                        ],
+                        [
+                            -72.362613,
+                            18.692998
+                        ],
+                        [
+                            -72.36262,
+                            18.693096
+                        ],
+                        [
+                            -72.362586,
+                            18.693269
+                        ],
+                        [
+                            -72.362484,
+                            18.693666
+                        ],
+                        [
+                            -72.362427,
+                            18.693839
+                        ],
+                        [
+                            -72.362178,
+                            18.694022
+                        ],
+                        [
+                            -72.361962,
+                            18.694244
+                        ],
+                        [
+                            -72.361904,
+                            18.694478
+                        ],
+                        [
+                            -72.361846,
+                            18.695089
+                        ],
+                        [
+                            -72.363692,
+                            18.695908
+                        ],
+                        [
+                            -72.363746,
+                            18.69579
+                        ],
+                        [
+                            -72.363899,
+                            18.695862
+                        ],
+                        [
+                            -72.363996,
+                            18.695908
+                        ],
+                        [
+                            -72.363925,
+                            18.696048
+                        ],
+                        [
+                            -72.36541,
+                            18.696723
+                        ],
+                        [
+                            -72.365662,
+                            18.696837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFLFU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.366796,
+                            18.694471
+                        ],
+                        [
+                            -72.366979,
+                            18.694153
+                        ],
+                        [
+                            -72.363568,
+                            18.69261
+                        ],
+                        [
+                            -72.363373,
+                            18.692959
+                        ],
+                        [
+                            -72.366796,
+                            18.694471
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFLFU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.36376,
+                    18.694604
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFLFU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.365502,
+                    18.693733
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFLFU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

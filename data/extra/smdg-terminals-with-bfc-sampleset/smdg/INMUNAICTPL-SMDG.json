@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.688957,
+                            22.738481
+                        ],
+                        [
+                            69.703177,
+                            22.738407
+                        ],
+                        [
+                            69.703182,
+                            22.738921
+                        ],
+                        [
+                            69.703445,
+                            22.738922
+                        ],
+                        [
+                            69.703486,
+                            22.741077
+                        ],
+                        [
+                            69.702786,
+                            22.741263
+                        ],
+                        [
+                            69.7027,
+                            22.741322
+                        ],
+                        [
+                            69.702635,
+                            22.741409
+                        ],
+                        [
+                            69.70258,
+                            22.741506
+                        ],
+                        [
+                            69.702563,
+                            22.741602
+                        ],
+                        [
+                            69.702573,
+                            22.74245
+                        ],
+                        [
+                            69.702212,
+                            22.742458
+                        ],
+                        [
+                            69.702205,
+                            22.742682
+                        ],
+                        [
+                            69.702156,
+                            22.742725
+                        ],
+                        [
+                            69.702101,
+                            22.742755
+                        ],
+                        [
+                            69.688937,
+                            22.742795
+                        ],
+                        [
+                            69.688957,
+                            22.738481
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAICTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.688958,
+                            22.738473
+                        ],
+                        [
+                            69.688961,
+                            22.737828
+                        ],
+                        [
+                            69.703164,
+                            22.737763
+                        ],
+                        [
+                            69.703174,
+                            22.738395
+                        ],
+                        [
+                            69.688958,
+                            22.738473
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAICTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.700274,
+                    22.741015
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAICTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.694643,
+                    22.738186
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNAICTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

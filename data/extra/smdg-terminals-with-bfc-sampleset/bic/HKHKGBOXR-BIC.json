@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.934391,
+                            22.36243
+                        ],
+                        [
+                            113.934253,
+                            22.362126
+                        ],
+                        [
+                            113.93353,
+                            22.362369
+                        ],
+                        [
+                            113.933309,
+                            22.361819
+                        ],
+                        [
+                            113.937042,
+                            22.359255
+                        ],
+                        [
+                            113.937433,
+                            22.359196
+                        ],
+                        [
+                            113.937675,
+                            22.359313
+                        ],
+                        [
+                            113.937703,
+                            22.359789
+                        ],
+                        [
+                            113.934976,
+                            22.361434
+                        ],
+                        [
+                            113.935321,
+                            22.362098
+                        ],
+                        [
+                            113.934391,
+                            22.36243
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGBOXR",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-08",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgboxr/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.935457,
+                    22.361114
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGBOXR",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-08",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgboxr/"
+            }
+        }
+    ]
+}

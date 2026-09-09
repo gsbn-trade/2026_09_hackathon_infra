@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.869332,
+                            35.093741
+                        ],
+                        [
+                            136.870329,
+                            35.092028
+                        ],
+                        [
+                            136.871132,
+                            35.092333
+                        ],
+                        [
+                            136.870176,
+                            35.094065
+                        ],
+                        [
+                            136.869332,
+                            35.093741
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGODACI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngodaci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.87006,
+                    35.093182
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGODACI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngodaci/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

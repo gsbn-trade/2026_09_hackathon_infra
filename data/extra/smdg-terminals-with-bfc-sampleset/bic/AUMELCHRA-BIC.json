@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.858442,
+                            -37.821435
+                        ],
+                        [
+                            144.859614,
+                            -37.821606
+                        ],
+                        [
+                            144.859649,
+                            -37.82166
+                        ],
+                        [
+                            144.859286,
+                            -37.823374
+                        ],
+                        [
+                            144.858055,
+                            -37.823198
+                        ],
+                        [
+                            144.858442,
+                            -37.821435
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCHRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelchra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.858915,
+                    -37.822118
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELCHRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelchra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

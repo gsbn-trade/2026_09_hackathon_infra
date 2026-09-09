@@ -1,0 +1,257 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.268512,
+                            33.749742
+                        ],
+                        [
+                            -118.267813,
+                            33.74904
+                        ],
+                        [
+                            -118.267171,
+                            33.749427
+                        ],
+                        [
+                            -118.266413,
+                            33.749864
+                        ],
+                        [
+                            -118.265627,
+                            33.749064
+                        ],
+                        [
+                            -118.265073,
+                            33.749573
+                        ],
+                        [
+                            -118.264519,
+                            33.750494
+                        ],
+                        [
+                            -118.263836,
+                            33.750846
+                        ],
+                        [
+                            -118.262922,
+                            33.751236
+                        ],
+                        [
+                            -118.261036,
+                            33.752033
+                        ],
+                        [
+                            -118.259243,
+                            33.752869
+                        ],
+                        [
+                            -118.257115,
+                            33.753862
+                        ],
+                        [
+                            -118.254201,
+                            33.754929
+                        ],
+                        [
+                            -118.251548,
+                            33.756116
+                        ],
+                        [
+                            -118.2494,
+                            33.756991
+                        ],
+                        [
+                            -118.249572,
+                            33.757265
+                        ],
+                        [
+                            -118.251089,
+                            33.756662
+                        ],
+                        [
+                            -118.25167,
+                            33.756465
+                        ],
+                        [
+                            -118.251753,
+                            33.756549
+                        ],
+                        [
+                            -118.252072,
+                            33.757158
+                        ],
+                        [
+                            -118.251812,
+                            33.75724
+                        ],
+                        [
+                            -118.252095,
+                            33.757447
+                        ],
+                        [
+                            -118.252374,
+                            33.757543
+                        ],
+                        [
+                            -118.252692,
+                            33.757702
+                        ],
+                        [
+                            -118.252976,
+                            33.757905
+                        ],
+                        [
+                            -118.253173,
+                            33.758179
+                        ],
+                        [
+                            -118.253439,
+                            33.758579
+                        ],
+                        [
+                            -118.254326,
+                            33.760404
+                        ],
+                        [
+                            -118.254529,
+                            33.760717
+                        ],
+                        [
+                            -118.257819,
+                            33.759557
+                        ],
+                        [
+                            -118.259528,
+                            33.757726
+                        ],
+                        [
+                            -118.261474,
+                            33.755651
+                        ],
+                        [
+                            -118.263201,
+                            33.754124
+                        ],
+                        [
+                            -118.26563,
+                            33.751921
+                        ],
+                        [
+                            -118.268512,
+                            33.749742
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXYUSEN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-29",
+                "remarks": "Port off LA IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.254545,
+                            33.760864
+                        ],
+                        [
+                            -118.254888,
+                            33.761649
+                        ],
+                        [
+                            -118.257935,
+                            33.760614
+                        ],
+                        [
+                            -118.266433,
+                            33.752158
+                        ],
+                        [
+                            -118.265832,
+                            33.751908
+                        ],
+                        [
+                            -118.261411,
+                            33.755851
+                        ],
+                        [
+                            -118.257849,
+                            33.759722
+                        ],
+                        [
+                            -118.254545,
+                            33.760864
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXYUSEN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-29",
+                "remarks": "Port off LA IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.258119,
+                    33.754703
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXYUSEN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "remarks": "Port off LA IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.25918,
+                    33.757954
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXYUSEN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "remarks": "Port off LA IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

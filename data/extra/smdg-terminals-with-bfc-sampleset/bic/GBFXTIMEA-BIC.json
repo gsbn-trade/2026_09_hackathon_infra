@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.314331,
+                            51.966357
+                        ],
+                        [
+                            1.313753,
+                            51.966399
+                        ],
+                        [
+                            1.313307,
+                            51.966389
+                        ],
+                        [
+                            1.312978,
+                            51.966292
+                        ],
+                        [
+                            1.31233,
+                            51.966026
+                        ],
+                        [
+                            1.311563,
+                            51.965728
+                        ],
+                        [
+                            1.310587,
+                            51.965294
+                        ],
+                        [
+                            1.310108,
+                            51.965083
+                        ],
+                        [
+                            1.309748,
+                            51.964839
+                        ],
+                        [
+                            1.309427,
+                            51.964574
+                        ],
+                        [
+                            1.309228,
+                            51.964332
+                        ],
+                        [
+                            1.309158,
+                            51.964018
+                        ],
+                        [
+                            1.30918,
+                            51.963776
+                        ],
+                        [
+                            1.309301,
+                            51.963566
+                        ],
+                        [
+                            1.309491,
+                            51.963211
+                        ],
+                        [
+                            1.309711,
+                            51.963175
+                        ],
+                        [
+                            1.30999,
+                            51.96328
+                        ],
+                        [
+                            1.3119,
+                            51.964444
+                        ],
+                        [
+                            1.312919,
+                            51.965105
+                        ],
+                        [
+                            1.313745,
+                            51.965726
+                        ],
+                        [
+                            1.314271,
+                            51.966149
+                        ],
+                        [
+                            1.314496,
+                            51.966328
+                        ],
+                        [
+                            1.314331,
+                            51.966357
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTIMEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-07",
+                "remarks": "adding reefer area uses same code",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtimea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.316832,
+                            51.968867
+                        ],
+                        [
+                            1.318745,
+                            51.96853
+                        ],
+                        [
+                            1.318922,
+                            51.968612
+                        ],
+                        [
+                            1.319,
+                            51.968581
+                        ],
+                        [
+                            1.319014,
+                            51.968738
+                        ],
+                        [
+                            1.319068,
+                            51.969069
+                        ],
+                        [
+                            1.319114,
+                            51.969305
+                        ],
+                        [
+                            1.319232,
+                            51.969588
+                        ],
+                        [
+                            1.318936,
+                            51.969633
+                        ],
+                        [
+                            1.319018,
+                            51.969835
+                        ],
+                        [
+                            1.31956,
+                            51.969706
+                        ],
+                        [
+                            1.319688,
+                            51.969919
+                        ],
+                        [
+                            1.319733,
+                            51.970152
+                        ],
+                        [
+                            1.319788,
+                            51.970374
+                        ],
+                        [
+                            1.319856,
+                            51.970579
+                        ],
+                        [
+                            1.319469,
+                            51.970511
+                        ],
+                        [
+                            1.319027,
+                            51.970396
+                        ],
+                        [
+                            1.318663,
+                            51.970256
+                        ],
+                        [
+                            1.318157,
+                            51.970054
+                        ],
+                        [
+                            1.318103,
+                            51.970015
+                        ],
+                        [
+                            1.318485,
+                            51.969942
+                        ],
+                        [
+                            1.3189,
+                            51.969872
+                        ],
+                        [
+                            1.318763,
+                            51.96963
+                        ],
+                        [
+                            1.317551,
+                            51.969726
+                        ],
+                        [
+                            1.317219,
+                            51.969417
+                        ],
+                        [
+                            1.316914,
+                            51.969044
+                        ],
+                        [
+                            1.316832,
+                            51.968867
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTIMEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-02-07",
+                "remarks": "adding reefer area uses same code",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtimea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.311559,
+                    51.965063
+                ]
+            },
+            "properties": {
+                "code": "GBFXTIMEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-07",
+                "remarks": "adding reefer area uses same code",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtimea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.318688,
+                    51.969601
+                ]
+            },
+            "properties": {
+                "code": "GBFXTIMEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-07",
+                "remarks": "adding reefer area uses same code",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtimea/"
+            }
+        }
+    ]
+}

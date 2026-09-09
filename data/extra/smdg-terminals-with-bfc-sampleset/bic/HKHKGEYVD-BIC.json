@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.987353,
+                            22.456075
+                        ],
+                        [
+                            113.986935,
+                            22.455153
+                        ],
+                        [
+                            113.987088,
+                            22.455011
+                        ],
+                        [
+                            113.986884,
+                            22.454263
+                        ],
+                        [
+                            113.987728,
+                            22.453711
+                        ],
+                        [
+                            113.988171,
+                            22.45338
+                        ],
+                        [
+                            113.988623,
+                            22.453223
+                        ],
+                        [
+                            113.989032,
+                            22.453136
+                        ],
+                        [
+                            113.989075,
+                            22.453593
+                        ],
+                        [
+                            113.989433,
+                            22.453963
+                        ],
+                        [
+                            113.98974,
+                            22.454089
+                        ],
+                        [
+                            113.990107,
+                            22.454223
+                        ],
+                        [
+                            113.990354,
+                            22.454775
+                        ],
+                        [
+                            113.99009,
+                            22.455011
+                        ],
+                        [
+                            113.98957,
+                            22.454728
+                        ],
+                        [
+                            113.989288,
+                            22.454988
+                        ],
+                        [
+                            113.989271,
+                            22.455193
+                        ],
+                        [
+                            113.989109,
+                            22.455366
+                        ],
+                        [
+                            113.987353,
+                            22.456075
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGEYVD",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgeyvd/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.988695,
+                    22.454524
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGEYVD",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgeyvd/"
+            }
+        }
+    ]
+}

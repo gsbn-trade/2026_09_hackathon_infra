@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            56.358924,
+                            25.171926
+                        ],
+                        [
+                            56.358961,
+                            25.180933
+                        ],
+                        [
+                            56.358628,
+                            25.180967
+                        ],
+                        [
+                            56.358609,
+                            25.186871
+                        ],
+                        [
+                            56.356218,
+                            25.186971
+                        ],
+                        [
+                            56.356719,
+                            25.17206
+                        ],
+                        [
+                            56.358924,
+                            25.171926
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRMPAE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/aefjrmpae/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    56.35814,
+                    25.178808
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRMPAE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/aefjrmpae/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

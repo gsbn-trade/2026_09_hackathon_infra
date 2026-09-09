@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.557234,
+                            45.487229
+                        ],
+                        [
+                            -73.558113,
+                            45.482211
+                        ],
+                        [
+                            -73.557866,
+                            45.482339
+                        ],
+                        [
+                            -73.557244,
+                            45.482812
+                        ],
+                        [
+                            -73.556568,
+                            45.483745
+                        ],
+                        [
+                            -73.556214,
+                            45.484377
+                        ],
+                        [
+                            -73.556096,
+                            45.485573
+                        ],
+                        [
+                            -73.556611,
+                            45.486573
+                        ],
+                        [
+                            -73.556751,
+                            45.487191
+                        ],
+                        [
+                            -73.557234,
+                            45.487229
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRGLFD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrglfd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.556993,
+                    45.484928
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRGLFD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrglfd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

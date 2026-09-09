@@ -1,0 +1,225 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.045395,
+                            18.90634
+                        ],
+                        [
+                            73.045699,
+                            18.905908
+                        ],
+                        [
+                            73.045914,
+                            18.905722
+                        ],
+                        [
+                            73.046057,
+                            18.905519
+                        ],
+                        [
+                            73.046325,
+                            18.905113
+                        ],
+                        [
+                            73.046754,
+                            18.905163
+                        ],
+                        [
+                            73.046933,
+                            18.905383
+                        ],
+                        [
+                            73.047282,
+                            18.905443
+                        ],
+                        [
+                            73.04747,
+                            18.905525
+                        ],
+                        [
+                            73.04747,
+                            18.905838
+                        ],
+                        [
+                            73.047336,
+                            18.906354
+                        ],
+                        [
+                            73.04713,
+                            18.906777
+                        ],
+                        [
+                            73.047067,
+                            18.906997
+                        ],
+                        [
+                            73.046754,
+                            18.907606
+                        ],
+                        [
+                            73.046656,
+                            18.907877
+                        ],
+                        [
+                            73.046361,
+                            18.907818
+                        ],
+                        [
+                            73.0462,
+                            18.907665
+                        ],
+                        [
+                            73.046253,
+                            18.907488
+                        ],
+                        [
+                            73.045931,
+                            18.907344
+                        ],
+                        [
+                            73.045824,
+                            18.907352
+                        ],
+                        [
+                            73.045824,
+                            18.907293
+                        ],
+                        [
+                            73.046021,
+                            18.90709
+                        ],
+                        [
+                            73.046101,
+                            18.906963
+                        ],
+                        [
+                            73.046173,
+                            18.906684
+                        ],
+                        [
+                            73.045958,
+                            18.906565
+                        ],
+                        [
+                            73.046093,
+                            18.906244
+                        ],
+                        [
+                            73.045905,
+                            18.9061
+                        ],
+                        [
+                            73.045672,
+                            18.906185
+                        ],
+                        [
+                            73.04552,
+                            18.906312
+                        ],
+                        [
+                            73.045395,
+                            18.90634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadkev/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            73.045646,
+                            18.905993
+                        ],
+                        [
+                            73.045743,
+                            18.906094
+                        ],
+                        [
+                            73.04604,
+                            18.905946
+                        ],
+                        [
+                            73.045863,
+                            18.905769
+                        ],
+                        [
+                            73.045646,
+                            18.905993
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadkev/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.046316,
+                    18.9065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadkev/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.045788,
+                    18.905959
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSADKEV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/innsadkev/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

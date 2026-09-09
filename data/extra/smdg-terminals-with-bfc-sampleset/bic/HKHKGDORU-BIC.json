@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.946521,
+                            22.362439
+                        ],
+                        [
+                            113.945635,
+                            22.360389
+                        ],
+                        [
+                            113.947282,
+                            22.359676
+                        ],
+                        [
+                            113.948251,
+                            22.361781
+                        ],
+                        [
+                            113.947676,
+                            22.362428
+                        ],
+                        [
+                            113.946977,
+                            22.362707
+                        ],
+                        [
+                            113.946887,
+                            22.36252
+                        ],
+                        [
+                            113.946521,
+                            22.362439
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGDORU",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgdoru/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.946969,
+                    22.361797
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGDORU",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgdoru/"
+            }
+        }
+    ]
+}

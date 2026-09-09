@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.740992,
+                            10.74135
+                        ],
+                        [
+                            106.741012,
+                            10.740718
+                        ],
+                        [
+                            106.740395,
+                            10.740244
+                        ],
+                        [
+                            106.74146,
+                            10.739062
+                        ],
+                        [
+                            106.741992,
+                            10.739574
+                        ],
+                        [
+                            106.741563,
+                            10.740059
+                        ],
+                        [
+                            106.742424,
+                            10.740861
+                        ],
+                        [
+                            106.74198,
+                            10.741331
+                        ],
+                        [
+                            106.740992,
+                            10.74135
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNAJHP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnajhp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.741423,
+                    10.740505
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNAJHP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnajhp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

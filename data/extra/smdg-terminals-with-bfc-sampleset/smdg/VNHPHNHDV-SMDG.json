@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.784726,
+                            20.831923
+                        ],
+                        [
+                            106.784063,
+                            20.831066
+                        ],
+                        [
+                            106.784179,
+                            20.830963
+                        ],
+                        [
+                            106.782603,
+                            20.829018
+                        ],
+                        [
+                            106.784604,
+                            20.82763
+                        ],
+                        [
+                            106.784842,
+                            20.827947
+                        ],
+                        [
+                            106.786339,
+                            20.826959
+                        ],
+                        [
+                            106.788339,
+                            20.829633
+                        ],
+                        [
+                            106.784726,
+                            20.831923
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHNHDV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.788342,
+                            20.829637
+                        ],
+                        [
+                            106.788635,
+                            20.830069
+                        ],
+                        [
+                            106.785018,
+                            20.832318
+                        ],
+                        [
+                            106.784732,
+                            20.831931
+                        ],
+                        [
+                            106.788342,
+                            20.829637
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHNHDV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.784936,
+                    20.829674
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHNHDV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.787014,
+                    20.830718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHNHDV",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

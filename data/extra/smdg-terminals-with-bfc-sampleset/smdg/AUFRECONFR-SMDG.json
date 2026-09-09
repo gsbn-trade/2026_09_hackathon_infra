@@ -1,0 +1,225 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.741028,
+                            -32.043801
+                        ],
+                        [
+                            115.740847,
+                            -32.044133
+                        ],
+                        [
+                            115.740696,
+                            -32.044074
+                        ],
+                        [
+                            115.740608,
+                            -32.044045
+                        ],
+                        [
+                            115.73894,
+                            -32.047055
+                        ],
+                        [
+                            115.738762,
+                            -32.046982
+                        ],
+                        [
+                            115.738677,
+                            -32.047108
+                        ],
+                        [
+                            115.738497,
+                            -32.047004
+                        ],
+                        [
+                            115.738069,
+                            -32.047709
+                        ],
+                        [
+                            115.737738,
+                            -32.047656
+                        ],
+                        [
+                            115.737499,
+                            -32.048063
+                        ],
+                        [
+                            115.737538,
+                            -32.048181
+                        ],
+                        [
+                            115.737381,
+                            -32.048255
+                        ],
+                        [
+                            115.737538,
+                            -32.048538
+                        ],
+                        [
+                            115.737282,
+                            -32.048944
+                        ],
+                        [
+                            115.737693,
+                            -32.049123
+                        ],
+                        [
+                            115.737746,
+                            -32.049025
+                        ],
+                        [
+                            115.737789,
+                            -32.048988
+                        ],
+                        [
+                            115.738406,
+                            -32.049511
+                        ],
+                        [
+                            115.738777,
+                            -32.049591
+                        ],
+                        [
+                            115.738879,
+                            -32.04956
+                        ],
+                        [
+                            115.738959,
+                            -32.049477
+                        ],
+                        [
+                            115.739061,
+                            -32.04956
+                        ],
+                        [
+                            115.739108,
+                            -32.049518
+                        ],
+                        [
+                            115.739196,
+                            -32.04951
+                        ],
+                        [
+                            115.739198,
+                            -32.049313
+                        ],
+                        [
+                            115.739451,
+                            -32.049078
+                        ],
+                        [
+                            115.739657,
+                            -32.049011
+                        ],
+                        [
+                            115.739788,
+                            -32.049112
+                        ],
+                        [
+                            115.743378,
+                            -32.045477
+                        ],
+                        [
+                            115.741028,
+                            -32.043801
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFRECONFR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.743379,
+                            -32.045474
+                        ],
+                        [
+                            115.739832,
+                            -32.049102
+                        ],
+                        [
+                            115.740103,
+                            -32.049383
+                        ],
+                        [
+                            115.743754,
+                            -32.04577
+                        ],
+                        [
+                            115.743379,
+                            -32.045474
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFRECONFR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    115.739007,
+                    -32.047781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFRECONFR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    115.742089,
+                    -32.047041
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFRECONFR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

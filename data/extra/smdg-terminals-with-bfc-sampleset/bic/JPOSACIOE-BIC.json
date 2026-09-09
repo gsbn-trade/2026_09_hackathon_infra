@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.407024,
+                            34.637303
+                        ],
+                        [
+                            135.406287,
+                            34.637966
+                        ],
+                        [
+                            135.405562,
+                            34.637488
+                        ],
+                        [
+                            135.405542,
+                            34.637311
+                        ],
+                        [
+                            135.406193,
+                            34.636711
+                        ],
+                        [
+                            135.407024,
+                            34.637303
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSACIOE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "This is a warehouse.",
+                "url": "https://www.bic-code.org/facility-codes/jposacioe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.406272,
+                    34.637347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSACIOE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "This is a warehouse.",
+                "url": "https://www.bic-code.org/facility-codes/jposacioe/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

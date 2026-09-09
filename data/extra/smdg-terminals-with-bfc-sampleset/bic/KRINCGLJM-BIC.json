@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            126.604829,
+                            37.446764
+                        ],
+                        [
+                            126.603241,
+                            37.444204
+                        ],
+                        [
+                            126.603971,
+                            37.443522
+                        ],
+                        [
+                            126.605816,
+                            37.446382
+                        ],
+                        [
+                            126.604829,
+                            37.446764
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRINCGLJM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/krincgljm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.604537,
+                    37.445527
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRINCGLJM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/krincgljm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

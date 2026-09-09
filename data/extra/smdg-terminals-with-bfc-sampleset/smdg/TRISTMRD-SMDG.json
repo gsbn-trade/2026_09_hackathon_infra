@@ -1,0 +1,313 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.675698,
+                            40.968634
+                        ],
+                        [
+                            28.67476,
+                            40.968497
+                        ],
+                        [
+                            28.674902,
+                            40.967536
+                        ],
+                        [
+                            28.674997,
+                            40.966576
+                        ],
+                        [
+                            28.675161,
+                            40.964709
+                        ],
+                        [
+                            28.67559,
+                            40.964767
+                        ],
+                        [
+                            28.675859,
+                            40.964775
+                        ],
+                        [
+                            28.676082,
+                            40.963018
+                        ],
+                        [
+                            28.676191,
+                            40.961282
+                        ],
+                        [
+                            28.676582,
+                            40.961303
+                        ],
+                        [
+                            28.676169,
+                            40.965948
+                        ],
+                        [
+                            28.676113,
+                            40.965944
+                        ],
+                        [
+                            28.676085,
+                            40.966
+                        ],
+                        [
+                            28.676028,
+                            40.966089
+                        ],
+                        [
+                            28.675878,
+                            40.966061
+                        ],
+                        [
+                            28.675698,
+                            40.968634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.674725,
+                            40.969983
+                        ],
+                        [
+                            28.674744,
+                            40.97031
+                        ],
+                        [
+                            28.674916,
+                            40.970301
+                        ],
+                        [
+                            28.675045,
+                            40.971463
+                        ],
+                        [
+                            28.674576,
+                            40.972716
+                        ],
+                        [
+                            28.673312,
+                            40.972697
+                        ],
+                        [
+                            28.67215,
+                            40.972687
+                        ],
+                        [
+                            28.672197,
+                            40.97128
+                        ],
+                        [
+                            28.672217,
+                            40.969983
+                        ],
+                        [
+                            28.674725,
+                            40.969983
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.676205,
+                            40.96594
+                        ],
+                        [
+                            28.676588,
+                            40.961297
+                        ],
+                        [
+                            28.676845,
+                            40.961313
+                        ],
+                        [
+                            28.676504,
+                            40.965945
+                        ],
+                        [
+                            28.676205,
+                            40.96594
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.675384,
+                            40.964732
+                        ],
+                        [
+                            28.67537,
+                            40.964543
+                        ],
+                        [
+                            28.675725,
+                            40.964537
+                        ],
+                        [
+                            28.675954,
+                            40.961292
+                        ],
+                        [
+                            28.676191,
+                            40.961286
+                        ],
+                        [
+                            28.676076,
+                            40.963006
+                        ],
+                        [
+                            28.675864,
+                            40.964758
+                        ],
+                        [
+                            28.675384,
+                            40.964732
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.675737,
+                    40.965611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.673861,
+                    40.97114
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.676469,
+                    40.964087
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.675743,
+                    40.963611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISTMRD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-10-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

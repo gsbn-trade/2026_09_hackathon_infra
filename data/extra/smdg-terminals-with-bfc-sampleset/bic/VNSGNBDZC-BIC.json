@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.818007,
+                            10.908141
+                        ],
+                        [
+                            106.817564,
+                            10.907726
+                        ],
+                        [
+                            106.816976,
+                            10.907498
+                        ],
+                        [
+                            106.816587,
+                            10.907426
+                        ],
+                        [
+                            106.816634,
+                            10.9067
+                        ],
+                        [
+                            106.816741,
+                            10.90614
+                        ],
+                        [
+                            106.818011,
+                            10.906183
+                        ],
+                        [
+                            106.818007,
+                            10.908141
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNBDZC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnbdzc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.817316,
+                    10.907244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNBDZC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnbdzc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

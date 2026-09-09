@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.518056,
+                            51.399068
+                        ],
+                        [
+                            0.517467,
+                            51.398862
+                        ],
+                        [
+                            0.517929,
+                            51.39833
+                        ],
+                        [
+                            0.518557,
+                            51.398533
+                        ],
+                        [
+                            0.518056,
+                            51.399068
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBRCSDKHR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-29",
+                "url": "https://www.bic-code.org/facility-codes/gbrcsdkhr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.518013,
+                    51.398772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBRCSDKHR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-29",
+                "url": "https://www.bic-code.org/facility-codes/gbrcsdkhr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

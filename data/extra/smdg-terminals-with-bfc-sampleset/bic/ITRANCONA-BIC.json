@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.255485,
+                            44.453617
+                        ],
+                        [
+                            12.255123,
+                            44.452876
+                        ],
+                        [
+                            12.256547,
+                            44.452515
+                        ],
+                        [
+                            12.256896,
+                            44.453271
+                        ],
+                        [
+                            12.255485,
+                            44.453617
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANCONA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itrancona/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.255907,
+                    44.453179
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANCONA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itrancona/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.1009,
+                            -11.9474
+                        ],
+                        [
+                            -77.1007,
+                            -11.9463
+                        ],
+                        [
+                            -77.0998,
+                            -11.9454
+                        ],
+                        [
+                            -77.1002,
+                            -11.9437
+                        ],
+                        [
+                            -77.1012,
+                            -11.9424
+                        ],
+                        [
+                            -77.102,
+                            -11.944
+                        ],
+                        [
+                            -77.1026,
+                            -11.9445
+                        ],
+                        [
+                            -77.1037,
+                            -11.945
+                        ],
+                        [
+                            -77.1037,
+                            -11.9455
+                        ],
+                        [
+                            -77.104,
+                            -11.946
+                        ],
+                        [
+                            -77.1023,
+                            -11.946
+                        ],
+                        [
+                            -77.1015,
+                            -11.9466
+                        ],
+                        [
+                            -77.1009,
+                            -11.9474
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLCQAZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pecllcqaz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.101808,
+                    -11.9454
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLCQAZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pecllcqaz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

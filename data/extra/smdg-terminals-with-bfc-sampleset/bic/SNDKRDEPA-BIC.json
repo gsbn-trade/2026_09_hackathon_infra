@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -17.162687,
+                            14.703809
+                        ],
+                        [
+                            -17.16257,
+                            14.703683
+                        ],
+                        [
+                            -17.162583,
+                            14.703544
+                        ],
+                        [
+                            -17.162518,
+                            14.703469
+                        ],
+                        [
+                            -17.16231,
+                            14.703469
+                        ],
+                        [
+                            -17.16188,
+                            14.703041
+                        ],
+                        [
+                            -17.161997,
+                            14.702908
+                        ],
+                        [
+                            -17.162244,
+                            14.703003
+                        ],
+                        [
+                            -17.162336,
+                            14.702921
+                        ],
+                        [
+                            -17.164822,
+                            14.702877
+                        ],
+                        [
+                            -17.164952,
+                            14.702971
+                        ],
+                        [
+                            -17.164829,
+                            14.704558
+                        ],
+                        [
+                            -17.164666,
+                            14.704602
+                        ],
+                        [
+                            -17.164679,
+                            14.704822
+                        ],
+                        [
+                            -17.164145,
+                            14.705036
+                        ],
+                        [
+                            -17.163956,
+                            14.70503
+                        ],
+                        [
+                            -17.162687,
+                            14.703809
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/sndkrdepa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.163286,
+                    14.703738
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SNDKRDEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/sndkrdepa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

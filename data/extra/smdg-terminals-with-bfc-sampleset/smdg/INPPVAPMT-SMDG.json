@@ -1,0 +1,237 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            71.499472,
+                            20.924594
+                        ],
+                        [
+                            71.503635,
+                            20.921444
+                        ],
+                        [
+                            71.505396,
+                            20.920036
+                        ],
+                        [
+                            71.505718,
+                            20.919748
+                        ],
+                        [
+                            71.504095,
+                            20.918752
+                        ],
+                        [
+                            71.50374,
+                            20.918342
+                        ],
+                        [
+                            71.504914,
+                            20.917104
+                        ],
+                        [
+                            71.505136,
+                            20.916155
+                        ],
+                        [
+                            71.505948,
+                            20.916313
+                        ],
+                        [
+                            71.506381,
+                            20.916179
+                        ],
+                        [
+                            71.506208,
+                            20.916413
+                        ],
+                        [
+                            71.505773,
+                            20.916554
+                        ],
+                        [
+                            71.505408,
+                            20.916625
+                        ],
+                        [
+                            71.505333,
+                            20.916974
+                        ],
+                        [
+                            71.505604,
+                            20.917274
+                        ],
+                        [
+                            71.506665,
+                            20.916083
+                        ],
+                        [
+                            71.51174,
+                            20.919933
+                        ],
+                        [
+                            71.512077,
+                            20.919753
+                        ],
+                        [
+                            71.515044,
+                            20.922029
+                        ],
+                        [
+                            71.514166,
+                            20.922812
+                        ],
+                        [
+                            71.514092,
+                            20.922935
+                        ],
+                        [
+                            71.513632,
+                            20.92319
+                        ],
+                        [
+                            71.512403,
+                            20.924693
+                        ],
+                        [
+                            71.509712,
+                            20.923154
+                        ],
+                        [
+                            71.509346,
+                            20.92345
+                        ],
+                        [
+                            71.508631,
+                            20.923069
+                        ],
+                        [
+                            71.505207,
+                            20.920743
+                        ],
+                        [
+                            71.49836,
+                            20.925816
+                        ],
+                        [
+                            71.493901,
+                            20.929322
+                        ],
+                        [
+                            71.492644,
+                            20.930148
+                        ],
+                        [
+                            71.492406,
+                            20.929947
+                        ],
+                        [
+                            71.499472,
+                            20.924594
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INPPVAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            71.515125,
+                            20.921992
+                        ],
+                        [
+                            71.512123,
+                            20.919694
+                        ],
+                        [
+                            71.511713,
+                            20.919893
+                        ],
+                        [
+                            71.506677,
+                            20.916077
+                        ],
+                        [
+                            71.507054,
+                            20.915587
+                        ],
+                        [
+                            71.515716,
+                            20.921303
+                        ],
+                        [
+                            71.515125,
+                            20.921992
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INPPVAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    71.505696,
+                    20.921068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INPPVAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    71.511933,
+                    20.919505
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INPPVAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.345162,
+                            18.571224
+                        ],
+                        [
+                            -72.345585,
+                            18.571546
+                        ],
+                        [
+                            -72.3459,
+                            18.571618
+                        ],
+                        [
+                            -72.346394,
+                            18.571842
+                        ],
+                        [
+                            -72.34664,
+                            18.572436
+                        ],
+                        [
+                            -72.346796,
+                            18.572673
+                        ],
+                        [
+                            -72.347872,
+                            18.573121
+                        ],
+                        [
+                            -72.347874,
+                            18.573375
+                        ],
+                        [
+                            -72.348078,
+                            18.573386
+                        ],
+                        [
+                            -72.34942,
+                            18.573582
+                        ],
+                        [
+                            -72.349417,
+                            18.573298
+                        ],
+                        [
+                            -72.349805,
+                            18.573394
+                        ],
+                        [
+                            -72.349835,
+                            18.573174
+                        ],
+                        [
+                            -72.349553,
+                            18.572779
+                        ],
+                        [
+                            -72.349196,
+                            18.572725
+                        ],
+                        [
+                            -72.348505,
+                            18.572081
+                        ],
+                        [
+                            -72.348736,
+                            18.571517
+                        ],
+                        [
+                            -72.346632,
+                            18.570118
+                        ],
+                        [
+                            -72.344997,
+                            18.569184
+                        ],
+                        [
+                            -72.34466,
+                            18.569053
+                        ],
+                        [
+                            -72.344443,
+                            18.568974
+                        ],
+                        [
+                            -72.344109,
+                            18.569573
+                        ],
+                        [
+                            -72.343584,
+                            18.57051
+                        ],
+                        [
+                            -72.342977,
+                            18.571555
+                        ],
+                        [
+                            -72.343296,
+                            18.571771
+                        ],
+                        [
+                            -72.344077,
+                            18.572209
+                        ],
+                        [
+                            -72.344812,
+                            18.571076
+                        ],
+                        [
+                            -72.345162,
+                            18.571224
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTPAPTVB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.349433,
+                            18.57359
+                        ],
+                        [
+                            -72.34786,
+                            18.573384
+                        ],
+                        [
+                            -72.347823,
+                            18.573602
+                        ],
+                        [
+                            -72.349427,
+                            18.573844
+                        ],
+                        [
+                            -72.349433,
+                            18.57359
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTPAPTVB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.346554,
+                    18.571751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTPAPTVB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.348795,
+                    18.573602
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTPAPTVB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

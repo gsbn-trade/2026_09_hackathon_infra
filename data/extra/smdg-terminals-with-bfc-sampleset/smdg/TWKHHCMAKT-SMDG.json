@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.31975,
+                            22.559173
+                        ],
+                        [
+                            120.323935,
+                            22.562281
+                        ],
+                        [
+                            120.321931,
+                            22.564626
+                        ],
+                        [
+                            120.321236,
+                            22.565461
+                        ],
+                        [
+                            120.32147,
+                            22.565616
+                        ],
+                        [
+                            120.32105,
+                            22.566111
+                        ],
+                        [
+                            120.321202,
+                            22.566221
+                        ],
+                        [
+                            120.321342,
+                            22.56607
+                        ],
+                        [
+                            120.322366,
+                            22.566898
+                        ],
+                        [
+                            120.321396,
+                            22.567996
+                        ],
+                        [
+                            120.317391,
+                            22.56517
+                        ],
+                        [
+                            120.316932,
+                            22.565714
+                        ],
+                        [
+                            120.315284,
+                            22.564463
+                        ],
+                        [
+                            120.31975,
+                            22.559173
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCMAKT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.319589,
+                            22.559365
+                        ],
+                        [
+                            120.315748,
+                            22.563956
+                        ],
+                        [
+                            120.315143,
+                            22.563562
+                        ],
+                        [
+                            120.319059,
+                            22.558979
+                        ],
+                        [
+                            120.319589,
+                            22.559365
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCMAKT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.32036,
+                    22.564641
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCMAKT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.317826,
+                    22.561045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCMAKT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

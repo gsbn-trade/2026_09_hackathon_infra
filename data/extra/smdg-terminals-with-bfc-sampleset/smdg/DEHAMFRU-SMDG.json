@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.001781,
+                            53.530208
+                        ],
+                        [
+                            10.001138,
+                            53.529697
+                        ],
+                        [
+                            10.00676,
+                            53.52686
+                        ],
+                        [
+                            10.006824,
+                            53.526923
+                        ],
+                        [
+                            10.00721,
+                            53.526732
+                        ],
+                        [
+                            10.009399,
+                            53.528346
+                        ],
+                        [
+                            10.005156,
+                            53.530501
+                        ],
+                        [
+                            10.004796,
+                            53.530469
+                        ],
+                        [
+                            10.004721,
+                            53.530393
+                        ],
+                        [
+                            10.004491,
+                            53.530479
+                        ],
+                        [
+                            10.004024,
+                            53.530131
+                        ],
+                        [
+                            10.003042,
+                            53.530619
+                        ],
+                        [
+                            10.002205,
+                            53.530007
+                        ],
+                        [
+                            10.001781,
+                            53.530208
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMFRU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.001104,
+                            53.529694
+                        ],
+                        [
+                            10.000945,
+                            53.52957
+                        ],
+                        [
+                            10.006573,
+                            53.526677
+                        ],
+                        [
+                            10.006757,
+                            53.526836
+                        ],
+                        [
+                            10.001104,
+                            53.529694
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMFRU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.004523,
+                    53.529398
+                ]
+            },
+            "properties": {
+                "code": "DEHAMFRU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.003297,
+                    53.528494
+                ]
+            },
+            "properties": {
+                "code": "DEHAMFRU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

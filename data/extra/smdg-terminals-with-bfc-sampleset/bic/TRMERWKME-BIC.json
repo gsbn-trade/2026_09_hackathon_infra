@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.661886,
+                            36.822223
+                        ],
+                        [
+                            34.658066,
+                            36.819804
+                        ],
+                        [
+                            34.658916,
+                            36.819009
+                        ],
+                        [
+                            34.664549,
+                            36.822559
+                        ],
+                        [
+                            34.661886,
+                            36.822223
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERWKME",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-05-08",
+                "url": "https://www.bic-code.org/facility-codes/trmerwkme/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.661061,
+                    36.821164
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERWKME",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-05-08",
+                "url": "https://www.bic-code.org/facility-codes/trmerwkme/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

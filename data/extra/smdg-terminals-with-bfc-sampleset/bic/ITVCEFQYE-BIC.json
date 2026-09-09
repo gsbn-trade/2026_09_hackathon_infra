@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.241368,
+                            45.447613
+                        ],
+                        [
+                            12.246616,
+                            45.445542
+                        ],
+                        [
+                            12.247462,
+                            45.446589
+                        ],
+                        [
+                            12.242048,
+                            45.448465
+                        ],
+                        [
+                            12.241368,
+                            45.447613
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEFQYE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/itvcefqye/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.243772,
+                    45.447164
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVCEFQYE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/itvcefqye/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

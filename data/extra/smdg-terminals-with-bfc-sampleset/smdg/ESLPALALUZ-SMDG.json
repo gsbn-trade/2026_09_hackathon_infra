@@ -1,0 +1,273 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.414152,
+                            28.149776
+                        ],
+                        [
+                            -15.415344,
+                            28.150789
+                        ],
+                        [
+                            -15.41556,
+                            28.150936
+                        ],
+                        [
+                            -15.415651,
+                            28.150864
+                        ],
+                        [
+                            -15.415957,
+                            28.151133
+                        ],
+                        [
+                            -15.416279,
+                            28.151444
+                        ],
+                        [
+                            -15.416553,
+                            28.151239
+                        ],
+                        [
+                            -15.416867,
+                            28.150745
+                        ],
+                        [
+                            -15.416856,
+                            28.14776
+                        ],
+                        [
+                            -15.416722,
+                            28.147574
+                        ],
+                        [
+                            -15.41615,
+                            28.148142
+                        ],
+                        [
+                            -15.415872,
+                            28.147901
+                        ],
+                        [
+                            -15.416568,
+                            28.14726
+                        ],
+                        [
+                            -15.416274,
+                            28.14672
+                        ],
+                        [
+                            -15.416308,
+                            28.146313
+                        ],
+                        [
+                            -15.416327,
+                            28.145955
+                        ],
+                        [
+                            -15.41632,
+                            28.145399
+                        ],
+                        [
+                            -15.415867,
+                            28.144519
+                        ],
+                        [
+                            -15.415179,
+                            28.144046
+                        ],
+                        [
+                            -15.414692,
+                            28.143671
+                        ],
+                        [
+                            -15.414278,
+                            28.143298
+                        ],
+                        [
+                            -15.414041,
+                            28.143094
+                        ],
+                        [
+                            -15.414247,
+                            28.142879
+                        ],
+                        [
+                            -15.412679,
+                            28.141824
+                        ],
+                        [
+                            -15.412154,
+                            28.141348
+                        ],
+                        [
+                            -15.412172,
+                            28.14104
+                        ],
+                        [
+                            -15.41173,
+                            28.140541
+                        ],
+                        [
+                            -15.411668,
+                            28.144026
+                        ],
+                        [
+                            -15.415578,
+                            28.147049
+                        ],
+                        [
+                            -15.415382,
+                            28.147213
+                        ],
+                        [
+                            -15.415516,
+                            28.14729
+                        ],
+                        [
+                            -15.415331,
+                            28.14739
+                        ],
+                        [
+                            -15.415614,
+                            28.147585
+                        ],
+                        [
+                            -15.413717,
+                            28.149467
+                        ],
+                        [
+                            -15.414152,
+                            28.149776
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPALALUZ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.415505,
+                            28.147071
+                        ],
+                        [
+                            -15.411638,
+                            28.143999
+                        ],
+                        [
+                            -15.411761,
+                            28.140515
+                        ],
+                        [
+                            -15.411105,
+                            28.139912
+                        ],
+                        [
+                            -15.410872,
+                            28.144433
+                        ],
+                        [
+                            -15.414709,
+                            28.147347
+                        ],
+                        [
+                            -15.413041,
+                            28.1489
+                        ],
+                        [
+                            -15.413743,
+                            28.149436
+                        ],
+                        [
+                            -15.415582,
+                            28.147624
+                        ],
+                        [
+                            -15.41536,
+                            28.147404
+                        ],
+                        [
+                            -15.415484,
+                            28.147278
+                        ],
+                        [
+                            -15.415337,
+                            28.147181
+                        ],
+                        [
+                            -15.415505,
+                            28.147071
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPALALUZ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.415079,
+                    28.146743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPALALUZ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.413819,
+                    28.146013
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPALALUZ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

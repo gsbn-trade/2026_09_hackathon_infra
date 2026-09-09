@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.423269,
+                            13.403106
+                        ],
+                        [
+                            -87.423697,
+                            13.40203
+                        ],
+                        [
+                            -87.423927,
+                            13.401946
+                        ],
+                        [
+                            -87.425367,
+                            13.402413
+                        ],
+                        [
+                            -87.425465,
+                            13.402219
+                        ],
+                        [
+                            -87.424057,
+                            13.401785
+                        ],
+                        [
+                            -87.423994,
+                            13.40164
+                        ],
+                        [
+                            -87.424287,
+                            13.400618
+                        ],
+                        [
+                            -87.423976,
+                            13.400493
+                        ],
+                        [
+                            -87.423051,
+                            13.403067
+                        ],
+                        [
+                            -87.423269,
+                            13.403106
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOQBIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnsloqbia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.425473,
+                            13.402525
+                        ],
+                        [
+                            -87.425108,
+                            13.403529
+                        ],
+                        [
+                            -87.427057,
+                            13.404187
+                        ],
+                        [
+                            -87.427411,
+                            13.403192
+                        ],
+                        [
+                            -87.427874,
+                            13.401865
+                        ],
+                        [
+                            -87.426822,
+                            13.401516
+                        ],
+                        [
+                            -87.42712,
+                            13.40075
+                        ],
+                        [
+                            -87.426174,
+                            13.400424
+                        ],
+                        [
+                            -87.425545,
+                            13.402197
+                        ],
+                        [
+                            -87.425465,
+                            13.402218
+                        ],
+                        [
+                            -87.425401,
+                            13.402346
+                        ],
+                        [
+                            -87.425368,
+                            13.402413
+                        ],
+                        [
+                            -87.425473,
+                            13.402525
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOQBIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnsloqbia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.424033,
+                    13.402038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOQBIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnsloqbia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.426176,
+                    13.402284
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNSLOQBIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnsloqbia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

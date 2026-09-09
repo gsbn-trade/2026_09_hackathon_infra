@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -65.040318,
+                            -42.738192
+                        ],
+                        [
+                            -65.040072,
+                            -42.739471
+                        ],
+                        [
+                            -65.038759,
+                            -42.739332
+                        ],
+                        [
+                            -65.038931,
+                            -42.738476
+                        ],
+                        [
+                            -65.039567,
+                            -42.738119
+                        ],
+                        [
+                            -65.040318,
+                            -42.738192
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARPMYSXJH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arpmysxjh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.039661,
+                    -42.73863
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARPMYSXJH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arpmysxjh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

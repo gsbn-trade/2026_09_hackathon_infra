@@ -1,0 +1,277 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.464308,
+                            48.386083
+                        ],
+                        [
+                            -4.463798,
+                            48.385842
+                        ],
+                        [
+                            -4.462972,
+                            48.385558
+                        ],
+                        [
+                            -4.462712,
+                            48.385421
+                        ],
+                        [
+                            -4.467453,
+                            48.380964
+                        ],
+                        [
+                            -4.470494,
+                            48.380713
+                        ],
+                        [
+                            -4.470513,
+                            48.380978
+                        ],
+                        [
+                            -4.470538,
+                            48.381154
+                        ],
+                        [
+                            -4.47043,
+                            48.381141
+                        ],
+                        [
+                            -4.46874,
+                            48.381304
+                        ],
+                        [
+                            -4.468381,
+                            48.381375
+                        ],
+                        [
+                            -4.468096,
+                            48.381493
+                        ],
+                        [
+                            -4.467738,
+                            48.381698
+                        ],
+                        [
+                            -4.46763,
+                            48.381796
+                        ],
+                        [
+                            -4.466461,
+                            48.382772
+                        ],
+                        [
+                            -4.466451,
+                            48.382873
+                        ],
+                        [
+                            -4.465753,
+                            48.383578
+                        ],
+                        [
+                            -4.465753,
+                            48.383823
+                        ],
+                        [
+                            -4.466618,
+                            48.38425
+                        ],
+                        [
+                            -4.466805,
+                            48.384541
+                        ],
+                        [
+                            -4.466378,
+                            48.384609
+                        ],
+                        [
+                            -4.466805,
+                            48.385265
+                        ],
+                        [
+                            -4.466908,
+                            48.385947
+                        ],
+                        [
+                            -4.466186,
+                            48.386006
+                        ],
+                        [
+                            -4.465993,
+                            48.385609
+                        ],
+                        [
+                            -4.465636,
+                            48.384926
+                        ],
+                        [
+                            -4.465513,
+                            48.385001
+                        ],
+                        [
+                            -4.464308,
+                            48.386083
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.462816,
+                            48.385423
+                        ],
+                        [
+                            -4.462246,
+                            48.385133
+                        ],
+                        [
+                            -4.466861,
+                            48.380794
+                        ],
+                        [
+                            -4.467317,
+                            48.380996
+                        ],
+                        [
+                            -4.462816,
+                            48.385423
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.470514,
+                            48.380728
+                        ],
+                        [
+                            -4.470443,
+                            48.380231
+                        ],
+                        [
+                            -4.467347,
+                            48.380594
+                        ],
+                        [
+                            -4.467397,
+                            48.38097
+                        ],
+                        [
+                            -4.470514,
+                            48.380728
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.466763,
+                    48.3836
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.464411,
+                    48.383554
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.469243,
+                    48.38065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRBESBMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

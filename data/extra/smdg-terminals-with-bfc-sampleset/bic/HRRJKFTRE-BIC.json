@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.450011,
+                            45.3228
+                        ],
+                        [
+                            14.449977,
+                            45.322753
+                        ],
+                        [
+                            14.450011,
+                            45.322187
+                        ],
+                        [
+                            14.449944,
+                            45.322042
+                        ],
+                        [
+                            14.450749,
+                            45.321888
+                        ],
+                        [
+                            14.450257,
+                            45.32049
+                        ],
+                        [
+                            14.457969,
+                            45.319078
+                        ],
+                        [
+                            14.458136,
+                            45.31956
+                        ],
+                        [
+                            14.457191,
+                            45.319714
+                        ],
+                        [
+                            14.457577,
+                            45.32078
+                        ],
+                        [
+                            14.457511,
+                            45.32086
+                        ],
+                        [
+                            14.457444,
+                            45.320948
+                        ],
+                        [
+                            14.457378,
+                            45.320986
+                        ],
+                        [
+                            14.454538,
+                            45.321505
+                        ],
+                        [
+                            14.454738,
+                            45.32194
+                        ],
+                        [
+                            14.456307,
+                            45.321664
+                        ],
+                        [
+                            14.45638,
+                            45.321897
+                        ],
+                        [
+                            14.451586,
+                            45.322754
+                        ],
+                        [
+                            14.451054,
+                            45.322885
+                        ],
+                        [
+                            14.450576,
+                            45.322973
+                        ],
+                        [
+                            14.450011,
+                            45.3228
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HRRJKFTRE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-04-07",
+                "url": "https://www.bic-code.org/facility-codes/hrrjkftre/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.453778,
+                    45.321548
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HRRJKFTRE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-04-07",
+                "url": "https://www.bic-code.org/facility-codes/hrrjkftre/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

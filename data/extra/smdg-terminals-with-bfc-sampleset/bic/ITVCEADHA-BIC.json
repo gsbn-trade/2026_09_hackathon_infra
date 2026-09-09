@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.241334,
+                            45.447553
+                        ],
+                        [
+                            12.24731,
+                            45.445205
+                        ],
+                        [
+                            12.248383,
+                            45.446665
+                        ],
+                        [
+                            12.246334,
+                            45.447493
+                        ],
+                        [
+                            12.246066,
+                            45.447124
+                        ],
+                        [
+                            12.245186,
+                            45.447486
+                        ],
+                        [
+                            12.245121,
+                            45.447418
+                        ],
+                        [
+                            12.243501,
+                            45.448073
+                        ],
+                        [
+                            12.243373,
+                            45.44793
+                        ],
+                        [
+                            12.242064,
+                            45.448472
+                        ],
+                        [
+                            12.241334,
+                            45.447553
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITVCEADHA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-28",
+                "url": "https://www.bic-code.org/facility-codes/itvceadha/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.244546,
+                    45.447361
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITVCEADHA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-28",
+                "url": "https://www.bic-code.org/facility-codes/itvceadha/"
+            }
+        }
+    ]
+}

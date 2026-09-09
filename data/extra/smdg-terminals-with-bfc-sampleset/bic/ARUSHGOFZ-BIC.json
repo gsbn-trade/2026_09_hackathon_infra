@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.295371,
+                            -54.811143
+                        ],
+                        [
+                            -68.304977,
+                            -54.809022
+                        ],
+                        [
+                            -68.30641,
+                            -54.809378
+                        ],
+                        [
+                            -68.307464,
+                            -54.808954
+                        ],
+                        [
+                            -68.307508,
+                            -54.808895
+                        ],
+                        [
+                            -68.306873,
+                            -54.808734
+                        ],
+                        [
+                            -68.30634,
+                            -54.808591
+                        ],
+                        [
+                            -68.304006,
+                            -54.807939
+                        ],
+                        [
+                            -68.30376,
+                            -54.807895
+                        ],
+                        [
+                            -68.303677,
+                            -54.807881
+                        ],
+                        [
+                            -68.303581,
+                            -54.807991
+                        ],
+                        [
+                            -68.303349,
+                            -54.807978
+                        ],
+                        [
+                            -68.303374,
+                            -54.808057
+                        ],
+                        [
+                            -68.302242,
+                            -54.809308
+                        ],
+                        [
+                            -68.295218,
+                            -54.810796
+                        ],
+                        [
+                            -68.295371,
+                            -54.811143
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHGOFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushgofz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.303095,
+                    -54.808982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHGOFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arushgofz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.21305,
+                            8.752286
+                        ],
+                        [
+                            78.209993,
+                            8.753676
+                        ],
+                        [
+                            78.209751,
+                            8.75318
+                        ],
+                        [
+                            78.210253,
+                            8.752937
+                        ],
+                        [
+                            78.209011,
+                            8.750221
+                        ],
+                        [
+                            78.211184,
+                            8.749272
+                        ],
+                        [
+                            78.212047,
+                            8.751128
+                        ],
+                        [
+                            78.212183,
+                            8.751067
+                        ],
+                        [
+                            78.212937,
+                            8.752044
+                        ],
+                        [
+                            78.21305,
+                            8.752286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTTICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.210001,
+                            8.753693
+                        ],
+                        [
+                            78.21305,
+                            8.752291
+                        ],
+                        [
+                            78.213301,
+                            8.752819
+                        ],
+                        [
+                            78.210243,
+                            8.754168
+                        ],
+                        [
+                            78.210001,
+                            8.753693
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTTICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.211346,
+                    8.75181
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTTICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.211319,
+                    8.753333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTTICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

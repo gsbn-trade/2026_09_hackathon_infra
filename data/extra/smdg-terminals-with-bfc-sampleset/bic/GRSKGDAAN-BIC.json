@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            22.877649,
+                            40.666636
+                        ],
+                        [
+                            22.87632,
+                            40.666129
+                        ],
+                        [
+                            22.87636,
+                            40.66578
+                        ],
+                        [
+                            22.877465,
+                            40.665169
+                        ],
+                        [
+                            22.878245,
+                            40.665716
+                        ],
+                        [
+                            22.877649,
+                            40.666636
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGDAAN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/grskgdaan/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.877281,
+                    40.666011
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGDAAN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/grskgdaan/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,381 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.08413,
+                            40.676839
+                        ],
+                        [
+                            -74.083206,
+                            40.676395
+                        ],
+                        [
+                            -74.08272,
+                            40.676279
+                        ],
+                        [
+                            -74.07641,
+                            40.673472
+                        ],
+                        [
+                            -74.073094,
+                            40.672069
+                        ],
+                        [
+                            -74.070725,
+                            40.671047
+                        ],
+                        [
+                            -74.0701,
+                            40.670665
+                        ],
+                        [
+                            -74.069942,
+                            40.670771
+                        ],
+                        [
+                            -74.070442,
+                            40.671017
+                        ],
+                        [
+                            -74.077353,
+                            40.673967
+                        ],
+                        [
+                            -74.080542,
+                            40.675398
+                        ],
+                        [
+                            -74.083986,
+                            40.677013
+                        ],
+                        [
+                            -74.08413,
+                            40.676839
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "TRUCK_QUEUE",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.084009,
+                            40.677018
+                        ],
+                        [
+                            -74.084325,
+                            40.677175
+                        ],
+                        [
+                            -74.08464,
+                            40.677302
+                        ],
+                        [
+                            -74.084991,
+                            40.677363
+                        ],
+                        [
+                            -74.085251,
+                            40.677379
+                        ],
+                        [
+                            -74.085518,
+                            40.677339
+                        ],
+                        [
+                            -74.087798,
+                            40.676827
+                        ],
+                        [
+                            -74.08819,
+                            40.676767
+                        ],
+                        [
+                            -74.088583,
+                            40.676778
+                        ],
+                        [
+                            -74.089144,
+                            40.676891
+                        ],
+                        [
+                            -74.089202,
+                            40.676803
+                        ],
+                        [
+                            -74.089518,
+                            40.676924
+                        ],
+                        [
+                            -74.090209,
+                            40.676112
+                        ],
+                        [
+                            -74.090064,
+                            40.675901
+                        ],
+                        [
+                            -74.089197,
+                            40.675557
+                        ],
+                        [
+                            -74.088556,
+                            40.675672
+                        ],
+                        [
+                            -74.088064,
+                            40.675975
+                        ],
+                        [
+                            -74.086202,
+                            40.675213
+                        ],
+                        [
+                            -74.085518,
+                            40.674083
+                        ],
+                        [
+                            -74.085276,
+                            40.673935
+                        ],
+                        [
+                            -74.085137,
+                            40.673795
+                        ],
+                        [
+                            -74.085117,
+                            40.673724
+                        ],
+                        [
+                            -74.085323,
+                            40.673469
+                        ],
+                        [
+                            -74.076882,
+                            40.669904
+                        ],
+                        [
+                            -74.070281,
+                            40.667107
+                        ],
+                        [
+                            -74.069497,
+                            40.668089
+                        ],
+                        [
+                            -74.066265,
+                            40.666712
+                        ],
+                        [
+                            -74.065541,
+                            40.667672
+                        ],
+                        [
+                            -74.06589,
+                            40.668828
+                        ],
+                        [
+                            -74.066193,
+                            40.669536
+                        ],
+                        [
+                            -74.068233,
+                            40.670383
+                        ],
+                        [
+                            -74.068453,
+                            40.670006
+                        ],
+                        [
+                            -74.06879,
+                            40.670173
+                        ],
+                        [
+                            -74.069024,
+                            40.670473
+                        ],
+                        [
+                            -74.06939,
+                            40.670598
+                        ],
+                        [
+                            -74.069869,
+                            40.670795
+                        ],
+                        [
+                            -74.070034,
+                            40.670631
+                        ],
+                        [
+                            -74.070748,
+                            40.671045
+                        ],
+                        [
+                            -74.074048,
+                            40.672458
+                        ],
+                        [
+                            -74.078126,
+                            40.674228
+                        ],
+                        [
+                            -74.081423,
+                            40.675706
+                        ],
+                        [
+                            -74.082702,
+                            40.676284
+                        ],
+                        [
+                            -74.083194,
+                            40.676397
+                        ],
+                        [
+                            -74.084127,
+                            40.676848
+                        ],
+                        [
+                            -74.084009,
+                            40.677018
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.08534,
+                            40.673452
+                        ],
+                        [
+                            -74.085828,
+                            40.672846
+                        ],
+                        [
+                            -74.073136,
+                            40.667499
+                        ],
+                        [
+                            -74.072685,
+                            40.668085
+                        ],
+                        [
+                            -74.081074,
+                            40.671657
+                        ],
+                        [
+                            -74.08534,
+                            40.673452
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.077445,
+                    40.673982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.080057,
+                    40.673753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.080567,
+                    40.671165
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCGTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-01-02",
+                "remarks": "suggested amend to truck queue to bottom gate, welcome comments",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

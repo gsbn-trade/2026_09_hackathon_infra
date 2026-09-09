@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.600059,
+                            -33.922407
+                        ],
+                        [
+                            25.599769,
+                            -33.922775
+                        ],
+                        [
+                            25.599522,
+                            -33.923032
+                        ],
+                        [
+                            25.598886,
+                            -33.923729
+                        ],
+                        [
+                            25.598796,
+                            -33.924854
+                        ],
+                        [
+                            25.598622,
+                            -33.925351
+                        ],
+                        [
+                            25.598297,
+                            -33.925675
+                        ],
+                        [
+                            25.597919,
+                            -33.926009
+                        ],
+                        [
+                            25.597615,
+                            -33.925727
+                        ],
+                        [
+                            25.597158,
+                            -33.925271
+                        ],
+                        [
+                            25.596187,
+                            -33.924345
+                        ],
+                        [
+                            25.596227,
+                            -33.924245
+                        ],
+                        [
+                            25.596273,
+                            -33.924185
+                        ],
+                        [
+                            25.596383,
+                            -33.924058
+                        ],
+                        [
+                            25.5967,
+                            -33.923737
+                        ],
+                        [
+                            25.596872,
+                            -33.923526
+                        ],
+                        [
+                            25.598253,
+                            -33.921921
+                        ],
+                        [
+                            25.598383,
+                            -33.921745
+                        ],
+                        [
+                            25.598148,
+                            -33.921647
+                        ],
+                        [
+                            25.598307,
+                            -33.921457
+                        ],
+                        [
+                            25.600059,
+                            -33.922407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZCMCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzcmca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.598021,
+                    -33.923719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZCMCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzcmca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.779635,
+                            -0.70072
+                        ],
+                        [
+                            8.780305,
+                            -0.701658
+                        ],
+                        [
+                            8.77944,
+                            -0.702262
+                        ],
+                        [
+                            8.779537,
+                            -0.702579
+                        ],
+                        [
+                            8.778861,
+                            -0.703079
+                        ],
+                        [
+                            8.778562,
+                            -0.702493
+                        ],
+                        [
+                            8.778861,
+                            -0.702365
+                        ],
+                        [
+                            8.778861,
+                            -0.70167
+                        ],
+                        [
+                            8.778154,
+                            -0.701725
+                        ],
+                        [
+                            8.778129,
+                            -0.701524
+                        ],
+                        [
+                            8.77858,
+                            -0.70153
+                        ],
+                        [
+                            8.778416,
+                            -0.701293
+                        ],
+                        [
+                            8.778641,
+                            -0.701152
+                        ],
+                        [
+                            8.778666,
+                            -0.701213
+                        ],
+                        [
+                            8.778836,
+                            -0.701104
+                        ],
+                        [
+                            8.778915,
+                            -0.701244
+                        ],
+                        [
+                            8.779635,
+                            -0.70072
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GAPOGEFHZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/gapogefhz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.778943,
+                    -0.701667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GAPOGEFHZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/gapogefhz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

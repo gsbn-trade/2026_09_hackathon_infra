@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.900628,
+                            15.823718
+                        ],
+                        [
+                            -87.898943,
+                            15.823484
+                        ],
+                        [
+                            -87.89902,
+                            15.82201
+                        ],
+                        [
+                            -87.901233,
+                            15.822119
+                        ],
+                        [
+                            -87.901179,
+                            15.823248
+                        ],
+                        [
+                            -87.900721,
+                            15.823256
+                        ],
+                        [
+                            -87.900656,
+                            15.823729
+                        ],
+                        [
+                            -87.900628,
+                            15.823718
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCREXNQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrexnq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.900376,
+                    15.82316
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCREXNQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrexnq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.947284,
+                            18.951592
+                        ],
+                        [
+                            72.946964,
+                            18.951728
+                        ],
+                        [
+                            72.945244,
+                            18.948152
+                        ],
+                        [
+                            72.945553,
+                            18.947921
+                        ],
+                        [
+                            72.947284,
+                            18.951592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "remarks": "Two separate ares. The coastal berth is located in the western area, and the shallow berth and RoRo platform in the eastern area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.945561,
+                            18.947917
+                        ],
+                        [
+                            72.946012,
+                            18.947598
+                        ],
+                        [
+                            72.946236,
+                            18.947476
+                        ],
+                        [
+                            72.946456,
+                            18.947374
+                        ],
+                        [
+                            72.946729,
+                            18.947257
+                        ],
+                        [
+                            72.947109,
+                            18.94715
+                        ],
+                        [
+                            72.947565,
+                            18.947019
+                        ],
+                        [
+                            72.947986,
+                            18.946824
+                        ],
+                        [
+                            72.948535,
+                            18.946546
+                        ],
+                        [
+                            72.94944,
+                            18.947783
+                        ],
+                        [
+                            72.948731,
+                            18.948096
+                        ],
+                        [
+                            72.949283,
+                            18.949192
+                        ],
+                        [
+                            72.947462,
+                            18.949998
+                        ],
+                        [
+                            72.947783,
+                            18.950659
+                        ],
+                        [
+                            72.947398,
+                            18.950817
+                        ],
+                        [
+                            72.94768,
+                            18.951428
+                        ],
+                        [
+                            72.947292,
+                            18.951589
+                        ],
+                        [
+                            72.945561,
+                            18.947917
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "remarks": "Two separate ares. The coastal berth is located in the western area, and the shallow berth and RoRo platform in the eastern area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.946466,
+                    18.950197
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "remarks": "Two separate ares. The coastal berth is located in the western area, and the shallow berth and RoRo platform in the eastern area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.947379,
+                    18.94848
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSDT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "remarks": "Two separate ares. The coastal berth is located in the western area, and the shallow berth and RoRo platform in the eastern area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

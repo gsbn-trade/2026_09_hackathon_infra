@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            22.87228,
+                            40.661522
+                        ],
+                        [
+                            22.871877,
+                            40.660582
+                        ],
+                        [
+                            22.87189,
+                            40.659787
+                        ],
+                        [
+                            22.872615,
+                            40.659651
+                        ],
+                        [
+                            22.872705,
+                            40.660378
+                        ],
+                        [
+                            22.873999,
+                            40.660113
+                        ],
+                        [
+                            22.874035,
+                            40.660908
+                        ],
+                        [
+                            22.872485,
+                            40.661271
+                        ],
+                        [
+                            22.872557,
+                            40.661482
+                        ],
+                        [
+                            22.87228,
+                            40.661522
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGCXPP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-11",
+                "url": "https://www.bic-code.org/facility-codes/grskgcxpp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.872672,
+                    40.660722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRSKGCXPP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-11",
+                "url": "https://www.bic-code.org/facility-codes/grskgcxpp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

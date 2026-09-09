@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.668081,
+                            40.964614
+                        ],
+                        [
+                            28.667822,
+                            40.969312
+                        ],
+                        [
+                            28.667805,
+                            40.969317
+                        ],
+                        [
+                            28.66704,
+                            40.969211
+                        ],
+                        [
+                            28.667033,
+                            40.969233
+                        ],
+                        [
+                            28.667036,
+                            40.969184
+                        ],
+                        [
+                            28.667036,
+                            40.968269
+                        ],
+                        [
+                            28.66701,
+                            40.966937
+                        ],
+                        [
+                            28.667036,
+                            40.965326
+                        ],
+                        [
+                            28.667113,
+                            40.965053
+                        ],
+                        [
+                            28.667353,
+                            40.964813
+                        ],
+                        [
+                            28.667559,
+                            40.964674
+                        ],
+                        [
+                            28.667828,
+                            40.964595
+                        ],
+                        [
+                            28.668041,
+                            40.964588
+                        ],
+                        [
+                            28.668081,
+                            40.964614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "TRISTAUGG",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/tristaugg/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.667458,
+                    40.966649
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "TRISTAUGG",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/tristaugg/"
+            }
+        }
+    ]
+}

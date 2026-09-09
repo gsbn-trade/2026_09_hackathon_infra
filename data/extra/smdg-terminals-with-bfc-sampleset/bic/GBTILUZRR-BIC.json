@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.334527,
+                            51.463217
+                        ],
+                        [
+                            0.334422,
+                            51.463196
+                        ],
+                        [
+                            0.334282,
+                            51.463166
+                        ],
+                        [
+                            0.33409,
+                            51.463113
+                        ],
+                        [
+                            0.334219,
+                            51.463347
+                        ],
+                        [
+                            0.334005,
+                            51.463397
+                        ],
+                        [
+                            0.333643,
+                            51.46278
+                        ],
+                        [
+                            0.333268,
+                            51.462139
+                        ],
+                        [
+                            0.333118,
+                            51.462106
+                        ],
+                        [
+                            0.332995,
+                            51.462138
+                        ],
+                        [
+                            0.332804,
+                            51.462075
+                        ],
+                        [
+                            0.332582,
+                            51.461973
+                        ],
+                        [
+                            0.332474,
+                            51.461788
+                        ],
+                        [
+                            0.334278,
+                            51.458092
+                        ],
+                        [
+                            0.337561,
+                            51.458706
+                        ],
+                        [
+                            0.336952,
+                            51.459841
+                        ],
+                        [
+                            0.336715,
+                            51.460211
+                        ],
+                        [
+                            0.336561,
+                            51.460394
+                        ],
+                        [
+                            0.336299,
+                            51.460708
+                        ],
+                        [
+                            0.336181,
+                            51.460886
+                        ],
+                        [
+                            0.335738,
+                            51.461523
+                        ],
+                        [
+                            0.335232,
+                            51.462218
+                        ],
+                        [
+                            0.334527,
+                            51.463217
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILUZRR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbtiluzrr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.334629,
+                    51.461749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILUZRR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbtiluzrr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

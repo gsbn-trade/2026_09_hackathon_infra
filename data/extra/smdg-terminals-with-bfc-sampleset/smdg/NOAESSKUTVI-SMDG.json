@@ -1,0 +1,297 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.135495,
+                            62.468606
+                        ],
+                        [
+                            6.135373,
+                            62.468428
+                        ],
+                        [
+                            6.139158,
+                            62.467893
+                        ],
+                        [
+                            6.139267,
+                            62.468069
+                        ],
+                        [
+                            6.135495,
+                            62.468606
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.13587,
+                            62.470433
+                        ],
+                        [
+                            6.136152,
+                            62.469792
+                        ],
+                        [
+                            6.135842,
+                            62.46975
+                        ],
+                        [
+                            6.135845,
+                            62.469745
+                        ],
+                        [
+                            6.134793,
+                            62.4696
+                        ],
+                        [
+                            6.134889,
+                            62.46952
+                        ],
+                        [
+                            6.135078,
+                            62.469228
+                        ],
+                        [
+                            6.135588,
+                            62.468746
+                        ],
+                        [
+                            6.135496,
+                            62.468612
+                        ],
+                        [
+                            6.139272,
+                            62.468073
+                        ],
+                        [
+                            6.139368,
+                            62.468221
+                        ],
+                        [
+                            6.139548,
+                            62.468426
+                        ],
+                        [
+                            6.142403,
+                            62.467725
+                        ],
+                        [
+                            6.142518,
+                            62.467822
+                        ],
+                        [
+                            6.139938,
+                            62.468455
+                        ],
+                        [
+                            6.139981,
+                            62.468498
+                        ],
+                        [
+                            6.139708,
+                            62.468564
+                        ],
+                        [
+                            6.139669,
+                            62.46975
+                        ],
+                        [
+                            6.139739,
+                            62.469844
+                        ],
+                        [
+                            6.13587,
+                            62.470433
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.139949,
+                            62.468458
+                        ],
+                        [
+                            6.142519,
+                            62.467825
+                        ],
+                        [
+                            6.142649,
+                            62.467949
+                        ],
+                        [
+                            6.140074,
+                            62.468576
+                        ],
+                        [
+                            6.139949,
+                            62.468458
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.139713,
+                            62.46857
+                        ],
+                        [
+                            6.140036,
+                            62.468572
+                        ],
+                        [
+                            6.139975,
+                            62.469746
+                        ],
+                        [
+                            6.13968,
+                            62.469743
+                        ],
+                        [
+                            6.139713,
+                            62.46857
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.136958,
+                    62.46832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.137878,
+                    62.469062
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.141028,
+                    62.468253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.139823,
+                    62.46904
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESSKUTVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-10-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

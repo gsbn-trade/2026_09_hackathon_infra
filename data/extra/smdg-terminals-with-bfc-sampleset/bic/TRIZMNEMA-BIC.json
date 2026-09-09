@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.930301,
+                            38.767221
+                        ],
+                        [
+                            26.930284,
+                            38.767548
+                        ],
+                        [
+                            26.936829,
+                            38.767483
+                        ],
+                        [
+                            26.936913,
+                            38.767914
+                        ],
+                        [
+                            26.937567,
+                            38.767888
+                        ],
+                        [
+                            26.937618,
+                            38.768215
+                        ],
+                        [
+                            26.938172,
+                            38.768333
+                        ],
+                        [
+                            26.939883,
+                            38.768281
+                        ],
+                        [
+                            26.940689,
+                            38.768647
+                        ],
+                        [
+                            26.941662,
+                            38.768268
+                        ],
+                        [
+                            26.941259,
+                            38.767247
+                        ],
+                        [
+                            26.941897,
+                            38.766998
+                        ],
+                        [
+                            26.942719,
+                            38.766972
+                        ],
+                        [
+                            26.943643,
+                            38.768006
+                        ],
+                        [
+                            26.9447,
+                            38.767954
+                        ],
+                        [
+                            26.946697,
+                            38.767731
+                        ],
+                        [
+                            26.947167,
+                            38.768359
+                        ],
+                        [
+                            26.949029,
+                            38.767967
+                        ],
+                        [
+                            26.948643,
+                            38.767312
+                        ],
+                        [
+                            26.947888,
+                            38.767404
+                        ],
+                        [
+                            26.947637,
+                            38.766671
+                        ],
+                        [
+                            26.946579,
+                            38.766854
+                        ],
+                        [
+                            26.946328,
+                            38.766593
+                        ],
+                        [
+                            26.94517,
+                            38.766475
+                        ],
+                        [
+                            26.944045,
+                            38.766397
+                        ],
+                        [
+                            26.94277,
+                            38.766501
+                        ],
+                        [
+                            26.942048,
+                            38.766697
+                        ],
+                        [
+                            26.941209,
+                            38.766907
+                        ],
+                        [
+                            26.940269,
+                            38.767012
+                        ],
+                        [
+                            26.938893,
+                            38.767142
+                        ],
+                        [
+                            26.93933,
+                            38.764735
+                        ],
+                        [
+                            26.93572566848123,
+                            38.76469505174266
+                        ],
+                        [
+                            26.935839,
+                            38.767221
+                        ],
+                        [
+                            26.930301,
+                            38.767221
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMNEMA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-09-02",
+                "remarks": "Another of dock depot",
+                "url": "https://www.bic-code.org/facility-codes/trizmnema/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.95324,
+                            38.759026
+                        ],
+                        [
+                            26.953946,
+                            38.758435
+                        ],
+                        [
+                            26.954358,
+                            38.758589
+                        ],
+                        [
+                            26.955616,
+                            38.759905
+                        ],
+                        [
+                            26.954774,
+                            38.760409
+                        ],
+                        [
+                            26.95361,
+                            38.759198
+                        ],
+                        [
+                            26.95324,
+                            38.759026
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMNEMA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-09-02",
+                "remarks": "Another of dock depot",
+                "url": "https://www.bic-code.org/facility-codes/trizmnema/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.941168,
+                    38.767261
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMNEMA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-09-02",
+                "remarks": "Another of dock depot",
+                "url": "https://www.bic-code.org/facility-codes/trizmnema/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.954112,
+                    38.759227
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZMNEMA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-09-02",
+                "remarks": "Another of dock depot",
+                "url": "https://www.bic-code.org/facility-codes/trizmnema/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

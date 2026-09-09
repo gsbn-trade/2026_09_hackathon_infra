@@ -1,0 +1,329 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -61.546653,
+                            16.22836
+                        ],
+                        [
+                            -61.546449,
+                            16.228518
+                        ],
+                        [
+                            -61.546391,
+                            16.228522
+                        ],
+                        [
+                            -61.546077,
+                            16.228136
+                        ],
+                        [
+                            -61.541775,
+                            16.23143
+                        ],
+                        [
+                            -61.541874,
+                            16.231552
+                        ],
+                        [
+                            -61.542165,
+                            16.231803
+                        ],
+                        [
+                            -61.54289,
+                            16.232682
+                        ],
+                        [
+                            -61.54285,
+                            16.23274
+                        ],
+                        [
+                            -61.542555,
+                            16.232794
+                        ],
+                        [
+                            -61.542584,
+                            16.232953
+                        ],
+                        [
+                            -61.542938,
+                            16.232893
+                        ],
+                        [
+                            -61.542955,
+                            16.232992
+                        ],
+                        [
+                            -61.544369,
+                            16.232756
+                        ],
+                        [
+                            -61.545425,
+                            16.231924
+                        ],
+                        [
+                            -61.545441,
+                            16.231858
+                        ],
+                        [
+                            -61.545462,
+                            16.231803
+                        ],
+                        [
+                            -61.545363,
+                            16.231203
+                        ],
+                        [
+                            -61.545625,
+                            16.230994
+                        ],
+                        [
+                            -61.545799,
+                            16.230705
+                        ],
+                        [
+                            -61.54593,
+                            16.230623
+                        ],
+                        [
+                            -61.546092,
+                            16.230598
+                        ],
+                        [
+                            -61.546617,
+                            16.230592
+                        ],
+                        [
+                            -61.546857,
+                            16.230383
+                        ],
+                        [
+                            -61.546901,
+                            16.230256
+                        ],
+                        [
+                            -61.546877,
+                            16.230003
+                        ],
+                        [
+                            -61.546885,
+                            16.229922
+                        ],
+                        [
+                            -61.546837,
+                            16.229856
+                        ],
+                        [
+                            -61.54697,
+                            16.22975
+                        ],
+                        [
+                            -61.547625,
+                            16.229261
+                        ],
+                        [
+                            -61.547699,
+                            16.22934
+                        ],
+                        [
+                            -61.549313,
+                            16.228156
+                        ],
+                        [
+                            -61.549193,
+                            16.228013
+                        ],
+                        [
+                            -61.548996,
+                            16.227986
+                        ],
+                        [
+                            -61.548922,
+                            16.227942
+                        ],
+                        [
+                            -61.549923,
+                            16.22726
+                        ],
+                        [
+                            -61.549438,
+                            16.22667
+                        ],
+                        [
+                            -61.548659,
+                            16.227279
+                        ],
+                        [
+                            -61.548419,
+                            16.227001
+                        ],
+                        [
+                            -61.546653,
+                            16.22836
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -61.541763,
+                            16.231405
+                        ],
+                        [
+                            -61.546059,
+                            16.22812
+                        ],
+                        [
+                            -61.545791,
+                            16.22777
+                        ],
+                        [
+                            -61.541503,
+                            16.231064
+                        ],
+                        [
+                            -61.541763,
+                            16.231405
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -61.542578,
+                            16.232958
+                        ],
+                        [
+                            -61.542541,
+                            16.232746
+                        ],
+                        [
+                            -61.542325,
+                            16.23278
+                        ],
+                        [
+                            -61.541442,
+                            16.232935
+                        ],
+                        [
+                            -61.541486,
+                            16.233138
+                        ],
+                        [
+                            -61.542578,
+                            16.232958
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.546011,
+                    16.230147
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.543376,
+                    16.229953
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.542158,
+                    16.232919
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GPPTPJARRY",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "land looks to have been redeveloped.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

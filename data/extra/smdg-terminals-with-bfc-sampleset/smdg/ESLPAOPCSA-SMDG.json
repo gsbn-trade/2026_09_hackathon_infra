@@ -1,0 +1,243 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.411948,
+                            28.136734
+                        ],
+                        [
+                            -15.414732,
+                            28.136895
+                        ],
+                        [
+                            -15.414743,
+                            28.13737
+                        ],
+                        [
+                            -15.414872,
+                            28.137481
+                        ],
+                        [
+                            -15.415051,
+                            28.137364
+                        ],
+                        [
+                            -15.415051,
+                            28.137082
+                        ],
+                        [
+                            -15.415104,
+                            28.137082
+                        ],
+                        [
+                            -15.415104,
+                            28.13724
+                        ],
+                        [
+                            -15.415617,
+                            28.137223
+                        ],
+                        [
+                            -15.415632,
+                            28.136942
+                        ],
+                        [
+                            -15.416977,
+                            28.136942
+                        ],
+                        [
+                            -15.416969,
+                            28.136731
+                        ],
+                        [
+                            -15.417463,
+                            28.136719
+                        ],
+                        [
+                            -15.417746,
+                            28.128307
+                        ],
+                        [
+                            -15.417549,
+                            28.128286
+                        ],
+                        [
+                            -15.417524,
+                            28.128753
+                        ],
+                        [
+                            -15.412237,
+                            28.128627
+                        ],
+                        [
+                            -15.412212,
+                            28.128094
+                        ],
+                        [
+                            -15.411879,
+                            28.128018
+                        ],
+                        [
+                            -15.411816,
+                            28.136725
+                        ],
+                        [
+                            -15.411948,
+                            28.136734
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.411792,
+                            28.136726
+                        ],
+                        [
+                            -15.411921,
+                            28.128025
+                        ],
+                        [
+                            -15.411356,
+                            28.127897
+                        ],
+                        [
+                            -15.411113,
+                            28.136712
+                        ],
+                        [
+                            -15.411792,
+                            28.136726
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.417498,
+                            28.136723
+                        ],
+                        [
+                            -15.418202,
+                            28.136773
+                        ],
+                        [
+                            -15.418357,
+                            28.128257
+                        ],
+                        [
+                            -15.417752,
+                            28.128294
+                        ],
+                        [
+                            -15.417498,
+                            28.136723
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.414865,
+                    28.13454
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.411595,
+                    28.133217
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.417861,
+                    28.133354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAOPCSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

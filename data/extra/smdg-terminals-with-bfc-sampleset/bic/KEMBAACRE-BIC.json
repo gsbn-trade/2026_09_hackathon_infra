@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.617111,
+                            -4.036209
+                        ],
+                        [
+                            39.616526,
+                            -4.035796
+                        ],
+                        [
+                            39.616289,
+                            -4.034738
+                        ],
+                        [
+                            39.613925,
+                            -4.034865
+                        ],
+                        [
+                            39.613971,
+                            -4.03576
+                        ],
+                        [
+                            39.616323,
+                            -4.036144
+                        ],
+                        [
+                            39.616167,
+                            -4.036936
+                        ],
+                        [
+                            39.616008,
+                            -4.037086
+                        ],
+                        [
+                            39.616039,
+                            -4.037229
+                        ],
+                        [
+                            39.616547,
+                            -4.036985
+                        ],
+                        [
+                            39.61695,
+                            -4.036515
+                        ],
+                        [
+                            39.617129,
+                            -4.03623
+                        ],
+                        [
+                            39.617111,
+                            -4.036209
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBAACRE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembaacre/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.616161,
+                    -4.036208
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBAACRE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembaacre/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

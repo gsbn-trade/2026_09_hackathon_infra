@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.042459,
+                            59.039743
+                        ],
+                        [
+                            10.042129,
+                            59.039823
+                        ],
+                        [
+                            10.038708,
+                            59.037528
+                        ],
+                        [
+                            10.041327,
+                            59.036534
+                        ],
+                        [
+                            10.044009,
+                            59.036258
+                        ],
+                        [
+                            10.046112,
+                            59.03703
+                        ],
+                        [
+                            10.049631,
+                            59.037869
+                        ],
+                        [
+                            10.050355,
+                            59.037712
+                        ],
+                        [
+                            10.050961,
+                            59.038178
+                        ],
+                        [
+                            10.054094,
+                            59.038167
+                        ],
+                        [
+                            10.054674,
+                            59.038366
+                        ],
+                        [
+                            10.055596,
+                            59.039084
+                        ],
+                        [
+                            10.055124,
+                            59.039724
+                        ],
+                        [
+                            10.056041,
+                            59.040659
+                        ],
+                        [
+                            10.05573,
+                            59.040811
+                        ],
+                        [
+                            10.055709,
+                            59.04104
+                        ],
+                        [
+                            10.054561,
+                            59.040941
+                        ],
+                        [
+                            10.053949,
+                            59.040676
+                        ],
+                        [
+                            10.052302,
+                            59.039536
+                        ],
+                        [
+                            10.051273,
+                            59.039092
+                        ],
+                        [
+                            10.050784,
+                            59.039304
+                        ],
+                        [
+                            10.048622,
+                            59.039503
+                        ],
+                        [
+                            10.0438,
+                            59.040775
+                        ],
+                        [
+                            10.042459,
+                            59.039743
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOLARNOLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.042182,
+                            59.03985
+                        ],
+                        [
+                            10.041568,
+                            59.04006
+                        ],
+                        [
+                            10.038334,
+                            59.037771
+                        ],
+                        [
+                            10.038716,
+                            59.03754
+                        ],
+                        [
+                            10.042182,
+                            59.03985
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOLARNOLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.0496,
+                    59.039087
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOLARNOLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.040596,
+                    59.039014
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOLARNOLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

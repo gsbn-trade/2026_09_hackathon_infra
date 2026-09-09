@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.944032,
+                            -6.146867
+                        ],
+                        [
+                            106.944044,
+                            -6.147201
+                        ],
+                        [
+                            106.944065,
+                            -6.147401
+                        ],
+                        [
+                            106.94406,
+                            -6.147675
+                        ],
+                        [
+                            106.944055,
+                            -6.147929
+                        ],
+                        [
+                            106.944513,
+                            -6.147898
+                        ],
+                        [
+                            106.94451,
+                            -6.147645
+                        ],
+                        [
+                            106.944391,
+                            -6.147636
+                        ],
+                        [
+                            106.944361,
+                            -6.14725
+                        ],
+                        [
+                            106.944346,
+                            -6.146867
+                        ],
+                        [
+                            106.944032,
+                            -6.146867
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTCXBU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-07-04",
+                "url": "https://www.bic-code.org/facility-codes/idjktcxbu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.944219,
+                    -6.147385
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTCXBU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-07-04",
+                "url": "https://www.bic-code.org/facility-codes/idjktcxbu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.31239,
+                            51.950609
+                        ],
+                        [
+                            1.310915,
+                            51.950303
+                        ],
+                        [
+                            1.31549,
+                            51.942308
+                        ],
+                        [
+                            1.316932,
+                            51.94262
+                        ],
+                        [
+                            1.31239,
+                            51.950609
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTLNG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-02-07",
+                "remarks": "Although Berths 8 9 and Landguard Terminal are listed as separate terminals on www.portoffelixstowe.co.uk they are probably only one terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.31242,
+                            51.950615
+                        ],
+                        [
+                            1.316961,
+                            51.942629
+                        ],
+                        [
+                            1.319332,
+                            51.94315
+                        ],
+                        [
+                            1.320022,
+                            51.940634
+                        ],
+                        [
+                            1.320476,
+                            51.940616
+                        ],
+                        [
+                            1.320509,
+                            51.940593
+                        ],
+                        [
+                            1.320556,
+                            51.94039
+                        ],
+                        [
+                            1.320506,
+                            51.939856
+                        ],
+                        [
+                            1.320532,
+                            51.939831
+                        ],
+                        [
+                            1.322584,
+                            51.939753
+                        ],
+                        [
+                            1.323874,
+                            51.94034
+                        ],
+                        [
+                            1.324061,
+                            51.940398
+                        ],
+                        [
+                            1.324897,
+                            51.940494
+                        ],
+                        [
+                            1.324965,
+                            51.940516
+                        ],
+                        [
+                            1.325051,
+                            51.940553
+                        ],
+                        [
+                            1.32513,
+                            51.940614
+                        ],
+                        [
+                            1.325295,
+                            51.940796
+                        ],
+                        [
+                            1.324983,
+                            51.940868
+                        ],
+                        [
+                            1.324579,
+                            51.940965
+                        ],
+                        [
+                            1.32434,
+                            51.941901
+                        ],
+                        [
+                            1.324464,
+                            51.942067
+                        ],
+                        [
+                            1.324245,
+                            51.942921
+                        ],
+                        [
+                            1.32433,
+                            51.942934
+                        ],
+                        [
+                            1.324205,
+                            51.943453
+                        ],
+                        [
+                            1.323537,
+                            51.943398
+                        ],
+                        [
+                            1.323405,
+                            51.943843
+                        ],
+                        [
+                            1.323319,
+                            51.943895
+                        ],
+                        [
+                            1.323135,
+                            51.944616
+                        ],
+                        [
+                            1.323168,
+                            51.944915
+                        ],
+                        [
+                            1.323106,
+                            51.944983
+                        ],
+                        [
+                            1.322697,
+                            51.945075
+                        ],
+                        [
+                            1.322584,
+                            51.945055
+                        ],
+                        [
+                            1.322401,
+                            51.945363
+                        ],
+                        [
+                            1.322255,
+                            51.945329
+                        ],
+                        [
+                            1.321752,
+                            51.946311
+                        ],
+                        [
+                            1.321939,
+                            51.946347
+                        ],
+                        [
+                            1.321863,
+                            51.946474
+                        ],
+                        [
+                            1.323288,
+                            51.946778
+                        ],
+                        [
+                            1.323554,
+                            51.947297
+                        ],
+                        [
+                            1.323993,
+                            51.947427
+                        ],
+                        [
+                            1.323944,
+                            51.947524
+                        ],
+                        [
+                            1.323798,
+                            51.947639
+                        ],
+                        [
+                            1.323594,
+                            51.947731
+                        ],
+                        [
+                            1.323505,
+                            51.947799
+                        ],
+                        [
+                            1.323437,
+                            51.947878
+                        ],
+                        [
+                            1.32312,
+                            51.948365
+                        ],
+                        [
+                            1.32301,
+                            51.948528
+                        ],
+                        [
+                            1.323003,
+                            51.948593
+                        ],
+                        [
+                            1.322994,
+                            51.948743
+                        ],
+                        [
+                            1.323032,
+                            51.948894
+                        ],
+                        [
+                            1.323112,
+                            51.949023
+                        ],
+                        [
+                            1.323201,
+                            51.949165
+                        ],
+                        [
+                            1.323286,
+                            51.949343
+                        ],
+                        [
+                            1.322322,
+                            51.949607
+                        ],
+                        [
+                            1.32201,
+                            51.949701
+                        ],
+                        [
+                            1.321661,
+                            51.949632
+                        ],
+                        [
+                            1.321635,
+                            51.949896
+                        ],
+                        [
+                            1.321841,
+                            51.950018
+                        ],
+                        [
+                            1.320804,
+                            51.950665
+                        ],
+                        [
+                            1.320745,
+                            51.950613
+                        ],
+                        [
+                            1.320687,
+                            51.950583
+                        ],
+                        [
+                            1.320597,
+                            51.950559
+                        ],
+                        [
+                            1.320451,
+                            51.950562
+                        ],
+                        [
+                            1.320201,
+                            51.950607
+                        ],
+                        [
+                            1.319984,
+                            51.950647
+                        ],
+                        [
+                            1.319795,
+                            51.950716
+                        ],
+                        [
+                            1.319651,
+                            51.950778
+                        ],
+                        [
+                            1.319554,
+                            51.950833
+                        ],
+                        [
+                            1.318852,
+                            51.951232
+                        ],
+                        [
+                            1.318804,
+                            51.951125
+                        ],
+                        [
+                            1.318522,
+                            51.951187
+                        ],
+                        [
+                            1.318605,
+                            51.951337
+                        ],
+                        [
+                            1.318598,
+                            51.951468
+                        ],
+                        [
+                            1.316062,
+                            51.950961
+                        ],
+                        [
+                            1.314739,
+                            51.950697
+                        ],
+                        [
+                            1.313911,
+                            51.950918
+                        ],
+                        [
+                            1.31242,
+                            51.950615
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "GBFXTLNG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-02-07",
+                "remarks": "Although Berths 8 9 and Landguard Terminal are listed as separate terminals on www.portoffelixstowe.co.uk they are probably only one terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.313623,
+                    51.94729
+                ]
+            },
+            "properties": {
+                "code": "GBFXTLNG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-07",
+                "remarks": "Although Berths 8 9 and Landguard Terminal are listed as separate terminals on www.portoffelixstowe.co.uk they are probably only one terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.321686,
+                    51.94634
+                ]
+            },
+            "properties": {
+                "code": "GBFXTLNG",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-07",
+                "remarks": "Although Berths 8 9 and Landguard Terminal are listed as separate terminals on www.portoffelixstowe.co.uk they are probably only one terminal.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

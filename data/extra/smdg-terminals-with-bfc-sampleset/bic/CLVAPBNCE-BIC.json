@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.5567,
+                            -33.1178
+                        ],
+                        [
+                            -71.557,
+                            -33.1191
+                        ],
+                        [
+                            -71.5565,
+                            -33.1192
+                        ],
+                        [
+                            -71.5564,
+                            -33.1202
+                        ],
+                        [
+                            -71.5546,
+                            -33.1204
+                        ],
+                        [
+                            -71.5544,
+                            -33.1193
+                        ],
+                        [
+                            -71.554,
+                            -33.1183
+                        ],
+                        [
+                            -71.5554,
+                            -33.1181
+                        ],
+                        [
+                            -71.5567,
+                            -33.1178
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPBNCE",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/clvapbnce/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.555744,
+                    -33.118911
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPBNCE",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/clvapbnce/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

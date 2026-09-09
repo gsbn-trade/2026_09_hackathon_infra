@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.036473,
+                            50.853826
+                        ],
+                        [
+                            6.037014,
+                            50.852888
+                        ],
+                        [
+                            6.038275,
+                            50.853192
+                        ],
+                        [
+                            6.037969,
+                            50.853639
+                        ],
+                        [
+                            6.038533,
+                            50.853805
+                        ],
+                        [
+                            6.038216,
+                            50.854293
+                        ],
+                        [
+                            6.036473,
+                            50.853826
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLHENTKVM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-02-14",
+                "url": "https://www.bic-code.org/facility-codes/nlhentkvm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.037565,
+                    50.853638
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLHENTKVM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-02-14",
+                "url": "https://www.bic-code.org/facility-codes/nlhentkvm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

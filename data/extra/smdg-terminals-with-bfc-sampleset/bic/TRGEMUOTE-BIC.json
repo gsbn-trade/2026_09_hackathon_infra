@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.07587,
+                            40.414149
+                        ],
+                        [
+                            29.07587,
+                            40.41382
+                        ],
+                        [
+                            29.078373,
+                            40.41392
+                        ],
+                        [
+                            29.08231,
+                            40.411936
+                        ],
+                        [
+                            29.081147,
+                            40.410395
+                        ],
+                        [
+                            29.081844,
+                            40.410007
+                        ],
+                        [
+                            29.082881,
+                            40.409424
+                        ],
+                        [
+                            29.083569,
+                            40.409668
+                        ],
+                        [
+                            29.084327,
+                            40.409664
+                        ],
+                        [
+                            29.085246,
+                            40.409221
+                        ],
+                        [
+                            29.086764,
+                            40.409835
+                        ],
+                        [
+                            29.085096,
+                            40.411319
+                        ],
+                        [
+                            29.082828,
+                            40.412532
+                        ],
+                        [
+                            29.082471,
+                            40.412104
+                        ],
+                        [
+                            29.078422,
+                            40.414259
+                        ],
+                        [
+                            29.07587,
+                            40.414149
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMUOTE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trgemuote/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.08143,
+                    40.41165
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMUOTE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trgemuote/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

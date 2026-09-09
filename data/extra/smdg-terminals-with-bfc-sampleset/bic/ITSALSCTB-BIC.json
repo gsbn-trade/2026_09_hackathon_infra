@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.857463,
+                            40.64646
+                        ],
+                        [
+                            14.857399,
+                            40.64646
+                        ],
+                        [
+                            14.857377,
+                            40.645548
+                        ],
+                        [
+                            14.861835,
+                            40.645528
+                        ],
+                        [
+                            14.862007,
+                            40.646122
+                        ],
+                        [
+                            14.862007,
+                            40.646325
+                        ],
+                        [
+                            14.861926,
+                            40.646431
+                        ],
+                        [
+                            14.861803,
+                            40.646492
+                        ],
+                        [
+                            14.857463,
+                            40.64646
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSALSCTB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-23",
+                "url": "https://www.bic-code.org/facility-codes/itsalsctb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.85992,
+                    40.646203
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSALSCTB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-23",
+                "url": "https://www.bic-code.org/facility-codes/itsalsctb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

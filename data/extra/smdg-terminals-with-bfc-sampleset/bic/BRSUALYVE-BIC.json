@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -35.044007,
+                            -8.384337
+                        ],
+                        [
+                            -35.045688,
+                            -8.384149
+                        ],
+                        [
+                            -35.045902,
+                            -8.384833
+                        ],
+                        [
+                            -35.045945,
+                            -8.385498
+                        ],
+                        [
+                            -35.045719,
+                            -8.385843
+                        ],
+                        [
+                            -35.0457,
+                            -8.38623
+                        ],
+                        [
+                            -35.046147,
+                            -8.386423
+                        ],
+                        [
+                            -35.046409,
+                            -8.386327
+                        ],
+                        [
+                            -35.04644,
+                            -8.385903
+                        ],
+                        [
+                            -35.046685,
+                            -8.385595
+                        ],
+                        [
+                            -35.0471,
+                            -8.385528
+                        ],
+                        [
+                            -35.047375,
+                            -8.385522
+                        ],
+                        [
+                            -35.047351,
+                            -8.385958
+                        ],
+                        [
+                            -35.046908,
+                            -8.387026
+                        ],
+                        [
+                            -35.045288,
+                            -8.387008
+                        ],
+                        [
+                            -35.044854,
+                            -8.387002
+                        ],
+                        [
+                            -35.044023,
+                            -8.386983
+                        ],
+                        [
+                            -35.04401,
+                            -8.386856
+                        ],
+                        [
+                            -35.044007,
+                            -8.384337
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUALYVE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-23",
+                "url": "https://www.bic-code.org/facility-codes/brsualyve/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.045766,
+                    -8.385861
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUALYVE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-23",
+                "url": "https://www.bic-code.org/facility-codes/brsualyve/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.930414,
+                            15.818592
+                        ],
+                        [
+                            -87.932551,
+                            15.820134
+                        ],
+                        [
+                            -87.932576,
+                            15.820186
+                        ],
+                        [
+                            -87.932716,
+                            15.819923
+                        ],
+                        [
+                            -87.932863,
+                            15.819103
+                        ],
+                        [
+                            -87.933038,
+                            15.818798
+                        ],
+                        [
+                            -87.933354,
+                            15.818281
+                        ],
+                        [
+                            -87.932515,
+                            15.817784
+                        ],
+                        [
+                            -87.93198,
+                            15.818486
+                        ],
+                        [
+                            -87.930935,
+                            15.817846
+                        ],
+                        [
+                            -87.930414,
+                            15.818592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRALMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/hnpcralma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.932123,
+                    15.818884
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRALMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/hnpcralma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

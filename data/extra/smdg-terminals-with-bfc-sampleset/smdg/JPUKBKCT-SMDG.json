@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.234279,
+                            34.668924
+                        ],
+                        [
+                            135.236453,
+                            34.665305
+                        ],
+                        [
+                            135.237247,
+                            34.665595
+                        ],
+                        [
+                            135.235057,
+                            34.669239
+                        ],
+                        [
+                            135.234279,
+                            34.668924
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.227983,
+                            34.662675
+                        ],
+                        [
+                            135.228283,
+                            34.662031
+                        ],
+                        [
+                            135.236804,
+                            34.664661
+                        ],
+                        [
+                            135.236449,
+                            34.665294
+                        ],
+                        [
+                            135.227983,
+                            34.662675
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.230756,
+                            34.667958
+                        ],
+                        [
+                            135.230692,
+                            34.667821
+                        ],
+                        [
+                            135.231582,
+                            34.666375
+                        ],
+                        [
+                            135.224063,
+                            34.663319
+                        ],
+                        [
+                            135.224553,
+                            34.662512
+                        ],
+                        [
+                            135.224475,
+                            34.662483
+                        ],
+                        [
+                            135.225259,
+                            34.661206
+                        ],
+                        [
+                            135.226015,
+                            34.661507
+                        ],
+                        [
+                            135.225729,
+                            34.661983
+                        ],
+                        [
+                            135.236448,
+                            34.665302
+                        ],
+                        [
+                            135.234039,
+                            34.66931
+                        ],
+                        [
+                            135.230756,
+                            34.667958
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.235463,
+                    34.667597
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.2315,
+                    34.663467
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.228697,
+                    34.664811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBKCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-10-03",
+                "remarks": "Google Earth imagery dated April 2024.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

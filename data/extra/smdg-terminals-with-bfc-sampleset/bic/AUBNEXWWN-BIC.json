@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.184154,
+                            -27.374149
+                        ],
+                        [
+                            153.178524,
+                            -27.371039
+                        ],
+                        [
+                            153.177231,
+                            -27.372906
+                        ],
+                        [
+                            153.182795,
+                            -27.376045
+                        ],
+                        [
+                            153.184154,
+                            -27.374149
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEXWWN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aubnexwwn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.181372,
+                    -27.373658
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUBNEXWWN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aubnexwwn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

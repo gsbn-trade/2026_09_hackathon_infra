@@ -1,0 +1,239 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.498555,
+                            38.33548
+                        ],
+                        [
+                            -0.498732,
+                            38.336561
+                        ],
+                        [
+                            -0.499708,
+                            38.336242
+                        ],
+                        [
+                            -0.501425,
+                            38.335939
+                        ],
+                        [
+                            -0.501746,
+                            38.335758
+                        ],
+                        [
+                            -0.50202,
+                            38.335371
+                        ],
+                        [
+                            -0.501988,
+                            38.334895
+                        ],
+                        [
+                            -0.498555,
+                            38.33548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.500883,
+                            38.334954
+                        ],
+                        [
+                            -0.501596,
+                            38.334845
+                        ],
+                        [
+                            -0.501698,
+                            38.334571
+                        ],
+                        [
+                            -0.500931,
+                            38.333902
+                        ],
+                        [
+                            -0.500561,
+                            38.333856
+                        ],
+                        [
+                            -0.500883,
+                            38.334954
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.501049,
+                            38.333784
+                        ],
+                        [
+                            -0.501779,
+                            38.334436
+                        ],
+                        [
+                            -0.502015,
+                            38.334478
+                        ],
+                        [
+                            -0.502219,
+                            38.334563
+                        ],
+                        [
+                            -0.502396,
+                            38.334659
+                        ],
+                        [
+                            -0.503018,
+                            38.334508
+                        ],
+                        [
+                            -0.503721,
+                            38.334062
+                        ],
+                        [
+                            -0.504198,
+                            38.333452
+                        ],
+                        [
+                            -0.503565,
+                            38.333161
+                        ],
+                        [
+                            -0.502889,
+                            38.333001
+                        ],
+                        [
+                            -0.502127,
+                            38.332993
+                        ],
+                        [
+                            -0.501473,
+                            38.333174
+                        ],
+                        [
+                            -0.501114,
+                            38.333338
+                        ],
+                        [
+                            -0.500974,
+                            38.333473
+                        ],
+                        [
+                            -0.500985,
+                            38.333658
+                        ],
+                        [
+                            -0.501049,
+                            38.333784
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.500341,
+                    38.335716
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.501092,
+                    38.334514
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.502161,
+                    38.333783
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCQVHG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcqvhg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

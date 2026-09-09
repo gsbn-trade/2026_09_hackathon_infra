@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -13.712747,
+                            9.513566
+                        ],
+                        [
+                            -13.712643,
+                            9.51396
+                        ],
+                        [
+                            -13.712159,
+                            9.513917
+                        ],
+                        [
+                            -13.71197,
+                            9.513899
+                        ],
+                        [
+                            -13.711965,
+                            9.513944
+                        ],
+                        [
+                            -13.710684,
+                            9.513697
+                        ],
+                        [
+                            -13.710529,
+                            9.514319
+                        ],
+                        [
+                            -13.710411,
+                            9.514297
+                        ],
+                        [
+                            -13.709887,
+                            9.514199
+                        ],
+                        [
+                            -13.709789,
+                            9.514181
+                        ],
+                        [
+                            -13.709804,
+                            9.514093
+                        ],
+                        [
+                            -13.709206,
+                            9.513968
+                        ],
+                        [
+                            -13.709357,
+                            9.513195
+                        ],
+                        [
+                            -13.710422,
+                            9.513432
+                        ],
+                        [
+                            -13.710463,
+                            9.513122
+                        ],
+                        [
+                            -13.712603,
+                            9.513538
+                        ],
+                        [
+                            -13.712747,
+                            9.513566
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckyagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.711023,
+                    9.513817
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckyagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

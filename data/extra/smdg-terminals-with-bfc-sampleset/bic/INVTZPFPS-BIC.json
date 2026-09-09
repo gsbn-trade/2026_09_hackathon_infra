@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            83.1901,
+                            17.6619
+                        ],
+                        [
+                            83.1881,
+                            17.6618
+                        ],
+                        [
+                            83.1875,
+                            17.6612
+                        ],
+                        [
+                            83.1873,
+                            17.6611
+                        ],
+                        [
+                            83.1873,
+                            17.6606
+                        ],
+                        [
+                            83.1899,
+                            17.6605
+                        ],
+                        [
+                            83.1901,
+                            17.6619
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZPFPS",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/invtzpfps/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    83.188614,
+                    17.661286
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZPFPS",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/invtzpfps/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.967055,
+                            53.468635
+                        ],
+                        [
+                            -2.967084,
+                            53.467891
+                        ],
+                        [
+                            -2.966161,
+                            53.467926
+                        ],
+                        [
+                            -2.965308,
+                            53.468011
+                        ],
+                        [
+                            -2.9653,
+                            53.468635
+                        ],
+                        [
+                            -2.967055,
+                            53.468635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCHHG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-10-08",
+                "url": "https://www.bic-code.org/facility-codes/gblivchhg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.966327,
+                    53.468289
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCHHG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-10-08",
+                "url": "https://www.bic-code.org/facility-codes/gblivchhg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

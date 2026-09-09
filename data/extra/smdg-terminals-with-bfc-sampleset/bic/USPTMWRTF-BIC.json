@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.374988,
+                            36.803332
+                        ],
+                        [
+                            -76.374916,
+                            36.803269
+                        ],
+                        [
+                            -76.374748,
+                            36.803132
+                        ],
+                        [
+                            -76.374253,
+                            36.803377
+                        ],
+                        [
+                            -76.374271,
+                            36.803413
+                        ],
+                        [
+                            -76.374136,
+                            36.803473
+                        ],
+                        [
+                            -76.37407,
+                            36.803426
+                        ],
+                        [
+                            -76.373989,
+                            36.80339
+                        ],
+                        [
+                            -76.373742,
+                            36.803143
+                        ],
+                        [
+                            -76.373542,
+                            36.803233
+                        ],
+                        [
+                            -76.374167,
+                            36.804013
+                        ],
+                        [
+                            -76.375135,
+                            36.803501
+                        ],
+                        [
+                            -76.374968,
+                            36.803356
+                        ],
+                        [
+                            -76.374988,
+                            36.803332
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMWRTF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-22",
+                "url": "https://www.bic-code.org/facility-codes/usptmwrtf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.374422,
+                    36.803385
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USPTMWRTF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-22",
+                "url": "https://www.bic-code.org/facility-codes/usptmwrtf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

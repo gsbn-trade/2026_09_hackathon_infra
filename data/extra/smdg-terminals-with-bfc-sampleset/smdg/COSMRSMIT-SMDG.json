@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.212734,
+                            11.251003
+                        ],
+                        [
+                            -74.215004,
+                            11.252217
+                        ],
+                        [
+                            -74.214958,
+                            11.251786
+                        ],
+                        [
+                            -74.215073,
+                            11.251303
+                        ],
+                        [
+                            -74.215313,
+                            11.2511
+                        ],
+                        [
+                            -74.216288,
+                            11.248908
+                        ],
+                        [
+                            -74.214461,
+                            11.248046
+                        ],
+                        [
+                            -74.214301,
+                            11.248076
+                        ],
+                        [
+                            -74.21372,
+                            11.247967
+                        ],
+                        [
+                            -74.213613,
+                            11.248511
+                        ],
+                        [
+                            -74.213396,
+                            11.249171
+                        ],
+                        [
+                            -74.21301,
+                            11.249962
+                        ],
+                        [
+                            -74.21277,
+                            11.250539
+                        ],
+                        [
+                            -74.212945,
+                            11.250614
+                        ],
+                        [
+                            -74.212734,
+                            11.251003
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COSMRSMIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.215032,
+                            11.252229
+                        ],
+                        [
+                            -74.215278,
+                            11.252229
+                        ],
+                        [
+                            -74.215278,
+                            11.2514
+                        ],
+                        [
+                            -74.216556,
+                            11.249118
+                        ],
+                        [
+                            -74.216273,
+                            11.248893
+                        ],
+                        [
+                            -74.21531,
+                            11.251106
+                        ],
+                        [
+                            -74.215053,
+                            11.251311
+                        ],
+                        [
+                            -74.214952,
+                            11.251788
+                        ],
+                        [
+                            -74.215032,
+                            11.252229
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COSMRSMIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.214021,
+                    11.250014
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COSMRSMIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.215418,
+                    11.251145
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COSMRSMIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

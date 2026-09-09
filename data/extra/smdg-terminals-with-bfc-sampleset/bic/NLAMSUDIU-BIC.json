@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.756194,
+                            52.408709
+                        ],
+                        [
+                            4.755406,
+                            52.408795
+                        ],
+                        [
+                            4.754241,
+                            52.408918
+                        ],
+                        [
+                            4.75176,
+                            52.409199
+                        ],
+                        [
+                            4.752824,
+                            52.41259
+                        ],
+                        [
+                            4.75305,
+                            52.412642
+                        ],
+                        [
+                            4.753136,
+                            52.412707
+                        ],
+                        [
+                            4.756147,
+                            52.413027
+                        ],
+                        [
+                            4.756215,
+                            52.413035
+                        ],
+                        [
+                            4.75645,
+                            52.412217
+                        ],
+                        [
+                            4.756569,
+                            52.411804
+                        ],
+                        [
+                            4.757266,
+                            52.40933
+                        ],
+                        [
+                            4.757255,
+                            52.409151
+                        ],
+                        [
+                            4.757095,
+                            52.408853
+                        ],
+                        [
+                            4.756365,
+                            52.408691
+                        ],
+                        [
+                            4.756355,
+                            52.408689
+                        ],
+                        [
+                            4.756194,
+                            52.408709
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSUDIU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-29",
+                "url": "https://www.bic-code.org/facility-codes/nlamsudiu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.755442,
+                    52.410416
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLAMSUDIU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-29",
+                "url": "https://www.bic-code.org/facility-codes/nlamsudiu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

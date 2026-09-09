@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.687359,
+                            42.403573
+                        ],
+                        [
+                            -8.688429,
+                            42.404364
+                        ],
+                        [
+                            -8.689562,
+                            42.405488
+                        ],
+                        [
+                            -8.690508,
+                            42.406218
+                        ],
+                        [
+                            -8.691517,
+                            42.406036
+                        ],
+                        [
+                            -8.69479,
+                            42.404759
+                        ],
+                        [
+                            -8.696437,
+                            42.404105
+                        ],
+                        [
+                            -8.696252,
+                            42.403832
+                        ],
+                        [
+                            -8.69584,
+                            42.403953
+                        ],
+                        [
+                            -8.693061,
+                            42.403436
+                        ],
+                        [
+                            -8.693617,
+                            42.401795
+                        ],
+                        [
+                            -8.693308,
+                            42.401688
+                        ],
+                        [
+                            -8.692155,
+                            42.402327
+                        ],
+                        [
+                            -8.689829,
+                            42.403041
+                        ],
+                        [
+                            -8.687791,
+                            42.403269
+                        ],
+                        [
+                            -8.687359,
+                            42.403573
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGRVNH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esmpgrvnh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.691738,
+                    42.403841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESMPGRVNH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esmpgrvnh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

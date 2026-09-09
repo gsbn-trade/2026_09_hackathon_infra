@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            41.659954,
+                            41.649462
+                        ],
+                        [
+                            41.659907,
+                            41.64796
+                        ],
+                        [
+                            41.66246,
+                            41.648784
+                        ],
+                        [
+                            41.66262,
+                            41.648851
+                        ],
+                        [
+                            41.66278,
+                            41.648918
+                        ],
+                        [
+                            41.662713,
+                            41.649075
+                        ],
+                        [
+                            41.662626,
+                            41.649133
+                        ],
+                        [
+                            41.662513,
+                            41.649167
+                        ],
+                        [
+                            41.661891,
+                            41.649043
+                        ],
+                        [
+                            41.661609,
+                            41.649074
+                        ],
+                        [
+                            41.661083,
+                            41.649209
+                        ],
+                        [
+                            41.659954,
+                            41.649462
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSSELU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/gebusselu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.661676,
+                    41.649012
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSSELU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/gebusselu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

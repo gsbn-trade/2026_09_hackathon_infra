@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.722106,
+                            4.983222
+                        ],
+                        [
+                            -1.724179,
+                            4.982768
+                        ],
+                        [
+                            -1.723989,
+                            4.981384
+                        ],
+                        [
+                            -1.723428,
+                            4.981496
+                        ],
+                        [
+                            -1.723404,
+                            4.981293
+                        ],
+                        [
+                            -1.72283,
+                            4.981539
+                        ],
+                        [
+                            -1.722479,
+                            4.981555
+                        ],
+                        [
+                            -1.722149,
+                            4.981964
+                        ],
+                        [
+                            -1.722127,
+                            4.982698
+                        ],
+                        [
+                            -1.722106,
+                            4.983222
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDTHYQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdthyq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.72288,
+                    4.982114
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GHTKDTHYQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-15",
+                "url": "https://www.bic-code.org/facility-codes/ghtkdthyq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.83262,
+                            13.584598
+                        ],
+                        [
+                            -89.832569,
+                            13.58324
+                        ],
+                        [
+                            -89.830909,
+                            13.583282
+                        ],
+                        [
+                            -89.830659,
+                            13.584189
+                        ],
+                        [
+                            -89.830646,
+                            13.584241
+                        ],
+                        [
+                            -89.830651,
+                            13.584303
+                        ],
+                        [
+                            -89.830654,
+                            13.584345
+                        ],
+                        [
+                            -89.830726,
+                            13.584621
+                        ],
+                        [
+                            -89.83262,
+                            13.584598
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJBRZE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-17",
+                "url": "https://www.bic-code.org/facility-codes/svaqjbrze/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.831339,
+                    13.584157
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJBRZE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://www.bic-code.org/facility-codes/svaqjbrze/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

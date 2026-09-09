@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.91493,
+                            44.1458
+                        ],
+                        [
+                            9.91648,
+                            44.1467
+                        ],
+                        [
+                            9.91799,
+                            44.1469
+                        ],
+                        [
+                            9.91872,
+                            44.1474
+                        ],
+                        [
+                            9.91776,
+                            44.1485
+                        ],
+                        [
+                            9.91452,
+                            44.1461
+                        ],
+                        [
+                            9.91493,
+                            44.1458
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPEKJSJ",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2026-05-28",
+                "url": "https://www.bic-code.org/facility-codes/itspekjsj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.916476,
+                    44.146743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPEKJSJ",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2026-05-28",
+                "url": "https://www.bic-code.org/facility-codes/itspekjsj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

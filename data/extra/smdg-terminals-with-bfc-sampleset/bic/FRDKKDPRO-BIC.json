@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.195006,
+                            51.008129
+                        ],
+                        [
+                            2.19517,
+                            51.006245
+                        ],
+                        [
+                            2.195296,
+                            51.005092
+                        ],
+                        [
+                            2.195473,
+                            51.003852
+                        ],
+                        [
+                            2.19728,
+                            51.004019
+                        ],
+                        [
+                            2.196496,
+                            51.008224
+                        ],
+                        [
+                            2.195006,
+                            51.008129
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frdkkdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.195533,
+                            51.003858
+                        ],
+                        [
+                            2.195672,
+                            51.00387
+                        ],
+                        [
+                            2.195707,
+                            51.003705
+                        ],
+                        [
+                            2.195563,
+                            51.003692
+                        ],
+                        [
+                            2.195533,
+                            51.003858
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frdkkdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.195675,
+                    51.006241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frdkkdpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.195602,
+                    51.003797
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRDKKDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frdkkdpro/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

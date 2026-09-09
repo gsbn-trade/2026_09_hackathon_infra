@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            83.251457,
+                            17.709018
+                        ],
+                        [
+                            83.2519,
+                            17.709547
+                        ],
+                        [
+                            83.244331,
+                            17.711049
+                        ],
+                        [
+                            83.24476,
+                            17.710691
+                        ],
+                        [
+                            83.249738,
+                            17.706997
+                        ],
+                        [
+                            83.251457,
+                            17.709018
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZQFLN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/invtzqfln/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    83.24894,
+                    17.709387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZQFLN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/invtzqfln/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

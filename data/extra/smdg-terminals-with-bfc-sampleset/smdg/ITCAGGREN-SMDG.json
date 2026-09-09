@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.077261,
+                            39.209501
+                        ],
+                        [
+                            9.077548,
+                            39.209726
+                        ],
+                        [
+                            9.079061,
+                            39.20851
+                        ],
+                        [
+                            9.079241,
+                            39.208657
+                        ],
+                        [
+                            9.079024,
+                            39.208829
+                        ],
+                        [
+                            9.079264,
+                            39.209014
+                        ],
+                        [
+                            9.079023,
+                            39.209213
+                        ],
+                        [
+                            9.080854,
+                            39.21067
+                        ],
+                        [
+                            9.080158,
+                            39.211202
+                        ],
+                        [
+                            9.080614,
+                            39.211538
+                        ],
+                        [
+                            9.082053,
+                            39.212617
+                        ],
+                        [
+                            9.081375,
+                            39.213121
+                        ],
+                        [
+                            9.080153,
+                            39.212582
+                        ],
+                        [
+                            9.079051,
+                            39.211963
+                        ],
+                        [
+                            9.078156,
+                            39.212678
+                        ],
+                        [
+                            9.077944,
+                            39.212525
+                        ],
+                        [
+                            9.07907,
+                            39.211624
+                        ],
+                        [
+                            9.077054,
+                            39.210098
+                        ],
+                        [
+                            9.076962,
+                            39.210173
+                        ],
+                        [
+                            9.076694,
+                            39.209958
+                        ],
+                        [
+                            9.077261,
+                            39.209501
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCAGGREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.077546,
+                            39.2097
+                        ],
+                        [
+                            9.077249,
+                            39.209475
+                        ],
+                        [
+                            9.078794,
+                            39.208278
+                        ],
+                        [
+                            9.07906,
+                            39.208508
+                        ],
+                        [
+                            9.077546,
+                            39.2097
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCAGGREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.078944,
+                    39.210652
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCAGGREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.078039,
+                    39.209132
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCAGGREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

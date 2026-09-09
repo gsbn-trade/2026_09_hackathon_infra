@@ -1,0 +1,305 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.112422,
+                            38.721865
+                        ],
+                        [
+                            -9.109906,
+                            38.724317
+                        ],
+                        [
+                            -9.109421,
+                            38.724
+                        ],
+                        [
+                            -9.108925,
+                            38.72403
+                        ],
+                        [
+                            -9.105348,
+                            38.727031
+                        ],
+                        [
+                            -9.105123,
+                            38.727457
+                        ],
+                        [
+                            -9.105176,
+                            38.727474
+                        ],
+                        [
+                            -9.105101,
+                            38.728322
+                        ],
+                        [
+                            -9.105697,
+                            38.728356
+                        ],
+                        [
+                            -9.105733,
+                            38.728338
+                        ],
+                        [
+                            -9.10576,
+                            38.728311
+                        ],
+                        [
+                            -9.106101,
+                            38.728558
+                        ],
+                        [
+                            -9.106232,
+                            38.728445
+                        ],
+                        [
+                            -9.106392,
+                            38.728562
+                        ],
+                        [
+                            -9.106497,
+                            38.728476
+                        ],
+                        [
+                            -9.106944,
+                            38.728806
+                        ],
+                        [
+                            -9.107303,
+                            38.728447
+                        ],
+                        [
+                            -9.107648,
+                            38.728133
+                        ],
+                        [
+                            -9.10803,
+                            38.727809
+                        ],
+                        [
+                            -9.109271,
+                            38.726898
+                        ],
+                        [
+                            -9.109768,
+                            38.726455
+                        ],
+                        [
+                            -9.110413,
+                            38.725777
+                        ],
+                        [
+                            -9.110393,
+                            38.725765
+                        ],
+                        [
+                            -9.110759,
+                            38.72539
+                        ],
+                        [
+                            -9.110766,
+                            38.725278
+                        ],
+                        [
+                            -9.110856,
+                            38.725278
+                        ],
+                        [
+                            -9.111038,
+                            38.725072
+                        ],
+                        [
+                            -9.111042,
+                            38.725037
+                        ],
+                        [
+                            -9.111064,
+                            38.725035
+                        ],
+                        [
+                            -9.111399,
+                            38.72453
+                        ],
+                        [
+                            -9.111469,
+                            38.724566
+                        ],
+                        [
+                            -9.113192,
+                            38.722589
+                        ],
+                        [
+                            -9.113127,
+                            38.722546
+                        ],
+                        [
+                            -9.113278,
+                            38.72241
+                        ],
+                        [
+                            -9.112422,
+                            38.721865
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.11241,
+                            38.721859
+                        ],
+                        [
+                            -9.111983,
+                            38.721588
+                        ],
+                        [
+                            -9.109506,
+                            38.724039
+                        ],
+                        [
+                            -9.109907,
+                            38.724297
+                        ],
+                        [
+                            -9.11241,
+                            38.721859
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.108908,
+                            38.724023
+                        ],
+                        [
+                            -9.108385,
+                            38.723663
+                        ],
+                        [
+                            -9.10483,
+                            38.726704
+                        ],
+                        [
+                            -9.10534,
+                            38.727025
+                        ],
+                        [
+                            -9.108908,
+                            38.724023
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.108972,
+                    38.726035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.111243,
+                    38.722728
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.107274,
+                    38.725088
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISSOTA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal map at www.portodelisboa.pt. YILPORT advised to exclude the area outside the gate at the northern end.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

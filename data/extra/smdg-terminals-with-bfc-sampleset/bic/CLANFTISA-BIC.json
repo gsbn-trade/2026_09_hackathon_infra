@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.31066,
+                            -23.774192
+                        ],
+                        [
+                            -70.310643,
+                            -23.774604
+                        ],
+                        [
+                            -70.310842,
+                            -23.774871
+                        ],
+                        [
+                            -70.309952,
+                            -23.775203
+                        ],
+                        [
+                            -70.30748,
+                            -23.775986
+                        ],
+                        [
+                            -70.30653,
+                            -23.773436
+                        ],
+                        [
+                            -70.31066,
+                            -23.774192
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "CLANFTISA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/clanftisa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.309538,
+                    -23.774641
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "CLANFTISA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/clanftisa/"
+            }
+        }
+    ]
+}

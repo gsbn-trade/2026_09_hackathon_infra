@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.87436,
+                            37.147801
+                        ],
+                        [
+                            -6.873865,
+                            37.148344
+                        ],
+                        [
+                            -6.873809,
+                            37.148379
+                        ],
+                        [
+                            -6.873756,
+                            37.148395
+                        ],
+                        [
+                            -6.871171,
+                            37.149143
+                        ],
+                        [
+                            -6.87095,
+                            37.149456
+                        ],
+                        [
+                            -6.874029,
+                            37.151138
+                        ],
+                        [
+                            -6.876814,
+                            37.152613
+                        ],
+                        [
+                            -6.877695,
+                            37.153045
+                        ],
+                        [
+                            -6.87683,
+                            37.154127
+                        ],
+                        [
+                            -6.877176,
+                            37.154317
+                        ],
+                        [
+                            -6.876938,
+                            37.154603
+                        ],
+                        [
+                            -6.883909,
+                            37.158443
+                        ],
+                        [
+                            -6.884215,
+                            37.158083
+                        ],
+                        [
+                            -6.87847,
+                            37.154918
+                        ],
+                        [
+                            -6.879467,
+                            37.153785
+                        ],
+                        [
+                            -6.880862,
+                            37.152183
+                        ],
+                        [
+                            -6.882652,
+                            37.153244
+                        ],
+                        [
+                            -6.884476,
+                            37.154163
+                        ],
+                        [
+                            -6.885177,
+                            37.154663
+                        ],
+                        [
+                            -6.885668,
+                            37.154923
+                        ],
+                        [
+                            -6.885736,
+                            37.154903
+                        ],
+                        [
+                            -6.886063,
+                            37.154444
+                        ],
+                        [
+                            -6.881154,
+                            37.151606
+                        ],
+                        [
+                            -6.877786,
+                            37.149737
+                        ],
+                        [
+                            -6.87436,
+                            37.147801
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESHUVPDH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.886081,
+                            37.154444
+                        ],
+                        [
+                            -6.886435,
+                            37.15405
+                        ],
+                        [
+                            -6.874625,
+                            37.147294
+                        ],
+                        [
+                            -6.8743,
+                            37.14772
+                        ],
+                        [
+                            -6.886081,
+                            37.154444
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESHUVPDH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.878746,
+                    37.152471
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESHUVPDH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.881504,
+                    37.15159
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESHUVPDH",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

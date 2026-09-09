@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -56.296378,
+                            -34.852998
+                        ],
+                        [
+                            -56.294267,
+                            -34.853982
+                        ],
+                        [
+                            -56.291043,
+                            -34.851971
+                        ],
+                        [
+                            -56.291091,
+                            -34.851786
+                        ],
+                        [
+                            -56.294476,
+                            -34.850124
+                        ],
+                        [
+                            -56.296378,
+                            -34.852998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "UYMVDGQGC",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/uymvdgqgc/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.293939,
+                    -34.85231
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "UYMVDGQGC",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/uymvdgqgc/"
+            }
+        }
+    ]
+}

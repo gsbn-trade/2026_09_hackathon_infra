@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.972046,
+                            13.058179
+                        ],
+                        [
+                            100.971612,
+                            13.0582
+                        ],
+                        [
+                            100.969433,
+                            13.058118
+                        ],
+                        [
+                            100.96947,
+                            13.056696
+                        ],
+                        [
+                            100.969655,
+                            13.054398
+                        ],
+                        [
+                            100.971062,
+                            13.054423
+                        ],
+                        [
+                            100.971755,
+                            13.054333
+                        ],
+                        [
+                            100.972281,
+                            13.054401
+                        ],
+                        [
+                            100.972511,
+                            13.054696
+                        ],
+                        [
+                            100.972427,
+                            13.054944
+                        ],
+                        [
+                            100.972173,
+                            13.055449
+                        ],
+                        [
+                            100.972056,
+                            13.056015
+                        ],
+                        [
+                            100.97194,
+                            13.056871
+                        ],
+                        [
+                            100.972046,
+                            13.058179
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHANUV",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2024-04-11",
+                "url": "https://www.bic-code.org/facility-codes/thlchanuv/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.971462,
+                    13.056064
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "THLCHANUV",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2024-04-11",
+                "url": "https://www.bic-code.org/facility-codes/thlchanuv/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            100.398335,
+                            5.423161
+                        ],
+                        [
+                            100.398956,
+                            5.422003
+                        ],
+                        [
+                            100.4,
+                            5.42261
+                        ],
+                        [
+                            100.399581,
+                            5.423564
+                        ],
+                        [
+                            100.398335,
+                            5.423161
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENEKGA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mypenekga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.399041,
+                    5.4229
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPENEKGA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/mypenekga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

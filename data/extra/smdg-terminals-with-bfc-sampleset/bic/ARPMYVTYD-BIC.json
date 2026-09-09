@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.768209,
+                            -32.939268
+                        ],
+                        [
+                            -68.769312,
+                            -32.938987
+                        ],
+                        [
+                            -68.770095,
+                            -32.940869
+                        ],
+                        [
+                            -68.769819,
+                            -32.940925
+                        ],
+                        [
+                            -68.769983,
+                            -32.941325
+                        ],
+                        [
+                            -68.767941,
+                            -32.941744
+                        ],
+                        [
+                            -68.767613,
+                            -32.940819
+                        ],
+                        [
+                            -68.768448,
+                            -32.940563
+                        ],
+                        [
+                            -68.768031,
+                            -32.939287
+                        ],
+                        [
+                            -68.768209,
+                            -32.939268
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARPMYVTYD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arpmyvtyd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.768766,
+                    -32.940306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARPMYVTYD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://www.bic-code.org/facility-codes/arpmyvtyd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

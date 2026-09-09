@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            15.9219,
+                            38.4635
+                        ],
+                        [
+                            15.9233,
+                            38.463
+                        ],
+                        [
+                            15.9236,
+                            38.4632
+                        ],
+                        [
+                            15.9246,
+                            38.4644
+                        ],
+                        [
+                            15.9243,
+                            38.4646
+                        ],
+                        [
+                            15.9241,
+                            38.4642
+                        ],
+                        [
+                            15.9236,
+                            38.464
+                        ],
+                        [
+                            15.923,
+                            38.4642
+                        ],
+                        [
+                            15.923,
+                            38.4644
+                        ],
+                        [
+                            15.9227,
+                            38.4645
+                        ],
+                        [
+                            15.9219,
+                            38.4635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGITQJDZ",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2026-06-25",
+                "url": "https://www.bic-code.org/facility-codes/itgitqjdz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.923273,
+                    38.463955
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGITQJDZ",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2026-06-25",
+                "url": "https://www.bic-code.org/facility-codes/itgitqjdz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

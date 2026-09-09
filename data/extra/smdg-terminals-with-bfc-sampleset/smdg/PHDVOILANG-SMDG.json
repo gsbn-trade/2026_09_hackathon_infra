@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            125.654578,
+                            7.174018
+                        ],
+                        [
+                            125.656073,
+                            7.168979
+                        ],
+                        [
+                            125.657128,
+                            7.169227
+                        ],
+                        [
+                            125.656962,
+                            7.16998
+                        ],
+                        [
+                            125.6569,
+                            7.170541
+                        ],
+                        [
+                            125.656651,
+                            7.171911
+                        ],
+                        [
+                            125.656208,
+                            7.174224
+                        ],
+                        [
+                            125.655917,
+                            7.174281
+                        ],
+                        [
+                            125.654578,
+                            7.174018
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOILANG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by Lorenz",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            125.656206,
+                            7.174226
+                        ],
+                        [
+                            125.657099,
+                            7.169254
+                        ],
+                        [
+                            125.65748,
+                            7.169316
+                        ],
+                        [
+                            125.656635,
+                            7.174281
+                        ],
+                        [
+                            125.656206,
+                            7.174226
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOILANG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "Provided by Lorenz",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.656111,
+                    7.171909
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOILANG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Lorenz",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.656725,
+                    7.172261
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHDVOILANG",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by Lorenz",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

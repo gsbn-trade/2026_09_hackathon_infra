@@ -1,0 +1,181 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.659936,
+                            44.107986
+                        ],
+                        [
+                            28.659506,
+                            44.102116
+                        ],
+                        [
+                            28.659743,
+                            44.102162
+                        ],
+                        [
+                            28.659549,
+                            44.099774
+                        ],
+                        [
+                            28.66,
+                            44.099234
+                        ],
+                        [
+                            28.659871,
+                            44.095752
+                        ],
+                        [
+                            28.659076,
+                            44.095123
+                        ],
+                        [
+                            28.658927,
+                            44.09196
+                        ],
+                        [
+                            28.659163,
+                            44.091452
+                        ],
+                        [
+                            28.660794,
+                            44.091375
+                        ],
+                        [
+                            28.661287,
+                            44.091668
+                        ],
+                        [
+                            28.661609,
+                            44.091606
+                        ],
+                        [
+                            28.661459,
+                            44.090049
+                        ],
+                        [
+                            28.662253,
+                            44.090126
+                        ],
+                        [
+                            28.662725,
+                            44.097216
+                        ],
+                        [
+                            28.66412,
+                            44.097169
+                        ],
+                        [
+                            28.66442,
+                            44.101623
+                        ],
+                        [
+                            28.664849,
+                            44.107848
+                        ],
+                        [
+                            28.659936,
+                            44.107986
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDCSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-10-31",
+                "remarks": "Added Berth.Provided by Bogdan at bsa-romania.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.659926,
+                            44.107994
+                        ],
+                        [
+                            28.65897,
+                            44.108034
+                        ],
+                        [
+                            28.658914,
+                            44.102202
+                        ],
+                        [
+                            28.659566,
+                            44.102226
+                        ],
+                        [
+                            28.659926,
+                            44.107994
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDCSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-10-31",
+                "remarks": "Added Berth.Provided by Bogdan at bsa-romania.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.661012,
+                    44.097486
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDCSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-10-31",
+                "remarks": "Added Berth.Provided by Bogdan at bsa-romania.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.65946,
+                    44.10569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDCSCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-10-31",
+                "remarks": "Added Berth.Provided by Bogdan at bsa-romania.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            23.59913,
+                            38.05143
+                        ],
+                        [
+                            23.599528,
+                            38.051219
+                        ],
+                        [
+                            23.599162,
+                            38.050648
+                        ],
+                        [
+                            23.599012,
+                            38.050708
+                        ],
+                        [
+                            23.598883,
+                            38.050544
+                        ],
+                        [
+                            23.598711,
+                            38.050609
+                        ],
+                        [
+                            23.598402,
+                            38.050332
+                        ],
+                        [
+                            23.598026,
+                            38.050016
+                        ],
+                        [
+                            23.59785,
+                            38.049925
+                        ],
+                        [
+                            23.597542,
+                            38.050476
+                        ],
+                        [
+                            23.598506,
+                            38.051086
+                        ],
+                        [
+                            23.59913,
+                            38.05143
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRCRKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/grpircrkz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.598657,
+                    38.050702
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GRPIRCRKZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-06",
+                "url": "https://www.bic-code.org/facility-codes/grpircrkz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

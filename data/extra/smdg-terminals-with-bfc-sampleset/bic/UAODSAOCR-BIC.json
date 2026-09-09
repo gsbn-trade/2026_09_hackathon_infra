@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.71854,
+                            46.509336
+                        ],
+                        [
+                            30.716244,
+                            46.507166
+                        ],
+                        [
+                            30.715061,
+                            46.505386
+                        ],
+                        [
+                            30.716313,
+                            46.503008
+                        ],
+                        [
+                            30.720186,
+                            46.502657
+                        ],
+                        [
+                            30.720244,
+                            46.506559
+                        ],
+                        [
+                            30.720105,
+                            46.507525
+                        ],
+                        [
+                            30.71927,
+                            46.507501
+                        ],
+                        [
+                            30.719305,
+                            46.507309
+                        ],
+                        [
+                            30.718899,
+                            46.507317
+                        ],
+                        [
+                            30.719015,
+                            46.508299
+                        ],
+                        [
+                            30.718621,
+                            46.508347
+                        ],
+                        [
+                            30.71854,
+                            46.509336
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSAOCR",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "url": "https://www.bic-code.org/facility-codes/uaodsaocr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.718488,
+                    46.506904
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UAODSAOCR",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "url": "https://www.bic-code.org/facility-codes/uaodsaocr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

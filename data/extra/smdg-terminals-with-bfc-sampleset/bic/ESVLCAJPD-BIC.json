@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.533825,
+                            39.490535
+                        ],
+                        [
+                            -0.534848,
+                            39.490593
+                        ],
+                        [
+                            -0.534916,
+                            39.490244
+                        ],
+                        [
+                            -0.537536,
+                            39.490472
+                        ],
+                        [
+                            -0.538258,
+                            39.489758
+                        ],
+                        [
+                            -0.538236,
+                            39.489621
+                        ],
+                        [
+                            -0.537993,
+                            39.489553
+                        ],
+                        [
+                            -0.533931,
+                            39.489268
+                        ],
+                        [
+                            -0.533628,
+                            39.48949
+                        ],
+                        [
+                            -0.533476,
+                            39.490512
+                        ],
+                        [
+                            -0.533825,
+                            39.490535
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESVLCAJPD",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlcajpd/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.535497,
+                    39.490053
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "ESVLCAJPD",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-13",
+                "url": "https://www.bic-code.org/facility-codes/esvlcajpd/"
+            }
+        }
+    ]
+}

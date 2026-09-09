@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.761829,
+                            10.969994
+                        ],
+                        [
+                            -74.762468,
+                            10.970004
+                        ],
+                        [
+                            -74.762473,
+                            10.967703
+                        ],
+                        [
+                            -74.76179,
+                            10.967784
+                        ],
+                        [
+                            -74.761829,
+                            10.969994
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQYYPX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/cobaqyypx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.762078,
+                    10.969096
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQYYPX",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/cobaqyypx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

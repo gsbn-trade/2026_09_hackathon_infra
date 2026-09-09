@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.222913,
+                            58.621474
+                        ],
+                        [
+                            16.224129,
+                            58.620517
+                        ],
+                        [
+                            16.224998,
+                            58.621044
+                        ],
+                        [
+                            16.223888,
+                            58.621881
+                        ],
+                        [
+                            16.222913,
+                            58.621474
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKYINP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-24",
+                "remarks": "THEY MOVED TO THIS NEW LOCATION . REPAIRSHOP",
+                "url": "https://www.bic-code.org/facility-codes/senrkyinp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.223768,
+                    58.621278
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKYINP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "remarks": "THEY MOVED TO THIS NEW LOCATION . REPAIRSHOP",
+                "url": "https://www.bic-code.org/facility-codes/senrkyinp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

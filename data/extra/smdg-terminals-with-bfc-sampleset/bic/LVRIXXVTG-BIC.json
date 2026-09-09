@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.104514,
+                            57.012545
+                        ],
+                        [
+                            24.104586,
+                            57.012084
+                        ],
+                        [
+                            24.104719,
+                            57.011603
+                        ],
+                        [
+                            24.104914,
+                            57.010655
+                        ],
+                        [
+                            24.106726,
+                            57.010746
+                        ],
+                        [
+                            24.10641,
+                            57.012621
+                        ],
+                        [
+                            24.104514,
+                            57.012545
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXXVTG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixxvtg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.102731,
+                            57.012006
+                        ],
+                        [
+                            24.102953,
+                            57.010531
+                        ],
+                        [
+                            24.104677,
+                            57.010667
+                        ],
+                        [
+                            24.104446,
+                            57.012089
+                        ],
+                        [
+                            24.102731,
+                            57.012006
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXXVTG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixxvtg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.105198,
+                    57.011828
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXXVTG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixxvtg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.103508,
+                    57.01146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LVRIXXVTG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/lvrixxvtg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

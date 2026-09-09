@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.327555,
+                            51.954692
+                        ],
+                        [
+                            1.327056,
+                            51.953942
+                        ],
+                        [
+                            1.329089,
+                            51.953267
+                        ],
+                        [
+                            1.329706,
+                            51.953942
+                        ],
+                        [
+                            1.327555,
+                            51.954692
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GBFXTCOSA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-31",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtcosa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.328192,
+                    51.954107
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GBFXTCOSA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-31",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtcosa/"
+            }
+        }
+    ]
+}

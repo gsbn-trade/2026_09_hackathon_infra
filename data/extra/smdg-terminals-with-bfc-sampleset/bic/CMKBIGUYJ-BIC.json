@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.86644,
+                            2.723874
+                        ],
+                        [
+                            9.862005,
+                            2.728282
+                        ],
+                        [
+                            9.859901,
+                            2.726203
+                        ],
+                        [
+                            9.862371,
+                            2.723691
+                        ],
+                        [
+                            9.863857,
+                            2.725084
+                        ],
+                        [
+                            9.864383,
+                            2.725153
+                        ],
+                        [
+                            9.866006,
+                            2.723372
+                        ],
+                        [
+                            9.86644,
+                            2.723874
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "CMKBIGUYJ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-04-05",
+                "url": "https://www.bic-code.org/facility-codes/cmkbiguyj/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.863925,
+                    2.724942
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "CMKBIGUYJ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-04-05",
+                "url": "https://www.bic-code.org/facility-codes/cmkbiguyj/"
+            }
+        }
+    ]
+}

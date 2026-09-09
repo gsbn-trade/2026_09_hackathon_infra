@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.833305,
+                            35.044051
+                        ],
+                        [
+                            136.836293,
+                            35.036434
+                        ],
+                        [
+                            136.836668,
+                            35.036545
+                        ],
+                        [
+                            136.833806,
+                            35.044194
+                        ],
+                        [
+                            136.833305,
+                            35.044051
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGONCB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.82961,
+                            35.043001
+                        ],
+                        [
+                            136.832443,
+                            35.036271
+                        ],
+                        [
+                            136.833475,
+                            35.036363
+                        ],
+                        [
+                            136.833824,
+                            35.036054
+                        ],
+                        [
+                            136.835347,
+                            35.036519
+                        ],
+                        [
+                            136.835593,
+                            35.036373
+                        ],
+                        [
+                            136.835765,
+                            35.036276
+                        ],
+                        [
+                            136.835995,
+                            35.036328
+                        ],
+                        [
+                            136.836289,
+                            35.036432
+                        ],
+                        [
+                            136.835206,
+                            35.039288
+                        ],
+                        [
+                            136.833252,
+                            35.04403
+                        ],
+                        [
+                            136.82961,
+                            35.043001
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGONCB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.834675,
+                    35.041055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGONCB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.833867,
+                    35.038328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGONCB",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

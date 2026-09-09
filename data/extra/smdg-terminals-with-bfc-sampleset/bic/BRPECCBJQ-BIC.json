@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.575623,
+                            -3.727821
+                        ],
+                        [
+                            -38.576661,
+                            -3.728242
+                        ],
+                        [
+                            -38.57639,
+                            -3.730314
+                        ],
+                        [
+                            -38.57499,
+                            -3.729779
+                        ],
+                        [
+                            -38.575455,
+                            -3.728544
+                        ],
+                        [
+                            -38.575623,
+                            -3.727821
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECCBJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpeccbjq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.57579,
+                    -3.728753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECCBJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpeccbjq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

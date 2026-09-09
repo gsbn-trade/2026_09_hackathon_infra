@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.3392,
+                            -34.6602
+                        ],
+                        [
+                            -58.339311,
+                            -34.662482
+                        ],
+                        [
+                            -58.336475,
+                            -34.662544
+                        ],
+                        [
+                            -58.336407,
+                            -34.661829
+                        ],
+                        [
+                            -58.336269,
+                            -34.661844
+                        ],
+                        [
+                            -58.336177,
+                            -34.661811
+                        ],
+                        [
+                            -58.336157,
+                            -34.661525
+                        ],
+                        [
+                            -58.335964,
+                            -34.661498
+                        ],
+                        [
+                            -58.335866,
+                            -34.661107
+                        ],
+                        [
+                            -58.335088,
+                            -34.661135
+                        ],
+                        [
+                            -58.335032,
+                            -34.660306
+                        ],
+                        [
+                            -58.3352,
+                            -34.6603
+                        ],
+                        [
+                            -58.3392,
+                            -34.6602
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEBHPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/arbuebhpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.336642,
+                    -34.661291
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARBUEBHPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/arbuebhpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.769194,
+                            10.760769
+                        ],
+                        [
+                            106.768571,
+                            10.760125
+                        ],
+                        [
+                            106.769535,
+                            10.75916
+                        ],
+                        [
+                            106.769785,
+                            10.75922
+                        ],
+                        [
+                            106.770758,
+                            10.75996
+                        ],
+                        [
+                            106.770339,
+                            10.760361
+                        ],
+                        [
+                            106.770008,
+                            10.760001
+                        ],
+                        [
+                            106.769194,
+                            10.760769
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCEAG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnceag/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.769673,
+                    10.760046
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCEAG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "url": "https://www.bic-code.org/facility-codes/vnsgnceag/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

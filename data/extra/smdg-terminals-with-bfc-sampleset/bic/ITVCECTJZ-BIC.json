@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.234424,
+                            45.461513
+                        ],
+                        [
+                            12.234502,
+                            45.461583
+                        ],
+                        [
+                            12.234652,
+                            45.461679
+                        ],
+                        [
+                            12.234749,
+                            45.461748
+                        ],
+                        [
+                            12.234862,
+                            45.461861
+                        ],
+                        [
+                            12.234934,
+                            45.461897
+                        ],
+                        [
+                            12.235068,
+                            45.46191
+                        ],
+                        [
+                            12.235208,
+                            45.461875
+                        ],
+                        [
+                            12.235926,
+                            45.461619
+                        ],
+                        [
+                            12.235135,
+                            45.460473
+                        ],
+                        [
+                            12.234395,
+                            45.460721
+                        ],
+                        [
+                            12.234403,
+                            45.461145
+                        ],
+                        [
+                            12.234424,
+                            45.461513
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITVCECTJZ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/itvcectjz/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.234822,
+                    45.461503
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITVCECTJZ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/itvcectjz/"
+            }
+        }
+    ]
+}

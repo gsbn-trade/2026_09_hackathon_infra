@@ -1,0 +1,255 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.344381,
+                            51.454839
+                        ],
+                        [
+                            0.343883,
+                            51.455291
+                        ],
+                        [
+                            0.343536,
+                            51.455327
+                        ],
+                        [
+                            0.34156,
+                            51.457394
+                        ],
+                        [
+                            0.341202,
+                            51.457833
+                        ],
+                        [
+                            0.341676,
+                            51.45802
+                        ],
+                        [
+                            0.340335,
+                            51.460158
+                        ],
+                        [
+                            0.33805,
+                            51.463882
+                        ],
+                        [
+                            0.337695,
+                            51.463792
+                        ],
+                        [
+                            0.33602,
+                            51.463406
+                        ],
+                        [
+                            0.335964,
+                            51.463528
+                        ],
+                        [
+                            0.335639,
+                            51.463464
+                        ],
+                        [
+                            0.335083,
+                            51.463336
+                        ],
+                        [
+                            0.334826,
+                            51.463829
+                        ],
+                        [
+                            0.334073,
+                            51.463778
+                        ],
+                        [
+                            0.333007,
+                            51.462313
+                        ],
+                        [
+                            0.332747,
+                            51.46227
+                        ],
+                        [
+                            0.332351,
+                            51.462074
+                        ],
+                        [
+                            0.332269,
+                            51.461785
+                        ],
+                        [
+                            0.334648,
+                            51.456708
+                        ],
+                        [
+                            0.335673,
+                            51.45681
+                        ],
+                        [
+                            0.338626,
+                            51.455899
+                        ],
+                        [
+                            0.338448,
+                            51.455189
+                        ],
+                        [
+                            0.344381,
+                            51.454839
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.33233,
+                            51.461766
+                        ],
+                        [
+                            0.331495,
+                            51.461616
+                        ],
+                        [
+                            0.333704,
+                            51.45647
+                        ],
+                        [
+                            0.33465,
+                            51.456666
+                        ],
+                        [
+                            0.33233,
+                            51.461766
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.338098,
+                            51.463861
+                        ],
+                        [
+                            0.341673,
+                            51.45802
+                        ],
+                        [
+                            0.342145,
+                            51.458112
+                        ],
+                        [
+                            0.338653,
+                            51.463985
+                        ],
+                        [
+                            0.338098,
+                            51.463861
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.337753,
+                    51.459823
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.332902,
+                    51.459657
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.339733,
+                    51.461568
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBTILLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

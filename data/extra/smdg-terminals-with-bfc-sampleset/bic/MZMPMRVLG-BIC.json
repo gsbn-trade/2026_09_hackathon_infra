@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.590347,
+                            -25.926012
+                        ],
+                        [
+                            32.590905,
+                            -25.927671
+                        ],
+                        [
+                            32.601569,
+                            -25.92467
+                        ],
+                        [
+                            32.601054,
+                            -25.92302
+                        ],
+                        [
+                            32.590556,
+                            -25.925829
+                        ],
+                        [
+                            32.590556,
+                            -25.925964
+                        ],
+                        [
+                            32.590347,
+                            -25.926012
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMPMRVLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmpmrvlg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.593619,
+                    -25.925597
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMPMRVLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmpmrvlg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

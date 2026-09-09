@@ -1,0 +1,373 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.60967,
+                            -26.178979
+                        ],
+                        [
+                            -48.609251,
+                            -26.180058
+                        ],
+                        [
+                            -48.608229,
+                            -26.182911
+                        ],
+                        [
+                            -48.607867,
+                            -26.183931
+                        ],
+                        [
+                            -48.606563,
+                            -26.18344
+                        ],
+                        [
+                            -48.605717,
+                            -26.18548
+                        ],
+                        [
+                            -48.607418,
+                            -26.186047
+                        ],
+                        [
+                            -48.607284,
+                            -26.186381
+                        ],
+                        [
+                            -48.603887,
+                            -26.185254
+                        ],
+                        [
+                            -48.599665,
+                            -26.183856
+                        ],
+                        [
+                            -48.599813,
+                            -26.183494
+                        ],
+                        [
+                            -48.605559,
+                            -26.185391
+                        ],
+                        [
+                            -48.606424,
+                            -26.183389
+                        ],
+                        [
+                            -48.604686,
+                            -26.18273
+                        ],
+                        [
+                            -48.604409,
+                            -26.182609
+                        ],
+                        [
+                            -48.603412,
+                            -26.182052
+                        ],
+                        [
+                            -48.601643,
+                            -26.181072
+                        ],
+                        [
+                            -48.601361,
+                            -26.180951
+                        ],
+                        [
+                            -48.602784,
+                            -26.179872
+                        ],
+                        [
+                            -48.603526,
+                            -26.180522
+                        ],
+                        [
+                            -48.604391,
+                            -26.179705
+                        ],
+                        [
+                            -48.604533,
+                            -26.179562
+                        ],
+                        [
+                            -48.605196,
+                            -26.180164
+                        ],
+                        [
+                            -48.60532,
+                            -26.180032
+                        ],
+                        [
+                            -48.605446,
+                            -26.178888
+                        ],
+                        [
+                            -48.605344,
+                            -26.178805
+                        ],
+                        [
+                            -48.605285,
+                            -26.178859
+                        ],
+                        [
+                            -48.604725,
+                            -26.178389
+                        ],
+                        [
+                            -48.604749,
+                            -26.178294
+                        ],
+                        [
+                            -48.604798,
+                            -26.178187
+                        ],
+                        [
+                            -48.604868,
+                            -26.178096
+                        ],
+                        [
+                            -48.606331,
+                            -26.17667
+                        ],
+                        [
+                            -48.609085,
+                            -26.174264
+                        ],
+                        [
+                            -48.609341,
+                            -26.17405
+                        ],
+                        [
+                            -48.61105,
+                            -26.175234
+                        ],
+                        [
+                            -48.61,
+                            -26.177995
+                        ],
+                        [
+                            -48.60967,
+                            -26.178979
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.607276,
+                            -26.186396
+                        ],
+                        [
+                            -48.607055,
+                            -26.186963
+                        ],
+                        [
+                            -48.599405,
+                            -26.184469
+                        ],
+                        [
+                            -48.599659,
+                            -26.183869
+                        ],
+                        [
+                            -48.607276,
+                            -26.186396
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.607418,
+                            -26.186038
+                        ],
+                        [
+                            -48.605726,
+                            -26.185477
+                        ],
+                        [
+                            -48.605906,
+                            -26.18504
+                        ],
+                        [
+                            -48.607594,
+                            -26.18558
+                        ],
+                        [
+                            -48.607418,
+                            -26.186038
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.605752,
+                            -26.184922
+                        ],
+                        [
+                            -48.605553,
+                            -26.185376
+                        ],
+                        [
+                            -48.599826,
+                            -26.183484
+                        ],
+                        [
+                            -48.600023,
+                            -26.183019
+                        ],
+                        [
+                            -48.605752,
+                            -26.184922
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.605657,
+                    -26.180665
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.604134,
+                    -26.185619
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.606812,
+                    -26.185635
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.603381,
+                    -26.184345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRIOAITP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-12-11",
+                "remarks": "Redrew geofence using OSM as guidance.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.242631,
+                            16.1028
+                        ],
+                        [
+                            108.243928,
+                            16.10313
+                        ],
+                        [
+                            108.243665,
+                            16.104037
+                        ],
+                        [
+                            108.242734,
+                            16.103793
+                        ],
+                        [
+                            108.242631,
+                            16.1028
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADKLSQ",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "remarks": "Its very useful",
+                "url": "https://www.bic-code.org/facility-codes/vndadklsq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.243118,
+                    16.103312
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADKLSQ",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Its very useful",
+                "url": "https://www.bic-code.org/facility-codes/vndadklsq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

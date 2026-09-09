@@ -1,0 +1,337 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.332669,
+                            51.320653
+                        ],
+                        [
+                            4.339039,
+                            51.321354
+                        ],
+                        [
+                            4.339776,
+                            51.321385
+                        ],
+                        [
+                            4.340657,
+                            51.32148
+                        ],
+                        [
+                            4.341621,
+                            51.321601
+                        ],
+                        [
+                            4.341937,
+                            51.321648
+                        ],
+                        [
+                            4.342379,
+                            51.321751
+                        ],
+                        [
+                            4.343004,
+                            51.321945
+                        ],
+                        [
+                            4.343715,
+                            51.322148
+                        ],
+                        [
+                            4.344169,
+                            51.322202
+                        ],
+                        [
+                            4.344619,
+                            51.322208
+                        ],
+                        [
+                            4.345048,
+                            51.322164
+                        ],
+                        [
+                            4.345276,
+                            51.322133
+                        ],
+                        [
+                            4.345492,
+                            51.322122
+                        ],
+                        [
+                            4.345635,
+                            51.322066
+                        ],
+                        [
+                            4.346066,
+                            51.321882
+                        ],
+                        [
+                            4.346288,
+                            51.321752
+                        ],
+                        [
+                            4.346829,
+                            51.321826
+                        ],
+                        [
+                            4.345383,
+                            51.326527
+                        ],
+                        [
+                            4.345,
+                            51.327845
+                        ],
+                        [
+                            4.344316,
+                            51.330167
+                        ],
+                        [
+                            4.34403,
+                            51.33053
+                        ],
+                        [
+                            4.343379,
+                            51.331006
+                        ],
+                        [
+                            4.341067,
+                            51.332656
+                        ],
+                        [
+                            4.340668,
+                            51.332835
+                        ],
+                        [
+                            4.34003,
+                            51.332779
+                        ],
+                        [
+                            4.340534,
+                            51.330888
+                        ],
+                        [
+                            4.34032,
+                            51.33086
+                        ],
+                        [
+                            4.34029,
+                            51.331003
+                        ],
+                        [
+                            4.336323,
+                            51.330609
+                        ],
+                        [
+                            4.336548,
+                            51.329853
+                        ],
+                        [
+                            4.336413,
+                            51.329851
+                        ],
+                        [
+                            4.336861,
+                            51.328371
+                        ],
+                        [
+                            4.343204,
+                            51.328996
+                        ],
+                        [
+                            4.343587,
+                            51.327689
+                        ],
+                        [
+                            4.34397,
+                            51.326365
+                        ],
+                        [
+                            4.32756,
+                            51.324444
+                        ],
+                        [
+                            4.328264,
+                            51.322255
+                        ],
+                        [
+                            4.332104,
+                            51.322693
+                        ],
+                        [
+                            4.332669,
+                            51.320653
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.343759,
+                            51.326984
+                        ],
+                        [
+                            4.331258,
+                            51.325524
+                        ],
+                        [
+                            4.33143,
+                            51.324909
+                        ],
+                        [
+                            4.336022,
+                            51.325444
+                        ],
+                        [
+                            4.343951,
+                            51.326367
+                        ],
+                        [
+                            4.343759,
+                            51.326984
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.336874,
+                            51.328357
+                        ],
+                        [
+                            4.336967,
+                            51.327975
+                        ],
+                        [
+                            4.342719,
+                            51.328473
+                        ],
+                        [
+                            4.343198,
+                            51.32692
+                        ],
+                        [
+                            4.343782,
+                            51.326995
+                        ],
+                        [
+                            4.343184,
+                            51.329004
+                        ],
+                        [
+                            4.336874,
+                            51.328357
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.340918,
+                    51.32553
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338363,
+                    51.326035
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.340514,
+                    51.328012
+                ]
+            },
+            "properties": {
+                "code": "BEANRACOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswebapps.portofantwerpbruges.comarcgis-portalappswebappviewerindex.htmlid35b2a783a9d944f2bb007176e3afa3ebcenter147000,221000,31370scal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

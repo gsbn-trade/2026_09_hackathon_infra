@@ -1,0 +1,389 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.830458,
+                            13.582373
+                        ],
+                        [
+                            -89.83106,
+                            13.58248
+                        ],
+                        [
+                            -89.831099,
+                            13.582014
+                        ],
+                        [
+                            -89.831287,
+                            13.581642
+                        ],
+                        [
+                            -89.831695,
+                            13.581434
+                        ],
+                        [
+                            -89.832466,
+                            13.581321
+                        ],
+                        [
+                            -89.833205,
+                            13.58117
+                        ],
+                        [
+                            -89.833555,
+                            13.580886
+                        ],
+                        [
+                            -89.833535,
+                            13.580439
+                        ],
+                        [
+                            -89.833464,
+                            13.578972
+                        ],
+                        [
+                            -89.833264,
+                            13.575877
+                        ],
+                        [
+                            -89.833751,
+                            13.575727
+                        ],
+                        [
+                            -89.833917,
+                            13.575334
+                        ],
+                        [
+                            -89.834024,
+                            13.574895
+                        ],
+                        [
+                            -89.834167,
+                            13.574583
+                        ],
+                        [
+                            -89.836436,
+                            13.574167
+                        ],
+                        [
+                            -89.839288,
+                            13.576154
+                        ],
+                        [
+                            -89.839514,
+                            13.576004
+                        ],
+                        [
+                            -89.83936,
+                            13.575773
+                        ],
+                        [
+                            -89.836935,
+                            13.574144
+                        ],
+                        [
+                            -89.837042,
+                            13.574075
+                        ],
+                        [
+                            -89.838314,
+                            13.573855
+                        ],
+                        [
+                            -89.840631,
+                            13.575403
+                        ],
+                        [
+                            -89.840857,
+                            13.575357
+                        ],
+                        [
+                            -89.841154,
+                            13.575507
+                        ],
+                        [
+                            -89.842152,
+                            13.577679
+                        ],
+                        [
+                            -89.842378,
+                            13.577575
+                        ],
+                        [
+                            -89.842318,
+                            13.577205
+                        ],
+                        [
+                            -89.841807,
+                            13.576489
+                        ],
+                        [
+                            -89.841368,
+                            13.575346
+                        ],
+                        [
+                            -89.838611,
+                            13.573544
+                        ],
+                        [
+                            -89.829603,
+                            13.575126
+                        ],
+                        [
+                            -89.829413,
+                            13.575657
+                        ],
+                        [
+                            -89.829659,
+                            13.576802
+                        ],
+                        [
+                            -89.830183,
+                            13.579335
+                        ],
+                        [
+                            -89.830521,
+                            13.581379
+                        ],
+                        [
+                            -89.830458,
+                            13.582373
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.842161,
+                            13.577699
+                        ],
+                        [
+                            -89.841159,
+                            13.575487
+                        ],
+                        [
+                            -89.840853,
+                            13.575364
+                        ],
+                        [
+                            -89.840607,
+                            13.575421
+                        ],
+                        [
+                            -89.838315,
+                            13.573845
+                        ],
+                        [
+                            -89.838205,
+                            13.574051
+                        ],
+                        [
+                            -89.840989,
+                            13.575768
+                        ],
+                        [
+                            -89.841906,
+                            13.577806
+                        ],
+                        [
+                            -89.842161,
+                            13.577699
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.83952,
+                            13.576016
+                        ],
+                        [
+                            -89.839716,
+                            13.575818
+                        ],
+                        [
+                            -89.837322,
+                            13.574027
+                        ],
+                        [
+                            -89.837041,
+                            13.574093
+                        ],
+                        [
+                            -89.836948,
+                            13.574159
+                        ],
+                        [
+                            -89.839368,
+                            13.575743
+                        ],
+                        [
+                            -89.83952,
+                            13.576016
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.8393,
+                            13.576172
+                        ],
+                        [
+                            -89.836439,
+                            13.574159
+                        ],
+                        [
+                            -89.836125,
+                            13.574241
+                        ],
+                        [
+                            -89.839138,
+                            13.576395
+                        ],
+                        [
+                            -89.8393,
+                            13.576172
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.835377,
+                    13.577516
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.840706,
+                    13.575904
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.838491,
+                    13.575125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.83806,
+                    13.575428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SVAQJPUACA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-07-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.328695,
+                            22.565238
+                        ],
+                        [
+                            120.328925,
+                            22.565407
+                        ],
+                        [
+                            120.328943,
+                            22.565478
+                        ],
+                        [
+                            120.328828,
+                            22.565635
+                        ],
+                        [
+                            120.328704,
+                            22.565757
+                        ],
+                        [
+                            120.328143,
+                            22.566472
+                        ],
+                        [
+                            120.327573,
+                            22.567167
+                        ],
+                        [
+                            120.32637,
+                            22.56632
+                        ],
+                        [
+                            120.325769,
+                            22.567024
+                        ],
+                        [
+                            120.324797,
+                            22.566311
+                        ],
+                        [
+                            120.326873,
+                            22.563906
+                        ],
+                        [
+                            120.328695,
+                            22.565238
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHEHOT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/twkhhehot/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.327693,
+                    22.565829
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHEHOT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/twkhhehot/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

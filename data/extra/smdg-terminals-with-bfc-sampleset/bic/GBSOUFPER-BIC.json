@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -1.45439,
+                            50.91419
+                        ],
+                        [
+                            -1.455609,
+                            50.914649
+                        ],
+                        [
+                            -1.45608,
+                            50.914681
+                        ],
+                        [
+                            -1.456514,
+                            50.914823
+                        ],
+                        [
+                            -1.457174,
+                            50.914171
+                        ],
+                        [
+                            -1.456172,
+                            50.913809
+                        ],
+                        [
+                            -1.454999,
+                            50.913461
+                        ],
+                        [
+                            -1.45439,
+                            50.91419
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUFPER",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsoufper/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.455666,
+                    50.914247
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBSOUFPER",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "url": "https://www.bic-code.org/facility-codes/gbsoufper/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

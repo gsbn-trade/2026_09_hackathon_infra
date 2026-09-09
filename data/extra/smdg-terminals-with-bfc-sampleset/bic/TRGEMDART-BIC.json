@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.134129,
+                            40.40975
+                        ],
+                        [
+                            29.134296,
+                            40.409705
+                        ],
+                        [
+                            29.134233,
+                            40.409526
+                        ],
+                        [
+                            29.134866,
+                            40.409459
+                        ],
+                        [
+                            29.134766,
+                            40.409086
+                        ],
+                        [
+                            29.135722,
+                            40.408789
+                        ],
+                        [
+                            29.136586,
+                            40.40928
+                        ],
+                        [
+                            29.136443,
+                            40.410448
+                        ],
+                        [
+                            29.134635,
+                            40.410154
+                        ],
+                        [
+                            29.134145,
+                            40.409987
+                        ],
+                        [
+                            29.134129,
+                            40.40975
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMDART",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trgemdart/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.134134,
+                            40.409985
+                        ],
+                        [
+                            29.134817,
+                            40.409844
+                        ],
+                        [
+                            29.134746,
+                            40.40964
+                        ],
+                        [
+                            29.134134,
+                            40.409749
+                        ],
+                        [
+                            29.134134,
+                            40.409985
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMDART",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trgemdart/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.134905,
+                    40.40963
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMDART",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trgemdart/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.134393,
+                    40.409841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEMDART",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/trgemdart/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

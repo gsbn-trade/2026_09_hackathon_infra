@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.9077,
+                            15.8267
+                        ],
+                        [
+                            -87.907294,
+                            15.828405
+                        ],
+                        [
+                            -87.90883,
+                            15.828668
+                        ],
+                        [
+                            -87.908973,
+                            15.828176
+                        ],
+                        [
+                            -87.908991,
+                            15.828107
+                        ],
+                        [
+                            -87.909082,
+                            15.827634
+                        ],
+                        [
+                            -87.908329,
+                            15.827517
+                        ],
+                        [
+                            -87.9084,
+                            15.8269
+                        ],
+                        [
+                            -87.9077,
+                            15.8267
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRHHWV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrhhwv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.908367,
+                    15.827645
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCRHHWV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/hnpcrhhwv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

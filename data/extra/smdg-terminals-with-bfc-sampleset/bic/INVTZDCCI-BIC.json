@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            83.256448,
+                            17.703638
+                        ],
+                        [
+                            83.25573,
+                            17.703472
+                        ],
+                        [
+                            83.255472,
+                            17.703542
+                        ],
+                        [
+                            83.253945,
+                            17.701837
+                        ],
+                        [
+                            83.254641,
+                            17.701265
+                        ],
+                        [
+                            83.256583,
+                            17.70367
+                        ],
+                        [
+                            83.256448,
+                            17.703638
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/invtzdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            83.256427,
+                            17.703632
+                        ],
+                        [
+                            83.256602,
+                            17.703675
+                        ],
+                        [
+                            83.256472,
+                            17.703528
+                        ],
+                        [
+                            83.256427,
+                            17.703632
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-07-02",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/invtzdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    83.25561,
+                    17.703009
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/invtzdcci/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    83.256482,
+                    17.703617
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INVTZDCCI",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/invtzdcci/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

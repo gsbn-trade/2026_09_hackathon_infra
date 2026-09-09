@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.914579,
+                            54.611825
+                        ],
+                        [
+                            -5.915063,
+                            54.611517
+                        ],
+                        [
+                            -5.916488,
+                            54.612196
+                        ],
+                        [
+                            -5.916706,
+                            54.612126
+                        ],
+                        [
+                            -5.918163,
+                            54.61108
+                        ],
+                        [
+                            -5.918205,
+                            54.611013
+                        ],
+                        [
+                            -5.918158,
+                            54.610937
+                        ],
+                        [
+                            -5.91714,
+                            54.610441
+                        ],
+                        [
+                            -5.916936,
+                            54.610357
+                        ],
+                        [
+                            -5.9168,
+                            54.610276
+                        ],
+                        [
+                            -5.916708,
+                            54.610194
+                        ],
+                        [
+                            -5.916624,
+                            54.610017
+                        ],
+                        [
+                            -5.916639,
+                            54.609836
+                        ],
+                        [
+                            -5.915784,
+                            54.609427
+                        ],
+                        [
+                            -5.913182,
+                            54.611227
+                        ],
+                        [
+                            -5.914579,
+                            54.611825
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELSOQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-18",
+                "url": "https://www.bic-code.org/facility-codes/gbbelsoqg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.91636,
+                    54.610893
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBBELSOQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-18",
+                "url": "https://www.bic-code.org/facility-codes/gbbelsoqg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

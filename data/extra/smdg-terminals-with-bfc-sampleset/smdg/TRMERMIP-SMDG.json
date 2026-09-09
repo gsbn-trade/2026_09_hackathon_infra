@@ -1,0 +1,433 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.671618,
+                            36.822114
+                        ],
+                        [
+                            34.643973,
+                            36.80663
+                        ],
+                        [
+                            34.639125,
+                            36.803902
+                        ],
+                        [
+                            34.638594,
+                            36.803373
+                        ],
+                        [
+                            34.638446,
+                            36.802098
+                        ],
+                        [
+                            34.637713,
+                            36.794368
+                        ],
+                        [
+                            34.63933,
+                            36.794284
+                        ],
+                        [
+                            34.639729,
+                            36.799117
+                        ],
+                        [
+                            34.640146,
+                            36.799182
+                        ],
+                        [
+                            34.642281,
+                            36.801637
+                        ],
+                        [
+                            34.644403,
+                            36.804349
+                        ],
+                        [
+                            34.644791,
+                            36.804023
+                        ],
+                        [
+                            34.645281,
+                            36.803557
+                        ],
+                        [
+                            34.645353,
+                            36.80161
+                        ],
+                        [
+                            34.648776,
+                            36.801568
+                        ],
+                        [
+                            34.648776,
+                            36.799089
+                        ],
+                        [
+                            34.649267,
+                            36.799064
+                        ],
+                        [
+                            34.649144,
+                            36.801593
+                        ],
+                        [
+                            34.650033,
+                            36.801678
+                        ],
+                        [
+                            34.650002,
+                            36.804116
+                        ],
+                        [
+                            34.649995,
+                            36.806099
+                        ],
+                        [
+                            34.651597,
+                            36.806085
+                        ],
+                        [
+                            34.65171,
+                            36.802744
+                        ],
+                        [
+                            34.652149,
+                            36.802722
+                        ],
+                        [
+                            34.651965,
+                            36.803802
+                        ],
+                        [
+                            34.652762,
+                            36.804563
+                        ],
+                        [
+                            34.652755,
+                            36.806514
+                        ],
+                        [
+                            34.652885,
+                            36.807632
+                        ],
+                        [
+                            34.654203,
+                            36.808352
+                        ],
+                        [
+                            34.655276,
+                            36.806994
+                        ],
+                        [
+                            34.656557,
+                            36.807651
+                        ],
+                        [
+                            34.657852,
+                            36.805938
+                        ],
+                        [
+                            34.654858,
+                            36.804389
+                        ],
+                        [
+                            34.655522,
+                            36.803311
+                        ],
+                        [
+                            34.660461,
+                            36.80604
+                        ],
+                        [
+                            34.661467,
+                            36.804702
+                        ],
+                        [
+                            34.657272,
+                            36.802337
+                        ],
+                        [
+                            34.657141,
+                            36.802235
+                        ],
+                        [
+                            34.661429,
+                            36.804277
+                        ],
+                        [
+                            34.660703,
+                            36.801887
+                        ],
+                        [
+                            34.65849,
+                            36.800878
+                        ],
+                        [
+                            34.658657,
+                            36.800707
+                        ],
+                        [
+                            34.660989,
+                            36.801765
+                        ],
+                        [
+                            34.662607,
+                            36.806058
+                        ],
+                        [
+                            34.658036,
+                            36.81162
+                        ],
+                        [
+                            34.659802,
+                            36.81267
+                        ],
+                        [
+                            34.660379,
+                            36.814345
+                        ],
+                        [
+                            34.663776,
+                            36.816512
+                        ],
+                        [
+                            34.672017,
+                            36.820911
+                        ],
+                        [
+                            34.671618,
+                            36.822114
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.644444,
+                            36.80428
+                        ],
+                        [
+                            34.640229,
+                            36.799126
+                        ],
+                        [
+                            34.639751,
+                            36.799069
+                        ],
+                        [
+                            34.639345,
+                            36.794259
+                        ],
+                        [
+                            34.640014,
+                            36.79422
+                        ],
+                        [
+                            34.64073,
+                            36.798792
+                        ],
+                        [
+                            34.644934,
+                            36.803726
+                        ],
+                        [
+                            34.644444,
+                            36.80428
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.650006,
+                            36.806086
+                        ],
+                        [
+                            34.65003,
+                            36.806
+                        ],
+                        [
+                            34.650078,
+                            36.80163
+                        ],
+                        [
+                            34.650746,
+                            36.801573
+                        ],
+                        [
+                            34.65046,
+                            36.806076
+                        ],
+                        [
+                            34.650006,
+                            36.806086
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.645372,
+                            36.801601
+                        ],
+                        [
+                            34.645408,
+                            36.801066
+                        ],
+                        [
+                            34.648704,
+                            36.801248
+                        ],
+                        [
+                            34.64874,
+                            36.801544
+                        ],
+                        [
+                            34.645372,
+                            36.801601
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.652834,
+                    36.805064
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.641736,
+                    36.799719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.650221,
+                    36.804575
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.646719,
+                    36.801412
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRMERMIP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

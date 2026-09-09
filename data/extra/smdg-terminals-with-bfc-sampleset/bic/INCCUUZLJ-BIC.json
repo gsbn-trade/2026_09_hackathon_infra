@@ -1,0 +1,107 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.303625,
+                            22.526373
+                        ],
+                        [
+                            88.303225,
+                            22.526585
+                        ],
+                        [
+                            88.302747,
+                            22.526855
+                        ],
+                        [
+                            88.302401,
+                            22.527103
+                        ],
+                        [
+                            88.302215,
+                            22.52727
+                        ],
+                        [
+                            88.302088,
+                            22.527477
+                        ],
+                        [
+                            88.301908,
+                            22.527653
+                        ],
+                        [
+                            88.301771,
+                            22.527689
+                        ],
+                        [
+                            88.301678,
+                            22.527495
+                        ],
+                        [
+                            88.301591,
+                            22.527225
+                        ],
+                        [
+                            88.301566,
+                            22.526977
+                        ],
+                        [
+                            88.301639,
+                            22.526711
+                        ],
+                        [
+                            88.301752,
+                            22.526463
+                        ],
+                        [
+                            88.302127,
+                            22.526089
+                        ],
+                        [
+                            88.303084,
+                            22.525561
+                        ],
+                        [
+                            88.303625,
+                            22.526373
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUUZLJ",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-31",
+                "remarks": "Created by Facility CENTURY PLYBARDS INDIA LIMTED SONAI-CFS.   Mithilesh centuryply.com",
+                "url": "https://www.bic-code.org/facility-codes/inccuuzlj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.302315,
+                    22.526869
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUUZLJ",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-31",
+                "remarks": "Created by Facility CENTURY PLYBARDS INDIA LIMTED SONAI-CFS.   Mithilesh centuryply.com",
+                "url": "https://www.bic-code.org/facility-codes/inccuuzlj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.925264,
+                            -37.812498
+                        ],
+                        [
+                            144.923294,
+                            -37.812103
+                        ],
+                        [
+                            144.921375,
+                            -37.811939
+                        ],
+                        [
+                            144.919837,
+                            -37.812239
+                        ],
+                        [
+                            144.919872,
+                            -37.812553
+                        ],
+                        [
+                            144.920114,
+                            -37.813017
+                        ],
+                        [
+                            144.920425,
+                            -37.813932
+                        ],
+                        [
+                            144.920822,
+                            -37.813932
+                        ],
+                        [
+                            144.920943,
+                            -37.814382
+                        ],
+                        [
+                            144.921963,
+                            -37.815133
+                        ],
+                        [
+                            144.923363,
+                            -37.814533
+                        ],
+                        [
+                            144.923968,
+                            -37.814109
+                        ],
+                        [
+                            144.923968,
+                            -37.813591
+                        ],
+                        [
+                            144.925004,
+                            -37.812717
+                        ],
+                        [
+                            144.925264,
+                            -37.812498
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDDNH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelddnh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.922365,
+                    -37.813278
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELDDNH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelddnh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

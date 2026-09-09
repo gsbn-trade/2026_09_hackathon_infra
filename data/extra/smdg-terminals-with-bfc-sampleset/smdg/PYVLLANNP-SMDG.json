@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.575738,
+                            -25.509497
+                        ],
+                        [
+                            -57.573607,
+                            -25.509326
+                        ],
+                        [
+                            -57.573359,
+                            -25.508655
+                        ],
+                        [
+                            -57.574134,
+                            -25.50844
+                        ],
+                        [
+                            -57.573893,
+                            -25.507731
+                        ],
+                        [
+                            -57.574448,
+                            -25.507631
+                        ],
+                        [
+                            -57.57533,
+                            -25.507447
+                        ],
+                        [
+                            -57.575993,
+                            -25.507322
+                        ],
+                        [
+                            -57.575738,
+                            -25.509497
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLANNP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.575993,
+                            -25.507326
+                        ],
+                        [
+                            -57.576686,
+                            -25.507323
+                        ],
+                        [
+                            -57.576501,
+                            -25.509625
+                        ],
+                        [
+                            -57.575742,
+                            -25.509515
+                        ],
+                        [
+                            -57.575993,
+                            -25.507326
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLANNP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.574693,
+                    -25.508394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLANNP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.576183,
+                    -25.508223
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYVLLANNP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

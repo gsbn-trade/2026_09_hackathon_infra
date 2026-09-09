@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -75.482819,
+                            10.30919
+                        ],
+                        [
+                            -75.483749,
+                            10.309309
+                        ],
+                        [
+                            -75.484362,
+                            10.309514
+                        ],
+                        [
+                            -75.486047,
+                            10.309601
+                        ],
+                        [
+                            -75.486141,
+                            10.306285
+                        ],
+                        [
+                            -75.484733,
+                            10.306309
+                        ],
+                        [
+                            -75.484679,
+                            10.307273
+                        ],
+                        [
+                            -75.482344,
+                            10.30728
+                        ],
+                        [
+                            -75.482266,
+                            10.308056
+                        ],
+                        [
+                            -75.48236,
+                            10.308725
+                        ],
+                        [
+                            -75.48248,
+                            10.309084
+                        ],
+                        [
+                            -75.482819,
+                            10.30919
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGYUZS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/coctgyuzs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.483733,
+                    10.308318
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGYUZS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/coctgyuzs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

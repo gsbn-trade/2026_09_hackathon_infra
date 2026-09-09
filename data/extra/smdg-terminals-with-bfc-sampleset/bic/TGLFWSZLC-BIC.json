@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.279798,
+                            6.140812
+                        ],
+                        [
+                            1.283612,
+                            6.137078
+                        ],
+                        [
+                            1.283681,
+                            6.136711
+                        ],
+                        [
+                            1.273709,
+                            6.136653
+                        ],
+                        [
+                            1.273813,
+                            6.133459
+                        ],
+                        [
+                            1.26948,
+                            6.133471
+                        ],
+                        [
+                            1.269584,
+                            6.138124
+                        ],
+                        [
+                            1.27275,
+                            6.139009
+                        ],
+                        [
+                            1.273709,
+                            6.139227
+                        ],
+                        [
+                            1.27788,
+                            6.140307
+                        ],
+                        [
+                            1.279798,
+                            6.140812
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWSZLC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-25",
+                "url": "https://www.bic-code.org/facility-codes/tglfwszlc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.276165,
+                    6.137788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWSZLC",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-25",
+                "url": "https://www.bic-code.org/facility-codes/tglfwszlc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

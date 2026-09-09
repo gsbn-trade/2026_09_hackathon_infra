@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.953333,
+                            14.634008
+                        ],
+                        [
+                            120.9533,
+                            14.63388
+                        ],
+                        [
+                            120.953284,
+                            14.633639
+                        ],
+                        [
+                            120.953291,
+                            14.63317
+                        ],
+                        [
+                            120.953352,
+                            14.63239
+                        ],
+                        [
+                            120.955042,
+                            14.632385
+                        ],
+                        [
+                            120.95501,
+                            14.632981
+                        ],
+                        [
+                            120.955036,
+                            14.633587
+                        ],
+                        [
+                            120.953333,
+                            14.634008
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLCGTL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phmnlcgtl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.953887,
+                    14.633339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLCGTL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phmnlcgtl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

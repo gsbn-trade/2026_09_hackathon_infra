@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.67592,
+                            54.405216
+                        ],
+                        [
+                            18.675811,
+                            54.405441
+                        ],
+                        [
+                            18.675841,
+                            54.405626
+                        ],
+                        [
+                            18.670251,
+                            54.406368
+                        ],
+                        [
+                            18.669544,
+                            54.406293
+                        ],
+                        [
+                            18.669161,
+                            54.405424
+                        ],
+                        [
+                            18.675622,
+                            54.404558
+                        ],
+                        [
+                            18.67592,
+                            54.405216
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDNCRCS",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdncrcs/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.673509,
+                    54.405518
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDNCRCS",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdncrcs/"
+            }
+        }
+    ]
+}

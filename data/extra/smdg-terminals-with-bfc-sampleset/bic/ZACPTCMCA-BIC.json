@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.49413,
+                            -33.916527
+                        ],
+                        [
+                            18.493318,
+                            -33.916524
+                        ],
+                        [
+                            18.493299,
+                            -33.916402
+                        ],
+                        [
+                            18.492485,
+                            -33.916363
+                        ],
+                        [
+                            18.491782,
+                            -33.916413
+                        ],
+                        [
+                            18.490195,
+                            -33.916654
+                        ],
+                        [
+                            18.489773,
+                            -33.916726
+                        ],
+                        [
+                            18.489069,
+                            -33.91689
+                        ],
+                        [
+                            18.489116,
+                            -33.917047
+                        ],
+                        [
+                            18.488718,
+                            -33.917098
+                        ],
+                        [
+                            18.488797,
+                            -33.917603
+                        ],
+                        [
+                            18.489069,
+                            -33.917629
+                        ],
+                        [
+                            18.490453,
+                            -33.917406
+                        ],
+                        [
+                            18.494191,
+                            -33.916802
+                        ],
+                        [
+                            18.49413,
+                            -33.916527
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCMCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptcmca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.491235,
+                    -33.916841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCMCA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptcmca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

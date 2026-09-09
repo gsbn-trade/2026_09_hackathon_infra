@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -10.795809,
+                            6.343839
+                        ],
+                        [
+                            -10.793041,
+                            6.342856
+                        ],
+                        [
+                            -10.794751,
+                            6.339128
+                        ],
+                        [
+                            -10.795111,
+                            6.339268
+                        ],
+                        [
+                            -10.794964,
+                            6.339669
+                        ],
+                        [
+                            -10.795187,
+                            6.339745
+                        ],
+                        [
+                            -10.795375,
+                            6.339261
+                        ],
+                        [
+                            -10.797386,
+                            6.339992
+                        ],
+                        [
+                            -10.796802,
+                            6.3413
+                        ],
+                        [
+                            -10.796103,
+                            6.343015
+                        ],
+                        [
+                            -10.795809,
+                            6.343839
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-08-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -10.795788,
+                            6.343841
+                        ],
+                        [
+                            -10.796286,
+                            6.34402
+                        ],
+                        [
+                            -10.797838,
+                            6.340124
+                        ],
+                        [
+                            -10.797392,
+                            6.339979
+                        ],
+                        [
+                            -10.795788,
+                            6.343841
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-08-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.795485,
+                    6.341083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-08-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.796618,
+                    6.342361
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "LRMLWAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-08-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

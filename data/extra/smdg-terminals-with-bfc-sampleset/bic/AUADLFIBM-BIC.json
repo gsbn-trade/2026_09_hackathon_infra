@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.506928,
+                            -34.820055
+                        ],
+                        [
+                            138.503157,
+                            -34.820495
+                        ],
+                        [
+                            138.503087,
+                            -34.820957
+                        ],
+                        [
+                            138.50327,
+                            -34.821081
+                        ],
+                        [
+                            138.504756,
+                            -34.82075
+                        ],
+                        [
+                            138.504353,
+                            -34.822499
+                        ],
+                        [
+                            138.506376,
+                            -34.822296
+                        ],
+                        [
+                            138.506628,
+                            -34.821785
+                        ],
+                        [
+                            138.506928,
+                            -34.820055
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFIBM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/auadlfibm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.505054,
+                    -34.821108
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLFIBM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/auadlfibm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

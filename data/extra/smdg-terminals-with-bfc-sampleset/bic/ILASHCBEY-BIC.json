@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.654,
+                            31.8207
+                        ],
+                        [
+                            34.6504,
+                            31.8224
+                        ],
+                        [
+                            34.6484,
+                            31.8189
+                        ],
+                        [
+                            34.6485,
+                            31.8183
+                        ],
+                        [
+                            34.649,
+                            31.818
+                        ],
+                        [
+                            34.654,
+                            31.8207
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHCBEY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-25",
+                "url": "https://www.bic-code.org/facility-codes/ilashcbey/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.650717,
+                    31.819833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHCBEY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-25",
+                "url": "https://www.bic-code.org/facility-codes/ilashcbey/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

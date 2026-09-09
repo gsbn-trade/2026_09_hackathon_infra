@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            135.228147,
+                            34.657994
+                        ],
+                        [
+                            135.229794,
+                            34.655014
+                        ],
+                        [
+                            135.233313,
+                            34.656115
+                        ],
+                        [
+                            135.23214,
+                            34.659162
+                        ],
+                        [
+                            135.228147,
+                            34.657994
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPUKBGFEE",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/jpukbgfee/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.230308,
+                    34.657256
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPUKBGFEE",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/jpukbgfee/"
+            }
+        }
+    ]
+}

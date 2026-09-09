@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.942229,
+                            34.172755
+                        ],
+                        [
+                            -77.942249,
+                            34.173112
+                        ],
+                        [
+                            -77.942293,
+                            34.173573
+                        ],
+                        [
+                            -77.942343,
+                            34.174383
+                        ],
+                        [
+                            -77.942344,
+                            34.175086
+                        ],
+                        [
+                            -77.942954,
+                            34.175181
+                        ],
+                        [
+                            -77.944104,
+                            34.175371
+                        ],
+                        [
+                            -77.943988,
+                            34.172144
+                        ],
+                        [
+                            -77.942296,
+                            34.172204
+                        ],
+                        [
+                            -77.942189,
+                            34.1722
+                        ],
+                        [
+                            -77.942229,
+                            34.172755
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USILMAPXV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-05",
+                "url": "https://www.bic-code.org/facility-codes/usilmapxv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.942656,
+                    34.173524
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USILMAPXV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-05",
+                "url": "https://www.bic-code.org/facility-codes/usilmapxv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,509 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.530927,
+                            35.818968
+                        ],
+                        [
+                            14.530908,
+                            35.818911
+                        ],
+                        [
+                            14.530972,
+                            35.818833
+                        ],
+                        [
+                            14.530977,
+                            35.818827
+                        ],
+                        [
+                            14.531738,
+                            35.818364
+                        ],
+                        [
+                            14.53124,
+                            35.817883
+                        ],
+                        [
+                            14.530942,
+                            35.817584
+                        ],
+                        [
+                            14.530949,
+                            35.81755
+                        ],
+                        [
+                            14.531851,
+                            35.817431
+                        ],
+                        [
+                            14.531936,
+                            35.817116
+                        ],
+                        [
+                            14.531724,
+                            35.81656
+                        ],
+                        [
+                            14.531353,
+                            35.816184
+                        ],
+                        [
+                            14.531345,
+                            35.816095
+                        ],
+                        [
+                            14.533826,
+                            35.814436
+                        ],
+                        [
+                            14.534161,
+                            35.814305
+                        ],
+                        [
+                            14.534292,
+                            35.814123
+                        ],
+                        [
+                            14.5355,
+                            35.813287
+                        ],
+                        [
+                            14.537632,
+                            35.811301
+                        ],
+                        [
+                            14.537734,
+                            35.811312
+                        ],
+                        [
+                            14.538289,
+                            35.811843
+                        ],
+                        [
+                            14.538747,
+                            35.811749
+                        ],
+                        [
+                            14.538623,
+                            35.812683
+                        ],
+                        [
+                            14.539122,
+                            35.81315
+                        ],
+                        [
+                            14.540135,
+                            35.814403
+                        ],
+                        [
+                            14.541496,
+                            35.814551
+                        ],
+                        [
+                            14.541706,
+                            35.814599
+                        ],
+                        [
+                            14.541942,
+                            35.814693
+                        ],
+                        [
+                            14.542114,
+                            35.814613
+                        ],
+                        [
+                            14.544784,
+                            35.816716
+                        ],
+                        [
+                            14.546416,
+                            35.817971
+                        ],
+                        [
+                            14.546572,
+                            35.818126
+                        ],
+                        [
+                            14.546751,
+                            35.818528
+                        ],
+                        [
+                            14.546599,
+                            35.818666
+                        ],
+                        [
+                            14.545264,
+                            35.819794
+                        ],
+                        [
+                            14.542877,
+                            35.821814
+                        ],
+                        [
+                            14.542824,
+                            35.821851
+                        ],
+                        [
+                            14.542772,
+                            35.821863
+                        ],
+                        [
+                            14.542711,
+                            35.821854
+                        ],
+                        [
+                            14.54267,
+                            35.821834
+                        ],
+                        [
+                            14.542645,
+                            35.821799
+                        ],
+                        [
+                            14.542514,
+                            35.821425
+                        ],
+                        [
+                            14.540111,
+                            35.821977
+                        ],
+                        [
+                            14.539749,
+                            35.822009
+                        ],
+                        [
+                            14.539712,
+                            35.821996
+                        ],
+                        [
+                            14.538819,
+                            35.821293
+                        ],
+                        [
+                            14.538795,
+                            35.821249
+                        ],
+                        [
+                            14.538801,
+                            35.821209
+                        ],
+                        [
+                            14.53882,
+                            35.82117
+                        ],
+                        [
+                            14.54381,
+                            35.816928
+                        ],
+                        [
+                            14.543489,
+                            35.816682
+                        ],
+                        [
+                            14.542481,
+                            35.816336
+                        ],
+                        [
+                            14.542002,
+                            35.815962
+                        ],
+                        [
+                            14.533503,
+                            35.821707
+                        ],
+                        [
+                            14.533485,
+                            35.821723
+                        ],
+                        [
+                            14.53229,
+                            35.820557
+                        ],
+                        [
+                            14.531443,
+                            35.819732
+                        ],
+                        [
+                            14.531116,
+                            35.819953
+                        ],
+                        [
+                            14.531087,
+                            35.819823
+                        ],
+                        [
+                            14.531069,
+                            35.819561
+                        ],
+                        [
+                            14.531152,
+                            35.819402
+                        ],
+                        [
+                            14.531006,
+                            35.819323
+                        ],
+                        [
+                            14.530893,
+                            35.819153
+                        ],
+                        [
+                            14.530878,
+                            35.819012
+                        ],
+                        [
+                            14.530927,
+                            35.818968
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.533563,
+                            35.821721
+                        ],
+                        [
+                            14.542004,
+                            35.815988
+                        ],
+                        [
+                            14.54246,
+                            35.816385
+                        ],
+                        [
+                            14.543388,
+                            35.816645
+                        ],
+                        [
+                            14.54376,
+                            35.816905
+                        ],
+                        [
+                            14.538778,
+                            35.82115
+                        ],
+                        [
+                            14.538424,
+                            35.820904
+                        ],
+                        [
+                            14.542764,
+                            35.817138
+                        ],
+                        [
+                            14.542054,
+                            35.816536
+                        ],
+                        [
+                            14.534118,
+                            35.822232
+                        ],
+                        [
+                            14.533563,
+                            35.821721
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.546788,
+                            35.818563
+                        ],
+                        [
+                            14.546979,
+                            35.818744
+                        ],
+                        [
+                            14.542977,
+                            35.822295
+                        ],
+                        [
+                            14.542634,
+                            35.822047
+                        ],
+                        [
+                            14.546784,
+                            35.818531
+                        ],
+                        [
+                            14.546788,
+                            35.818563
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.540145,
+                            35.822049
+                        ],
+                        [
+                            14.540107,
+                            35.821997
+                        ],
+                        [
+                            14.542226,
+                            35.821489
+                        ],
+                        [
+                            14.5423,
+                            35.821724
+                        ],
+                        [
+                            14.54261,
+                            35.822051
+                        ],
+                        [
+                            14.540329,
+                            35.822438
+                        ],
+                        [
+                            14.540145,
+                            35.822049
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.537235,
+                    35.817958
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.539534,
+                    35.818848
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.545492,
+                    35.819791
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541123,
+                    35.821971
+                ]
+            },
+            "properties": {
+                "code": "MTMARFREE",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

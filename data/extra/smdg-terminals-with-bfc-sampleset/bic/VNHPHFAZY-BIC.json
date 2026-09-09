@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.765658,
+                            20.824575
+                        ],
+                        [
+                            106.765516,
+                            20.824593
+                        ],
+                        [
+                            106.764289,
+                            20.823386
+                        ],
+                        [
+                            106.765096,
+                            20.822662
+                        ],
+                        [
+                            106.763036,
+                            20.820646
+                        ],
+                        [
+                            106.765593,
+                            20.818491
+                        ],
+                        [
+                            106.768428,
+                            20.821925
+                        ],
+                        [
+                            106.767046,
+                            20.823115
+                        ],
+                        [
+                            106.765658,
+                            20.824575
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHFAZY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-05",
+                "url": "https://www.bic-code.org/facility-codes/vnhphfazy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.765591,
+                    20.822663
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHFAZY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://www.bic-code.org/facility-codes/vnhphfazy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

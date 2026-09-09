@@ -1,0 +1,91 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            50.1847,
+                            26.4392
+                        ],
+                        [
+                            50.1844,
+                            26.4384
+                        ],
+                        [
+                            50.1838,
+                            26.4372
+                        ],
+                        [
+                            50.1854,
+                            26.4366
+                        ],
+                        [
+                            50.1854,
+                            26.4366
+                        ],
+                        [
+                            50.1874,
+                            26.4357
+                        ],
+                        [
+                            50.1877,
+                            26.4365
+                        ],
+                        [
+                            50.1884,
+                            26.4377
+                        ],
+                        [
+                            50.1894,
+                            26.4399
+                        ],
+                        [
+                            50.1876,
+                            26.4406
+                        ],
+                        [
+                            50.1866,
+                            26.4385
+                        ],
+                        [
+                            50.1857,
+                            26.4388
+                        ],
+                        [
+                            50.1847,
+                            26.4392
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSUVM",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-01-02",
+                "url": "https://www.bic-code.org/facility-codes/sadmmsuvm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.186246,
+                    26.438069
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SADMMSUVM",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-01-02",
+                "url": "https://www.bic-code.org/facility-codes/sadmmsuvm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

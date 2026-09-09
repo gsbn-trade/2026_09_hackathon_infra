@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -13.499212,
+                            9.718054
+                        ],
+                        [
+                            -13.500351,
+                            9.716291
+                        ],
+                        [
+                            -13.500144,
+                            9.715319
+                        ],
+                        [
+                            -13.500041,
+                            9.714833
+                        ],
+                        [
+                            -13.500027,
+                            9.714436
+                        ],
+                        [
+                            -13.499937,
+                            9.714347
+                        ],
+                        [
+                            -13.498642,
+                            9.716169
+                        ],
+                        [
+                            -13.498422,
+                            9.716449
+                        ],
+                        [
+                            -13.497858,
+                            9.717281
+                        ],
+                        [
+                            -13.499212,
+                            9.718054
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYKGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckykgla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.499385,
+                    9.716123
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYKGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckykgla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

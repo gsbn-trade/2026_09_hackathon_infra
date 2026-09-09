@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.220667,
+                            60.696558
+                        ],
+                        [
+                            17.220345,
+                            60.696432
+                        ],
+                        [
+                            17.22101,
+                            60.696023
+                        ],
+                        [
+                            17.222169,
+                            60.695046
+                        ],
+                        [
+                            17.22219,
+                            60.694668
+                        ],
+                        [
+                            17.221074,
+                            60.694447
+                        ],
+                        [
+                            17.221332,
+                            60.694059
+                        ],
+                        [
+                            17.22174,
+                            60.694132
+                        ],
+                        [
+                            17.223735,
+                            60.691223
+                        ],
+                        [
+                            17.224229,
+                            60.691296
+                        ],
+                        [
+                            17.224293,
+                            60.69116
+                        ],
+                        [
+                            17.230473,
+                            60.692084
+                        ],
+                        [
+                            17.227812,
+                            60.695844
+                        ],
+                        [
+                            17.226632,
+                            60.69575
+                        ],
+                        [
+                            17.220667,
+                            60.696558
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGVXETWD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-10-24",
+                "url": "https://www.bic-code.org/facility-codes/segvxetwd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.223225,
+                    60.694352
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGVXETWD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-10-24",
+                "url": "https://www.bic-code.org/facility-codes/segvxetwd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

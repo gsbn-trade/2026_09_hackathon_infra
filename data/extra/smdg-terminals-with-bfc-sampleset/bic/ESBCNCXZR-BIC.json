@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.14457,
+                            41.339669
+                        ],
+                        [
+                            2.146192,
+                            41.342369
+                        ],
+                        [
+                            2.145074,
+                            41.34275
+                        ],
+                        [
+                            2.143415,
+                            41.340063
+                        ],
+                        [
+                            2.14457,
+                            41.339669
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESBCNCXZR",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2023-12-14",
+                "remarks": "Depot Ronda del Port 512 ESBCNV",
+                "url": "https://www.bic-code.org/facility-codes/esbcncxzr/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.144764,
+                    41.340904
+                ]
+            },
+            "properties": {
+                "code": "ESBCNCXZR",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2023-12-14",
+                "remarks": "Depot Ronda del Port 512 ESBCNV",
+                "url": "https://www.bic-code.org/facility-codes/esbcncxzr/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.437358,
+                            51.893291
+                        ],
+                        [
+                            4.426959,
+                            51.890067
+                        ],
+                        [
+                            4.427234,
+                            51.889712
+                        ],
+                        [
+                            4.437583,
+                            51.892921
+                        ],
+                        [
+                            4.437358,
+                            51.893291
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.433702,
+                            51.896772
+                        ],
+                        [
+                            4.431598,
+                            51.896327
+                        ],
+                        [
+                            4.432092,
+                            51.895195
+                        ],
+                        [
+                            4.426684,
+                            51.893427
+                        ],
+                        [
+                            4.426888,
+                            51.893202
+                        ],
+                        [
+                            4.426148,
+                            51.892957
+                        ],
+                        [
+                            4.426045,
+                            51.892869
+                        ],
+                        [
+                            4.425941,
+                            51.892655
+                        ],
+                        [
+                            4.426142,
+                            51.892404
+                        ],
+                        [
+                            4.42586,
+                            51.892317
+                        ],
+                        [
+                            4.426021,
+                            51.892116
+                        ],
+                        [
+                            4.425785,
+                            51.892041
+                        ],
+                        [
+                            4.426277,
+                            51.891429
+                        ],
+                        [
+                            4.426008,
+                            51.89124
+                        ],
+                        [
+                            4.425794,
+                            51.890654
+                        ],
+                        [
+                            4.42581,
+                            51.889916
+                        ],
+                        [
+                            4.426314,
+                            51.886992
+                        ],
+                        [
+                            4.426577,
+                            51.887009
+                        ],
+                        [
+                            4.426904,
+                            51.887492
+                        ],
+                        [
+                            4.427001,
+                            51.887399
+                        ],
+                        [
+                            4.427973,
+                            51.88774
+                        ],
+                        [
+                            4.428316,
+                            51.887343
+                        ],
+                        [
+                            4.428531,
+                            51.887317
+                        ],
+                        [
+                            4.428896,
+                            51.887409
+                        ],
+                        [
+                            4.430441,
+                            51.88782
+                        ],
+                        [
+                            4.431771,
+                            51.887462
+                        ],
+                        [
+                            4.439818,
+                            51.890111
+                        ],
+                        [
+                            4.438316,
+                            51.891939
+                        ],
+                        [
+                            4.427866,
+                            51.888562
+                        ],
+                        [
+                            4.426793,
+                            51.889859
+                        ],
+                        [
+                            4.427115,
+                            51.890151
+                        ],
+                        [
+                            4.437329,
+                            51.893408
+                        ],
+                        [
+                            4.436427,
+                            51.89468
+                        ],
+                        [
+                            4.433702,
+                            51.896772
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.431233,
+                            51.896546
+                        ],
+                        [
+                            4.431383,
+                            51.896268
+                        ],
+                        [
+                            4.433833,
+                            51.896808
+                        ],
+                        [
+                            4.433583,
+                            51.897086
+                        ],
+                        [
+                            4.431233,
+                            51.896546
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.427834,
+                            51.888879
+                        ],
+                        [
+                            4.427984,
+                            51.888678
+                        ],
+                        [
+                            4.438233,
+                            51.891949
+                        ],
+                        [
+                            4.438008,
+                            51.89218
+                        ],
+                        [
+                            4.427834,
+                            51.888879
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.433298,
+                    51.891856
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429026,
+                    51.891029
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432253,
+                    51.896651
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431979,
+                    51.890113
+                ]
+            },
+            "properties": {
+                "code": "NLRTMUMTR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2023-11-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.58341,
+                            39.266265
+                        ],
+                        [
+                            -76.5816,
+                            39.265634
+                        ],
+                        [
+                            -76.580208,
+                            39.268067
+                        ],
+                        [
+                            -76.58076,
+                            39.268267
+                        ],
+                        [
+                            -76.580874,
+                            39.268151
+                        ],
+                        [
+                            -76.580934,
+                            39.268044
+                        ],
+                        [
+                            -76.581162,
+                            39.268104
+                        ],
+                        [
+                            -76.58109,
+                            39.26823
+                        ],
+                        [
+                            -76.581204,
+                            39.268453
+                        ],
+                        [
+                            -76.580568,
+                            39.269525
+                        ],
+                        [
+                            -76.5807,
+                            39.269577
+                        ],
+                        [
+                            -76.582038,
+                            39.267301
+                        ],
+                        [
+                            -76.582194,
+                            39.267204
+                        ],
+                        [
+                            -76.582712,
+                            39.267392
+                        ],
+                        [
+                            -76.58341,
+                            39.266265
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALEXEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalexee/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.581524,
+                    39.267765
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALEXEE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalexee/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

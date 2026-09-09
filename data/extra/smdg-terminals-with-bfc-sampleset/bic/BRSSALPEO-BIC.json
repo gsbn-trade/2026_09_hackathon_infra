@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.411472,
+                            -12.837537
+                        ],
+                        [
+                            -38.412673,
+                            -12.837092
+                        ],
+                        [
+                            -38.413104,
+                            -12.838265
+                        ],
+                        [
+                            -38.411857,
+                            -12.83868
+                        ],
+                        [
+                            -38.411472,
+                            -12.837537
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "BRSSALPEO",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-11-06",
+                "url": "https://www.bic-code.org/facility-codes/brssalpeo/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.412116,
+                    -12.837822
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "BRSSALPEO",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-11-06",
+                "url": "https://www.bic-code.org/facility-codes/brssalpeo/"
+            }
+        }
+    ]
+}

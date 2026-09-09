@@ -1,0 +1,357 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            42.935501,
+                            14.840332
+                        ],
+                        [
+                            42.935709,
+                            14.840117
+                        ],
+                        [
+                            42.938692,
+                            14.83706
+                        ],
+                        [
+                            42.933518,
+                            14.83226
+                        ],
+                        [
+                            42.933697,
+                            14.832076
+                        ],
+                        [
+                            42.933678,
+                            14.832052
+                        ],
+                        [
+                            42.933864,
+                            14.831879
+                        ],
+                        [
+                            42.933778,
+                            14.831801
+                        ],
+                        [
+                            42.933844,
+                            14.831723
+                        ],
+                        [
+                            42.933775,
+                            14.831656
+                        ],
+                        [
+                            42.933268,
+                            14.832173
+                        ],
+                        [
+                            42.93323,
+                            14.832138
+                        ],
+                        [
+                            42.933801,
+                            14.831541
+                        ],
+                        [
+                            42.933734,
+                            14.831465
+                        ],
+                        [
+                            42.933687,
+                            14.831537
+                        ],
+                        [
+                            42.933616,
+                            14.831518
+                        ],
+                        [
+                            42.933683,
+                            14.831431
+                        ],
+                        [
+                            42.933643,
+                            14.831393
+                        ],
+                        [
+                            42.933352,
+                            14.831712
+                        ],
+                        [
+                            42.933317,
+                            14.83167
+                        ],
+                        [
+                            42.933604,
+                            14.831351
+                        ],
+                        [
+                            42.933238,
+                            14.831001
+                        ],
+                        [
+                            42.934017,
+                            14.830259
+                        ],
+                        [
+                            42.937653,
+                            14.833618
+                        ],
+                        [
+                            42.937476,
+                            14.833778
+                        ],
+                        [
+                            42.938267,
+                            14.834588
+                        ],
+                        [
+                            42.93807,
+                            14.834801
+                        ],
+                        [
+                            42.941607,
+                            14.838126
+                        ],
+                        [
+                            42.940766,
+                            14.838943
+                        ],
+                        [
+                            42.937973,
+                            14.841806
+                        ],
+                        [
+                            42.937265,
+                            14.841148
+                        ],
+                        [
+                            42.936821,
+                            14.841586
+                        ],
+                        [
+                            42.935501,
+                            14.840332
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            42.936817,
+                            14.84158
+                        ],
+                        [
+                            42.936709,
+                            14.841697
+                        ],
+                        [
+                            42.93536,
+                            14.840454
+                        ],
+                        [
+                            42.9355,
+                            14.840334
+                        ],
+                        [
+                            42.936817,
+                            14.84158
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            42.9355,
+                            14.840331
+                        ],
+                        [
+                            42.93535,
+                            14.840168
+                        ],
+                        [
+                            42.938538,
+                            14.836926
+                        ],
+                        [
+                            42.938685,
+                            14.837065
+                        ],
+                        [
+                            42.9355,
+                            14.840331
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            42.933516,
+                            14.832255
+                        ],
+                        [
+                            42.938687,
+                            14.837057
+                        ],
+                        [
+                            42.938553,
+                            14.837192
+                        ],
+                        [
+                            42.933366,
+                            14.8324
+                        ],
+                        [
+                            42.933516,
+                            14.832255
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.935262,
+                    14.834208
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.936241,
+                    14.841129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.936715,
+                    14.838964
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.935528,
+                    14.834232
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "YEHODHOD",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

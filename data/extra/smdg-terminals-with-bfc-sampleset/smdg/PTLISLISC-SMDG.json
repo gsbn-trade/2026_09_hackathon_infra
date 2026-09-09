@@ -1,0 +1,249 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.175439,
+                            38.697819
+                        ],
+                        [
+                            -9.163204,
+                            38.700031
+                        ],
+                        [
+                            -9.163315,
+                            38.700407
+                        ],
+                        [
+                            -9.162519,
+                            38.700865
+                        ],
+                        [
+                            -9.162507,
+                            38.700896
+                        ],
+                        [
+                            -9.162554,
+                            38.701068
+                        ],
+                        [
+                            -9.162583,
+                            38.701063
+                        ],
+                        [
+                            -9.162632,
+                            38.701215
+                        ],
+                        [
+                            -9.162768,
+                            38.701191
+                        ],
+                        [
+                            -9.162956,
+                            38.701826
+                        ],
+                        [
+                            -9.172342,
+                            38.700163
+                        ],
+                        [
+                            -9.17226,
+                            38.699878
+                        ],
+                        [
+                            -9.17234,
+                            38.699864
+                        ],
+                        [
+                            -9.17287,
+                            38.701758
+                        ],
+                        [
+                            -9.17352,
+                            38.701641
+                        ],
+                        [
+                            -9.173745,
+                            38.701601
+                        ],
+                        [
+                            -9.173735,
+                            38.701573
+                        ],
+                        [
+                            -9.174493,
+                            38.701434
+                        ],
+                        [
+                            -9.174448,
+                            38.701272
+                        ],
+                        [
+                            -9.174322,
+                            38.701235
+                        ],
+                        [
+                            -9.174276,
+                            38.701084
+                        ],
+                        [
+                            -9.174377,
+                            38.701
+                        ],
+                        [
+                            -9.174113,
+                            38.7001
+                        ],
+                        [
+                            -9.173488,
+                            38.699881
+                        ],
+                        [
+                            -9.173392,
+                            38.699768
+                        ],
+                        [
+                            -9.17305,
+                            38.699721
+                        ],
+                        [
+                            -9.172808,
+                            38.699727
+                        ],
+                        [
+                            -9.172439,
+                            38.699793
+                        ],
+                        [
+                            -9.17237,
+                            38.69955
+                        ],
+                        [
+                            -9.172603,
+                            38.699507
+                        ],
+                        [
+                            -9.172578,
+                            38.699418
+                        ],
+                        [
+                            -9.17254,
+                            38.699273
+                        ],
+                        [
+                            -9.175573,
+                            38.6987
+                        ],
+                        [
+                            -9.175402,
+                            38.698108
+                        ],
+                        [
+                            -9.175508,
+                            38.698094
+                        ],
+                        [
+                            -9.175439,
+                            38.697819
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt, but without the eastern passenger berth. Includes the NW area marked LISCONT on OSM. Source YILPORT. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.175436,
+                            38.697811
+                        ],
+                        [
+                            -9.175303,
+                            38.697321
+                        ],
+                        [
+                            -9.163046,
+                            38.699528
+                        ],
+                        [
+                            -9.1632,
+                            38.700019
+                        ],
+                        [
+                            -9.175436,
+                            38.697811
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt, but without the eastern passenger berth. Includes the NW area marked LISCONT on OSM. Source YILPORT. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.170959,
+                    38.700232
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt, but without the eastern passenger berth. Includes the NW area marked LISCONT on OSM. Source YILPORT. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.170484,
+                    38.698498
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISLISC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt, but without the eastern passenger berth. Includes the NW area marked LISCONT on OSM. Source YILPORT. ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

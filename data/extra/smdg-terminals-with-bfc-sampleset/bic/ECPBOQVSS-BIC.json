@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.994596,
+                            -3.258721
+                        ],
+                        [
+                            -79.997001,
+                            -3.258618
+                        ],
+                        [
+                            -79.999051,
+                            -3.258495
+                        ],
+                        [
+                            -79.999129,
+                            -3.259673
+                        ],
+                        [
+                            -79.995577,
+                            -3.259873
+                        ],
+                        [
+                            -79.994596,
+                            -3.258721
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOQVSS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-27",
+                "url": "https://www.bic-code.org/facility-codes/ecpboqvss/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.996658,
+                    -3.259017
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOQVSS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-27",
+                "url": "https://www.bic-code.org/facility-codes/ecpboqvss/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

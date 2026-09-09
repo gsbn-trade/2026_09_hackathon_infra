@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.842194,
+                            57.695217
+                        ],
+                        [
+                            11.842479,
+                            57.695305
+                        ],
+                        [
+                            11.842498,
+                            57.696097
+                        ],
+                        [
+                            11.84174,
+                            57.695982
+                        ],
+                        [
+                            11.84118,
+                            57.695888
+                        ],
+                        [
+                            11.840921,
+                            57.695848
+                        ],
+                        [
+                            11.840726,
+                            57.695752
+                        ],
+                        [
+                            11.840233,
+                            57.695518
+                        ],
+                        [
+                            11.839854,
+                            57.695281
+                        ],
+                        [
+                            11.842194,
+                            57.695217
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTELFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-27",
+                "url": "https://www.bic-code.org/facility-codes/segotelfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.841402,
+                    57.695611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTELFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-27",
+                "url": "https://www.bic-code.org/facility-codes/segotelfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "NLRTMDCD",
+                "category": "geofence",
+                "codeProvider": "SMDG",
+                "version": "2023-01-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.027963,
+                            51.9544416
+                        ],
+                        [
+                            4.0278772,
+                            51.9543292
+                        ],
+                        [
+                            4.0287194,
+                            51.9543292
+                        ],
+                        [
+                            4.0288964,
+                            51.9542664
+                        ],
+                        [
+                            4.0304575,
+                            51.9546268
+                        ],
+                        [
+                            4.0306774,
+                            51.9546896
+                        ],
+                        [
+                            4.030495,
+                            51.9548383
+                        ],
+                        [
+                            4.0302644,
+                            51.954954
+                        ],
+                        [
+                            4.0299264,
+                            51.9549045
+                        ],
+                        [
+                            4.027963,
+                            51.9544416
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.029324,
+                    51.954582
+                ]
+            },
+            "properties": {
+                "code": "NLRTMDCD",
+                "category": "centroid",
+                "codeProvider": "SMDG",
+                "version": "2023-01-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

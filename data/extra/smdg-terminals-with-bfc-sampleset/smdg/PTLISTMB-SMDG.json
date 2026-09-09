@@ -1,0 +1,237 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.105068,
+                            38.729863
+                        ],
+                        [
+                            -9.104711,
+                            38.7297
+                        ],
+                        [
+                            -9.104404,
+                            38.730162
+                        ],
+                        [
+                            -9.103736,
+                            38.731128
+                        ],
+                        [
+                            -9.103206,
+                            38.73195
+                        ],
+                        [
+                            -9.102207,
+                            38.733688
+                        ],
+                        [
+                            -9.102565,
+                            38.733816
+                        ],
+                        [
+                            -9.103559,
+                            38.732067
+                        ],
+                        [
+                            -9.104083,
+                            38.731244
+                        ],
+                        [
+                            -9.104733,
+                            38.73031
+                        ],
+                        [
+                            -9.105068,
+                            38.729863
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISTMB",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.105002,
+                            38.729448
+                        ],
+                        [
+                            -9.104973,
+                            38.729755
+                        ],
+                        [
+                            -9.10499,
+                            38.729792
+                        ],
+                        [
+                            -9.105011,
+                            38.729817
+                        ],
+                        [
+                            -9.105046,
+                            38.729845
+                        ],
+                        [
+                            -9.105084,
+                            38.729861
+                        ],
+                        [
+                            -9.104744,
+                            38.730309
+                        ],
+                        [
+                            -9.104104,
+                            38.731246
+                        ],
+                        [
+                            -9.103566,
+                            38.732087
+                        ],
+                        [
+                            -9.102577,
+                            38.733822
+                        ],
+                        [
+                            -9.103323,
+                            38.734066
+                        ],
+                        [
+                            -9.103587,
+                            38.733711
+                        ],
+                        [
+                            -9.10382,
+                            38.733333
+                        ],
+                        [
+                            -9.10441,
+                            38.732322
+                        ],
+                        [
+                            -9.104389,
+                            38.732205
+                        ],
+                        [
+                            -9.104817,
+                            38.731554
+                        ],
+                        [
+                            -9.105961,
+                            38.72998
+                        ],
+                        [
+                            -9.105867,
+                            38.729939
+                        ],
+                        [
+                            -9.105622,
+                            38.729829
+                        ],
+                        [
+                            -9.105493,
+                            38.729762
+                        ],
+                        [
+                            -9.105424,
+                            38.729722
+                        ],
+                        [
+                            -9.105367,
+                            38.72968
+                        ],
+                        [
+                            -9.105318,
+                            38.72963
+                        ],
+                        [
+                            -9.105268,
+                            38.729569
+                        ],
+                        [
+                            -9.105234,
+                            38.729522
+                        ],
+                        [
+                            -9.105201,
+                            38.729466
+                        ],
+                        [
+                            -9.105002,
+                            38.729448
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISTMB",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.10394,
+                    38.731254
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISTMB",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.104785,
+                    38.73073
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISTMB",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-18",
+                "remarks": "Based on the Geoportal at www.portodelisboa.pt.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

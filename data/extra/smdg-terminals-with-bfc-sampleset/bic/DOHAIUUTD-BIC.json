@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.00103,
+                            18.426361
+                        ],
+                        [
+                            -70.000411,
+                            18.426321
+                        ],
+                        [
+                            -70.000492,
+                            18.426699
+                        ],
+                        [
+                            -70.001047,
+                            18.426703
+                        ],
+                        [
+                            -70.00103,
+                            18.426361
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIUUTD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaiuutd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.000802,
+                    18.426489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIUUTD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaiuutd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

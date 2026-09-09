@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.607212,
+                            55.712279
+                        ],
+                        [
+                            12.610179,
+                            55.711637
+                        ],
+                        [
+                            12.610752,
+                            55.712477
+                        ],
+                        [
+                            12.610831,
+                            55.71261
+                        ],
+                        [
+                            12.610873,
+                            55.712767
+                        ],
+                        [
+                            12.610088,
+                            55.712953
+                        ],
+                        [
+                            12.607827,
+                            55.713386
+                        ],
+                        [
+                            12.607557,
+                            55.71299
+                        ],
+                        [
+                            12.607685,
+                            55.712951
+                        ],
+                        [
+                            12.607212,
+                            55.712279
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHEUDF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/dkcpheudf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.609022,
+                    55.712633
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHEUDF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-02-24",
+                "url": "https://www.bic-code.org/facility-codes/dkcpheudf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

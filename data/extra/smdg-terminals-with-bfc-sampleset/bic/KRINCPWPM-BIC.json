@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.631755,
+                            37.347164
+                        ],
+                        [
+                            126.631646,
+                            37.341787
+                        ],
+                        [
+                            126.640752,
+                            37.341874
+                        ],
+                        [
+                            126.640839,
+                            37.347147
+                        ],
+                        [
+                            126.631755,
+                            37.347164
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRINCPWPM",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-04",
+                "url": "https://www.bic-code.org/facility-codes/krincpwpm/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.635349,
+                    37.345027
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "KRINCPWPM",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-04",
+                "url": "https://www.bic-code.org/facility-codes/krincpwpm/"
+            }
+        }
+    ]
+}

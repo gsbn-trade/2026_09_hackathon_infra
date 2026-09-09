@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.9783,
+                            33.95975
+                        ],
+                        [
+                            130.978435,
+                            33.958891
+                        ],
+                        [
+                            130.978798,
+                            33.958926
+                        ],
+                        [
+                            130.978849,
+                            33.958583
+                        ],
+                        [
+                            130.978798,
+                            33.958256
+                        ],
+                        [
+                            130.981009,
+                            33.958484
+                        ],
+                        [
+                            130.981082,
+                            33.958955
+                        ],
+                        [
+                            130.98104,
+                            33.959353
+                        ],
+                        [
+                            130.98097,
+                            33.95966
+                        ],
+                        [
+                            130.981488,
+                            33.959729
+                        ],
+                        [
+                            130.981433,
+                            33.959984
+                        ],
+                        [
+                            130.981813,
+                            33.96001
+                        ],
+                        [
+                            130.981781,
+                            33.96012
+                        ],
+                        [
+                            130.9783,
+                            33.95975
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.978294,
+                            33.959756
+                        ],
+                        [
+                            130.981781,
+                            33.96012
+                        ],
+                        [
+                            130.981723,
+                            33.960463
+                        ],
+                        [
+                            130.978231,
+                            33.960166
+                        ],
+                        [
+                            130.978294,
+                            33.959756
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.98015,
+                    33.959318
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.979665,
+                    33.960052
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-24",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

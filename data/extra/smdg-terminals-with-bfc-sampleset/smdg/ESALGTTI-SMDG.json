@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.422479,
+                            36.125195
+                        ],
+                        [
+                            -5.42246,
+                            36.123959
+                        ],
+                        [
+                            -5.421636,
+                            36.123948
+                        ],
+                        [
+                            -5.421867,
+                            36.132837
+                        ],
+                        [
+                            -5.422741,
+                            36.132849
+                        ],
+                        [
+                            -5.422479,
+                            36.125195
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESALGTTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-04-10",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.422484,
+                            36.123961
+                        ],
+                        [
+                            -5.422761,
+                            36.132843
+                        ],
+                        [
+                            -5.423562,
+                            36.132859
+                        ],
+                        [
+                            -5.423777,
+                            36.132704
+                        ],
+                        [
+                            -5.425284,
+                            36.132735
+                        ],
+                        [
+                            -5.425285,
+                            36.132643
+                        ],
+                        [
+                            -5.425608,
+                            36.132651
+                        ],
+                        [
+                            -5.42561,
+                            36.132745
+                        ],
+                        [
+                            -5.428892,
+                            36.132821
+                        ],
+                        [
+                            -5.428882,
+                            36.132561
+                        ],
+                        [
+                            -5.428774,
+                            36.132565
+                        ],
+                        [
+                            -5.428732,
+                            36.13254
+                        ],
+                        [
+                            -5.428521,
+                            36.132543
+                        ],
+                        [
+                            -5.428502,
+                            36.131969
+                        ],
+                        [
+                            -5.42875,
+                            36.131955
+                        ],
+                        [
+                            -5.428859,
+                            36.131895
+                        ],
+                        [
+                            -5.428789,
+                            36.130325
+                        ],
+                        [
+                            -5.42838,
+                            36.130325
+                        ],
+                        [
+                            -5.428257,
+                            36.126864
+                        ],
+                        [
+                            -5.423459,
+                            36.126963
+                        ],
+                        [
+                            -5.423357,
+                            36.123939
+                        ],
+                        [
+                            -5.422484,
+                            36.123961
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESALGTTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-04-10",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.422277,
+                    36.12733
+                ]
+            },
+            "properties": {
+                "code": "ESALGTTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-10",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.426319,
+                    36.130653
+                ]
+            },
+            "properties": {
+                "code": "ESALGTTI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-10",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

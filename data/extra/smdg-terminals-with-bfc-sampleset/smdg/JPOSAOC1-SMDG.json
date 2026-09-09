@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.437934,
+                            34.631435
+                        ],
+                        [
+                            135.438685,
+                            34.627904
+                        ],
+                        [
+                            135.440197,
+                            34.628506
+                        ],
+                        [
+                            135.440091,
+                            34.628982
+                        ],
+                        [
+                            135.441143,
+                            34.629122
+                        ],
+                        [
+                            135.441242,
+                            34.62869
+                        ],
+                        [
+                            135.441771,
+                            34.628759
+                        ],
+                        [
+                            135.441149,
+                            34.631847
+                        ],
+                        [
+                            135.437934,
+                            34.631435
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.441171,
+                            34.631837
+                        ],
+                        [
+                            135.44178,
+                            34.628745
+                        ],
+                        [
+                            135.442107,
+                            34.628816
+                        ],
+                        [
+                            135.441522,
+                            34.631882
+                        ],
+                        [
+                            135.441171,
+                            34.631837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.440016,
+                    34.629631
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.44155,
+                    34.630623
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPOSAOC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

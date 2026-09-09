@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.560676,
+                            39.271385
+                        ],
+                        [
+                            -76.56891,
+                            39.27106
+                        ],
+                        [
+                            -76.568641,
+                            39.267314
+                        ],
+                        [
+                            -76.565674,
+                            39.268428
+                        ],
+                        [
+                            -76.561731,
+                            39.269633
+                        ],
+                        [
+                            -76.561444,
+                            39.269919
+                        ],
+                        [
+                            -76.561086,
+                            39.27022
+                        ],
+                        [
+                            -76.56084,
+                            39.270569
+                        ],
+                        [
+                            -76.560666,
+                            39.270878
+                        ],
+                        [
+                            -76.560676,
+                            39.271385
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALHUWK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalhuwk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.563034,
+                    39.270079
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALHUWK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalhuwk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

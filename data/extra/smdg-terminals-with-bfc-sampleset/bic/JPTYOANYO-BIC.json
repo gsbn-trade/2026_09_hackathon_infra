@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.769254,
+                            35.600933
+                        ],
+                        [
+                            139.765683,
+                            35.599121
+                        ],
+                        [
+                            139.769311,
+                            35.593988
+                        ],
+                        [
+                            139.773281,
+                            35.595753
+                        ],
+                        [
+                            139.769254,
+                            35.600933
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPTYOANYO",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyoanyo/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.769357,
+                    35.598146
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "JPTYOANYO",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyoanyo/"
+            }
+        }
+    ]
+}

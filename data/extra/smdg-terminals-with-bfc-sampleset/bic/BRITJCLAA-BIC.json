@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.724384,
+                            -26.882031
+                        ],
+                        [
+                            -48.724046,
+                            -26.877544
+                        ],
+                        [
+                            -48.724889,
+                            -26.877491
+                        ],
+                        [
+                            -48.724846,
+                            -26.877266
+                        ],
+                        [
+                            -48.725559,
+                            -26.877304
+                        ],
+                        [
+                            -48.726294,
+                            -26.877529
+                        ],
+                        [
+                            -48.724384,
+                            -26.882031
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJCLAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjclaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.724915,
+                    -26.878742
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJCLAA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-11",
+                "url": "https://www.bic-code.org/facility-codes/britjclaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

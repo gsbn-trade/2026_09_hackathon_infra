@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.689329,
+                            4.02495
+                        ],
+                        [
+                            9.689454,
+                            4.024756
+                        ],
+                        [
+                            9.689414,
+                            4.024534
+                        ],
+                        [
+                            9.689078,
+                            4.024444
+                        ],
+                        [
+                            9.688051,
+                            4.024335
+                        ],
+                        [
+                            9.687658,
+                            4.024586
+                        ],
+                        [
+                            9.684669,
+                            4.027795
+                        ],
+                        [
+                            9.685462,
+                            4.028489
+                        ],
+                        [
+                            9.685832,
+                            4.028108
+                        ],
+                        [
+                            9.685992,
+                            4.028324
+                        ],
+                        [
+                            9.688296,
+                            4.026008
+                        ],
+                        [
+                            9.689232,
+                            4.025081
+                        ],
+                        [
+                            9.689329,
+                            4.02495
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlaapma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.68783,
+                    4.025874
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlaapma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

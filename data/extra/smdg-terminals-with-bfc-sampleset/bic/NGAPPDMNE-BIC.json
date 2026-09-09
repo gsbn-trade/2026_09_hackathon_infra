@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.111592,
+                            6.495612
+                        ],
+                        [
+                            3.111227,
+                            6.495266
+                        ],
+                        [
+                            3.111061,
+                            6.495383
+                        ],
+                        [
+                            3.109478,
+                            6.493698
+                        ],
+                        [
+                            3.110058,
+                            6.493182
+                        ],
+                        [
+                            3.111946,
+                            6.495393
+                        ],
+                        [
+                            3.111592,
+                            6.495612
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPDMNE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappdmne/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.110993,
+                    6.494878
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPDMNE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappdmne/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

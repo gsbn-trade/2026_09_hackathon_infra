@@ -1,0 +1,146 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.057265,
+                            57.048254
+                        ],
+                        [
+                            10.053778,
+                            57.047079
+                        ],
+                        [
+                            10.053618,
+                            57.047233
+                        ],
+                        [
+                            10.052018,
+                            57.046788
+                        ],
+                        [
+                            10.051289,
+                            57.046469
+                        ],
+                        [
+                            10.054018,
+                            57.044728
+                        ],
+                        [
+                            10.059007,
+                            57.046349
+                        ],
+                        [
+                            10.058909,
+                            57.046465
+                        ],
+                        [
+                            10.058989,
+                            57.046499
+                        ],
+                        [
+                            10.057265,
+                            57.048254
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 0,
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALDKACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-07",
+                "remarks": "Provided by CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.057257,
+                            57.048259
+                        ],
+                        [
+                            10.05698,
+                            57.048506
+                        ],
+                        [
+                            10.053544,
+                            57.047292
+                        ],
+                        [
+                            10.053742,
+                            57.047082
+                        ],
+                        [
+                            10.057257,
+                            57.048259
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALDKACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-07",
+                "remarks": "Provided by CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.055616,
+                    57.046812
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALDKACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "remarks": "Provided by CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.055756,
+                    57.04788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAALDKACT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-07",
+                "remarks": "Provided by CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

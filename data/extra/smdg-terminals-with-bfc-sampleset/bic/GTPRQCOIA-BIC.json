@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.782399,
+                            13.9302
+                        ],
+                        [
+                            -90.781708,
+                            13.928483
+                        ],
+                        [
+                            -90.78348,
+                            13.927811
+                        ],
+                        [
+                            -90.784171,
+                            13.929527
+                        ],
+                        [
+                            -90.782399,
+                            13.9302
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQCOIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/gtprqcoia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.782831,
+                    13.929244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPRQCOIA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-06-26",
+                "url": "https://www.bic-code.org/facility-codes/gtprqcoia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

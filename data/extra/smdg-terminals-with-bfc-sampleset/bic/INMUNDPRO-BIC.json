@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.702238,
+                            22.85502
+                        ],
+                        [
+                            69.702999,
+                            22.855255
+                        ],
+                        [
+                            69.702999,
+                            22.8555
+                        ],
+                        [
+                            69.701902,
+                            22.857834
+                        ],
+                        [
+                            69.701489,
+                            22.857693
+                        ],
+                        [
+                            69.701654,
+                            22.857482
+                        ],
+                        [
+                            69.701692,
+                            22.857085
+                        ],
+                        [
+                            69.701736,
+                            22.856266
+                        ],
+                        [
+                            69.701946,
+                            22.855623
+                        ],
+                        [
+                            69.702238,
+                            22.85502
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.702232,
+                            22.85503
+                        ],
+                        [
+                            69.702148,
+                            22.855252
+                        ],
+                        [
+                            69.702348,
+                            22.855296
+                        ],
+                        [
+                            69.702437,
+                            22.855082
+                        ],
+                        [
+                            69.702242,
+                            22.855025
+                        ],
+                        [
+                            69.702232,
+                            22.85503
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.702089,
+                    22.856278
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundpro/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.702273,
+                    22.855119
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNDPRO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/inmundpro/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

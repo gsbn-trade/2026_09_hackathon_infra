@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.659936,
+                            44.107986
+                        ],
+                        [
+                            28.659506,
+                            44.102116
+                        ],
+                        [
+                            28.659743,
+                            44.102162
+                        ],
+                        [
+                            28.659549,
+                            44.099774
+                        ],
+                        [
+                            28.66,
+                            44.099234
+                        ],
+                        [
+                            28.659871,
+                            44.095752
+                        ],
+                        [
+                            28.659076,
+                            44.095123
+                        ],
+                        [
+                            28.658927,
+                            44.09196
+                        ],
+                        [
+                            28.659163,
+                            44.091452
+                        ],
+                        [
+                            28.660794,
+                            44.091375
+                        ],
+                        [
+                            28.661287,
+                            44.091668
+                        ],
+                        [
+                            28.661609,
+                            44.091606
+                        ],
+                        [
+                            28.661459,
+                            44.090049
+                        ],
+                        [
+                            28.662253,
+                            44.090126
+                        ],
+                        [
+                            28.662725,
+                            44.097216
+                        ],
+                        [
+                            28.66412,
+                            44.097169
+                        ],
+                        [
+                            28.66442,
+                            44.101623
+                        ],
+                        [
+                            28.664849,
+                            44.107848
+                        ],
+                        [
+                            28.659936,
+                            44.107986
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ROCNDANLV",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-24",
+                "url": "https://www.bic-code.org/facility-codes/rocndanlv/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.661012,
+                    44.097486
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ROCNDANLV",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-24",
+                "url": "https://www.bic-code.org/facility-codes/rocndanlv/"
+            }
+        }
+    ]
+}

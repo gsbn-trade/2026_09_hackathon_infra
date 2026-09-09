@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.29128,
+                            -13.806098
+                        ],
+                        [
+                            -76.290918,
+                            -13.804675
+                        ],
+                        [
+                            -76.290426,
+                            -13.802503
+                        ],
+                        [
+                            -76.289813,
+                            -13.799988
+                        ],
+                        [
+                            -76.290119,
+                            -13.799914
+                        ],
+                        [
+                            -76.290343,
+                            -13.799407
+                        ],
+                        [
+                            -76.290848,
+                            -13.799301
+                        ],
+                        [
+                            -76.291484,
+                            -13.798378
+                        ],
+                        [
+                            -76.290578,
+                            -13.797497
+                        ],
+                        [
+                            -76.290986,
+                            -13.797018
+                        ],
+                        [
+                            -76.290887,
+                            -13.796538
+                        ],
+                        [
+                            -76.291956,
+                            -13.796479
+                        ],
+                        [
+                            -76.293681,
+                            -13.796578
+                        ],
+                        [
+                            -76.294754,
+                            -13.802729
+                        ],
+                        [
+                            -76.294519,
+                            -13.80336
+                        ],
+                        [
+                            -76.294062,
+                            -13.803967
+                        ],
+                        [
+                            -76.293996,
+                            -13.804738
+                        ],
+                        [
+                            -76.294097,
+                            -13.805672
+                        ],
+                        [
+                            -76.292882,
+                            -13.805962
+                        ],
+                        [
+                            -76.291607,
+                            -13.806048
+                        ],
+                        [
+                            -76.29128,
+                            -13.806098
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPIOPDP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.289798,
+                            -13.799983
+                        ],
+                        [
+                            -76.291254,
+                            -13.806098
+                        ],
+                        [
+                            -76.290828,
+                            -13.806179
+                        ],
+                        [
+                            -76.289186,
+                            -13.800082
+                        ],
+                        [
+                            -76.289798,
+                            -13.799983
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPIOPDP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.291929,
+                    -13.801569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPIOPDP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.290173,
+                    -13.802465
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPIOPDP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,201 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.303277,
+                            13.097879
+                        ],
+                        [
+                            80.300706,
+                            13.091963
+                        ],
+                        [
+                            80.300299,
+                            13.091067
+                        ],
+                        [
+                            80.300059,
+                            13.090933
+                        ],
+                        [
+                            80.29994,
+                            13.090452
+                        ],
+                        [
+                            80.297989,
+                            13.087847
+                        ],
+                        [
+                            80.298181,
+                            13.087716
+                        ],
+                        [
+                            80.297679,
+                            13.087096
+                        ],
+                        [
+                            80.297863,
+                            13.086964
+                        ],
+                        [
+                            80.297616,
+                            13.086632
+                        ],
+                        [
+                            80.298124,
+                            13.086239
+                        ],
+                        [
+                            80.298527,
+                            13.086383
+                        ],
+                        [
+                            80.298868,
+                            13.086125
+                        ],
+                        [
+                            80.299421,
+                            13.086821
+                        ],
+                        [
+                            80.300469,
+                            13.088091
+                        ],
+                        [
+                            80.301199,
+                            13.088752
+                        ],
+                        [
+                            80.302168,
+                            13.089724
+                        ],
+                        [
+                            80.302486,
+                            13.089976
+                        ],
+                        [
+                            80.302733,
+                            13.089937
+                        ],
+                        [
+                            80.30286,
+                            13.089985
+                        ],
+                        [
+                            80.303232,
+                            13.09281
+                        ],
+                        [
+                            80.303193,
+                            13.093071
+                        ],
+                        [
+                            80.303772,
+                            13.094793
+                        ],
+                        [
+                            80.303593,
+                            13.097765
+                        ],
+                        [
+                            80.303277,
+                            13.097879
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACITPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.303259,
+                            13.097886
+                        ],
+                        [
+                            80.302568,
+                            13.098151
+                        ],
+                        [
+                            80.299625,
+                            13.091347
+                        ],
+                        [
+                            80.300295,
+                            13.091083
+                        ],
+                        [
+                            80.303259,
+                            13.097886
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACITPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.300701,
+                    13.090276
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACITPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.301801,
+                    13.095271
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAACITPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

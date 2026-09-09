@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.130442,
+                            8.757938
+                        ],
+                        [
+                            78.129242,
+                            8.758259
+                        ],
+                        [
+                            78.129276,
+                            8.758913
+                        ],
+                        [
+                            78.128726,
+                            8.759012
+                        ],
+                        [
+                            78.128468,
+                            8.757517
+                        ],
+                        [
+                            78.130184,
+                            8.757284
+                        ],
+                        [
+                            78.130442,
+                            8.757938
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTDSTJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/intutdstj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.130142,
+                            8.757735
+                        ],
+                        [
+                            78.130337,
+                            8.757675
+                        ],
+                        [
+                            78.130295,
+                            8.757567
+                        ],
+                        [
+                            78.130104,
+                            8.757623
+                        ],
+                        [
+                            78.130142,
+                            8.757735
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTDSTJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/intutdstj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.12954,
+                    8.758123
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTDSTJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/intutdstj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.130204,
+                    8.757667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTDSTJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/intutdstj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

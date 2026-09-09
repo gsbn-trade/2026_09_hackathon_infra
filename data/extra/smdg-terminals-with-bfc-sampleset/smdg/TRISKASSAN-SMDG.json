@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.20787,
+                            36.688732
+                        ],
+                        [
+                            36.204093,
+                            36.687832
+                        ],
+                        [
+                            36.203053,
+                            36.687491
+                        ],
+                        [
+                            36.202721,
+                            36.687493
+                        ],
+                        [
+                            36.19795,
+                            36.685849
+                        ],
+                        [
+                            36.198046,
+                            36.685575
+                        ],
+                        [
+                            36.194409,
+                            36.684259
+                        ],
+                        [
+                            36.194655,
+                            36.683799
+                        ],
+                        [
+                            36.198141,
+                            36.685016
+                        ],
+                        [
+                            36.198223,
+                            36.684774
+                        ],
+                        [
+                            36.201901,
+                            36.686068
+                        ],
+                        [
+                            36.204629,
+                            36.687045
+                        ],
+                        [
+                            36.205286,
+                            36.687324
+                        ],
+                        [
+                            36.20834,
+                            36.687987
+                        ],
+                        [
+                            36.208075,
+                            36.688756
+                        ],
+                        [
+                            36.20787,
+                            36.688732
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKASSAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.194642,
+                            36.683771
+                        ],
+                        [
+                            36.194778,
+                            36.683443
+                        ],
+                        [
+                            36.198278,
+                            36.684648
+                        ],
+                        [
+                            36.198141,
+                            36.68501
+                        ],
+                        [
+                            36.194642,
+                            36.683771
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKASSAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.202204,
+                    36.686671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKASSAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.196096,
+                    36.684129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRISKASSAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

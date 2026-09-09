@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.828165,
+                            -12.26666
+                        ],
+                        [
+                            -76.828684,
+                            -12.266665
+                        ],
+                        [
+                            -76.828829,
+                            -12.266706
+                        ],
+                        [
+                            -76.828949,
+                            -12.266762
+                        ],
+                        [
+                            -76.830825,
+                            -12.267906
+                        ],
+                        [
+                            -76.829636,
+                            -12.26911
+                        ],
+                        [
+                            -76.829523,
+                            -12.269144
+                        ],
+                        [
+                            -76.828284,
+                            -12.269179
+                        ],
+                        [
+                            -76.828217,
+                            -12.269131
+                        ],
+                        [
+                            -76.828165,
+                            -12.26666
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLETFU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/peclletfu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.828928,
+                    -12.267792
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PECLLETFU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/peclletfu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,233 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.838275,
+                            36.708401
+                        ],
+                        [
+                            14.831661,
+                            36.709099
+                        ],
+                        [
+                            14.831646,
+                            36.709799
+                        ],
+                        [
+                            14.831714,
+                            36.709817
+                        ],
+                        [
+                            14.831676,
+                            36.710462
+                        ],
+                        [
+                            14.831532,
+                            36.71048
+                        ],
+                        [
+                            14.831433,
+                            36.710377
+                        ],
+                        [
+                            14.830287,
+                            36.71034
+                        ],
+                        [
+                            14.830158,
+                            36.710249
+                        ],
+                        [
+                            14.830539,
+                            36.709703
+                        ],
+                        [
+                            14.831018,
+                            36.709101
+                        ],
+                        [
+                            14.831557,
+                            36.70876
+                        ],
+                        [
+                            14.832194,
+                            36.708614
+                        ],
+                        [
+                            14.838214,
+                            36.707932
+                        ],
+                        [
+                            14.838275,
+                            36.708401
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.831656,
+                            36.709799
+                        ],
+                        [
+                            14.831671,
+                            36.709099
+                        ],
+                        [
+                            14.831785,
+                            36.709111
+                        ],
+                        [
+                            14.83177,
+                            36.709799
+                        ],
+                        [
+                            14.831656,
+                            36.709799
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.838255,
+                            36.708115
+                        ],
+                        [
+                            14.838463,
+                            36.708085
+                        ],
+                        [
+                            14.838538,
+                            36.708736
+                        ],
+                        [
+                            14.831769,
+                            36.709303
+                        ],
+                        [
+                            14.831769,
+                            36.709094
+                        ],
+                        [
+                            14.83828,
+                            36.708412
+                        ],
+                        [
+                            14.838255,
+                            36.708115
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.832679,
+                    36.709436
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.831708,
+                    36.709521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.836476,
+                    36.708551
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITPZLSERM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "remarks": "PROVIDED BY CISCO",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

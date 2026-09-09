@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.622714,
+                            37.347243
+                        ],
+                        [
+                            126.622658,
+                            37.341798
+                        ],
+                        [
+                            126.631945,
+                            37.341875
+                        ],
+                        [
+                            126.632026,
+                            37.347307
+                        ],
+                        [
+                            126.622714,
+                            37.347243
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRINCICCA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krincicca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.626411,
+                    37.345093
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "KRINCICCA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/krincicca/"
+            }
+        }
+    ]
+}

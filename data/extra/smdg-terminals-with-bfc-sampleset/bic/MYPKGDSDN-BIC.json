@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.294725,
+                            2.925425
+                        ],
+                        [
+                            101.292674,
+                            2.921814
+                        ],
+                        [
+                            101.29361,
+                            2.921292
+                        ],
+                        [
+                            101.295557,
+                            2.924964
+                        ],
+                        [
+                            101.294725,
+                            2.925425
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGDSDN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgdsdn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            101.292673,
+                            2.921816
+                        ],
+                        [
+                            101.292781,
+                            2.922007
+                        ],
+                        [
+                            101.293065,
+                            2.92185
+                        ],
+                        [
+                            101.292959,
+                            2.921657
+                        ],
+                        [
+                            101.292673,
+                            2.921816
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGDSDN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgdsdn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.294258,
+                    2.923784
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGDSDN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgdsdn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.29283,
+                    2.921829
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MYPKGDSDN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/mypkgdsdn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

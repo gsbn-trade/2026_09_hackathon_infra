@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.856662,
+                            -33.051091
+                        ],
+                        [
+                            27.856429,
+                            -33.050998
+                        ],
+                        [
+                            27.856012,
+                            -33.051098
+                        ],
+                        [
+                            27.855304,
+                            -33.051416
+                        ],
+                        [
+                            27.855434,
+                            -33.051701
+                        ],
+                        [
+                            27.85521,
+                            -33.051803
+                        ],
+                        [
+                            27.855352,
+                            -33.052077
+                        ],
+                        [
+                            27.855542,
+                            -33.052067
+                        ],
+                        [
+                            27.855624,
+                            -33.052184
+                        ],
+                        [
+                            27.855535,
+                            -33.052312
+                        ],
+                        [
+                            27.855816,
+                            -33.052759
+                        ],
+                        [
+                            27.856711,
+                            -33.052393
+                        ],
+                        [
+                            27.857176,
+                            -33.052455
+                        ],
+                        [
+                            27.857584,
+                            -33.051241
+                        ],
+                        [
+                            27.856808,
+                            -33.051082
+                        ],
+                        [
+                            27.85672,
+                            -33.051144
+                        ],
+                        [
+                            27.856643,
+                            -33.051141
+                        ],
+                        [
+                            27.856662,
+                            -33.051091
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSNMZK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-17",
+                "url": "https://www.bic-code.org/facility-codes/zaelsnmzk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.856179,
+                    -33.05167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSNMZK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-17",
+                "url": "https://www.bic-code.org/facility-codes/zaelsnmzk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

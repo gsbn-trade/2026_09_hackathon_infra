@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.897736,
+                            7.013518
+                        ],
+                        [
+                            79.897812,
+                            7.013813
+                        ],
+                        [
+                            79.897832,
+                            7.013895
+                        ],
+                        [
+                            79.897056,
+                            7.013963
+                        ],
+                        [
+                            79.897125,
+                            7.014171
+                        ],
+                        [
+                            79.895573,
+                            7.014316
+                        ],
+                        [
+                            79.89558,
+                            7.013968
+                        ],
+                        [
+                            79.895739,
+                            7.013935
+                        ],
+                        [
+                            79.895732,
+                            7.013759
+                        ],
+                        [
+                            79.897736,
+                            7.013518
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "LKCMBADNP",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbadnp/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.896792,
+                    7.013886
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "LKCMBADNP",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbadnp/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.928854,
+                            -3.233005
+                        ],
+                        [
+                            -79.930251,
+                            -3.232844
+                        ],
+                        [
+                            -79.929593,
+                            -3.233847
+                        ],
+                        [
+                            -79.929229,
+                            -3.235102
+                        ],
+                        [
+                            -79.927644,
+                            -3.23353
+                        ],
+                        [
+                            -79.928494,
+                            -3.233024
+                        ],
+                        [
+                            -79.928854,
+                            -3.233005
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOPMJL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecpbopmjl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.928988,
+                    -3.23348
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPBOPMJL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecpbopmjl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

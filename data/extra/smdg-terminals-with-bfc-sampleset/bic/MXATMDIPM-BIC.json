@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.883244,
+                            22.469807
+                        ],
+                        [
+                            -97.882059,
+                            22.470043
+                        ],
+                        [
+                            -97.882686,
+                            22.472664
+                        ],
+                        [
+                            -97.881423,
+                            22.472965
+                        ],
+                        [
+                            -97.881712,
+                            22.474234
+                        ],
+                        [
+                            -97.879604,
+                            22.474729
+                        ],
+                        [
+                            -97.879951,
+                            22.476218
+                        ],
+                        [
+                            -97.88002,
+                            22.476371
+                        ],
+                        [
+                            -97.880579,
+                            22.478714
+                        ],
+                        [
+                            -97.883889,
+                            22.478031
+                        ],
+                        [
+                            -97.88329,
+                            22.475522
+                        ],
+                        [
+                            -97.884535,
+                            22.475237
+                        ],
+                        [
+                            -97.883244,
+                            22.469807
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMDIPM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/mxatmdipm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.882018,
+                    22.47418
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMDIPM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/mxatmdipm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

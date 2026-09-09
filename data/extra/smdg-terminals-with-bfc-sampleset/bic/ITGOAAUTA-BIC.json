@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.882547,
+                            44.417012
+                        ],
+                        [
+                            8.882401,
+                            44.416834
+                        ],
+                        [
+                            8.882249,
+                            44.416663
+                        ],
+                        [
+                            8.882084,
+                            44.416502
+                        ],
+                        [
+                            8.88199,
+                            44.416406
+                        ],
+                        [
+                            8.881588,
+                            44.416106
+                        ],
+                        [
+                            8.881194,
+                            44.415785
+                        ],
+                        [
+                            8.881035,
+                            44.415641
+                        ],
+                        [
+                            8.881313,
+                            44.415457
+                        ],
+                        [
+                            8.882114,
+                            44.415948
+                        ],
+                        [
+                            8.883166,
+                            44.416776
+                        ],
+                        [
+                            8.884218,
+                            44.417624
+                        ],
+                        [
+                            8.884141,
+                            44.417682
+                        ],
+                        [
+                            8.883723,
+                            44.417945
+                        ],
+                        [
+                            8.883518,
+                            44.418026
+                        ],
+                        [
+                            8.883229,
+                            44.417724
+                        ],
+                        [
+                            8.882946,
+                            44.417436
+                        ],
+                        [
+                            8.882734,
+                            44.417227
+                        ],
+                        [
+                            8.882547,
+                            44.417012
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAAUTA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itgoaauta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.882565,
+                    44.416832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITGOAAUTA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itgoaauta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

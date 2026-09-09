@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.31796,
+                            29.671582
+                        ],
+                        [
+                            32.318035,
+                            29.671387
+                        ],
+                        [
+                            32.31929,
+                            29.670844
+                        ],
+                        [
+                            32.319819,
+                            29.671722
+                        ],
+                        [
+                            32.318521,
+                            29.672265
+                        ],
+                        [
+                            32.31835,
+                            29.672209
+                        ],
+                        [
+                            32.31796,
+                            29.671582
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "EGSOKAOXT",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/egsokaoxt/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.318562,
+                    29.671656
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "EGSOKAOXT",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/egsokaoxt/"
+            }
+        }
+    ]
+}

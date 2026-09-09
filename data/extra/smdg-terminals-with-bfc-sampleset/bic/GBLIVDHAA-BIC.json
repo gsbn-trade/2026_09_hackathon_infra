@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.855547,
+                            53.479476
+                        ],
+                        [
+                            -2.855979,
+                            53.478293
+                        ],
+                        [
+                            -2.854981,
+                            53.478173
+                        ],
+                        [
+                            -2.854575,
+                            53.479353
+                        ],
+                        [
+                            -2.855547,
+                            53.479476
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVDHAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-22",
+                "url": "https://www.bic-code.org/facility-codes/gblivdhaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.855416,
+                            53.478207
+                        ],
+                        [
+                            -2.855517,
+                            53.477904
+                        ],
+                        [
+                            -2.854311,
+                            53.477751
+                        ],
+                        [
+                            -2.854196,
+                            53.478052
+                        ],
+                        [
+                            -2.855416,
+                            53.478207
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVDHAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-05-22",
+                "url": "https://www.bic-code.org/facility-codes/gblivdhaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.855326,
+                    53.478954
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVDHAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-22",
+                "url": "https://www.bic-code.org/facility-codes/gblivdhaa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.854971,
+                    53.478024
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVDHAA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-22",
+                "url": "https://www.bic-code.org/facility-codes/gblivdhaa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

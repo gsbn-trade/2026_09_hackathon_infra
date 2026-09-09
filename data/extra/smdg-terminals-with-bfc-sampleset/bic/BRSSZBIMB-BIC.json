@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.392907,
+                            -23.924407
+                        ],
+                        [
+                            -46.393268,
+                            -23.924377
+                        ],
+                        [
+                            -46.393407,
+                            -23.92438
+                        ],
+                        [
+                            -46.393864,
+                            -23.925564
+                        ],
+                        [
+                            -46.393384,
+                            -23.925722
+                        ],
+                        [
+                            -46.392907,
+                            -23.924407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBIMB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszbimb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.39329,
+                    -23.924809
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBIMB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszbimb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.701132,
+                            41.261975
+                        ],
+                        [
+                            -8.701154,
+                            41.261474
+                        ],
+                        [
+                            -8.700966,
+                            41.26102
+                        ],
+                        [
+                            -8.700717,
+                            41.260152
+                        ],
+                        [
+                            -8.700577,
+                            41.259924
+                        ],
+                        [
+                            -8.700009,
+                            41.259955
+                        ],
+                        [
+                            -8.698878,
+                            41.260167
+                        ],
+                        [
+                            -8.697856,
+                            41.260589
+                        ],
+                        [
+                            -8.697998,
+                            41.26076
+                        ],
+                        [
+                            -8.698661,
+                            41.26044
+                        ],
+                        [
+                            -8.69897,
+                            41.2609
+                        ],
+                        [
+                            -8.69919,
+                            41.2616
+                        ],
+                        [
+                            -8.69889,
+                            41.2617
+                        ],
+                        [
+                            -8.698393,
+                            41.261872
+                        ],
+                        [
+                            -8.698419,
+                            41.261996
+                        ],
+                        [
+                            -8.698749,
+                            41.262329
+                        ],
+                        [
+                            -8.69948,
+                            41.2622
+                        ],
+                        [
+                            -8.6999,
+                            41.2625
+                        ],
+                        [
+                            -8.70057,
+                            41.2624
+                        ],
+                        [
+                            -8.701008,
+                            41.262295
+                        ],
+                        [
+                            -8.701132,
+                            41.261975
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIDOVI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-09-04",
+                "url": "https://www.bic-code.org/facility-codes/ptleidovi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69965,
+                    41.261344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLEIDOVI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-09-04",
+                "url": "https://www.bic-code.org/facility-codes/ptleidovi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

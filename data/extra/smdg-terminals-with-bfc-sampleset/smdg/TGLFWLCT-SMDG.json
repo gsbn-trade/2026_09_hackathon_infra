@@ -1,0 +1,309 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.279798,
+                            6.140812
+                        ],
+                        [
+                            1.283612,
+                            6.137078
+                        ],
+                        [
+                            1.283681,
+                            6.136711
+                        ],
+                        [
+                            1.273709,
+                            6.136653
+                        ],
+                        [
+                            1.273813,
+                            6.133459
+                        ],
+                        [
+                            1.26948,
+                            6.133471
+                        ],
+                        [
+                            1.269584,
+                            6.138124
+                        ],
+                        [
+                            1.27275,
+                            6.139009
+                        ],
+                        [
+                            1.273709,
+                            6.139227
+                        ],
+                        [
+                            1.27788,
+                            6.140307
+                        ],
+                        [
+                            1.279798,
+                            6.140812
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.273676,
+                            6.136636
+                        ],
+                        [
+                            1.273717,
+                            6.135865
+                        ],
+                        [
+                            1.283901,
+                            6.135958
+                        ],
+                        [
+                            1.28366,
+                            6.136716
+                        ],
+                        [
+                            1.273676,
+                            6.136636
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.272098,
+                            6.137997
+                        ],
+                        [
+                            1.272187,
+                            6.137701
+                        ],
+                        [
+                            1.272929,
+                            6.137895
+                        ],
+                        [
+                            1.27284,
+                            6.138226
+                        ],
+                        [
+                            1.272098,
+                            6.137997
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.272835,
+                            6.139031
+                        ],
+                        [
+                            1.272835,
+                            6.138909
+                        ],
+                        [
+                            1.269685,
+                            6.138027
+                        ],
+                        [
+                            1.269574,
+                            6.137785
+                        ],
+                        [
+                            1.269561,
+                            6.136921
+                        ],
+                        [
+                            1.269856,
+                            6.136929
+                        ],
+                        [
+                            1.26986,
+                            6.137188
+                        ],
+                        [
+                            1.271232,
+                            6.137573
+                        ],
+                        [
+                            1.271774,
+                            6.137556
+                        ],
+                        [
+                            1.272179,
+                            6.137679
+                        ],
+                        [
+                            1.272089,
+                            6.137989
+                        ],
+                        [
+                            1.272,
+                            6.138294
+                        ],
+                        [
+                            1.272123,
+                            6.138459
+                        ],
+                        [
+                            1.272648,
+                            6.138595
+                        ],
+                        [
+                            1.273095,
+                            6.138692
+                        ],
+                        [
+                            1.273095,
+                            6.139087
+                        ],
+                        [
+                            1.272835,
+                            6.139031
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "TRUCK_QUEUE",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.276165,
+                    6.137788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.277726,
+                    6.136362
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.27243,
+                    6.137963
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.271604,
+                    6.138103
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TGLFWLCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-08-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

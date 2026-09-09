@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.029373,
+                            10.469604
+                        ],
+                        [
+                            -68.029222,
+                            10.470442
+                        ],
+                        [
+                            -68.029106,
+                            10.470827
+                        ],
+                        [
+                            -68.02891,
+                            10.471301
+                        ],
+                        [
+                            -68.028872,
+                            10.471603
+                        ],
+                        [
+                            -68.028843,
+                            10.471971
+                        ],
+                        [
+                            -68.029533,
+                            10.472022
+                        ],
+                        [
+                            -68.0296,
+                            10.471235
+                        ],
+                        [
+                            -68.030446,
+                            10.471281
+                        ],
+                        [
+                            -68.031009,
+                            10.471322
+                        ],
+                        [
+                            -68.031016,
+                            10.471204
+                        ],
+                        [
+                            -68.031046,
+                            10.470981
+                        ],
+                        [
+                            -68.031079,
+                            10.470699
+                        ],
+                        [
+                            -68.031131,
+                            10.469717
+                        ],
+                        [
+                            -68.029373,
+                            10.469604
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLALMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblalma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.029904,
+                    10.470921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLALMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepblalma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

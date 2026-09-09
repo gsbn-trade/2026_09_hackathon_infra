@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.002085,
+                            33.969876
+                        ],
+                        [
+                            131.002158,
+                            33.969607
+                        ],
+                        [
+                            131.001976,
+                            33.969504
+                        ],
+                        [
+                            131.002447,
+                            33.969092
+                        ],
+                        [
+                            131.001149,
+                            33.96811
+                        ],
+                        [
+                            131.001273,
+                            33.96797
+                        ],
+                        [
+                            131.001335,
+                            33.968019
+                        ],
+                        [
+                            131.002742,
+                            33.966721
+                        ],
+                        [
+                            131.003482,
+                            33.966491
+                        ],
+                        [
+                            131.003258,
+                            33.966074
+                        ],
+                        [
+                            131.003367,
+                            33.965978
+                        ],
+                        [
+                            131.005191,
+                            33.965327
+                        ],
+                        [
+                            131.008113,
+                            33.967441
+                        ],
+                        [
+                            131.008341,
+                            33.967395
+                        ],
+                        [
+                            131.008377,
+                            33.967757
+                        ],
+                        [
+                            131.007632,
+                            33.967927
+                        ],
+                        [
+                            131.007064,
+                            33.968169
+                        ],
+                        [
+                            131.002085,
+                            33.969876
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTAC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.002078,
+                            33.96989
+                        ],
+                        [
+                            131.007039,
+                            33.968193
+                        ],
+                        [
+                            131.007629,
+                            33.967933
+                        ],
+                        [
+                            131.008388,
+                            33.967755
+                        ],
+                        [
+                            131.00854,
+                            33.968096
+                        ],
+                        [
+                            131.002364,
+                            33.970365
+                        ],
+                        [
+                            131.002078,
+                            33.96989
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTAC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.004004,
+                    33.967852
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTAC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.005445,
+                    33.968875
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJTAC1",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "Provided by Hiroaki",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,123 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.250133,
+                            -8.799339
+                        ],
+                        [
+                            13.25042,
+                            -8.801158
+                        ],
+                        [
+                            13.250785,
+                            -8.801372
+                        ],
+                        [
+                            13.251622,
+                            -8.801198
+                        ],
+                        [
+                            13.251692,
+                            -8.80181
+                        ],
+                        [
+                            13.252661,
+                            -8.801696
+                        ],
+                        [
+                            13.252755,
+                            -8.802334
+                        ],
+                        [
+                            13.253127,
+                            -8.802269
+                        ],
+                        [
+                            13.253106,
+                            -8.801915
+                        ],
+                        [
+                            13.254046,
+                            -8.801808
+                        ],
+                        [
+                            13.254034,
+                            -8.801354
+                        ],
+                        [
+                            13.255524,
+                            -8.800529
+                        ],
+                        [
+                            13.254844,
+                            -8.799174
+                        ],
+                        [
+                            13.255072,
+                            -8.799015
+                        ],
+                        [
+                            13.254891,
+                            -8.798659
+                        ],
+                        [
+                            13.254966,
+                            -8.798468
+                        ],
+                        [
+                            13.254834,
+                            -8.798242
+                        ],
+                        [
+                            13.253459,
+                            -8.798914
+                        ],
+                        [
+                            13.250132,
+                            -8.799303
+                        ],
+                        [
+                            13.250133,
+                            -8.799339
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADACYM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "remarks": "CMA CGM",
+                "url": "https://www.bic-code.org/facility-codes/aoladacym/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.252912,
+                    -8.800395
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADACYM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "remarks": "CMA CGM",
+                "url": "https://www.bic-code.org/facility-codes/aoladacym/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.1908,
+                            12.5443
+                        ],
+                        [
+                            -87.1904,
+                            12.5445
+                        ],
+                        [
+                            -87.1904,
+                            12.5444
+                        ],
+                        [
+                            -87.1902,
+                            12.5445
+                        ],
+                        [
+                            -87.1902,
+                            12.5446
+                        ],
+                        [
+                            -87.19,
+                            12.5448
+                        ],
+                        [
+                            -87.1917,
+                            12.5461
+                        ],
+                        [
+                            -87.1923,
+                            12.5454
+                        ],
+                        [
+                            -87.1908,
+                            12.5443
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOBJQZ",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciobjqz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.190756,
+                    12.544767
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOBJQZ",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/niciobjqz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

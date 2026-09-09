@@ -1,0 +1,57 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.107988,
+                            8.780814
+                        ],
+                        [
+                            78.107112,
+                            8.781228
+                        ],
+                        [
+                            78.107389,
+                            8.782012
+                        ],
+                        [
+                            78.107988,
+                            8.780814
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTLXDY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-03",
+                "url": "https://www.bic-code.org/facility-codes/intutlxdy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.107619,
+                    8.781217
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTLXDY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-03",
+                "url": "https://www.bic-code.org/facility-codes/intutlxdy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

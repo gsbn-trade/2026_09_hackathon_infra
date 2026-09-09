@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.689949,
+                            4.024254
+                        ],
+                        [
+                            9.689703,
+                            4.02442
+                        ],
+                        [
+                            9.689252,
+                            4.024383
+                        ],
+                        [
+                            9.688458,
+                            4.024233
+                        ],
+                        [
+                            9.688544,
+                            4.023805
+                        ],
+                        [
+                            9.688308,
+                            4.023543
+                        ],
+                        [
+                            9.688952,
+                            4.022917
+                        ],
+                        [
+                            9.689949,
+                            4.024254
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAPIMY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlapimy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.689139,
+                    4.023976
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAPIMY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlapimy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

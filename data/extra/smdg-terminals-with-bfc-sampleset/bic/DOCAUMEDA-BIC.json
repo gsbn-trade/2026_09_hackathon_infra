@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -69.655762,
+                            18.448742
+                        ],
+                        [
+                            -69.655688,
+                            18.448304
+                        ],
+                        [
+                            -69.655706,
+                            18.447841
+                        ],
+                        [
+                            -69.655319,
+                            18.447895
+                        ],
+                        [
+                            -69.655424,
+                            18.448734
+                        ],
+                        [
+                            -69.655762,
+                            18.448742
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOCAUMEDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/docaumeda/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.65561,
+                    18.448376
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOCAUMEDA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/docaumeda/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

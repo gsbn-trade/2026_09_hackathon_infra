@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -15.415852,
+                            28.14726
+                        ],
+                        [
+                            -15.416359,
+                            28.146826
+                        ],
+                        [
+                            -15.416263,
+                            28.146234
+                        ],
+                        [
+                            -15.416181,
+                            28.144592
+                        ],
+                        [
+                            -15.415975,
+                            28.144205
+                        ],
+                        [
+                            -15.416071,
+                            28.143831
+                        ],
+                        [
+                            -15.411771,
+                            28.140619
+                        ],
+                        [
+                            -15.411648,
+                            28.144061
+                        ],
+                        [
+                            -15.415852,
+                            28.14726
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAYZAN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/eslpayzan/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.415108,
+                    28.144988
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESLPAYZAN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/eslpayzan/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

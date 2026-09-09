@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.50252,
+                            0.290752
+                        ],
+                        [
+                            9.501855,
+                            0.289852
+                        ],
+                        [
+                            9.503471,
+                            0.28934
+                        ],
+                        [
+                            9.503549,
+                            0.289508
+                        ],
+                        [
+                            9.503455,
+                            0.289841
+                        ],
+                        [
+                            9.503342,
+                            0.290154
+                        ],
+                        [
+                            9.503099,
+                            0.290502
+                        ],
+                        [
+                            9.503029,
+                            0.290607
+                        ],
+                        [
+                            9.502904,
+                            0.290737
+                        ],
+                        [
+                            9.502778,
+                            0.290842
+                        ],
+                        [
+                            9.502673,
+                            0.290854
+                        ],
+                        [
+                            9.50252,
+                            0.290752
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVFHXF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvfhxf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.502933,
+                    0.290312
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVFHXF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvfhxf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

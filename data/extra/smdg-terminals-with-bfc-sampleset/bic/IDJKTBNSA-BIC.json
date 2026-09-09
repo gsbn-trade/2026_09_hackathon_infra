@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.940293,
+                            -6.157574
+                        ],
+                        [
+                            106.939708,
+                            -6.157553
+                        ],
+                        [
+                            106.939687,
+                            -6.157868
+                        ],
+                        [
+                            106.937584,
+                            -6.157894
+                        ],
+                        [
+                            106.937643,
+                            -6.157313
+                        ],
+                        [
+                            106.936828,
+                            -6.157388
+                        ],
+                        [
+                            106.936706,
+                            -6.158248
+                        ],
+                        [
+                            106.93694,
+                            -6.158252
+                        ],
+                        [
+                            106.936946,
+                            -6.15855
+                        ],
+                        [
+                            106.940304,
+                            -6.158486
+                        ],
+                        [
+                            106.940293,
+                            -6.157574
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTBNSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/idjktbnsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.938448,
+                    -6.157882
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTBNSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/idjktbnsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

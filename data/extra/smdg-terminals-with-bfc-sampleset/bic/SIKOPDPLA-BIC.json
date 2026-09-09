@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.7558,
+                            45.5545
+                        ],
+                        [
+                            13.756,
+                            45.5542
+                        ],
+                        [
+                            13.7567,
+                            45.5539
+                        ],
+                        [
+                            13.7583,
+                            45.5545
+                        ],
+                        [
+                            13.7577,
+                            45.5552
+                        ],
+                        [
+                            13.7562,
+                            45.5556
+                        ],
+                        [
+                            13.7557,
+                            45.5555
+                        ],
+                        [
+                            13.7552,
+                            45.5552
+                        ],
+                        [
+                            13.7558,
+                            45.5545
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPDPLA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2026-03-20",
+                "remarks": " 13.758139839712584,            45.554977805454996          ,                      13.763996080477455,            45.55414076831255          ",
+                "url": "https://www.bic-code.org/facility-codes/sikopdpla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.756378,
+                    45.554789
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SIKOPDPLA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2026-03-20",
+                "remarks": " 13.758139839712584,            45.554977805454996          ,                      13.763996080477455,            45.55414076831255          ",
+                "url": "https://www.bic-code.org/facility-codes/sikopdpla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

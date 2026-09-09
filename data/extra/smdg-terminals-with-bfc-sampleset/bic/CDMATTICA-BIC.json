@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.442059,
+                            -5.841791
+                        ],
+                        [
+                            13.441489,
+                            -5.841875
+                        ],
+                        [
+                            13.440868,
+                            -5.842
+                        ],
+                        [
+                            13.440526,
+                            -5.842027
+                        ],
+                        [
+                            13.440428,
+                            -5.841858
+                        ],
+                        [
+                            13.440394,
+                            -5.841511
+                        ],
+                        [
+                            13.440573,
+                            -5.841308
+                        ],
+                        [
+                            13.440587,
+                            -5.84114
+                        ],
+                        [
+                            13.440546,
+                            -5.840843
+                        ],
+                        [
+                            13.440533,
+                            -5.84064
+                        ],
+                        [
+                            13.440611,
+                            -5.840512
+                        ],
+                        [
+                            13.440594,
+                            -5.840259
+                        ],
+                        [
+                            13.440638,
+                            -5.840168
+                        ],
+                        [
+                            13.440838,
+                            -5.840148
+                        ],
+                        [
+                            13.441031,
+                            -5.840151
+                        ],
+                        [
+                            13.441143,
+                            -5.840178
+                        ],
+                        [
+                            13.441201,
+                            -5.840296
+                        ],
+                        [
+                            13.44133,
+                            -5.840408
+                        ],
+                        [
+                            13.441818,
+                            -5.84064
+                        ],
+                        [
+                            13.442032,
+                            -5.841052
+                        ],
+                        [
+                            13.441906,
+                            -5.841271
+                        ],
+                        [
+                            13.442059,
+                            -5.841791
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATTICA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmattica/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.441055,
+                    -5.840994
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATTICA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmattica/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

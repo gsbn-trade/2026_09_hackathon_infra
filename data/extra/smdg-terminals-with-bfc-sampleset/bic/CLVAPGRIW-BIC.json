@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.558,
+                            -33.1314
+                        ],
+                        [
+                            -71.5571,
+                            -33.1308
+                        ],
+                        [
+                            -71.5574,
+                            -33.1304
+                        ],
+                        [
+                            -71.5583,
+                            -33.1311
+                        ],
+                        [
+                            -71.558,
+                            -33.1314
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPGRIW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvapgriw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.55776,
+                    -33.13102
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPGRIW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvapgriw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

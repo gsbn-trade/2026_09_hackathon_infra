@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.452412,
+                            44.26381
+                        ],
+                        [
+                            8.450833,
+                            44.263182
+                        ],
+                        [
+                            8.449721,
+                            44.26279
+                        ],
+                        [
+                            8.449261,
+                            44.262629
+                        ],
+                        [
+                            8.449589,
+                            44.261881
+                        ],
+                        [
+                            8.450138,
+                            44.26185
+                        ],
+                        [
+                            8.450786,
+                            44.261726
+                        ],
+                        [
+                            8.451395,
+                            44.26145
+                        ],
+                        [
+                            8.451892,
+                            44.261103
+                        ],
+                        [
+                            8.452285,
+                            44.260752
+                        ],
+                        [
+                            8.452627,
+                            44.260393
+                        ],
+                        [
+                            8.452939,
+                            44.259902
+                        ],
+                        [
+                            8.453059,
+                            44.259379
+                        ],
+                        [
+                            8.453059,
+                            44.259003
+                        ],
+                        [
+                            8.45319,
+                            44.258764
+                        ],
+                        [
+                            8.45319,
+                            44.258618
+                        ],
+                        [
+                            8.453047,
+                            44.258012
+                        ],
+                        [
+                            8.453088,
+                            44.257807
+                        ],
+                        [
+                            8.453195,
+                            44.257656
+                        ],
+                        [
+                            8.453188,
+                            44.257509
+                        ],
+                        [
+                            8.453047,
+                            44.257362
+                        ],
+                        [
+                            8.452891,
+                            44.257309
+                        ],
+                        [
+                            8.452615,
+                            44.257313
+                        ],
+                        [
+                            8.45239,
+                            44.257328
+                        ],
+                        [
+                            8.452014,
+                            44.256981
+                        ],
+                        [
+                            8.451749,
+                            44.256464
+                        ],
+                        [
+                            8.451911,
+                            44.256129
+                        ],
+                        [
+                            8.452127,
+                            44.255837
+                        ],
+                        [
+                            8.452198,
+                            44.255594
+                        ],
+                        [
+                            8.452097,
+                            44.255338
+                        ],
+                        [
+                            8.451102,
+                            44.254115
+                        ],
+                        [
+                            8.450667,
+                            44.253818
+                        ],
+                        [
+                            8.452028,
+                            44.253274
+                        ],
+                        [
+                            8.45625,
+                            44.258351
+                        ],
+                        [
+                            8.455731,
+                            44.261653
+                        ],
+                        [
+                            8.455612,
+                            44.261943
+                        ],
+                        [
+                            8.45535,
+                            44.261909
+                        ],
+                        [
+                            8.455552,
+                            44.260191
+                        ],
+                        [
+                            8.454421,
+                            44.259883
+                        ],
+                        [
+                            8.452412,
+                            44.26381
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLREEF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.452461,
+                            44.263826
+                        ],
+                        [
+                            8.454423,
+                            44.259866
+                        ],
+                        [
+                            8.454947,
+                            44.260011
+                        ],
+                        [
+                            8.45296,
+                            44.264005
+                        ],
+                        [
+                            8.452461,
+                            44.263826
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLREEF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.452526,
+                    44.25907
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLREEF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.45345,
+                    44.262307
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLREEF",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

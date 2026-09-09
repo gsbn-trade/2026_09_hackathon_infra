@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.560052,
+                            53.592712
+                        ],
+                        [
+                            8.560266,
+                            53.593425
+                        ],
+                        [
+                            8.560373,
+                            53.5941
+                        ],
+                        [
+                            8.559461,
+                            53.594195
+                        ],
+                        [
+                            8.557487,
+                            53.594514
+                        ],
+                        [
+                            8.556479,
+                            53.594686
+                        ],
+                        [
+                            8.555663,
+                            53.593406
+                        ],
+                        [
+                            8.555191,
+                            53.593527
+                        ],
+                        [
+                            8.555277,
+                            53.593692
+                        ],
+                        [
+                            8.553925,
+                            53.593985
+                        ],
+                        [
+                            8.553786,
+                            53.593852
+                        ],
+                        [
+                            8.553679,
+                            53.593883
+                        ],
+                        [
+                            8.55341,
+                            53.593578
+                        ],
+                        [
+                            8.553292,
+                            53.59324
+                        ],
+                        [
+                            8.553185,
+                            53.592635
+                        ],
+                        [
+                            8.553196,
+                            53.591515
+                        ],
+                        [
+                            8.554194,
+                            53.591222
+                        ],
+                        [
+                            8.554741,
+                            53.592081
+                        ],
+                        [
+                            8.555309,
+                            53.591916
+                        ],
+                        [
+                            8.555502,
+                            53.592272
+                        ],
+                        [
+                            8.556774,
+                            53.59197
+                        ],
+                        [
+                            8.557466,
+                            53.593043
+                        ],
+                        [
+                            8.560052,
+                            53.592712
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVGCFT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/debrvgcft/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.556033,
+                    53.593137
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DEBRVGCFT",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/debrvgcft/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

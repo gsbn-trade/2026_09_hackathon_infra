@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.920779,
+                            43.481021
+                        ],
+                        [
+                            4.920935,
+                            43.480378
+                        ],
+                        [
+                            4.929765,
+                            43.481432
+                        ],
+                        [
+                            4.929602,
+                            43.482085
+                        ],
+                        [
+                            4.920779,
+                            43.481021
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSJMEC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-05",
+                "url": "https://www.bic-code.org/facility-codes/frfosjmec/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.924343,
+                            43.480113
+                        ],
+                        [
+                            4.924193,
+                            43.480756
+                        ],
+                        [
+                            4.9239,
+                            43.480718
+                        ],
+                        [
+                            4.924063,
+                            43.48008
+                        ],
+                        [
+                            4.924343,
+                            43.480113
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSJMEC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-03-05",
+                "url": "https://www.bic-code.org/facility-codes/frfosjmec/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.924372,
+                    43.481187
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSJMEC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-05",
+                "url": "https://www.bic-code.org/facility-codes/frfosjmec/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.924168,
+                    43.480356
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSJMEC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-05",
+                "url": "https://www.bic-code.org/facility-codes/frfosjmec/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

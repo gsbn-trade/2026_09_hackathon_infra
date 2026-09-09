@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            41.655668,
+                            41.649814
+                        ],
+                        [
+                            41.657205,
+                            41.647522
+                        ],
+                        [
+                            41.657244,
+                            41.647389
+                        ],
+                        [
+                            41.657257,
+                            41.647317
+                        ],
+                        [
+                            41.658477,
+                            41.647556
+                        ],
+                        [
+                            41.659883,
+                            41.648049
+                        ],
+                        [
+                            41.659968,
+                            41.649471
+                        ],
+                        [
+                            41.659962,
+                            41.650033
+                        ],
+                        [
+                            41.659889,
+                            41.650218
+                        ],
+                        [
+                            41.659514,
+                            41.650218
+                        ],
+                        [
+                            41.658886,
+                            41.651027
+                        ],
+                        [
+                            41.655652,
+                            41.650055
+                        ],
+                        [
+                            41.655792,
+                            41.649847
+                        ],
+                        [
+                            41.655668,
+                            41.649814
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSBICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            41.655654,
+                            41.649821
+                        ],
+                        [
+                            41.655325,
+                            41.649714
+                        ],
+                        [
+                            41.656989,
+                            41.647297
+                        ],
+                        [
+                            41.657274,
+                            41.647345
+                        ],
+                        [
+                            41.657239,
+                            41.647506
+                        ],
+                        [
+                            41.655654,
+                            41.649821
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSBICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.657933,
+                    41.649166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSBICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.656356,
+                    41.648584
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GEBUSBICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

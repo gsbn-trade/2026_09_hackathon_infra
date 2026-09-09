@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.12193,
+                            61.940112
+                        ],
+                        [
+                            5.121175,
+                            61.939616
+                        ],
+                        [
+                            5.121163,
+                            61.939511
+                        ],
+                        [
+                            5.120892,
+                            61.939123
+                        ],
+                        [
+                            5.121283,
+                            61.939091
+                        ],
+                        [
+                            5.121356,
+                            61.938506
+                        ],
+                        [
+                            5.121739,
+                            61.938794
+                        ],
+                        [
+                            5.122945,
+                            61.939726
+                        ],
+                        [
+                            5.12193,
+                            61.940112
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYXCJV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nomayxcjv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.121601,
+                    61.939399
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYXCJV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://www.bic-code.org/facility-codes/nomayxcjv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

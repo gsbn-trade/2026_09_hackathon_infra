@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.737538,
+                            0.348569
+                        ],
+                        [
+                            6.738535,
+                            0.345956
+                        ],
+                        [
+                            6.737688,
+                            0.345683
+                        ],
+                        [
+                            6.73787,
+                            0.345184
+                        ],
+                        [
+                            6.737666,
+                            0.345125
+                        ],
+                        [
+                            6.73757,
+                            0.345447
+                        ],
+                        [
+                            6.736754,
+                            0.345162
+                        ],
+                        [
+                            6.736459,
+                            0.346037
+                        ],
+                        [
+                            6.737344,
+                            0.348472
+                        ],
+                        [
+                            6.737538,
+                            0.348569
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "STTMSTMS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.737296,
+                            0.348504
+                        ],
+                        [
+                            6.737028,
+                            0.348579
+                        ],
+                        [
+                            6.736186,
+                            0.346096
+                        ],
+                        [
+                            6.73647,
+                            0.346026
+                        ],
+                        [
+                            6.737151,
+                            0.347941
+                        ],
+                        [
+                            6.737275,
+                            0.348236
+                        ],
+                        [
+                            6.737334,
+                            0.348488
+                        ],
+                        [
+                            6.737296,
+                            0.348504
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "STTMSTMS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.737496,
+                    0.34642
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "STTMSTMS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.737005,
+                    0.347797
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "STTMSTMS",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

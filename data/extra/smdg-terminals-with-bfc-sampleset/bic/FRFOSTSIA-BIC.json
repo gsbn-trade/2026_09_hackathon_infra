@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.831988,
+                            43.4098
+                        ],
+                        [
+                            4.831558,
+                            43.40819
+                        ],
+                        [
+                            4.832848,
+                            43.407316
+                        ],
+                        [
+                            4.833813,
+                            43.411105
+                        ],
+                        [
+                            4.832361,
+                            43.411293
+                        ],
+                        [
+                            4.831988,
+                            43.4098
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSTSIA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-30",
+                "url": "https://www.bic-code.org/facility-codes/frfostsia/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.832426,
+                    43.409584
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRFOSTSIA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-30",
+                "url": "https://www.bic-code.org/facility-codes/frfostsia/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

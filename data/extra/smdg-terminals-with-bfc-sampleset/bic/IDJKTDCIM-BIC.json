@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.930389,
+                            -6.122172
+                        ],
+                        [
+                            106.930544,
+                            -6.122121
+                        ],
+                        [
+                            106.93076,
+                            -6.122625
+                        ],
+                        [
+                            106.92808,
+                            -6.124317
+                        ],
+                        [
+                            106.928165,
+                            -6.124415
+                        ],
+                        [
+                            106.930819,
+                            -6.122723
+                        ],
+                        [
+                            106.931568,
+                            -6.122461
+                        ],
+                        [
+                            106.932517,
+                            -6.125354
+                        ],
+                        [
+                            106.932989,
+                            -6.125152
+                        ],
+                        [
+                            106.933681,
+                            -6.125951
+                        ],
+                        [
+                            106.934295,
+                            -6.125941
+                        ],
+                        [
+                            106.934341,
+                            -6.125787
+                        ],
+                        [
+                            106.934382,
+                            -6.125734
+                        ],
+                        [
+                            106.93448,
+                            -6.125683
+                        ],
+                        [
+                            106.934552,
+                            -6.125672
+                        ],
+                        [
+                            106.934434,
+                            -6.124784
+                        ],
+                        [
+                            106.934351,
+                            -6.124762
+                        ],
+                        [
+                            106.934261,
+                            -6.124752
+                        ],
+                        [
+                            106.934138,
+                            -6.124763
+                        ],
+                        [
+                            106.933967,
+                            -6.124802
+                        ],
+                        [
+                            106.933854,
+                            -6.124833
+                        ],
+                        [
+                            106.93336,
+                            -6.123364
+                        ],
+                        [
+                            106.932832,
+                            -6.123473
+                        ],
+                        [
+                            106.932818,
+                            -6.123469
+                        ],
+                        [
+                            106.932368,
+                            -6.121797
+                        ],
+                        [
+                            106.932244,
+                            -6.121587
+                        ],
+                        [
+                            106.931365,
+                            -6.121981
+                        ],
+                        [
+                            106.931156,
+                            -6.121467
+                        ],
+                        [
+                            106.93048,
+                            -6.121293
+                        ],
+                        [
+                            106.930397,
+                            -6.12133
+                        ],
+                        [
+                            106.930326,
+                            -6.12139
+                        ],
+                        [
+                            106.93026,
+                            -6.121483
+                        ],
+                        [
+                            106.930224,
+                            -6.121588
+                        ],
+                        [
+                            106.930213,
+                            -6.121696
+                        ],
+                        [
+                            106.930218,
+                            -6.12178
+                        ],
+                        [
+                            106.930222,
+                            -6.121864
+                        ],
+                        [
+                            106.930238,
+                            -6.12196
+                        ],
+                        [
+                            106.93025,
+                            -6.122017
+                        ],
+                        [
+                            106.930389,
+                            -6.122172
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcim/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.930723,
+                            -6.122549
+                        ],
+                        [
+                            106.931072,
+                            -6.122427
+                        ],
+                        [
+                            106.931144,
+                            -6.122612
+                        ],
+                        [
+                            106.930805,
+                            -6.12273
+                        ],
+                        [
+                            106.930723,
+                            -6.122549
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcim/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.931947,
+                    -6.123347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcim/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.930893,
+                    -6.122573
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IDJKTDCIM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-24",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/idjktdcim/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

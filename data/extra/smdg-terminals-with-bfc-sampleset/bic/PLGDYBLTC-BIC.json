@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.484,
+                            54.5487
+                        ],
+                        [
+                            18.488602,
+                            54.546367
+                        ],
+                        [
+                            18.490392,
+                            54.547995
+                        ],
+                        [
+                            18.4858,
+                            54.55
+                        ],
+                        [
+                            18.485046,
+                            54.549455
+                        ],
+                        [
+                            18.484,
+                            54.5487
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDYBLTC",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdybltc/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.486307,
+                    54.548536
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "PLGDYBLTC",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/plgdybltc/"
+            }
+        }
+    ]
+}

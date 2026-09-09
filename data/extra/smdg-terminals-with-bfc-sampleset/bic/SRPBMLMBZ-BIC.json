@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -55.166855,
+                            5.814376
+                        ],
+                        [
+                            -55.167756,
+                            5.81065
+                        ],
+                        [
+                            -55.16624,
+                            5.810298
+                        ],
+                        [
+                            -55.165428,
+                            5.814055
+                        ],
+                        [
+                            -55.166855,
+                            5.814376
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SRPBMLMBZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-22",
+                "url": "https://www.bic-code.org/facility-codes/srpbmlmbz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -55.166627,
+                    5.812751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SRPBMLMBZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-22",
+                "url": "https://www.bic-code.org/facility-codes/srpbmlmbz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

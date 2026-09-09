@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.943585,
+                            48.957214
+                        ],
+                        [
+                            -57.943258,
+                            48.956924
+                        ],
+                        [
+                            -57.942707,
+                            48.957147
+                        ],
+                        [
+                            -57.941425,
+                            48.958503
+                        ],
+                        [
+                            -57.940948,
+                            48.959212
+                        ],
+                        [
+                            -57.94063,
+                            48.959924
+                        ],
+                        [
+                            -57.940141,
+                            48.960648
+                        ],
+                        [
+                            -57.939672,
+                            48.960988
+                        ],
+                        [
+                            -57.935233,
+                            48.963612
+                        ],
+                        [
+                            -57.93571,
+                            48.963989
+                        ],
+                        [
+                            -57.936025,
+                            48.963805
+                        ],
+                        [
+                            -57.936197,
+                            48.96366
+                        ],
+                        [
+                            -57.936633,
+                            48.963424
+                        ],
+                        [
+                            -57.937434,
+                            48.962917
+                        ],
+                        [
+                            -57.938499,
+                            48.962558
+                        ],
+                        [
+                            -57.939712,
+                            48.961869
+                        ],
+                        [
+                            -57.939959,
+                            48.961811
+                        ],
+                        [
+                            -57.940557,
+                            48.961615
+                        ],
+                        [
+                            -57.940676,
+                            48.961528
+                        ],
+                        [
+                            -57.940718,
+                            48.961423
+                        ],
+                        [
+                            -57.941007,
+                            48.961277
+                        ],
+                        [
+                            -57.942138,
+                            48.959821
+                        ],
+                        [
+                            -57.943289,
+                            48.958346
+                        ],
+                        [
+                            -57.94272,
+                            48.958083
+                        ],
+                        [
+                            -57.942576,
+                            48.957862
+                        ],
+                        [
+                            -57.94303,
+                            48.957545
+                        ],
+                        [
+                            -57.943202,
+                            48.957511
+                        ],
+                        [
+                            -57.943585,
+                            48.957214
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CACBKCBT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.943291,
+                            48.958349
+                        ],
+                        [
+                            -57.941009,
+                            48.961276
+                        ],
+                        [
+                            -57.941727,
+                            48.961384
+                        ],
+                        [
+                            -57.943968,
+                            48.958597
+                        ],
+                        [
+                            -57.943291,
+                            48.958349
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CACBKCBT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.940402,
+                    48.960372
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CACBKCBT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.942657,
+                    48.959591
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CACBKCBT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

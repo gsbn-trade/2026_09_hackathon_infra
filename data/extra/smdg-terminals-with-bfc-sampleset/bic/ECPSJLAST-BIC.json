@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.247453,
+                            -2.690027
+                        ],
+                        [
+                            -80.248003,
+                            -2.690027
+                        ],
+                        [
+                            -80.247936,
+                            -2.690396
+                        ],
+                        [
+                            -80.251391,
+                            -2.690731
+                        ],
+                        [
+                            -80.251743,
+                            -2.690463
+                        ],
+                        [
+                            -80.25176,
+                            -2.690011
+                        ],
+                        [
+                            -80.255114,
+                            -2.69043
+                        ],
+                        [
+                            -80.255852,
+                            -2.691569
+                        ],
+                        [
+                            -80.253906,
+                            -2.692792
+                        ],
+                        [
+                            -80.253386,
+                            -2.694199
+                        ],
+                        [
+                            -80.250535,
+                            -2.694417
+                        ],
+                        [
+                            -80.246946,
+                            -2.694216
+                        ],
+                        [
+                            -80.247453,
+                            -2.690027
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPSJLAST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/ecpsjlast/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.250883,
+                    -2.691485
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECPSJLAST",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/ecpsjlast/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

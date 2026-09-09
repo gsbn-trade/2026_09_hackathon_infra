@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.496904,
+                            43.61807
+                        ],
+                        [
+                            13.497149,
+                            43.618359
+                        ],
+                        [
+                            13.497419,
+                            43.619021
+                        ],
+                        [
+                            13.49752,
+                            43.619216
+                        ],
+                        [
+                            13.497702,
+                            43.619397
+                        ],
+                        [
+                            13.497491,
+                            43.619494
+                        ],
+                        [
+                            13.496865,
+                            43.619351
+                        ],
+                        [
+                            13.496327,
+                            43.618847
+                        ],
+                        [
+                            13.496644,
+                            43.618669
+                        ],
+                        [
+                            13.496327,
+                            43.618359
+                        ],
+                        [
+                            13.496904,
+                            43.61807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.498049,
+                            43.619668
+                        ],
+                        [
+                            13.498159,
+                            43.619632
+                        ],
+                        [
+                            13.498433,
+                            43.619661
+                        ],
+                        [
+                            13.49846,
+                            43.619718
+                        ],
+                        [
+                            13.498597,
+                            43.619698
+                        ],
+                        [
+                            13.498698,
+                            43.619887
+                        ],
+                        [
+                            13.498669,
+                            43.619912
+                        ],
+                        [
+                            13.498501,
+                            43.620124
+                        ],
+                        [
+                            13.498318,
+                            43.620145
+                        ],
+                        [
+                            13.498049,
+                            43.619668
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.497759,
+                            43.619066
+                        ],
+                        [
+                            13.498125,
+                            43.619065
+                        ],
+                        [
+                            13.498367,
+                            43.619075
+                        ],
+                        [
+                            13.498634,
+                            43.619326
+                        ],
+                        [
+                            13.498636,
+                            43.619546
+                        ],
+                        [
+                            13.49818,
+                            43.619556
+                        ],
+                        [
+                            13.497979,
+                            43.619447
+                        ],
+                        [
+                            13.497811,
+                            43.619353
+                        ],
+                        [
+                            13.497759,
+                            43.619066
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497023,
+                    43.618805
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.498393,
+                    43.619811
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.498139,
+                    43.619278
+                ]
+            },
+            "properties": {
+                "code": "ITAOIASEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-03-06",
+                "url": "https://www.bic-code.org/facility-codes/itaoiasea/"
+            }
+        }
+    ]
+}

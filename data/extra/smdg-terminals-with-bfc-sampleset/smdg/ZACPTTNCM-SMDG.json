@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.427095,
+                            -33.910884
+                        ],
+                        [
+                            18.436607,
+                            -33.917901
+                        ],
+                        [
+                            18.437216,
+                            -33.91747
+                        ],
+                        [
+                            18.427596,
+                            -33.910423
+                        ],
+                        [
+                            18.427095,
+                            -33.910884
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTTNCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.427099,
+                            -33.910902
+                        ],
+                        [
+                            18.426293,
+                            -33.911799
+                        ],
+                        [
+                            18.425454,
+                            -33.911145
+                        ],
+                        [
+                            18.424628,
+                            -33.910542
+                        ],
+                        [
+                            18.423813,
+                            -33.911192
+                        ],
+                        [
+                            18.423673,
+                            -33.911362
+                        ],
+                        [
+                            18.423713,
+                            -33.911558
+                        ],
+                        [
+                            18.424005,
+                            -33.911805
+                        ],
+                        [
+                            18.424692,
+                            -33.912073
+                        ],
+                        [
+                            18.426027,
+                            -33.912572
+                        ],
+                        [
+                            18.427418,
+                            -33.913113
+                        ],
+                        [
+                            18.428442,
+                            -33.913474
+                        ],
+                        [
+                            18.429223,
+                            -33.913771
+                        ],
+                        [
+                            18.435662,
+                            -33.918487
+                        ],
+                        [
+                            18.43591,
+                            -33.918264
+                        ],
+                        [
+                            18.436097,
+                            -33.918289
+                        ],
+                        [
+                            18.43665,
+                            -33.917869
+                        ],
+                        [
+                            18.427099,
+                            -33.910902
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTTNCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.431122,
+                    -33.913512
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTTNCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.428105,
+                    -33.913284
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTTNCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

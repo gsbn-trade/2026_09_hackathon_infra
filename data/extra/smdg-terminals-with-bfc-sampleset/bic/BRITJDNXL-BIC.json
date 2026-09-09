@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.725429,
+                            -26.849326
+                        ],
+                        [
+                            -48.724529,
+                            -26.848334
+                        ],
+                        [
+                            -48.726774,
+                            -26.848217
+                        ],
+                        [
+                            -48.72572,
+                            -26.846894
+                        ],
+                        [
+                            -48.732386,
+                            -26.846567
+                        ],
+                        [
+                            -48.732432,
+                            -26.846681
+                        ],
+                        [
+                            -48.732393,
+                            -26.846766
+                        ],
+                        [
+                            -48.732431,
+                            -26.846919
+                        ],
+                        [
+                            -48.732459,
+                            -26.847037
+                        ],
+                        [
+                            -48.732458,
+                            -26.847336
+                        ],
+                        [
+                            -48.732488,
+                            -26.84781
+                        ],
+                        [
+                            -48.732525,
+                            -26.848449
+                        ],
+                        [
+                            -48.732543,
+                            -26.849501
+                        ],
+                        [
+                            -48.732415,
+                            -26.849503
+                        ],
+                        [
+                            -48.732429,
+                            -26.849774
+                        ],
+                        [
+                            -48.732404,
+                            -26.849783
+                        ],
+                        [
+                            -48.730105,
+                            -26.84989
+                        ],
+                        [
+                            -48.730169,
+                            -26.850994
+                        ],
+                        [
+                            -48.728772,
+                            -26.851059
+                        ],
+                        [
+                            -48.728663,
+                            -26.849176
+                        ],
+                        [
+                            -48.725429,
+                            -26.849326
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJDNXL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-03",
+                "url": "https://www.bic-code.org/facility-codes/britjdnxl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.730236,
+                    -26.84854
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRITJDNXL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-03",
+                "url": "https://www.bic-code.org/facility-codes/britjdnxl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

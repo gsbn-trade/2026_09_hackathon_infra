@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.156632,
+                            40.694074
+                        ],
+                        [
+                            -74.15949,
+                            40.689498
+                        ],
+                        [
+                            -74.144743,
+                            40.680309
+                        ],
+                        [
+                            -74.143052,
+                            40.682355
+                        ],
+                        [
+                            -74.145178,
+                            40.683586
+                        ],
+                        [
+                            -74.143166,
+                            40.686984
+                        ],
+                        [
+                            -74.144789,
+                            40.687868
+                        ],
+                        [
+                            -74.144629,
+                            40.688388
+                        ],
+                        [
+                            -74.148059,
+                            40.689792
+                        ],
+                        [
+                            -74.147899,
+                            40.69007
+                        ],
+                        [
+                            -74.151237,
+                            40.691335
+                        ],
+                        [
+                            -74.151237,
+                            40.691526
+                        ],
+                        [
+                            -74.153591,
+                            40.692445
+                        ],
+                        [
+                            -74.154643,
+                            40.691422
+                        ],
+                        [
+                            -74.155238,
+                            40.691647
+                        ],
+                        [
+                            -74.154277,
+                            40.693346
+                        ],
+                        [
+                            -74.156632,
+                            40.694074
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCKUPZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnyckupz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.154232,
+                            40.693346
+                        ],
+                        [
+                            -74.155238,
+                            40.691665
+                        ],
+                        [
+                            -74.15462,
+                            40.691405
+                        ],
+                        [
+                            -74.153569,
+                            40.692462
+                        ],
+                        [
+                            -74.151282,
+                            40.691526
+                        ],
+                        [
+                            -74.151259,
+                            40.691335
+                        ],
+                        [
+                            -74.147876,
+                            40.690087
+                        ],
+                        [
+                            -74.148059,
+                            40.689827
+                        ],
+                        [
+                            -74.144561,
+                            40.688284
+                        ],
+                        [
+                            -74.14376,
+                            40.689706
+                        ],
+                        [
+                            -74.154049,
+                            40.693623
+                        ],
+                        [
+                            -74.154232,
+                            40.693346
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCKUPZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "TRUCK_QUEUE",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnyckupz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.150264,
+                    40.689336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCKUPZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnyckupz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.151061,
+                    40.691384
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCKUPZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-07-08",
+                "url": "https://www.bic-code.org/facility-codes/usnyckupz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            111.850691,
+                            2.23969
+                        ],
+                        [
+                            111.85035,
+                            2.239666
+                        ],
+                        [
+                            111.849846,
+                            2.239643
+                        ],
+                        [
+                            111.849842,
+                            2.237583
+                        ],
+                        [
+                            111.850723,
+                            2.237331
+                        ],
+                        [
+                            111.85091,
+                            2.23838
+                        ],
+                        [
+                            111.850882,
+                            2.239503
+                        ],
+                        [
+                            111.850691,
+                            2.23969
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MYSBWYGLI",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-22",
+                "url": "https://www.bic-code.org/facility-codes/mysbwygli/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.850492,
+                    2.238936
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MYSBWYGLI",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-22",
+                "url": "https://www.bic-code.org/facility-codes/mysbwygli/"
+            }
+        }
+    ]
+}

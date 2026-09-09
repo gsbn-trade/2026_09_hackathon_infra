@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.599804,
+                            -34.704601
+                        ],
+                        [
+                            138.598752,
+                            -34.70274
+                        ],
+                        [
+                            138.599257,
+                            -34.702114
+                        ],
+                        [
+                            138.598066,
+                            -34.700773
+                        ],
+                        [
+                            138.596896,
+                            -34.6999
+                        ],
+                        [
+                            138.594352,
+                            -34.69719
+                        ],
+                        [
+                            138.592281,
+                            -34.696361
+                        ],
+                        [
+                            138.592614,
+                            -34.696926
+                        ],
+                        [
+                            138.599804,
+                            -34.704601
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLJRIK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadljrik/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.59687,
+                    -34.700578
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUADLJRIK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/auadljrik/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

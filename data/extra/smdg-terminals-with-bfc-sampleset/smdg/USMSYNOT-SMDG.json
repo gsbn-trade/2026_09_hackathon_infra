@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.107387,
+                            29.915191
+                        ],
+                        [
+                            -90.107281,
+                            29.912769
+                        ],
+                        [
+                            -90.107106,
+                            29.911805
+                        ],
+                        [
+                            -90.098029,
+                            29.913071
+                        ],
+                        [
+                            -90.09812,
+                            29.913642
+                        ],
+                        [
+                            -90.099655,
+                            29.91344
+                        ],
+                        [
+                            -90.099719,
+                            29.91385
+                        ],
+                        [
+                            -90.100492,
+                            29.913776
+                        ],
+                        [
+                            -90.100694,
+                            29.914757
+                        ],
+                        [
+                            -90.100952,
+                            29.915251
+                        ],
+                        [
+                            -90.100974,
+                            29.91546
+                        ],
+                        [
+                            -90.101211,
+                            29.915621
+                        ],
+                        [
+                            -90.101402,
+                            29.915719
+                        ],
+                        [
+                            -90.102246,
+                            29.915661
+                        ],
+                        [
+                            -90.105056,
+                            29.915439
+                        ],
+                        [
+                            -90.105062,
+                            29.915349
+                        ],
+                        [
+                            -90.107387,
+                            29.915191
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -90.1071,
+                            29.911787
+                        ],
+                        [
+                            -90.107031,
+                            29.911274
+                        ],
+                        [
+                            -90.097922,
+                            29.912646
+                        ],
+                        [
+                            -90.098005,
+                            29.913039
+                        ],
+                        [
+                            -90.1071,
+                            29.911787
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.102516,
+                    29.91447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.103432,
+                    29.912107
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYNOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-11",
+                "remarks": "Provided by IANA",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

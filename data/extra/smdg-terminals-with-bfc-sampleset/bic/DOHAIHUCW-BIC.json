@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.000816,
+                            18.428577
+                        ],
+                        [
+                            -70.002548,
+                            18.429389
+                        ],
+                        [
+                            -70.002436,
+                            18.42644
+                        ],
+                        [
+                            -70.001013,
+                            18.426355
+                        ],
+                        [
+                            -70.001058,
+                            18.426709
+                        ],
+                        [
+                            -70.000491,
+                            18.42673
+                        ],
+                        [
+                            -70.000816,
+                            18.428577
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHUCW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaihucw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.001311,
+                    18.42754
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHUCW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://www.bic-code.org/facility-codes/dohaihucw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

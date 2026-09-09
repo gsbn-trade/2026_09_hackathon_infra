@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.23459,
+                            56.210657
+                        ],
+                        [
+                            10.233506,
+                            56.210627
+                        ],
+                        [
+                            10.232406,
+                            56.210382
+                        ],
+                        [
+                            10.23113,
+                            56.209992
+                        ],
+                        [
+                            10.231173,
+                            56.209628
+                        ],
+                        [
+                            10.231414,
+                            56.209431
+                        ],
+                        [
+                            10.231613,
+                            56.209434
+                        ],
+                        [
+                            10.231607,
+                            56.209374
+                        ],
+                        [
+                            10.234289,
+                            56.209535
+                        ],
+                        [
+                            10.234445,
+                            56.209443
+                        ],
+                        [
+                            10.23481,
+                            56.209678
+                        ],
+                        [
+                            10.23459,
+                            56.210657
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAARONHV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/dkaaronhv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.232964,
+                    56.209903
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKAARONHV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/dkaaronhv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

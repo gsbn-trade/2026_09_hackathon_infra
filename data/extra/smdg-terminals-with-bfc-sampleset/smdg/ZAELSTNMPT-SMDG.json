@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.914802,
+                            -33.027144
+                        ],
+                        [
+                            27.915186,
+                            -33.026515
+                        ],
+                        [
+                            27.915019,
+                            -33.025968
+                        ],
+                        [
+                            27.91432,
+                            -33.025607
+                        ],
+                        [
+                            27.913478,
+                            -33.025456
+                        ],
+                        [
+                            27.912946,
+                            -33.025502
+                        ],
+                        [
+                            27.912186,
+                            -33.025534
+                        ],
+                        [
+                            27.910728,
+                            -33.024959
+                        ],
+                        [
+                            27.910349,
+                            -33.024804
+                        ],
+                        [
+                            27.909983,
+                            -33.024769
+                        ],
+                        [
+                            27.909368,
+                            -33.02449
+                        ],
+                        [
+                            27.909061,
+                            -33.024357
+                        ],
+                        [
+                            27.908955,
+                            -33.024532
+                        ],
+                        [
+                            27.908307,
+                            -33.024295
+                        ],
+                        [
+                            27.90783,
+                            -33.024842
+                        ],
+                        [
+                            27.908001,
+                            -33.024924
+                        ],
+                        [
+                            27.907918,
+                            -33.025021
+                        ],
+                        [
+                            27.909607,
+                            -33.025836
+                        ],
+                        [
+                            27.909993,
+                            -33.025173
+                        ],
+                        [
+                            27.914802,
+                            -33.027144
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSTNMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.914789,
+                            -33.02717
+                        ],
+                        [
+                            27.909993,
+                            -33.02516
+                        ],
+                        [
+                            27.909868,
+                            -33.025378
+                        ],
+                        [
+                            27.910138,
+                            -33.025456
+                        ],
+                        [
+                            27.914664,
+                            -33.027379
+                        ],
+                        [
+                            27.914789,
+                            -33.02717
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSTNMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.911142,
+                    -33.025344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSTNMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.912374,
+                    -33.026286
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAELSTNMPT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

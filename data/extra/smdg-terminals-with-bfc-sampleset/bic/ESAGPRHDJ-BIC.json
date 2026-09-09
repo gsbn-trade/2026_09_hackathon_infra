@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.419164,
+                            36.707798
+                        ],
+                        [
+                            -4.419811,
+                            36.707979
+                        ],
+                        [
+                            -4.420038,
+                            36.708394
+                        ],
+                        [
+                            -4.422626,
+                            36.708083
+                        ],
+                        [
+                            -4.422885,
+                            36.706592
+                        ],
+                        [
+                            -4.423224,
+                            36.706618
+                        ],
+                        [
+                            -4.423677,
+                            36.703596
+                        ],
+                        [
+                            -4.424227,
+                            36.703635
+                        ],
+                        [
+                            -4.424373,
+                            36.701858
+                        ],
+                        [
+                            -4.420021,
+                            36.701326
+                        ],
+                        [
+                            -4.419164,
+                            36.707798
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPRHDJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/esagprhdj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.421746,
+                    36.705789
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESAGPRHDJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/esagprhdj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

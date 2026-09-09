@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.760533,
+                            10.961206
+                        ],
+                        [
+                            -74.758441,
+                            10.961343
+                        ],
+                        [
+                            -74.758945,
+                            10.970854
+                        ],
+                        [
+                            -74.76182,
+                            10.97078
+                        ],
+                        [
+                            -74.761856,
+                            10.971496
+                        ],
+                        [
+                            -74.764316,
+                            10.97138
+                        ],
+                        [
+                            -74.763744,
+                            10.970613
+                        ],
+                        [
+                            -74.763516,
+                            10.970347
+                        ],
+                        [
+                            -74.763213,
+                            10.970001
+                        ],
+                        [
+                            -74.763077,
+                            10.97006
+                        ],
+                        [
+                            -74.762884,
+                            10.970045
+                        ],
+                        [
+                            -74.762497,
+                            10.970006
+                        ],
+                        [
+                            -74.762444,
+                            10.969305
+                        ],
+                        [
+                            -74.76238,
+                            10.967606
+                        ],
+                        [
+                            -74.760933,
+                            10.96764
+                        ],
+                        [
+                            -74.760533,
+                            10.961206
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQMREY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobaqmrey/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.75892,
+                            10.970839
+                        ],
+                        [
+                            -74.758421,
+                            10.96132
+                        ],
+                        [
+                            -74.757981,
+                            10.961331
+                        ],
+                        [
+                            -74.758361,
+                            10.970863
+                        ],
+                        [
+                            -74.75892,
+                            10.970839
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQMREY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobaqmrey/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.761946,
+                    10.968368
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQMREY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobaqmrey/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.758521,
+                    10.967038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBAQMREY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-16",
+                "url": "https://www.bic-code.org/facility-codes/cobaqmrey/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,213 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.612094,
+                            36.841303
+                        ],
+                        [
+                            30.61147,
+                            36.840955
+                        ],
+                        [
+                            30.60873,
+                            36.838505
+                        ],
+                        [
+                            30.608578,
+                            36.838218
+                        ],
+                        [
+                            30.609079,
+                            36.83821
+                        ],
+                        [
+                            30.609476,
+                            36.837991
+                        ],
+                        [
+                            30.609618,
+                            36.837756
+                        ],
+                        [
+                            30.609939,
+                            36.837877
+                        ],
+                        [
+                            30.61027,
+                            36.83787
+                        ],
+                        [
+                            30.609911,
+                            36.837476
+                        ],
+                        [
+                            30.610752,
+                            36.8361
+                        ],
+                        [
+                            30.611007,
+                            36.83607
+                        ],
+                        [
+                            30.612708,
+                            36.838301
+                        ],
+                        [
+                            30.61302,
+                            36.838119
+                        ],
+                        [
+                            30.613407,
+                            36.836743
+                        ],
+                        [
+                            30.61251,
+                            36.835571
+                        ],
+                        [
+                            30.612973,
+                            36.835313
+                        ],
+                        [
+                            30.612415,
+                            36.834663
+                        ],
+                        [
+                            30.612528,
+                            36.834481
+                        ],
+                        [
+                            30.612831,
+                            36.834552
+                        ],
+                        [
+                            30.614173,
+                            36.836375
+                        ],
+                        [
+                            30.614324,
+                            36.836692
+                        ],
+                        [
+                            30.613559,
+                            36.839294
+                        ],
+                        [
+                            30.613134,
+                            36.839929
+                        ],
+                        [
+                            30.612094,
+                            36.841303
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRAYTQTRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.609873,
+                            36.837502
+                        ],
+                        [
+                            30.609439,
+                            36.837312
+                        ],
+                        [
+                            30.610737,
+                            36.835464
+                        ],
+                        [
+                            30.612958,
+                            36.838118
+                        ],
+                        [
+                            30.612713,
+                            36.838255
+                        ],
+                        [
+                            30.61103,
+                            36.836054
+                        ],
+                        [
+                            30.610728,
+                            36.836069
+                        ],
+                        [
+                            30.609873,
+                            36.837502
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRAYTQTRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.611624,
+                    36.837587
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRAYTQTRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.610919,
+                    36.837035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRAYTQTRM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

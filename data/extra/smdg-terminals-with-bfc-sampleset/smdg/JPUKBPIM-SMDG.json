@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.243905,
+                            34.652714
+                        ],
+                        [
+                            135.242582,
+                            34.652235
+                        ],
+                        [
+                            135.242688,
+                            34.652023
+                        ],
+                        [
+                            135.243184,
+                            34.652241
+                        ],
+                        [
+                            135.243641,
+                            34.651408
+                        ],
+                        [
+                            135.244223,
+                            34.651658
+                        ],
+                        [
+                            135.244606,
+                            34.651006
+                        ],
+                        [
+                            135.244924,
+                            34.651131
+                        ],
+                        [
+                            135.243978,
+                            34.652741
+                        ],
+                        [
+                            135.243905,
+                            34.652714
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPIM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.243985,
+                            34.652746
+                        ],
+                        [
+                            135.24456,
+                            34.651767
+                        ],
+                        [
+                            135.244778,
+                            34.651876
+                        ],
+                        [
+                            135.244223,
+                            34.652823
+                        ],
+                        [
+                            135.243985,
+                            34.652746
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPIM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.243764,
+                    34.651987
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPIM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.244306,
+                    34.652392
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBPIM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

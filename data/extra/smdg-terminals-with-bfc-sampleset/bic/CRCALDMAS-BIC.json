@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.667503,
+                            9.909965
+                        ],
+                        [
+                            -84.667729,
+                            9.909751
+                        ],
+                        [
+                            -84.668022,
+                            9.909449
+                        ],
+                        [
+                            -84.666351,
+                            9.909103
+                        ],
+                        [
+                            -84.666141,
+                            9.910071
+                        ],
+                        [
+                            -84.667872,
+                            9.911065
+                        ],
+                        [
+                            -84.668536,
+                            9.910543
+                        ],
+                        [
+                            -84.667503,
+                            9.909965
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALDMAS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/crcaldmas/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.668033,
+                            9.909543
+                        ],
+                        [
+                            -84.66768,
+                            9.909884
+                        ],
+                        [
+                            -84.667545,
+                            9.909795
+                        ],
+                        [
+                            -84.667888,
+                            9.909438
+                        ],
+                        [
+                            -84.668033,
+                            9.909543
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALDMAS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/crcaldmas/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.667457,
+                    9.909989
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALDMAS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/crcaldmas/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.667836,
+                    9.909641
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALDMAS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approval",
+                "url": "https://www.bic-code.org/facility-codes/crcaldmas/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

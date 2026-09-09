@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.703086,
+                            56.022958
+                        ],
+                        [
+                            -3.703256,
+                            56.02312
+                        ],
+                        [
+                            -3.708172,
+                            56.021896
+                        ],
+                        [
+                            -3.713725,
+                            56.021384
+                        ],
+                        [
+                            -3.713735,
+                            56.021192
+                        ],
+                        [
+                            -3.711514,
+                            56.021384
+                        ],
+                        [
+                            -3.711424,
+                            56.020905
+                        ],
+                        [
+                            -3.707214,
+                            56.020927
+                        ],
+                        [
+                            -3.701622,
+                            56.021531
+                        ],
+                        [
+                            -3.703086,
+                            56.022958
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGXQDS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-10-08",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgxqds/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.707683,
+                    56.021825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGXQDS",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-10-08",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgxqds/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

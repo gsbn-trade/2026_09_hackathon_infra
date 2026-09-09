@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.632286,
+                            -4.018449
+                        ],
+                        [
+                            39.633063,
+                            -4.018677
+                        ],
+                        [
+                            39.632585,
+                            -4.020324
+                        ],
+                        [
+                            39.632418,
+                            -4.020434
+                        ],
+                        [
+                            39.631993,
+                            -4.020295
+                        ],
+                        [
+                            39.632218,
+                            -4.019477
+                        ],
+                        [
+                            39.632032,
+                            -4.019413
+                        ],
+                        [
+                            39.632179,
+                            -4.018741
+                        ],
+                        [
+                            39.632286,
+                            -4.018449
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBAAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembaagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.63234,
+                    -4.019362
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KEMBAAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-14",
+                "url": "https://www.bic-code.org/facility-codes/kembaagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

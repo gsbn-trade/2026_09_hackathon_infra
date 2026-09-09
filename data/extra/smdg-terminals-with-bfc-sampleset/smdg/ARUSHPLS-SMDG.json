@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.303192,
+                            -54.80786
+                        ],
+                        [
+                            -68.303098,
+                            -54.807865
+                        ],
+                        [
+                            -68.303184,
+                            -54.807747
+                        ],
+                        [
+                            -68.307801,
+                            -54.809037
+                        ],
+                        [
+                            -68.306205,
+                            -54.809492
+                        ],
+                        [
+                            -68.304898,
+                            -54.809114
+                        ],
+                        [
+                            -68.295501,
+                            -54.811143
+                        ],
+                        [
+                            -68.295297,
+                            -54.810805
+                        ],
+                        [
+                            -68.302269,
+                            -54.809294
+                        ],
+                        [
+                            -68.303294,
+                            -54.807991
+                        ],
+                        [
+                            -68.303192,
+                            -54.80786
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHPLS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.304883,
+                            -54.809127
+                        ],
+                        [
+                            -68.305207,
+                            -54.809486
+                        ],
+                        [
+                            -68.294828,
+                            -54.811786
+                        ],
+                        [
+                            -68.29418,
+                            -54.810524
+                        ],
+                        [
+                            -68.301929,
+                            -54.808903
+                        ],
+                        [
+                            -68.30224,
+                            -54.809269
+                        ],
+                        [
+                            -68.295242,
+                            -54.810793
+                        ],
+                        [
+                            -68.295566,
+                            -54.811166
+                        ],
+                        [
+                            -68.304883,
+                            -54.809127
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHPLS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.302539,
+                    -54.808928
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHPLS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.299884,
+                    -54.81002
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARUSHPLS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.58833,
+                            39.27157
+                        ],
+                        [
+                            -76.587112,
+                            39.269541
+                        ],
+                        [
+                            -76.586882,
+                            39.269541
+                        ],
+                        [
+                            -76.586518,
+                            39.270076
+                        ],
+                        [
+                            -76.586209,
+                            39.269896
+                        ],
+                        [
+                            -76.585551,
+                            39.269919
+                        ],
+                        [
+                            -76.584215,
+                            39.272244
+                        ],
+                        [
+                            -76.584726,
+                            39.272435
+                        ],
+                        [
+                            -76.586057,
+                            39.27021
+                        ],
+                        [
+                            -76.58668,
+                            39.270679
+                        ],
+                        [
+                            -76.586382,
+                            39.271171
+                        ],
+                        [
+                            -76.587645,
+                            39.271614
+                        ],
+                        [
+                            -76.587696,
+                            39.271544
+                        ],
+                        [
+                            -76.588241,
+                            39.271731
+                        ],
+                        [
+                            -76.58833,
+                            39.27157
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALABQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalabqg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.586705,
+                    39.270916
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USBALABQG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-30",
+                "url": "https://www.bic-code.org/facility-codes/usbalabqg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

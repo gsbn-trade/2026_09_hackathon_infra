@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.883244,
+                            22.469807
+                        ],
+                        [
+                            -97.882059,
+                            22.470043
+                        ],
+                        [
+                            -97.882686,
+                            22.472664
+                        ],
+                        [
+                            -97.881423,
+                            22.472965
+                        ],
+                        [
+                            -97.881712,
+                            22.474234
+                        ],
+                        [
+                            -97.879604,
+                            22.474729
+                        ],
+                        [
+                            -97.879951,
+                            22.476218
+                        ],
+                        [
+                            -97.88002,
+                            22.476371
+                        ],
+                        [
+                            -97.880579,
+                            22.478714
+                        ],
+                        [
+                            -97.883889,
+                            22.478031
+                        ],
+                        [
+                            -97.88329,
+                            22.475522
+                        ],
+                        [
+                            -97.884535,
+                            22.475237
+                        ],
+                        [
+                            -97.883244,
+                            22.469807
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMIPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.884533,
+                            22.475239
+                        ],
+                        [
+                            -97.885296,
+                            22.475068
+                        ],
+                        [
+                            -97.883954,
+                            22.46953
+                        ],
+                        [
+                            -97.883216,
+                            22.469769
+                        ],
+                        [
+                            -97.884533,
+                            22.475239
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMIPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.882018,
+                    22.47418
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMIPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.884306,
+                    22.472969
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMIPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

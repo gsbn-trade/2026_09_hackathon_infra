@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.983452,
+                            3.885579
+                        ],
+                        [
+                            -76.984116,
+                            3.886364
+                        ],
+                        [
+                            -76.984711,
+                            3.88597
+                        ],
+                        [
+                            -76.98491,
+                            3.886241
+                        ],
+                        [
+                            -76.985442,
+                            3.886209
+                        ],
+                        [
+                            -76.984933,
+                            3.885322
+                        ],
+                        [
+                            -76.984793,
+                            3.885098
+                        ],
+                        [
+                            -76.984328,
+                            3.885521
+                        ],
+                        [
+                            -76.98398,
+                            3.885079
+                        ],
+                        [
+                            -76.983452,
+                            3.885579
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNHWHD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/cobunhwhd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.984412,
+                    3.885696
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COBUNHWHD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-29",
+                "url": "https://www.bic-code.org/facility-codes/cobunhwhd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

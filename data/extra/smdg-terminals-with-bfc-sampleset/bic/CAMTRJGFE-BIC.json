@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.545073,
+                            45.652615
+                        ],
+                        [
+                            -73.546249,
+                            45.651829
+                        ],
+                        [
+                            -73.544427,
+                            45.649019
+                        ],
+                        [
+                            -73.542953,
+                            45.649579
+                        ],
+                        [
+                            -73.545073,
+                            45.652615
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRJGFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrjgfe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.544755,
+                    45.651131
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRJGFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrjgfe/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

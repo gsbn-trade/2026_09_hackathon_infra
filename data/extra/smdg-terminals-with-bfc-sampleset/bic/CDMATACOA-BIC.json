@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.456651,
+                            -5.838863
+                        ],
+                        [
+                            13.45784,
+                            -5.83901
+                        ],
+                        [
+                            13.457734,
+                            -5.840173
+                        ],
+                        [
+                            13.456562,
+                            -5.840235
+                        ],
+                        [
+                            13.456651,
+                            -5.838863
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATACOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmatacoa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.457088,
+                    -5.839429
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATACOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmatacoa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

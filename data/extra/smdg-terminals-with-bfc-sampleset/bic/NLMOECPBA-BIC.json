@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.608725,
+                            51.683477
+                        ],
+                        [
+                            4.608084,
+                            51.683266
+                        ],
+                        [
+                            4.607889,
+                            51.683302
+                        ],
+                        [
+                            4.60782,
+                            51.683138
+                        ],
+                        [
+                            4.607915,
+                            51.683124
+                        ],
+                        [
+                            4.607569,
+                            51.682225
+                        ],
+                        [
+                            4.608676,
+                            51.682051
+                        ],
+                        [
+                            4.608769,
+                            51.682311
+                        ],
+                        [
+                            4.609522,
+                            51.682536
+                        ],
+                        [
+                            4.608991,
+                            51.683157
+                        ],
+                        [
+                            4.608725,
+                            51.683477
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECPBA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecpba/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.608426,
+                    51.682915
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NLMOECPBA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-14",
+                "url": "https://www.bic-code.org/facility-codes/nlmoecpba/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

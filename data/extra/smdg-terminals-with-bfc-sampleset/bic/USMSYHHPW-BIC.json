@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.930676,
+                            30.018225
+                        ],
+                        [
+                            -89.931648,
+                            30.017232
+                        ],
+                        [
+                            -89.932136,
+                            30.016633
+                        ],
+                        [
+                            -89.932005,
+                            30.015271
+                        ],
+                        [
+                            -89.931862,
+                            30.013996
+                        ],
+                        [
+                            -89.930462,
+                            30.014807
+                        ],
+                        [
+                            -89.930219,
+                            30.015159
+                        ],
+                        [
+                            -89.930282,
+                            30.015975
+                        ],
+                        [
+                            -89.930385,
+                            30.0169
+                        ],
+                        [
+                            -89.930484,
+                            30.017525
+                        ],
+                        [
+                            -89.930522,
+                            30.018222
+                        ],
+                        [
+                            -89.930676,
+                            30.018225
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYHHPW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyhhpw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.930946,
+                    30.016514
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMSYHHPW",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmsyhhpw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

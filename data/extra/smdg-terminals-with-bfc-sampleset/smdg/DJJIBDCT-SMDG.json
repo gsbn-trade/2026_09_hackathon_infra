@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            43.103836,
+                            11.5969
+                        ],
+                        [
+                            43.103708,
+                            11.596564
+                        ],
+                        [
+                            43.103364,
+                            11.596101
+                        ],
+                        [
+                            43.102402,
+                            11.594878
+                        ],
+                        [
+                            43.10422,
+                            11.593646
+                        ],
+                        [
+                            43.104746,
+                            11.594304
+                        ],
+                        [
+                            43.104976,
+                            11.594142
+                        ],
+                        [
+                            43.105462,
+                            11.593773
+                        ],
+                        [
+                            43.105553,
+                            11.593705
+                        ],
+                        [
+                            43.107527,
+                            11.592191
+                        ],
+                        [
+                            43.110165,
+                            11.595649
+                        ],
+                        [
+                            43.102431,
+                            11.601263
+                        ],
+                        [
+                            43.100704,
+                            11.59917
+                        ],
+                        [
+                            43.103836,
+                            11.5969
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DJJIBDCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-28",
+                "remarks": "adding the berth fro above submission inc new land",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            43.102436,
+                            11.6013
+                        ],
+                        [
+                            43.110164,
+                            11.595671
+                        ],
+                        [
+                            43.110786,
+                            11.596563
+                        ],
+                        [
+                            43.10299,
+                            11.602058
+                        ],
+                        [
+                            43.102436,
+                            11.6013
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DJJIBDCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-28",
+                "remarks": "adding the berth fro above submission inc new land",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.104495,
+                    11.595656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DJJIBDCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "remarks": "adding the berth fro above submission inc new land",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.105762,
+                    11.599378
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DJJIBDCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "remarks": "adding the berth fro above submission inc new land",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,267 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.473118,
+                            -3.706582
+                        ],
+                        [
+                            -38.473634,
+                            -3.706457
+                        ],
+                        [
+                            -38.475601,
+                            -3.712275
+                        ],
+                        [
+                            -38.477358,
+                            -3.714891
+                        ],
+                        [
+                            -38.477051,
+                            -3.715086
+                        ],
+                        [
+                            -38.47521,
+                            -3.712525
+                        ],
+                        [
+                            -38.473118,
+                            -3.706582
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.473095,
+                            -3.70673
+                        ],
+                        [
+                            -38.475219,
+                            -3.71251
+                        ],
+                        [
+                            -38.477028,
+                            -3.715085
+                        ],
+                        [
+                            -38.476524,
+                            -3.715448
+                        ],
+                        [
+                            -38.476063,
+                            -3.715782
+                        ],
+                        [
+                            -38.475623,
+                            -3.716106
+                        ],
+                        [
+                            -38.475196,
+                            -3.716422
+                        ],
+                        [
+                            -38.473416,
+                            -3.713788
+                        ],
+                        [
+                            -38.474299,
+                            -3.713155
+                        ],
+                        [
+                            -38.474127,
+                            -3.712894
+                        ],
+                        [
+                            -38.473969,
+                            -3.712585
+                        ],
+                        [
+                            -38.474002,
+                            -3.712509
+                        ],
+                        [
+                            -38.473953,
+                            -3.712365
+                        ],
+                        [
+                            -38.472967,
+                            -3.712734
+                        ],
+                        [
+                            -38.471028,
+                            -3.70768
+                        ],
+                        [
+                            -38.470859,
+                            -3.707196
+                        ],
+                        [
+                            -38.470826,
+                            -3.706841
+                        ],
+                        [
+                            -38.471012,
+                            -3.706257
+                        ],
+                        [
+                            -38.472385,
+                            -3.703925
+                        ],
+                        [
+                            -38.473578,
+                            -3.704724
+                        ],
+                        [
+                            -38.47428,
+                            -3.705264
+                        ],
+                        [
+                            -38.473152,
+                            -3.706366
+                        ],
+                        [
+                            -38.473049,
+                            -3.706613
+                        ],
+                        [
+                            -38.473095,
+                            -3.70673
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.475413,
+                            -3.704218
+                        ],
+                        [
+                            -38.475722,
+                            -3.704597
+                        ],
+                        [
+                            -38.473628,
+                            -3.706462
+                        ],
+                        [
+                            -38.473066,
+                            -3.706644
+                        ],
+                        [
+                            -38.47315,
+                            -3.706406
+                        ],
+                        [
+                            -38.475413,
+                            -3.704218
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.475013,
+                    -3.710628
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.473698,
+                    -3.710405
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.474399,
+                    -3.705424
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORTOT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

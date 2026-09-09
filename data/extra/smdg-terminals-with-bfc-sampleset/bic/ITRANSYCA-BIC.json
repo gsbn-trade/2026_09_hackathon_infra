@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.243931,
+                            44.382312
+                        ],
+                        [
+                            12.246426,
+                            44.382309
+                        ],
+                        [
+                            12.246405,
+                            44.382721
+                        ],
+                        [
+                            12.243931,
+                            44.382721
+                        ],
+                        [
+                            12.243931,
+                            44.382312
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANSYCA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-20",
+                "url": "https://www.bic-code.org/facility-codes/itransyca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.244925,
+                    44.382475
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITRANSYCA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-20",
+                "url": "https://www.bic-code.org/facility-codes/itransyca/"
+            }
+        }
+    ]
+}

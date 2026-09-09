@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.77274,
+                            35.588221
+                        ],
+                        [
+                            139.770068,
+                            35.58567
+                        ],
+                        [
+                            139.770529,
+                            35.585338
+                        ],
+                        [
+                            139.773244,
+                            35.58786
+                        ],
+                        [
+                            139.77274,
+                            35.588221
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOBATO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-06-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyobato/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.771864,
+                    35.587062
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYOBATO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-06-19",
+                "url": "https://www.bic-code.org/facility-codes/jptyobato/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

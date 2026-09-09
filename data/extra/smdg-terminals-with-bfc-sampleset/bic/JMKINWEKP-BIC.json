@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -76.82568,
+                            17.983949
+                        ],
+                        [
+                            -76.826024,
+                            17.983581
+                        ],
+                        [
+                            -76.824452,
+                            17.982214
+                        ],
+                        [
+                            -76.823846,
+                            17.982897
+                        ],
+                        [
+                            -76.823867,
+                            17.983035
+                        ],
+                        [
+                            -76.824581,
+                            17.983622
+                        ],
+                        [
+                            -76.82472,
+                            17.983668
+                        ],
+                        [
+                            -76.824881,
+                            17.983525
+                        ],
+                        [
+                            -76.825165,
+                            17.983535
+                        ],
+                        [
+                            -76.825493,
+                            17.983841
+                        ],
+                        [
+                            -76.825594,
+                            17.983933
+                        ],
+                        [
+                            -76.82568,
+                            17.983949
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMKINWEKP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmkinwekp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.824999,
+                    17.983479
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMKINWEKP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmkinwekp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

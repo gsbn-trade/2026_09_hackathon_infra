@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.236175,
+                            45.46155
+                        ],
+                        [
+                            12.235148,
+                            45.461916
+                        ],
+                        [
+                            12.235038,
+                            45.461924
+                        ],
+                        [
+                            12.234946,
+                            45.461894
+                        ],
+                        [
+                            12.234766,
+                            45.461707
+                        ],
+                        [
+                            12.234429,
+                            45.461488
+                        ],
+                        [
+                            12.23442,
+                            45.46059
+                        ],
+                        [
+                            12.2351,
+                            45.460371
+                        ],
+                        [
+                            12.235604,
+                            45.461076
+                        ],
+                        [
+                            12.235784,
+                            45.461014
+                        ],
+                        [
+                            12.236175,
+                            45.46155
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITVCEAMBA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-20",
+                "url": "https://www.bic-code.org/facility-codes/itvceamba/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.235235,
+                    45.461371
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "ITVCEAMBA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-20",
+                "url": "https://www.bic-code.org/facility-codes/itvceamba/"
+            }
+        }
+    ]
+}

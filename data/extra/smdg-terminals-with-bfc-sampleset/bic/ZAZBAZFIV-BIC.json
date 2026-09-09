@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.658655,
+                            -33.803169
+                        ],
+                        [
+                            25.656856,
+                            -33.80739
+                        ],
+                        [
+                            25.659631,
+                            -33.808145
+                        ],
+                        [
+                            25.661458,
+                            -33.803908
+                        ],
+                        [
+                            25.658655,
+                            -33.803169
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAZFIV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbazfiv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.659051,
+                    -33.805156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAZBAZFIV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zazbazfiv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

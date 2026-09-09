@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            111.835946,
+                            2.242611
+                        ],
+                        [
+                            111.839006,
+                            2.241365
+                        ],
+                        [
+                            111.839528,
+                            2.241977
+                        ],
+                        [
+                            111.839937,
+                            2.24358
+                        ],
+                        [
+                            111.840024,
+                            2.243538
+                        ],
+                        [
+                            111.840172,
+                            2.243662
+                        ],
+                        [
+                            111.839666,
+                            2.24411
+                        ],
+                        [
+                            111.839525,
+                            2.244454
+                        ],
+                        [
+                            111.838388,
+                            2.24422
+                        ],
+                        [
+                            111.837746,
+                            2.243836
+                        ],
+                        [
+                            111.837658,
+                            2.243944
+                        ],
+                        [
+                            111.837238,
+                            2.243579
+                        ],
+                        [
+                            111.836701,
+                            2.243086
+                        ],
+                        [
+                            111.836468,
+                            2.242852
+                        ],
+                        [
+                            111.836406,
+                            2.242916
+                        ],
+                        [
+                            111.836155,
+                            2.2427
+                        ],
+                        [
+                            111.835946,
+                            2.242611
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MYSBWVPIX",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/mysbwvpix/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.83803,
+                    2.243238
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "MYSBWVPIX",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-21",
+                "url": "https://www.bic-code.org/facility-codes/mysbwvpix/"
+            }
+        }
+    ]
+}

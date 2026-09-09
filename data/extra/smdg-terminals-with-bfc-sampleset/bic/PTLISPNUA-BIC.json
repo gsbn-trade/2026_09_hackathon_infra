@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.121006,
+                            38.799973
+                        ],
+                        [
+                            -9.121493,
+                            38.800565
+                        ],
+                        [
+                            -9.12149,
+                            38.80066
+                        ],
+                        [
+                            -9.121509,
+                            38.800718
+                        ],
+                        [
+                            -9.121516,
+                            38.800813
+                        ],
+                        [
+                            -9.120912,
+                            38.800929
+                        ],
+                        [
+                            -9.120599,
+                            38.800922
+                        ],
+                        [
+                            -9.119856,
+                            38.80072
+                        ],
+                        [
+                            -9.119915,
+                            38.800557
+                        ],
+                        [
+                            -9.119998,
+                            38.800494
+                        ],
+                        [
+                            -9.120634,
+                            38.800149
+                        ],
+                        [
+                            -9.121006,
+                            38.799973
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISPNUA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptlispnua/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.120828,
+                    38.800539
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISPNUA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-08-19",
+                "url": "https://www.bic-code.org/facility-codes/ptlispnua/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,273 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.260464,
+                            33.724103
+                        ],
+                        [
+                            -118.26013,
+                            33.724003
+                        ],
+                        [
+                            -118.260267,
+                            33.723703
+                        ],
+                        [
+                            -118.259636,
+                            33.722293
+                        ],
+                        [
+                            -118.257866,
+                            33.717599
+                        ],
+                        [
+                            -118.257571,
+                            33.716997
+                        ],
+                        [
+                            -118.253896,
+                            33.716613
+                        ],
+                        [
+                            -118.247779,
+                            33.718348
+                        ],
+                        [
+                            -118.247653,
+                            33.718384
+                        ],
+                        [
+                            -118.247481,
+                            33.718433
+                        ],
+                        [
+                            -118.248543,
+                            33.719891
+                        ],
+                        [
+                            -118.251126,
+                            33.723532
+                        ],
+                        [
+                            -118.251135,
+                            33.723575
+                        ],
+                        [
+                            -118.251109,
+                            33.72361
+                        ],
+                        [
+                            -118.247495,
+                            33.724688
+                        ],
+                        [
+                            -118.242883,
+                            33.726121
+                        ],
+                        [
+                            -118.237245,
+                            33.727759
+                        ],
+                        [
+                            -118.238178,
+                            33.729905
+                        ],
+                        [
+                            -118.238769,
+                            33.729684
+                        ],
+                        [
+                            -118.24027,
+                            33.733237
+                        ],
+                        [
+                            -118.240619,
+                            33.733125
+                        ],
+                        [
+                            -118.240796,
+                            33.733625
+                        ],
+                        [
+                            -118.241583,
+                            33.733369
+                        ],
+                        [
+                            -118.24161,
+                            33.733435
+                        ],
+                        [
+                            -118.241733,
+                            33.733723
+                        ],
+                        [
+                            -118.258224,
+                            33.728921
+                        ],
+                        [
+                            -118.260464,
+                            33.724103
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.241745,
+                            33.733762
+                        ],
+                        [
+                            -118.242002,
+                            33.734405
+                        ],
+                        [
+                            -118.258439,
+                            33.729658
+                        ],
+                        [
+                            -118.258224,
+                            33.729051
+                        ],
+                        [
+                            -118.241745,
+                            33.733762
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -118.25831,
+                            33.728944
+                        ],
+                        [
+                            -118.258825,
+                            33.729265
+                        ],
+                        [
+                            -118.261099,
+                            33.724304
+                        ],
+                        [
+                            -118.260541,
+                            33.724126
+                        ],
+                        [
+                            -118.25831,
+                            33.728944
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.249056,
+                    33.725288
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.248431,
+                    33.732128
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.259417,
+                    33.727117
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USLAXAPMT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-05-03",
+                "remarks": "Port LA, IANA Expo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

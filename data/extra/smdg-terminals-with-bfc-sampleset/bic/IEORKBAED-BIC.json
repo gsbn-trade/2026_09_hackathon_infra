@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.378058,
+                            51.906407
+                        ],
+                        [
+                            -8.377571,
+                            51.904484
+                        ],
+                        [
+                            -8.374727,
+                            51.904682
+                        ],
+                        [
+                            -8.374327,
+                            51.905249
+                        ],
+                        [
+                            -8.373188,
+                            51.905608
+                        ],
+                        [
+                            -8.372835,
+                            51.905264
+                        ],
+                        [
+                            -8.371845,
+                            51.90631
+                        ],
+                        [
+                            -8.371924,
+                            51.906659
+                        ],
+                        [
+                            -8.37633,
+                            51.906558
+                        ],
+                        [
+                            -8.378058,
+                            51.906407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKBAED",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorkbaed/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.374886,
+                    51.905763
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKBAED",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://www.bic-code.org/facility-codes/ieorkbaed/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

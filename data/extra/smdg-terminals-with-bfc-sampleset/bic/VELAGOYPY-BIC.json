@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.950406,
+                            10.600906
+                        ],
+                        [
+                            -66.950475,
+                            10.600503
+                        ],
+                        [
+                            -66.950385,
+                            10.600452
+                        ],
+                        [
+                            -66.95039,
+                            10.600237
+                        ],
+                        [
+                            -66.950757,
+                            10.60027
+                        ],
+                        [
+                            -66.950843,
+                            10.600266
+                        ],
+                        [
+                            -66.950891,
+                            10.599748
+                        ],
+                        [
+                            -66.951502,
+                            10.599818
+                        ],
+                        [
+                            -66.951596,
+                            10.599825
+                        ],
+                        [
+                            -66.951595,
+                            10.599746
+                        ],
+                        [
+                            -66.951594,
+                            10.599671
+                        ],
+                        [
+                            -66.951605,
+                            10.599421
+                        ],
+                        [
+                            -66.951658,
+                            10.599382
+                        ],
+                        [
+                            -66.951679,
+                            10.599205
+                        ],
+                        [
+                            -66.950137,
+                            10.599059
+                        ],
+                        [
+                            -66.949974,
+                            10.600432
+                        ],
+                        [
+                            -66.950172,
+                            10.600839
+                        ],
+                        [
+                            -66.950406,
+                            10.600906
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGOYPY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/velagoypy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.950892,
+                    10.600038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGOYPY",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/velagoypy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

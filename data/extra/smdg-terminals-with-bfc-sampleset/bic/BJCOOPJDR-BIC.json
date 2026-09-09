@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.12599,
+                            6.69916
+                        ],
+                        [
+                            2.1295,
+                            6.69517
+                        ],
+                        [
+                            2.1344,
+                            6.69871
+                        ],
+                        [
+                            2.13587,
+                            6.70016
+                        ],
+                        [
+                            2.13493,
+                            6.70108
+                        ],
+                        [
+                            2.13301,
+                            6.69986
+                        ],
+                        [
+                            2.13177,
+                            6.70077
+                        ],
+                        [
+                            2.13052,
+                            6.70177
+                        ],
+                        [
+                            2.12599,
+                            6.69916
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOOPJDR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/bjcoopjdr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.131331,
+                    6.699538
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BJCOOPJDR",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-19",
+                "url": "https://www.bic-code.org/facility-codes/bjcoopjdr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

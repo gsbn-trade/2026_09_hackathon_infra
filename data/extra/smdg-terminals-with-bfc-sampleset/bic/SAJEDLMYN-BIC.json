@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            39.165766,
+                            21.327012
+                        ],
+                        [
+                            39.166173,
+                            21.322358
+                        ],
+                        [
+                            39.16678,
+                            21.322418
+                        ],
+                        [
+                            39.166668,
+                            21.32429
+                        ],
+                        [
+                            39.166556,
+                            21.326946
+                        ],
+                        [
+                            39.165766,
+                            21.327012
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDLMYN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/sajedlmyn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.166285,
+                    21.325006
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SAJEDLMYN",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/sajedlmyn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

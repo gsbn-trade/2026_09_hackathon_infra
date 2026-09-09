@@ -1,0 +1,217 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.090147,
+                            22.329379
+                        ],
+                        [
+                            114.089148,
+                            22.330842
+                        ],
+                        [
+                            114.090811,
+                            22.335267
+                        ],
+                        [
+                            114.090375,
+                            22.33539
+                        ],
+                        [
+                            114.088562,
+                            22.330818
+                        ],
+                        [
+                            114.089721,
+                            22.329139
+                        ],
+                        [
+                            114.090147,
+                            22.329379
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.090185,
+                            22.329399
+                        ],
+                        [
+                            114.091011,
+                            22.32987
+                        ],
+                        [
+                            114.091102,
+                            22.329732
+                        ],
+                        [
+                            114.091158,
+                            22.329767
+                        ],
+                        [
+                            114.091132,
+                            22.329804
+                        ],
+                        [
+                            114.091023,
+                            22.330238
+                        ],
+                        [
+                            114.090958,
+                            22.331405
+                        ],
+                        [
+                            114.090725,
+                            22.332058
+                        ],
+                        [
+                            114.090603,
+                            22.33224
+                        ],
+                        [
+                            114.090556,
+                            22.332518
+                        ],
+                        [
+                            114.090619,
+                            22.332713
+                        ],
+                        [
+                            114.090774,
+                            22.333048
+                        ],
+                        [
+                            114.090897,
+                            22.333252
+                        ],
+                        [
+                            114.091212,
+                            22.333889
+                        ],
+                        [
+                            114.091317,
+                            22.334145
+                        ],
+                        [
+                            114.091314,
+                            22.334483
+                        ],
+                        [
+                            114.091474,
+                            22.334587
+                        ],
+                        [
+                            114.091517,
+                            22.334741
+                        ],
+                        [
+                            114.091504,
+                            22.334861
+                        ],
+                        [
+                            114.091585,
+                            22.335175
+                        ],
+                        [
+                            114.091016,
+                            22.335324
+                        ],
+                        [
+                            114.090968,
+                            22.335234
+                        ],
+                        [
+                            114.09086,
+                            22.335265
+                        ],
+                        [
+                            114.089863,
+                            22.332725
+                        ],
+                        [
+                            114.089177,
+                            22.330869
+                        ],
+                        [
+                            114.089187,
+                            22.330853
+                        ],
+                        [
+                            114.090185,
+                            22.329399
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.089844,
+                    22.331459
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.090812,
+                    22.332503
+                ]
+            },
+            "properties": {
+                "code": "HKHKGCMC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

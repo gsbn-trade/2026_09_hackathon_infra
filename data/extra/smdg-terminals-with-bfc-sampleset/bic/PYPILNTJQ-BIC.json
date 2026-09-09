@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -58.320381,
+                            -26.868523
+                        ],
+                        [
+                            -58.322468,
+                            -26.869158
+                        ],
+                        [
+                            -58.322824,
+                            -26.869042
+                        ],
+                        [
+                            -58.323648,
+                            -26.869389
+                        ],
+                        [
+                            -58.324037,
+                            -26.869735
+                        ],
+                        [
+                            -58.321853,
+                            -26.870601
+                        ],
+                        [
+                            -58.319928,
+                            -26.869677
+                        ],
+                        [
+                            -58.320381,
+                            -26.868523
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILNTJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pypilntjq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.32194,
+                    -26.869331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYPILNTJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/pypilntjq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.279676,
+                            -34.842263
+                        ],
+                        [
+                            -56.2787,
+                            -34.8414
+                        ],
+                        [
+                            -56.279,
+                            -34.8411
+                        ],
+                        [
+                            -56.2808,
+                            -34.8403
+                        ],
+                        [
+                            -56.281831,
+                            -34.841164
+                        ],
+                        [
+                            -56.281281,
+                            -34.841459
+                        ],
+                        [
+                            -56.281748,
+                            -34.841961
+                        ],
+                        [
+                            -56.280603,
+                            -34.842579
+                        ],
+                        [
+                            -56.280074,
+                            -34.842026
+                        ],
+                        [
+                            -56.279676,
+                            -34.842263
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMTRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmtra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.280339,
+                    -34.841651
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMTRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://www.bic-code.org/facility-codes/uymvdmtra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

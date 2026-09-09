@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -68.048385,
+                            10.479001
+                        ],
+                        [
+                            -68.049322,
+                            10.479037
+                        ],
+                        [
+                            -68.049311,
+                            10.478626
+                        ],
+                        [
+                            -68.049134,
+                            10.478209
+                        ],
+                        [
+                            -68.048444,
+                            10.477597
+                        ],
+                        [
+                            -68.04842,
+                            10.477713
+                        ],
+                        [
+                            -68.04647,
+                            10.477629
+                        ],
+                        [
+                            -68.04647,
+                            10.478457
+                        ],
+                        [
+                            -68.048399,
+                            10.478518
+                        ],
+                        [
+                            -68.048385,
+                            10.479001
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLIIMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepbliima/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.048274,
+                    10.478379
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VEPBLIIMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/vepbliima/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

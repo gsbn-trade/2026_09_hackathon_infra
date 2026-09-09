@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.123459,
+                            22.321098
+                        ],
+                        [
+                            114.123679,
+                            22.321534
+                        ],
+                        [
+                            114.121965,
+                            22.3228
+                        ],
+                        [
+                            114.121598,
+                            22.322389
+                        ],
+                        [
+                            114.121788,
+                            22.321811
+                        ],
+                        [
+                            114.12163,
+                            22.321545
+                        ],
+                        [
+                            114.122644,
+                            22.321016
+                        ],
+                        [
+                            114.122861,
+                            22.321417
+                        ],
+                        [
+                            114.123459,
+                            22.321098
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "HKHKGLCPB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-02-14",
+                "remarks": "adjusted to latest map satellite ",
+                "url": "https://www.bic-code.org/facility-codes/hkhkglcpb/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.122565,
+                    22.321634
+                ]
+            },
+            "properties": {
+                "code": "HKHKGLCPB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-02-14",
+                "remarks": "adjusted to latest map satellite ",
+                "url": "https://www.bic-code.org/facility-codes/hkhkglcpb/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.772385,
+                            35.584047
+                        ],
+                        [
+                            139.773276,
+                            35.583357
+                        ],
+                        [
+                            139.773415,
+                            35.58334
+                        ],
+                        [
+                            139.773544,
+                            35.583401
+                        ],
+                        [
+                            139.774284,
+                            35.584134
+                        ],
+                        [
+                            139.773308,
+                            35.584849
+                        ],
+                        [
+                            139.772385,
+                            35.584047
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYODPVF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-06-19",
+                "remarks": "Provided by Hitoshi",
+                "url": "https://www.bic-code.org/facility-codes/jptyodpvf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.773228,
+                    35.583882
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPTYODPVF",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-06-19",
+                "remarks": "Provided by Hitoshi",
+                "url": "https://www.bic-code.org/facility-codes/jptyodpvf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

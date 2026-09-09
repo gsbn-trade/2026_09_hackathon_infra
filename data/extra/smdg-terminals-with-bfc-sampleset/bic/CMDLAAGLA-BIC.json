@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.676994,
+                            4.071256
+                        ],
+                        [
+                            9.683345,
+                            4.069833
+                        ],
+                        [
+                            9.683238,
+                            4.06933
+                        ],
+                        [
+                            9.682798,
+                            4.069362
+                        ],
+                        [
+                            9.68238,
+                            4.069244
+                        ],
+                        [
+                            9.682315,
+                            4.068923
+                        ],
+                        [
+                            9.680652,
+                            4.069394
+                        ],
+                        [
+                            9.680652,
+                            4.069693
+                        ],
+                        [
+                            9.680534,
+                            4.069801
+                        ],
+                        [
+                            9.679955,
+                            4.069897
+                        ],
+                        [
+                            9.679408,
+                            4.070089
+                        ],
+                        [
+                            9.678957,
+                            4.070196
+                        ],
+                        [
+                            9.677841,
+                            4.070507
+                        ],
+                        [
+                            9.677208,
+                            4.07086
+                        ],
+                        [
+                            9.676951,
+                            4.071085
+                        ],
+                        [
+                            9.676994,
+                            4.071256
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlaagla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.680014,
+                    4.070045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMDLAAGLA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmdlaagla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

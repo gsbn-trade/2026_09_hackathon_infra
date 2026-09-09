@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.946914,
+                            -3.102844
+                        ],
+                        [
+                            -59.949359,
+                            -3.10409
+                        ],
+                        [
+                            -59.948884,
+                            -3.104975
+                        ],
+                        [
+                            -59.949359,
+                            -3.105286
+                        ],
+                        [
+                            -59.949342,
+                            -3.105433
+                        ],
+                        [
+                            -59.948908,
+                            -3.105376
+                        ],
+                        [
+                            -59.948529,
+                            -3.105273
+                        ],
+                        [
+                            -59.948366,
+                            -3.105182
+                        ],
+                        [
+                            -59.948366,
+                            -3.104982
+                        ],
+                        [
+                            -59.948168,
+                            -3.105065
+                        ],
+                        [
+                            -59.94679,
+                            -3.104675
+                        ],
+                        [
+                            -59.946673,
+                            -3.104524
+                        ],
+                        [
+                            -59.94675,
+                            -3.104191
+                        ],
+                        [
+                            -59.946837,
+                            -3.103904
+                        ],
+                        [
+                            -59.94677,
+                            -3.103877
+                        ],
+                        [
+                            -59.946814,
+                            -3.103677
+                        ],
+                        [
+                            -59.946773,
+                            -3.103597
+                        ],
+                        [
+                            -59.946787,
+                            -3.103376
+                        ],
+                        [
+                            -59.946914,
+                            -3.102844
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOADUA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoadua/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.947753,
+                    -3.104377
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOADUA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-16",
+                "url": "https://www.bic-code.org/facility-codes/brmaoadua/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

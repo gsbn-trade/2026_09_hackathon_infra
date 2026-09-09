@@ -1,0 +1,305 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.91456,
+                            36.885899
+                        ],
+                        [
+                            6.911697,
+                            36.885373
+                        ],
+                        [
+                            6.911505,
+                            36.885398
+                        ],
+                        [
+                            6.907235,
+                            36.886328
+                        ],
+                        [
+                            6.90681,
+                            36.884952
+                        ],
+                        [
+                            6.910119,
+                            36.884208
+                        ],
+                        [
+                            6.911201,
+                            36.883836
+                        ],
+                        [
+                            6.911768,
+                            36.883512
+                        ],
+                        [
+                            6.914742,
+                            36.884443
+                        ],
+                        [
+                            6.915046,
+                            36.884588
+                        ],
+                        [
+                            6.915341,
+                            36.884661
+                        ],
+                        [
+                            6.915159,
+                            36.885144
+                        ],
+                        [
+                            6.914239,
+                            36.887223
+                        ],
+                        [
+                            6.91075,
+                            36.888632
+                        ],
+                        [
+                            6.91039,
+                            36.88808
+                        ],
+                        [
+                            6.912078,
+                            36.887374
+                        ],
+                        [
+                            6.913967,
+                            36.887208
+                        ],
+                        [
+                            6.91456,
+                            36.885899
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.907245,
+                            36.886336
+                        ],
+                        [
+                            6.911687,
+                            36.885357
+                        ],
+                        [
+                            6.911768,
+                            36.885851
+                        ],
+                        [
+                            6.907397,
+                            36.88683
+                        ],
+                        [
+                            6.907245,
+                            36.886336
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.91455,
+                            36.885891
+                        ],
+                        [
+                            6.914368,
+                            36.886296
+                        ],
+                        [
+                            6.911778,
+                            36.885843
+                        ],
+                        [
+                            6.911667,
+                            36.885365
+                        ],
+                        [
+                            6.91455,
+                            36.885891
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.913963,
+                            36.887218
+                        ],
+                        [
+                            6.912092,
+                            36.88738
+                        ],
+                        [
+                            6.910392,
+                            36.888068
+                        ],
+                        [
+                            6.910149,
+                            36.887696
+                        ],
+                        [
+                            6.911869,
+                            36.887024
+                        ],
+                        [
+                            6.914085,
+                            36.886935
+                        ],
+                        [
+                            6.913963,
+                            36.887218
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.912287,
+                    36.885709
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.909068,
+                    36.886142
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.913383,
+                    36.885857
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.912359,
+                    36.887363
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIEPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

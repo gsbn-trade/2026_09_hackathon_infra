@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.319469,
+                            39.453334
+                        ],
+                        [
+                            -0.314496,
+                            39.446154
+                        ],
+                        [
+                            -0.313911,
+                            39.44638
+                        ],
+                        [
+                            -0.312243,
+                            39.45004
+                        ],
+                        [
+                            -0.312594,
+                            39.450153
+                        ],
+                        [
+                            -0.313209,
+                            39.450876
+                        ],
+                        [
+                            -0.313531,
+                            39.451057
+                        ],
+                        [
+                            -0.318529,
+                            39.458925
+                        ],
+                        [
+                            -0.319099,
+                            39.459511
+                        ],
+                        [
+                            -0.319739,
+                            39.459877
+                        ],
+                        [
+                            -0.320664,
+                            39.460042
+                        ],
+                        [
+                            -0.321399,
+                            39.460115
+                        ],
+                        [
+                            -0.320546,
+                            39.45887
+                        ],
+                        [
+                            -0.322751,
+                            39.4579
+                        ],
+                        [
+                            -0.319568,
+                            39.453284
+                        ],
+                        [
+                            -0.319469,
+                            39.453334
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVLCAIYX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/esvlcaiyx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.317576,
+                    39.454366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESVLCAIYX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/esvlcaiyx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

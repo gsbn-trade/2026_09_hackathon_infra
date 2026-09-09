@@ -1,0 +1,187 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.518268,
+                            38.012078
+                        ],
+                        [
+                            12.518561,
+                            38.012114
+                        ],
+                        [
+                            12.518561,
+                            38.011974
+                        ],
+                        [
+                            12.519366,
+                            38.011994
+                        ],
+                        [
+                            12.519941,
+                            38.012329
+                        ],
+                        [
+                            12.519921,
+                            38.012463
+                        ],
+                        [
+                            12.522801,
+                            38.012591
+                        ],
+                        [
+                            12.522773,
+                            38.012796
+                        ],
+                        [
+                            12.52273,
+                            38.012796
+                        ],
+                        [
+                            12.522666,
+                            38.013021
+                        ],
+                        [
+                            12.522735,
+                            38.013038
+                        ],
+                        [
+                            12.522691,
+                            38.013142
+                        ],
+                        [
+                            12.522359,
+                            38.013051
+                        ],
+                        [
+                            12.522332,
+                            38.013152
+                        ],
+                        [
+                            12.521712,
+                            38.013066
+                        ],
+                        [
+                            12.521721,
+                            38.013118
+                        ],
+                        [
+                            12.520331,
+                            38.012995
+                        ],
+                        [
+                            12.518298,
+                            38.012371
+                        ],
+                        [
+                            12.518268,
+                            38.012078
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTPSSCS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-04",
+                "remarks": "Provided by CISCo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.518301,
+                            38.012372
+                        ],
+                        [
+                            12.51821,
+                            38.012592
+                        ],
+                        [
+                            12.520395,
+                            38.013212
+                        ],
+                        [
+                            12.521733,
+                            38.013283
+                        ],
+                        [
+                            12.521721,
+                            38.013135
+                        ],
+                        [
+                            12.520317,
+                            38.013002
+                        ],
+                        [
+                            12.518301,
+                            38.012372
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTPSSCS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-06-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.520844,
+                    38.01264
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTPSSCS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-04",
+                "remarks": "Provided by CISCo",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.519854,
+                    38.012853
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTPSSCS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

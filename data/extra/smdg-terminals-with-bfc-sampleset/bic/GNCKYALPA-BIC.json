@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -13.694648,
+                            9.524146
+                        ],
+                        [
+                            -13.694481,
+                            9.523437
+                        ],
+                        [
+                            -13.694401,
+                            9.523151
+                        ],
+                        [
+                            -13.694143,
+                            9.522506
+                        ],
+                        [
+                            -13.692598,
+                            9.523157
+                        ],
+                        [
+                            -13.692325,
+                            9.523273
+                        ],
+                        [
+                            -13.692083,
+                            9.523246
+                        ],
+                        [
+                            -13.691831,
+                            9.523432
+                        ],
+                        [
+                            -13.692625,
+                            9.524876
+                        ],
+                        [
+                            -13.694648,
+                            9.524146
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYALPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckyalpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.693378,
+                    9.523537
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GNCKYALPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "url": "https://www.bic-code.org/facility-codes/gnckyalpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

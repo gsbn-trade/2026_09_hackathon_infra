@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.074015,
+                            30.724372
+                        ],
+                        [
+                            -88.074074,
+                            30.724284
+                        ],
+                        [
+                            -88.07418,
+                            30.724358
+                        ],
+                        [
+                            -88.074416,
+                            30.724486
+                        ],
+                        [
+                            -88.074919,
+                            30.723837
+                        ],
+                        [
+                            -88.075198,
+                            30.723449
+                        ],
+                        [
+                            -88.075356,
+                            30.723232
+                        ],
+                        [
+                            -88.075482,
+                            30.723039
+                        ],
+                        [
+                            -88.073963,
+                            30.721951
+                        ],
+                        [
+                            -88.072689,
+                            30.723601
+                        ],
+                        [
+                            -88.074015,
+                            30.724372
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBCHKA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmobchka/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.074392,
+                    30.723726
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USMOBCHKA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/usmobchka/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.435602,
+                            44.265535
+                        ],
+                        [
+                            8.434979,
+                            44.265497
+                        ],
+                        [
+                            8.434067,
+                            44.264659
+                        ],
+                        [
+                            8.43308,
+                            44.263768
+                        ],
+                        [
+                            8.433101,
+                            44.263391
+                        ],
+                        [
+                            8.433992,
+                            44.26283
+                        ],
+                        [
+                            8.433691,
+                            44.262645
+                        ],
+                        [
+                            8.434764,
+                            44.261985
+                        ],
+                        [
+                            8.437437,
+                            44.264605
+                        ],
+                        [
+                            8.435602,
+                            44.265535
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLTGZV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-03-19",
+                "url": "https://www.bic-code.org/facility-codes/itvdltgzv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.434632,
+                    44.264045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLTGZV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-03-19",
+                "url": "https://www.bic-code.org/facility-codes/itvdltgzv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

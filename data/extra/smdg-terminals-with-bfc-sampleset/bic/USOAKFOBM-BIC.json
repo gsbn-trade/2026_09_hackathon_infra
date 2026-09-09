@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.317261,
+                            37.811571
+                        ],
+                        [
+                            -122.314943,
+                            37.81003
+                        ],
+                        [
+                            -122.31461,
+                            37.809812
+                        ],
+                        [
+                            -122.314436,
+                            37.809697
+                        ],
+                        [
+                            -122.31488,
+                            37.809279
+                        ],
+                        [
+                            -122.315212,
+                            37.809093
+                        ],
+                        [
+                            -122.315549,
+                            37.808989
+                        ],
+                        [
+                            -122.316771,
+                            37.809087
+                        ],
+                        [
+                            -122.317732,
+                            37.809067
+                        ],
+                        [
+                            -122.318488,
+                            37.808911
+                        ],
+                        [
+                            -122.31993,
+                            37.808504
+                        ],
+                        [
+                            -122.320364,
+                            37.808374
+                        ],
+                        [
+                            -122.322521,
+                            37.809779
+                        ],
+                        [
+                            -122.322247,
+                            37.810023
+                        ],
+                        [
+                            -122.322696,
+                            37.81032
+                        ],
+                        [
+                            -122.319807,
+                            37.813067
+                        ],
+                        [
+                            -122.317261,
+                            37.811571
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKFOBM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usoakfobm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.317924,
+                    37.809834
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKFOBM",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/usoakfobm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

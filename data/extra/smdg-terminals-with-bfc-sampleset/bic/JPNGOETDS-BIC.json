@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.782449,
+                            35.031615
+                        ],
+                        [
+                            136.780708,
+                            35.029983
+                        ],
+                        [
+                            136.782916,
+                            35.028402
+                        ],
+                        [
+                            136.784645,
+                            35.030117
+                        ],
+                        [
+                            136.782449,
+                            35.031615
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOETDS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngoetds/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.782633,
+                    35.030346
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOETDS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngoetds/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

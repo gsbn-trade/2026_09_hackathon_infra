@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.070578,
+                            -5.073918
+                        ],
+                        [
+                            -81.072289,
+                            -5.075008
+                        ],
+                        [
+                            -81.071673,
+                            -5.076034
+                        ],
+                        [
+                            -81.069972,
+                            -5.074917
+                        ],
+                        [
+                            -81.070578,
+                            -5.073918
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIJXKD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaijxkd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.071018,
+                    -5.074759
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIJXKD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaijxkd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

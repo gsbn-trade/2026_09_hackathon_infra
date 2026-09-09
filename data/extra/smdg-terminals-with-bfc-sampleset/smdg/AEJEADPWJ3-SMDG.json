@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.044061,
+                            24.994731
+                        ],
+                        [
+                            55.043364,
+                            24.993993
+                        ],
+                        [
+                            55.042965,
+                            24.99295
+                        ],
+                        [
+                            55.043071,
+                            24.991996
+                        ],
+                        [
+                            55.043396,
+                            24.991187
+                        ],
+                        [
+                            55.045284,
+                            24.991899
+                        ],
+                        [
+                            55.045464,
+                            24.99151
+                        ],
+                        [
+                            55.046943,
+                            24.992019
+                        ],
+                        [
+                            55.048473,
+                            24.988378
+                        ],
+                        [
+                            55.046933,
+                            24.987843
+                        ],
+                        [
+                            55.047776,
+                            24.985818
+                        ],
+                        [
+                            55.049364,
+                            24.98637
+                        ],
+                        [
+                            55.050941,
+                            24.982617
+                        ],
+                        [
+                            55.051245,
+                            24.98195
+                        ],
+                        [
+                            55.051312,
+                            24.981738
+                        ],
+                        [
+                            55.051409,
+                            24.981644
+                        ],
+                        [
+                            55.052066,
+                            24.981294
+                        ],
+                        [
+                            55.053241,
+                            24.980784
+                        ],
+                        [
+                            55.054357,
+                            24.981163
+                        ],
+                        [
+                            55.054602,
+                            24.981247
+                        ],
+                        [
+                            55.054919,
+                            24.981344
+                        ],
+                        [
+                            55.048341,
+                            24.997048
+                        ],
+                        [
+                            55.048281,
+                            24.997028
+                        ],
+                        [
+                            55.048,
+                            24.996926
+                        ],
+                        [
+                            55.047894,
+                            24.996887
+                        ],
+                        [
+                            55.046841,
+                            24.996516
+                        ],
+                        [
+                            55.045794,
+                            24.996124
+                        ],
+                        [
+                            55.044061,
+                            24.994731
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.048472,
+                            24.997095
+                        ],
+                        [
+                            55.054954,
+                            24.981293
+                        ],
+                        [
+                            55.055691,
+                            24.98149
+                        ],
+                        [
+                            55.049192,
+                            24.997353
+                        ],
+                        [
+                            55.048472,
+                            24.997095
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.048229,
+                    24.989205
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.051356,
+                    24.990865
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

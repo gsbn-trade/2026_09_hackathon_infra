@@ -1,0 +1,165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            70.222904,
+                            22.982423
+                        ],
+                        [
+                            70.226583,
+                            22.983768
+                        ],
+                        [
+                            70.224635,
+                            22.988377
+                        ],
+                        [
+                            70.220389,
+                            22.988101
+                        ],
+                        [
+                            70.21904,
+                            22.988031
+                        ],
+                        [
+                            70.219106,
+                            22.985104
+                        ],
+                        [
+                            70.219163,
+                            22.984034
+                        ],
+                        [
+                            70.219154,
+                            22.983005
+                        ],
+                        [
+                            70.219206,
+                            22.982208
+                        ],
+                        [
+                            70.219232,
+                            22.981471
+                        ],
+                        [
+                            70.21926,
+                            22.981135
+                        ],
+                        [
+                            70.220748,
+                            22.981642
+                        ],
+                        [
+                            70.222304,
+                            22.98221
+                        ],
+                        [
+                            70.222636,
+                            22.982348
+                        ],
+                        [
+                            70.222786,
+                            22.982374
+                        ],
+                        [
+                            70.222904,
+                            22.982423
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            70.22461,
+                            22.98837
+                        ],
+                        [
+                            70.226634,
+                            22.983764
+                        ],
+                        [
+                            70.227216,
+                            22.983956
+                        ],
+                        [
+                            70.22518,
+                            22.988562
+                        ],
+                        [
+                            70.22461,
+                            22.98837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.221253,
+                    22.983666
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.22565,
+                    22.986604
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INIXYKICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

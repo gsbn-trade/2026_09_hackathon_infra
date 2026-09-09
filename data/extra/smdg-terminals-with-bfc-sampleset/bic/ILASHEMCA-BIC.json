@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.670385,
+                            31.833107
+                        ],
+                        [
+                            34.67223,
+                            31.834408
+                        ],
+                        [
+                            34.67229,
+                            31.834538
+                        ],
+                        [
+                            34.670732,
+                            31.836037
+                        ],
+                        [
+                            34.668841,
+                            31.83464
+                        ],
+                        [
+                            34.670385,
+                            31.833107
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ILASHEMCA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/ilashemca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.67081,
+                    31.834306
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ILASHEMCA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-10",
+                "url": "https://www.bic-code.org/facility-codes/ilashemca/"
+            }
+        }
+    ]
+}

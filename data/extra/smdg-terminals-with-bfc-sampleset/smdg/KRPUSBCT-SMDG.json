@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.805001,
+                            35.066768
+                        ],
+                        [
+                            128.793757,
+                            35.064871
+                        ],
+                        [
+                            128.794958,
+                            35.059567
+                        ],
+                        [
+                            128.806331,
+                            35.061534
+                        ],
+                        [
+                            128.805001,
+                            35.066768
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.805044,
+                            35.066803
+                        ],
+                        [
+                            128.804915,
+                            35.067541
+                        ],
+                        [
+                            128.793542,
+                            35.065679
+                        ],
+                        [
+                            128.793714,
+                            35.064836
+                        ],
+                        [
+                            128.805044,
+                            35.066803
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.80101,
+                    35.063902
+                ]
+            },
+            "properties": {
+                "code": "KRPUSBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.800452,
+                    35.066332
+                ]
+            },
+            "properties": {
+                "code": "KRPUSBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

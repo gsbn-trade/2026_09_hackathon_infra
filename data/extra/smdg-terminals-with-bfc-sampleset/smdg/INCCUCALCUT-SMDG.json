@@ -1,0 +1,323 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.295547,
+                            22.549455
+                        ],
+                        [
+                            88.29891,
+                            22.545952
+                        ],
+                        [
+                            88.300439,
+                            22.546221
+                        ],
+                        [
+                            88.302663,
+                            22.543973
+                        ],
+                        [
+                            88.30238,
+                            22.543719
+                        ],
+                        [
+                            88.302266,
+                            22.543442
+                        ],
+                        [
+                            88.302371,
+                            22.543114
+                        ],
+                        [
+                            88.302816,
+                            22.542979
+                        ],
+                        [
+                            88.304231,
+                            22.542509
+                        ],
+                        [
+                            88.303241,
+                            22.539082
+                        ],
+                        [
+                            88.302558,
+                            22.539299
+                        ],
+                        [
+                            88.302308,
+                            22.541092
+                        ],
+                        [
+                            88.299688,
+                            22.541839
+                        ],
+                        [
+                            88.299097,
+                            22.540106
+                        ],
+                        [
+                            88.299809,
+                            22.538171
+                        ],
+                        [
+                            88.300051,
+                            22.538186
+                        ],
+                        [
+                            88.300739,
+                            22.537118
+                        ],
+                        [
+                            88.301135,
+                            22.53611
+                        ],
+                        [
+                            88.302097,
+                            22.535251
+                        ],
+                        [
+                            88.302607,
+                            22.535587
+                        ],
+                        [
+                            88.303537,
+                            22.538582
+                        ],
+                        [
+                            88.306521,
+                            22.538283
+                        ],
+                        [
+                            88.307249,
+                            22.54263
+                        ],
+                        [
+                            88.305478,
+                            22.543004
+                        ],
+                        [
+                            88.302664,
+                            22.546051
+                        ],
+                        [
+                            88.299283,
+                            22.546596
+                        ],
+                        [
+                            88.297229,
+                            22.548792
+                        ],
+                        [
+                            88.296809,
+                            22.548538
+                        ],
+                        [
+                            88.295709,
+                            22.549591
+                        ],
+                        [
+                            88.295547,
+                            22.549455
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.301125,
+                            22.545472
+                        ],
+                        [
+                            88.300886,
+                            22.54518
+                        ],
+                        [
+                            88.302072,
+                            22.543987
+                        ],
+                        [
+                            88.302091,
+                            22.542732
+                        ],
+                        [
+                            88.303679,
+                            22.542246
+                        ],
+                        [
+                            88.303287,
+                            22.540638
+                        ],
+                        [
+                            88.302971,
+                            22.539198
+                        ],
+                        [
+                            88.303287,
+                            22.539065
+                        ],
+                        [
+                            88.304244,
+                            22.542494
+                        ],
+                        [
+                            88.302388,
+                            22.543103
+                        ],
+                        [
+                            88.302206,
+                            22.543475
+                        ],
+                        [
+                            88.302369,
+                            22.54374
+                        ],
+                        [
+                            88.302646,
+                            22.543987
+                        ],
+                        [
+                            88.301125,
+                            22.545472
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            88.299687,
+                            22.541855
+                        ],
+                        [
+                            88.299218,
+                            22.542014
+                        ],
+                        [
+                            88.298664,
+                            22.539999
+                        ],
+                        [
+                            88.299438,
+                            22.537905
+                        ],
+                        [
+                            88.29985,
+                            22.538134
+                        ],
+                        [
+                            88.299113,
+                            22.540114
+                        ],
+                        [
+                            88.299687,
+                            22.541855
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.301166,
+                    22.542491
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.302455,
+                    22.542914
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.29938,
+                    22.540268
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INCCUCALCUT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

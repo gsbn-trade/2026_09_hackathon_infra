@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.276944,
+                            13.220102
+                        ],
+                        [
+                            80.276674,
+                            13.220853
+                        ],
+                        [
+                            80.276344,
+                            13.220903
+                        ],
+                        [
+                            80.275376,
+                            13.221042
+                        ],
+                        [
+                            80.274586,
+                            13.220899
+                        ],
+                        [
+                            80.274647,
+                            13.218854
+                        ],
+                        [
+                            80.275048,
+                            13.218429
+                        ],
+                        [
+                            80.275426,
+                            13.217786
+                        ],
+                        [
+                            80.276456,
+                            13.217531
+                        ],
+                        [
+                            80.277522,
+                            13.217415
+                        ],
+                        [
+                            80.27761,
+                            13.217778
+                        ],
+                        [
+                            80.277542,
+                            13.218155
+                        ],
+                        [
+                            80.277392,
+                            13.219097
+                        ],
+                        [
+                            80.277609,
+                            13.219222
+                        ],
+                        [
+                            80.277405,
+                            13.2197
+                        ],
+                        [
+                            80.276944,
+                            13.220102
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAABWEH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-26",
+                "url": "https://www.bic-code.org/facility-codes/inmaabweh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27647,
+                    13.219242
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAABWEH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-26",
+                "url": "https://www.bic-code.org/facility-codes/inmaabweh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

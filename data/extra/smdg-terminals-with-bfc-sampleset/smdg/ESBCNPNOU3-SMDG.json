@@ -1,0 +1,201 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.149568,
+                            41.336863
+                        ],
+                        [
+                            2.149923,
+                            41.339395
+                        ],
+                        [
+                            2.148071,
+                            41.339527
+                        ],
+                        [
+                            2.148165,
+                            41.340115
+                        ],
+                        [
+                            2.147408,
+                            41.340176
+                        ],
+                        [
+                            2.14696,
+                            41.340491
+                        ],
+                        [
+                            2.147938,
+                            41.343003
+                        ],
+                        [
+                            2.147757,
+                            41.34299
+                        ],
+                        [
+                            2.147616,
+                            41.342884
+                        ],
+                        [
+                            2.147592,
+                            41.342752
+                        ],
+                        [
+                            2.147557,
+                            41.34262
+                        ],
+                        [
+                            2.147464,
+                            41.342414
+                        ],
+                        [
+                            2.147341,
+                            41.342207
+                        ],
+                        [
+                            2.147071,
+                            41.341802
+                        ],
+                        [
+                            2.146848,
+                            41.341349
+                        ],
+                        [
+                            2.146399,
+                            41.340068
+                        ],
+                        [
+                            2.146443,
+                            41.339777
+                        ],
+                        [
+                            2.146987,
+                            41.339565
+                        ],
+                        [
+                            2.146522,
+                            41.337328
+                        ],
+                        [
+                            2.147429,
+                            41.337361
+                        ],
+                        [
+                            2.147444,
+                            41.337029
+                        ],
+                        [
+                            2.148905,
+                            41.337101
+                        ],
+                        [
+                            2.149384,
+                            41.336874
+                        ],
+                        [
+                            2.149568,
+                            41.336863
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNPNOU3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "New location as of September, 2023",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            2.149986,
+                            41.339396
+                        ],
+                        [
+                            2.149603,
+                            41.336671
+                        ],
+                        [
+                            2.14981,
+                            41.336658
+                        ],
+                        [
+                            2.150234,
+                            41.339381
+                        ],
+                        [
+                            2.149986,
+                            41.339396
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNPNOU3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "New location as of September, 2023",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.147765,
+                    41.340023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNPNOU3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "New location as of September, 2023",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.149924,
+                    41.3383
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBCNPNOU3",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "New location as of September, 2023",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

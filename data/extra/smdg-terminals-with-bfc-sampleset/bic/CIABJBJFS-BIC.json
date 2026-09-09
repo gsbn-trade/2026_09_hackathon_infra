@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.000501,
+                            5.291724
+                        ],
+                        [
+                            -4.000472,
+                            5.290869
+                        ],
+                        [
+                            -4.00052,
+                            5.289036
+                        ],
+                        [
+                            -4.000561,
+                            5.287705
+                        ],
+                        [
+                            -4.00015,
+                            5.287009
+                        ],
+                        [
+                            -3.999477,
+                            5.287181
+                        ],
+                        [
+                            -3.999494,
+                            5.287376
+                        ],
+                        [
+                            -3.99918,
+                            5.28748
+                        ],
+                        [
+                            -3.999689,
+                            5.289309
+                        ],
+                        [
+                            -3.999692,
+                            5.291738
+                        ],
+                        [
+                            -4.000501,
+                            5.291724
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBJFS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbjfs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.000022,
+                    5.289196
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBJFS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbjfs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

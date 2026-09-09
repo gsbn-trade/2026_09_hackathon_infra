@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.672955,
+                            36.830789
+                        ],
+                        [
+                            34.673866,
+                            36.828514
+                        ],
+                        [
+                            34.678394,
+                            36.831428
+                        ],
+                        [
+                            34.679406,
+                            36.832283
+                        ],
+                        [
+                            34.679136,
+                            36.832561
+                        ],
+                        [
+                            34.677675,
+                            36.831905
+                        ],
+                        [
+                            34.672955,
+                            36.830789
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRMERSLUM",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-06",
+                "url": "https://www.bic-code.org/facility-codes/trmerslum/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.676341,
+                    36.831181
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "TRMERSLUM",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-06",
+                "url": "https://www.bic-code.org/facility-codes/trmerslum/"
+            }
+        }
+    ]
+}

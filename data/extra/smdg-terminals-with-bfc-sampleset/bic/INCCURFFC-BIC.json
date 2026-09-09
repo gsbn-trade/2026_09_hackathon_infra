@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            88.299188,
+                            22.519925
+                        ],
+                        [
+                            88.29851,
+                            22.519919
+                        ],
+                        [
+                            88.298549,
+                            22.520054
+                        ],
+                        [
+                            88.298696,
+                            22.520085
+                        ],
+                        [
+                            88.298756,
+                            22.520816
+                        ],
+                        [
+                            88.297332,
+                            22.520957
+                        ],
+                        [
+                            88.297192,
+                            22.520533
+                        ],
+                        [
+                            88.296307,
+                            22.520662
+                        ],
+                        [
+                            88.296254,
+                            22.520613
+                        ],
+                        [
+                            88.295762,
+                            22.520712
+                        ],
+                        [
+                            88.294957,
+                            22.519458
+                        ],
+                        [
+                            88.298829,
+                            22.518548
+                        ],
+                        [
+                            88.298889,
+                            22.518825
+                        ],
+                        [
+                            88.299235,
+                            22.518769
+                        ],
+                        [
+                            88.299281,
+                            22.519433
+                        ],
+                        [
+                            88.299188,
+                            22.519925
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "INCCURFFC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2024-01-10",
+                "remarks": "Above Geofencing created by Facility that is container freight station CENTURY PLYBOARDS INDIA LIMITED JJP-CFS kolkata",
+                "url": "https://www.bic-code.org/facility-codes/inccurffc/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.297933,
+                    22.519952
+                ]
+            },
+            "properties": {
+                "code": "INCCURFFC",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2024-01-10",
+                "remarks": "Above Geofencing created by Facility that is container freight station CENTURY PLYBOARDS INDIA LIMITED JJP-CFS kolkata",
+                "url": "https://www.bic-code.org/facility-codes/inccurffc/"
+            }
+        }
+    ]
+}

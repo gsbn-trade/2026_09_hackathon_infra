@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.316696,
+                            51.834206
+                        ],
+                        [
+                            -8.322676,
+                            51.836337
+                        ],
+                        [
+                            -8.323674,
+                            51.83585
+                        ],
+                        [
+                            -8.32424,
+                            51.836186
+                        ],
+                        [
+                            -8.324594,
+                            51.835926
+                        ],
+                        [
+                            -8.324025,
+                            51.832746
+                        ],
+                        [
+                            -8.323471,
+                            51.832746
+                        ],
+                        [
+                            -8.322928,
+                            51.832362
+                        ],
+                        [
+                            -8.322417,
+                            51.832541
+                        ],
+                        [
+                            -8.322173,
+                            51.832678
+                        ],
+                        [
+                            -8.31674,
+                            51.832664
+                        ],
+                        [
+                            -8.316696,
+                            51.834206
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.324614,
+                            51.835925
+                        ],
+                        [
+                            -8.325515,
+                            51.835848
+                        ],
+                        [
+                            -8.324785,
+                            51.832587
+                        ],
+                        [
+                            -8.324025,
+                            51.832721
+                        ],
+                        [
+                            -8.324614,
+                            51.835925
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.321694,
+                    51.834037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.324711,
+                    51.834601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEORKCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-12-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

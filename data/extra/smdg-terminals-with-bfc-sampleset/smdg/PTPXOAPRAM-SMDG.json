@@ -1,0 +1,293 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.31321,
+                            33.06388
+                        ],
+                        [
+                            -16.313219,
+                            33.063226
+                        ],
+                        [
+                            -16.312557,
+                            33.063225
+                        ],
+                        [
+                            -16.31233,
+                            33.063257
+                        ],
+                        [
+                            -16.311549,
+                            33.063037
+                        ],
+                        [
+                            -16.311234,
+                            33.062899
+                        ],
+                        [
+                            -16.311027,
+                            33.062789
+                        ],
+                        [
+                            -16.310744,
+                            33.062597
+                        ],
+                        [
+                            -16.31065,
+                            33.062549
+                        ],
+                        [
+                            -16.310583,
+                            33.06218
+                        ],
+                        [
+                            -16.310488,
+                            33.062079
+                        ],
+                        [
+                            -16.310455,
+                            33.060396
+                        ],
+                        [
+                            -16.310906,
+                            33.060234
+                        ],
+                        [
+                            -16.310831,
+                            33.060056
+                        ],
+                        [
+                            -16.310861,
+                            33.059869
+                        ],
+                        [
+                            -16.310468,
+                            33.059723
+                        ],
+                        [
+                            -16.310523,
+                            33.059482
+                        ],
+                        [
+                            -16.310694,
+                            33.059198
+                        ],
+                        [
+                            -16.311167,
+                            33.059105
+                        ],
+                        [
+                            -16.311332,
+                            33.059121
+                        ],
+                        [
+                            -16.311446,
+                            33.059077
+                        ],
+                        [
+                            -16.311358,
+                            33.058673
+                        ],
+                        [
+                            -16.311219,
+                            33.058695
+                        ],
+                        [
+                            -16.310883,
+                            33.058816
+                        ],
+                        [
+                            -16.310616,
+                            33.058994
+                        ],
+                        [
+                            -16.310474,
+                            33.059146
+                        ],
+                        [
+                            -16.310289,
+                            33.05944
+                        ],
+                        [
+                            -16.310241,
+                            33.059689
+                        ],
+                        [
+                            -16.310279,
+                            33.062191
+                        ],
+                        [
+                            -16.310283,
+                            33.062598
+                        ],
+                        [
+                            -16.310541,
+                            33.062696
+                        ],
+                        [
+                            -16.310578,
+                            33.062675
+                        ],
+                        [
+                            -16.310633,
+                            33.06267
+                        ],
+                        [
+                            -16.310673,
+                            33.062672
+                        ],
+                        [
+                            -16.310712,
+                            33.062688
+                        ],
+                        [
+                            -16.310917,
+                            33.062806
+                        ],
+                        [
+                            -16.311112,
+                            33.062921
+                        ],
+                        [
+                            -16.311338,
+                            33.063027
+                        ],
+                        [
+                            -16.311573,
+                            33.063118
+                        ],
+                        [
+                            -16.312212,
+                            33.063307
+                        ],
+                        [
+                            -16.312358,
+                            33.063336
+                        ],
+                        [
+                            -16.312424,
+                            33.063362
+                        ],
+                        [
+                            -16.312486,
+                            33.063405
+                        ],
+                        [
+                            -16.312532,
+                            33.063479
+                        ],
+                        [
+                            -16.312535,
+                            33.063565
+                        ],
+                        [
+                            -16.31252,
+                            33.063855
+                        ],
+                        [
+                            -16.31321,
+                            33.06388
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPXOAPRAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "remarks": "Geofence unreliable, based on outdated imagery. Verify if the port is used for container handling at all - it seems to be mainly for cruise ships.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -16.311458,
+                            33.059113
+                        ],
+                        [
+                            -16.314556,
+                            33.058653
+                        ],
+                        [
+                            -16.314498,
+                            33.05837
+                        ],
+                        [
+                            -16.311406,
+                            33.058849
+                        ],
+                        [
+                            -16.311458,
+                            33.059113
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPXOAPRAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-01",
+                "remarks": "Geofence unreliable, based on outdated imagery. Verify if the port is used for container handling at all - it seems to be mainly for cruise ships.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.311282,
+                    33.061695
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPXOAPRAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "Geofence unreliable, based on outdated imagery. Verify if the port is used for container handling at all - it seems to be mainly for cruise ships.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.312675,
+                    33.05882
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPXOAPRAM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "remarks": "Geofence unreliable, based on outdated imagery. Verify if the port is used for container handling at all - it seems to be mainly for cruise ships.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

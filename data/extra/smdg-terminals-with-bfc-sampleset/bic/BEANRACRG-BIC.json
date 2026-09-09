@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            4.209959,
+                            51.275478
+                        ],
+                        [
+                            4.214074,
+                            51.274322
+                        ],
+                        [
+                            4.21528,
+                            51.275817
+                        ],
+                        [
+                            4.213923,
+                            51.276221
+                        ],
+                        [
+                            4.215245,
+                            51.278048
+                        ],
+                        [
+                            4.216647,
+                            51.277637
+                        ],
+                        [
+                            4.216997,
+                            51.278116
+                        ],
+                        [
+                            4.214727,
+                            51.27885
+                        ],
+                        [
+                            4.216624,
+                            51.281426
+                        ],
+                        [
+                            4.216306,
+                            51.281519
+                        ],
+                        [
+                            4.216211,
+                            51.281502
+                        ],
+                        [
+                            4.216121,
+                            51.281436
+                        ],
+                        [
+                            4.215389,
+                            51.28046
+                        ],
+                        [
+                            4.214283,
+                            51.278983
+                        ],
+                        [
+                            4.212748,
+                            51.279404
+                        ],
+                        [
+                            4.211396,
+                            51.277448
+                        ],
+                        [
+                            4.209959,
+                            51.275478
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRACRG",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2024-04-23",
+                "url": "https://www.bic-code.org/facility-codes/beanracrg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.214464,
+                    51.278361
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BEANRACRG",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2024-04-23",
+                "url": "https://www.bic-code.org/facility-codes/beanracrg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

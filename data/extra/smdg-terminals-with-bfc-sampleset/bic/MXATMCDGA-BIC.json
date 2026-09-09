@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.881745,
+                            22.415608
+                        ],
+                        [
+                            -97.881796,
+                            22.415567
+                        ],
+                        [
+                            -97.881182,
+                            22.41474
+                        ],
+                        [
+                            -97.880977,
+                            22.415643
+                        ],
+                        [
+                            -97.881221,
+                            22.415735
+                        ],
+                        [
+                            -97.881485,
+                            22.415726
+                        ],
+                        [
+                            -97.881745,
+                            22.415608
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMCDGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/mxatmcdga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.88145,
+                    22.415518
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXATMCDGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/mxatmcdga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.194,
+                            32.0797
+                        ],
+                        [
+                            -81.1942,
+                            32.0791
+                        ],
+                        [
+                            -81.1921,
+                            32.0789
+                        ],
+                        [
+                            -81.1923,
+                            32.0784
+                        ],
+                        [
+                            -81.191,
+                            32.0779
+                        ],
+                        [
+                            -81.1913,
+                            32.0769
+                        ],
+                        [
+                            -81.1881,
+                            32.0763
+                        ],
+                        [
+                            -81.1871,
+                            32.079
+                        ],
+                        [
+                            -81.194,
+                            32.0797
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVATLA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/ussavatla/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.191567,
+                    32.078433
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSAVATLA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/ussavatla/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

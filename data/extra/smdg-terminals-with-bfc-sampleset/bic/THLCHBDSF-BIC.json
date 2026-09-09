@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.913401,
+                            13.124116
+                        ],
+                        [
+                            100.91254,
+                            13.123863
+                        ],
+                        [
+                            100.912499,
+                            13.121704
+                        ],
+                        [
+                            100.91228,
+                            13.121245
+                        ],
+                        [
+                            100.912499,
+                            13.121166
+                        ],
+                        [
+                            100.912442,
+                            13.120122
+                        ],
+                        [
+                            100.913108,
+                            13.120035
+                        ],
+                        [
+                            100.913644,
+                            13.12096
+                        ],
+                        [
+                            100.913588,
+                            13.123784
+                        ],
+                        [
+                            100.913401,
+                            13.124116
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "THLCHBDSF",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-04-11",
+                "url": "https://www.bic-code.org/facility-codes/thlchbdsf/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91294,
+                    13.122111
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "THLCHBDSF",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-04-11",
+                "url": "https://www.bic-code.org/facility-codes/thlchbdsf/"
+            }
+        }
+    ]
+}

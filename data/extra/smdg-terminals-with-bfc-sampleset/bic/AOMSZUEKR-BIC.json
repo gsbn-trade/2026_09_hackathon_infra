@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.141295,
+                            -15.124807
+                        ],
+                        [
+                            12.139423,
+                            -15.123968
+                        ],
+                        [
+                            12.138784,
+                            -15.125221
+                        ],
+                        [
+                            12.139964,
+                            -15.126071
+                        ],
+                        [
+                            12.140168,
+                            -15.125579
+                        ],
+                        [
+                            12.140812,
+                            -15.125848
+                        ],
+                        [
+                            12.141295,
+                            -15.124807
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZUEKR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-05-27",
+                "url": "https://www.bic-code.org/facility-codes/aomszuekr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.140249,
+                    -15.125186
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZUEKR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-05-27",
+                "url": "https://www.bic-code.org/facility-codes/aomszuekr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.627678,
+                            31.846724
+                        ],
+                        [
+                            -116.626516,
+                            31.847461
+                        ],
+                        [
+                            -116.627598,
+                            31.848939
+                        ],
+                        [
+                            -116.627169,
+                            31.849206
+                        ],
+                        [
+                            -116.627964,
+                            31.850363
+                        ],
+                        [
+                            -116.628241,
+                            31.850685
+                        ],
+                        [
+                            -116.628531,
+                            31.851097
+                        ],
+                        [
+                            -116.628806,
+                            31.851525
+                        ],
+                        [
+                            -116.630463,
+                            31.853844
+                        ],
+                        [
+                            -116.632336,
+                            31.853472
+                        ],
+                        [
+                            -116.63251,
+                            31.853028
+                        ],
+                        [
+                            -116.631834,
+                            31.851969
+                        ],
+                        [
+                            -116.627678,
+                            31.846724
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEEIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.630411,
+                            31.853833
+                        ],
+                        [
+                            -116.62879,
+                            31.851517
+                        ],
+                        [
+                            -116.62716,
+                            31.849224
+                        ],
+                        [
+                            -116.62672,
+                            31.849435
+                        ],
+                        [
+                            -116.629957,
+                            31.854062
+                        ],
+                        [
+                            -116.630411,
+                            31.853833
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEEIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.629025,
+                    31.850387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEEIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.628908,
+                    31.851984
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEEIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.93602,
+                            37.37824
+                        ],
+                        [
+                            -5.937404,
+                            37.376927
+                        ],
+                        [
+                            -5.938659,
+                            37.375043
+                        ],
+                        [
+                            -5.939839,
+                            37.372852
+                        ],
+                        [
+                            -5.939109,
+                            37.372997
+                        ],
+                        [
+                            -5.93882,
+                            37.373125
+                        ],
+                        [
+                            -5.938208,
+                            37.372971
+                        ],
+                        [
+                            -5.937425,
+                            37.374557
+                        ],
+                        [
+                            -5.936642,
+                            37.376441
+                        ],
+                        [
+                            -5.93602,
+                            37.37824
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSVQYRMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/essvqyrmd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.937815,
+                    37.375139
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESSVQYRMD",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-18",
+                "url": "https://www.bic-code.org/facility-codes/essvqyrmd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

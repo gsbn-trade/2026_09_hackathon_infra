@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.960931,
+                            10.598254
+                        ],
+                        [
+                            -66.960818,
+                            10.596924
+                        ],
+                        [
+                            -66.959542,
+                            10.596944
+                        ],
+                        [
+                            -66.959518,
+                            10.596768
+                        ],
+                        [
+                            -66.959294,
+                            10.596602
+                        ],
+                        [
+                            -66.958743,
+                            10.596853
+                        ],
+                        [
+                            -66.958729,
+                            10.597046
+                        ],
+                        [
+                            -66.958588,
+                            10.597134
+                        ],
+                        [
+                            -66.958191,
+                            10.5973
+                        ],
+                        [
+                            -66.958114,
+                            10.597614
+                        ],
+                        [
+                            -66.959021,
+                            10.597854
+                        ],
+                        [
+                            -66.95897,
+                            10.597573
+                        ],
+                        [
+                            -66.959404,
+                            10.597495
+                        ],
+                        [
+                            -66.959704,
+                            10.597465
+                        ],
+                        [
+                            -66.959893,
+                            10.597766
+                        ],
+                        [
+                            -66.960931,
+                            10.598254
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGIRYK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/velagiryk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.959399,
+                    10.597365
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGIRYK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://www.bic-code.org/facility-codes/velagiryk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

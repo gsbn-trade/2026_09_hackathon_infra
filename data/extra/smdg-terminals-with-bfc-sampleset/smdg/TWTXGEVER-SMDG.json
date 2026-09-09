@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.514765,
+                            24.27205
+                        ],
+                        [
+                            120.512706,
+                            24.267206
+                        ],
+                        [
+                            120.517263,
+                            24.265562
+                        ],
+                        [
+                            120.519334,
+                            24.270426
+                        ],
+                        [
+                            120.514765,
+                            24.27205
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "TWTXGEVER",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-06",
+                "remarks": "addedberth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.51474,
+                            24.272059
+                        ],
+                        [
+                            120.51413,
+                            24.272319
+                        ],
+                        [
+                            120.512023,
+                            24.267545
+                        ],
+                        [
+                            120.512713,
+                            24.267222
+                        ],
+                        [
+                            120.51474,
+                            24.272059
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "TWTXGEVER",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-06",
+                "remarks": "addedberth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.515767,
+                    24.269459
+                ]
+            },
+            "properties": {
+                "code": "TWTXGEVER",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "addedberth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513669,
+                    24.270241
+                ]
+            },
+            "properties": {
+                "code": "TWTXGEVER",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "addedberth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

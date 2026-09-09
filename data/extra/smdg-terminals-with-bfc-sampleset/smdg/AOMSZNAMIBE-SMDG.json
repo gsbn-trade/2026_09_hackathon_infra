@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.12995,
+                            -15.19013
+                        ],
+                        [
+                            12.130347,
+                            -15.19114
+                        ],
+                        [
+                            12.130482,
+                            -15.191482
+                        ],
+                        [
+                            12.130626,
+                            -15.191701
+                        ],
+                        [
+                            12.130882,
+                            -15.191611
+                        ],
+                        [
+                            12.132067,
+                            -15.194235
+                        ],
+                        [
+                            12.133334,
+                            -15.196814
+                        ],
+                        [
+                            12.133491,
+                            -15.196795
+                        ],
+                        [
+                            12.13366,
+                            -15.196791
+                        ],
+                        [
+                            12.134087,
+                            -15.196989
+                        ],
+                        [
+                            12.130907,
+                            -15.189703
+                        ],
+                        [
+                            12.130767,
+                            -15.189751
+                        ],
+                        [
+                            12.12995,
+                            -15.19013
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZNAMIBE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.133241,
+                            -15.195038
+                        ],
+                        [
+                            12.133646,
+                            -15.194874
+                        ],
+                        [
+                            12.131265,
+                            -15.189565
+                        ],
+                        [
+                            12.130911,
+                            -15.189701
+                        ],
+                        [
+                            12.133241,
+                            -15.195038
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZNAMIBE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.131581,
+                    -15.192867
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZNAMIBE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.132461,
+                    -15.192843
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOMSZNAMIBE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-13",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

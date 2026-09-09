@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -87.1975,
+                            12.5346
+                        ],
+                        [
+                            -87.19722,
+                            12.534723
+                        ],
+                        [
+                            -87.1968,
+                            12.5346
+                        ],
+                        [
+                            -87.196453,
+                            12.535132
+                        ],
+                        [
+                            -87.196512,
+                            12.535275
+                        ],
+                        [
+                            -87.196524,
+                            12.535466
+                        ],
+                        [
+                            -87.196481,
+                            12.535491
+                        ],
+                        [
+                            -87.196517,
+                            12.535589
+                        ],
+                        [
+                            -87.196661,
+                            12.535708
+                        ],
+                        [
+                            -87.196965,
+                            12.535985
+                        ],
+                        [
+                            -87.197429,
+                            12.536061
+                        ],
+                        [
+                            -87.197472,
+                            12.53595
+                        ],
+                        [
+                            -87.197775,
+                            12.535394
+                        ],
+                        [
+                            -87.197991,
+                            12.535088
+                        ],
+                        [
+                            -87.19797,
+                            12.53502
+                        ],
+                        [
+                            -87.19789,
+                            12.534998
+                        ],
+                        [
+                            -87.197653,
+                            12.534837
+                        ],
+                        [
+                            -87.197653,
+                            12.534729
+                        ],
+                        [
+                            -87.1975,
+                            12.5346
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOPPYA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/nicioppya/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.197209,
+                    12.535223
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NICIOPPYA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/nicioppya/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

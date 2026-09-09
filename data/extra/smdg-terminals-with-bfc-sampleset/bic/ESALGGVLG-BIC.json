@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.472518,
+                            36.11104
+                        ],
+                        [
+                            -5.471597,
+                            36.111424
+                        ],
+                        [
+                            -5.471801,
+                            36.111742
+                        ],
+                        [
+                            -5.472723,
+                            36.111358
+                        ],
+                        [
+                            -5.47256,
+                            36.1111
+                        ],
+                        [
+                            -5.472518,
+                            36.11104
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGGVLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalggvlg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.472286,
+                    36.111284
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGGVLG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalggvlg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.47165,
+                            36.111756
+                        ],
+                        [
+                            -5.472703,
+                            36.111355
+                        ],
+                        [
+                            -5.472589,
+                            36.111091
+                        ],
+                        [
+                            -5.471483,
+                            36.111504
+                        ],
+                        [
+                            -5.47165,
+                            36.111756
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGDZFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalgdzfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -5.471622,
+                            36.111831
+                        ],
+                        [
+                            -5.471354,
+                            36.111427
+                        ],
+                        [
+                            -5.471276,
+                            36.111367
+                        ],
+                        [
+                            -5.471197,
+                            36.111336
+                        ],
+                        [
+                            -5.471086,
+                            36.111313
+                        ],
+                        [
+                            -5.470983,
+                            36.111322
+                        ],
+                        [
+                            -5.469961,
+                            36.11174
+                        ],
+                        [
+                            -5.470375,
+                            36.11233
+                        ],
+                        [
+                            -5.471622,
+                            36.111831
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGDZFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalgdzfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.472015,
+                    36.111492
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGDZFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalgdzfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.471053,
+                    36.111611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALGDZFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-25",
+                "url": "https://www.bic-code.org/facility-codes/esalgdzfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

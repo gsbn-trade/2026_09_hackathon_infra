@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.002717,
+                            5.268006
+                        ],
+                        [
+                            -4.001823,
+                            5.269008
+                        ],
+                        [
+                            -4.002364,
+                            5.26949
+                        ],
+                        [
+                            -4.003115,
+                            5.268654
+                        ],
+                        [
+                            -4.003459,
+                            5.268271
+                        ],
+                        [
+                            -4.003228,
+                            5.268065
+                        ],
+                        [
+                            -4.003201,
+                            5.268095
+                        ],
+                        [
+                            -4.003159,
+                            5.268057
+                        ],
+                        [
+                            -4.003081,
+                            5.267987
+                        ],
+                        [
+                            -4.003107,
+                            5.267957
+                        ],
+                        [
+                            -4.002916,
+                            5.267787
+                        ],
+                        [
+                            -4.002717,
+                            5.268006
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBOZJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbozj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.002907,
+                    5.268282
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBOZJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbozj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

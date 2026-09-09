@@ -1,0 +1,221 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            56.358645,
+                            25.186622
+                        ],
+                        [
+                            56.356176,
+                            25.186622
+                        ],
+                        [
+                            56.356194,
+                            25.178641
+                        ],
+                        [
+                            56.356787,
+                            25.178649
+                        ],
+                        [
+                            56.356782,
+                            25.177215
+                        ],
+                        [
+                            56.356286,
+                            25.177219
+                        ],
+                        [
+                            56.3563,
+                            25.176938
+                        ],
+                        [
+                            56.356395,
+                            25.176941
+                        ],
+                        [
+                            56.35639,
+                            25.176776
+                        ],
+                        [
+                            56.356102,
+                            25.176772
+                        ],
+                        [
+                            56.356148,
+                            25.175973
+                        ],
+                        [
+                            56.356475,
+                            25.175999
+                        ],
+                        [
+                            56.356458,
+                            25.174464
+                        ],
+                        [
+                            56.356801,
+                            25.174445
+                        ],
+                        [
+                            56.356824,
+                            25.174215
+                        ],
+                        [
+                            56.357082,
+                            25.174186
+                        ],
+                        [
+                            56.357094,
+                            25.171948
+                        ],
+                        [
+                            56.357385,
+                            25.171929
+                        ],
+                        [
+                            56.357384,
+                            25.170813
+                        ],
+                        [
+                            56.358307,
+                            25.170714
+                        ],
+                        [
+                            56.358355,
+                            25.171879
+                        ],
+                        [
+                            56.358973,
+                            25.171893
+                        ],
+                        [
+                            56.358922,
+                            25.180924
+                        ],
+                        [
+                            56.35862,
+                            25.180919
+                        ],
+                        [
+                            56.358645,
+                            25.186622
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRFJR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            56.358646,
+                            25.186625
+                        ],
+                        [
+                            56.358652,
+                            25.180931
+                        ],
+                        [
+                            56.35893,
+                            25.18092
+                        ],
+                        [
+                            56.358968,
+                            25.171891
+                        ],
+                        [
+                            56.35966,
+                            25.171819
+                        ],
+                        [
+                            56.359715,
+                            25.180886
+                        ],
+                        [
+                            56.359265,
+                            25.180904
+                        ],
+                        [
+                            56.359122,
+                            25.186625
+                        ],
+                        [
+                            56.358646,
+                            25.186625
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRFJR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    56.357181,
+                    25.176773
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRFJR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    56.359067,
+                    25.180803
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AEFJRFJR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

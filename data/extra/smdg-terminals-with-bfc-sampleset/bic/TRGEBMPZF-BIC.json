@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.534329,
+                            40.769572
+                        ],
+                        [
+                            29.533593,
+                            40.769193
+                        ],
+                        [
+                            29.533005,
+                            40.769115
+                        ],
+                        [
+                            29.532755,
+                            40.768747
+                        ],
+                        [
+                            29.533034,
+                            40.766385
+                        ],
+                        [
+                            29.533534,
+                            40.763578
+                        ],
+                        [
+                            29.534181,
+                            40.763678
+                        ],
+                        [
+                            29.533564,
+                            40.766564
+                        ],
+                        [
+                            29.534314,
+                            40.766697
+                        ],
+                        [
+                            29.538977,
+                            40.76487
+                        ],
+                        [
+                            29.5393,
+                            40.765282
+                        ],
+                        [
+                            29.539271,
+                            40.766118
+                        ],
+                        [
+                            29.537844,
+                            40.76672
+                        ],
+                        [
+                            29.536197,
+                            40.76809
+                        ],
+                        [
+                            29.536344,
+                            40.768224
+                        ],
+                        [
+                            29.538771,
+                            40.768023
+                        ],
+                        [
+                            29.538903,
+                            40.769237
+                        ],
+                        [
+                            29.53908,
+                            40.769549
+                        ],
+                        [
+                            29.537256,
+                            40.769427
+                        ],
+                        [
+                            29.534329,
+                            40.769572
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBMPZF",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebmpzf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.533771,
+                            40.774765
+                        ],
+                        [
+                            29.532636,
+                            40.774183
+                        ],
+                        [
+                            29.533158,
+                            40.773363
+                        ],
+                        [
+                            29.534112,
+                            40.773716
+                        ],
+                        [
+                            29.53545,
+                            40.774236
+                        ],
+                        [
+                            29.534616,
+                            40.775072
+                        ],
+                        [
+                            29.533771,
+                            40.774765
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBMPZF",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebmpzf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.535929,
+                    40.767432
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBMPZF",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebmpzf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.533931,
+                    40.7743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRGEBMPZF",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-14",
+                "url": "https://www.bic-code.org/facility-codes/trgebmpzf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

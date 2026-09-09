@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.785099,
+                            57.713407
+                        ],
+                        [
+                            11.785003,
+                            57.713456
+                        ],
+                        [
+                            11.784015,
+                            57.712707
+                        ],
+                        [
+                            11.785299,
+                            57.712243
+                        ],
+                        [
+                            11.786269,
+                            57.712946
+                        ],
+                        [
+                            11.785099,
+                            57.713407
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTFPIL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/segotfpil/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.785131,
+                    57.713028
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEGOTFPIL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/segotfpil/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

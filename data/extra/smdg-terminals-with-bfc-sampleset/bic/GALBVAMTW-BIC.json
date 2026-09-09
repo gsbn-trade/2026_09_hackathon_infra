@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.497405,
+                            0.302894
+                        ],
+                        [
+                            9.49929,
+                            0.302746
+                        ],
+                        [
+                            9.499318,
+                            0.30289
+                        ],
+                        [
+                            9.499379,
+                            0.302905
+                        ],
+                        [
+                            9.499441,
+                            0.303382
+                        ],
+                        [
+                            9.49986,
+                            0.303332
+                        ],
+                        [
+                            9.49997,
+                            0.303981
+                        ],
+                        [
+                            9.49778,
+                            0.304172
+                        ],
+                        [
+                            9.497791,
+                            0.304395
+                        ],
+                        [
+                            9.497711,
+                            0.304624
+                        ],
+                        [
+                            9.496875,
+                            0.304852
+                        ],
+                        [
+                            9.49669,
+                            0.305071
+                        ],
+                        [
+                            9.49714,
+                            0.30612
+                        ],
+                        [
+                            9.496195,
+                            0.30638
+                        ],
+                        [
+                            9.49429,
+                            0.306029
+                        ],
+                        [
+                            9.49417,
+                            0.305203
+                        ],
+                        [
+                            9.49587,
+                            0.304927
+                        ],
+                        [
+                            9.496224,
+                            0.30486
+                        ],
+                        [
+                            9.496731,
+                            0.304683
+                        ],
+                        [
+                            9.497631,
+                            0.304526
+                        ],
+                        [
+                            9.497584,
+                            0.303673
+                        ],
+                        [
+                            9.49766,
+                            0.303626
+                        ],
+                        [
+                            9.497405,
+                            0.302894
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVAMTW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvamtw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.497496,
+                    0.304268
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVAMTW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvamtw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

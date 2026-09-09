@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.993,
+                            22.4424
+                        ],
+                        [
+                            113.995,
+                            22.4428
+                        ],
+                        [
+                            113.994407,
+                            22.444043
+                        ],
+                        [
+                            113.992013,
+                            22.444461
+                        ],
+                        [
+                            113.992,
+                            22.4442
+                        ],
+                        [
+                            113.993,
+                            22.4424
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGCSYA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgcsya/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.993237,
+                    22.443384
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "HKHKGCSYA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-14",
+                "url": "https://www.bic-code.org/facility-codes/hkhkgcsya/"
+            }
+        }
+    ]
+}

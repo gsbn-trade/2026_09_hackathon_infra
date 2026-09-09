@@ -1,0 +1,91 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.953203,
+                            -2.082726
+                        ],
+                        [
+                            -79.954196,
+                            -2.083225
+                        ],
+                        [
+                            -79.954415,
+                            -2.083384
+                        ],
+                        [
+                            -79.95464,
+                            -2.083585
+                        ],
+                        [
+                            -79.954835,
+                            -2.083791
+                        ],
+                        [
+                            -79.954908,
+                            -2.083889
+                        ],
+                        [
+                            -79.954878,
+                            -2.08398
+                        ],
+                        [
+                            -79.95475,
+                            -2.084065
+                        ],
+                        [
+                            -79.952691,
+                            -2.085185
+                        ],
+                        [
+                            -79.951716,
+                            -2.085971
+                        ],
+                        [
+                            -79.951522,
+                            -2.085709
+                        ],
+                        [
+                            -79.950967,
+                            -2.085161
+                        ],
+                        [
+                            -79.953203,
+                            -2.082726
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEARTA",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyearta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.953533,
+                    -2.084107
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEARTA",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyearta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

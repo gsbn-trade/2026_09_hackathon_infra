@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.773974,
+                            42.102857
+                        ],
+                        [
+                            11.774194,
+                            42.102976
+                        ],
+                        [
+                            11.77462,
+                            42.103208
+                        ],
+                        [
+                            11.774659,
+                            42.103222
+                        ],
+                        [
+                            11.774692,
+                            42.10323
+                        ],
+                        [
+                            11.774747,
+                            42.103235
+                        ],
+                        [
+                            11.774799,
+                            42.103243
+                        ],
+                        [
+                            11.774838,
+                            42.103247
+                        ],
+                        [
+                            11.774877,
+                            42.103247
+                        ],
+                        [
+                            11.774899,
+                            42.103254
+                        ],
+                        [
+                            11.774965,
+                            42.103291
+                        ],
+                        [
+                            11.775251,
+                            42.103445
+                        ],
+                        [
+                            11.775494,
+                            42.103579
+                        ],
+                        [
+                            11.775795,
+                            42.103747
+                        ],
+                        [
+                            11.775949,
+                            42.103833
+                        ],
+                        [
+                            11.776663,
+                            42.103162
+                        ],
+                        [
+                            11.777162,
+                            42.102635
+                        ],
+                        [
+                            11.775223,
+                            42.101587
+                        ],
+                        [
+                            11.773974,
+                            42.102857
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVCFFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.775093,
+                    42.10315
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVCFFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.598201,
+                            60.2035
+                        ],
+                        [
+                            5.59753,
+                            60.203481
+                        ],
+                        [
+                            5.597878,
+                            60.20265
+                        ],
+                        [
+                            5.598197,
+                            60.202298
+                        ],
+                        [
+                            5.597836,
+                            60.20217
+                        ],
+                        [
+                            5.597853,
+                            60.20159
+                        ],
+                        [
+                            5.598339,
+                            60.201279
+                        ],
+                        [
+                            5.598933,
+                            60.201004
+                        ],
+                        [
+                            5.600425,
+                            60.20044
+                        ],
+                        [
+                            5.601869,
+                            60.199957
+                        ],
+                        [
+                            5.603984,
+                            60.200004
+                        ],
+                        [
+                            5.606074,
+                            60.200187
+                        ],
+                        [
+                            5.606128,
+                            60.200939
+                        ],
+                        [
+                            5.606497,
+                            60.201161
+                        ],
+                        [
+                            5.606777,
+                            60.201209
+                        ],
+                        [
+                            5.606865,
+                            60.201382
+                        ],
+                        [
+                            5.606873,
+                            60.20152
+                        ],
+                        [
+                            5.606546,
+                            60.201664
+                        ],
+                        [
+                            5.605817,
+                            60.201888
+                        ],
+                        [
+                            5.605111,
+                            60.201857
+                        ],
+                        [
+                            5.604645,
+                            60.201987
+                        ],
+                        [
+                            5.604334,
+                            60.201838
+                        ],
+                        [
+                            5.603568,
+                            60.202067
+                        ],
+                        [
+                            5.602754,
+                            60.202088
+                        ],
+                        [
+                            5.602048,
+                            60.20238
+                        ],
+                        [
+                            5.60136,
+                            60.202404
+                        ],
+                        [
+                            5.601174,
+                            60.202445
+                        ],
+                        [
+                            5.600906,
+                            60.203071
+                        ],
+                        [
+                            5.60085,
+                            60.203336
+                        ],
+                        [
+                            5.601091,
+                            60.203477
+                        ],
+                        [
+                            5.601151,
+                            60.203596
+                        ],
+                        [
+                            5.600997,
+                            60.203666
+                        ],
+                        [
+                            5.600629,
+                            60.203727
+                        ],
+                        [
+                            5.600249,
+                            60.20368
+                        ],
+                        [
+                            5.599972,
+                            60.203736
+                        ],
+                        [
+                            5.599894,
+                            60.203772
+                        ],
+                        [
+                            5.599875,
+                            60.203833
+                        ],
+                        [
+                            5.59879,
+                            60.203723
+                        ],
+                        [
+                            5.59877,
+                            60.203495
+                        ],
+                        [
+                            5.598201,
+                            60.2035
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFUSFUSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.598719,
+                            60.203706
+                        ],
+                        [
+                            5.599881,
+                            60.203829
+                        ],
+                        [
+                            5.599861,
+                            60.20396
+                        ],
+                        [
+                            5.598659,
+                            60.203814
+                        ],
+                        [
+                            5.598719,
+                            60.203706
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFUSFUSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.601725,
+                    60.2023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFUSFUSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.599168,
+                    60.203803
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOFUSFUSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

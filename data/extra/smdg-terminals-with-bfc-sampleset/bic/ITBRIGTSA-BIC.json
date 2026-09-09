@@ -1,0 +1,139 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.823258,
+                            41.125556
+                        ],
+                        [
+                            16.823524,
+                            41.126038
+                        ],
+                        [
+                            16.823662,
+                            41.12635
+                        ],
+                        [
+                            16.821367,
+                            41.12763
+                        ],
+                        [
+                            16.820398,
+                            41.128163
+                        ],
+                        [
+                            16.820108,
+                            41.128489
+                        ],
+                        [
+                            16.819669,
+                            41.129306
+                        ],
+                        [
+                            16.819218,
+                            41.12976
+                        ],
+                        [
+                            16.819001,
+                            41.129634
+                        ],
+                        [
+                            16.818514,
+                            41.130195
+                        ],
+                        [
+                            16.818405,
+                            41.130118
+                        ],
+                        [
+                            16.820275,
+                            41.126736
+                        ],
+                        [
+                            16.820489,
+                            41.126808
+                        ],
+                        [
+                            16.820587,
+                            41.126816
+                        ],
+                        [
+                            16.820623,
+                            41.126737
+                        ],
+                        [
+                            16.821393,
+                            41.126655
+                        ],
+                        [
+                            16.821483,
+                            41.127046
+                        ],
+                        [
+                            16.822728,
+                            41.126783
+                        ],
+                        [
+                            16.822619,
+                            41.126482
+                        ],
+                        [
+                            16.822442,
+                            41.126542
+                        ],
+                        [
+                            16.822267,
+                            41.126028
+                        ],
+                        [
+                            16.822365,
+                            41.126001
+                        ],
+                        [
+                            16.822336,
+                            41.125949
+                        ],
+                        [
+                            16.823258,
+                            41.125556
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIGTSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-30",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itbrigtsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.82125,
+                    41.127307
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIGTSA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-30",
+                "remarks": "Provided by C.I.S.Co",
+                "url": "https://www.bic-code.org/facility-codes/itbrigtsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

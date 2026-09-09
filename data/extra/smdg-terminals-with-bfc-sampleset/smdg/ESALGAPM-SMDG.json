@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.438156,
+                            36.133685
+                        ],
+                        [
+                            -5.436167,
+                            36.134877
+                        ],
+                        [
+                            -5.43555,
+                            36.148339
+                        ],
+                        [
+                            -5.438818,
+                            36.148434
+                        ],
+                        [
+                            -5.438822,
+                            36.148338
+                        ],
+                        [
+                            -5.440489,
+                            36.148383
+                        ],
+                        [
+                            -5.440784,
+                            36.148126
+                        ],
+                        [
+                            -5.440919,
+                            36.147639
+                        ],
+                        [
+                            -5.440942,
+                            36.147528
+                        ],
+                        [
+                            -5.440954,
+                            36.147416
+                        ],
+                        [
+                            -5.440951,
+                            36.147334
+                        ],
+                        [
+                            -5.440674,
+                            36.146595
+                        ],
+                        [
+                            -5.44057,
+                            36.146095
+                        ],
+                        [
+                            -5.440552,
+                            36.145851
+                        ],
+                        [
+                            -5.440561,
+                            36.145606
+                        ],
+                        [
+                            -5.440578,
+                            36.144616
+                        ],
+                        [
+                            -5.440613,
+                            36.143854
+                        ],
+                        [
+                            -5.440682,
+                            36.142388
+                        ],
+                        [
+                            -5.44083,
+                            36.139909
+                        ],
+                        [
+                            -5.440922,
+                            36.138315
+                        ],
+                        [
+                            -5.441079,
+                            36.135833
+                        ],
+                        [
+                            -5.441018,
+                            36.135217
+                        ],
+                        [
+                            -5.440457,
+                            36.135207
+                        ],
+                        [
+                            -5.440049,
+                            36.1352
+                        ],
+                        [
+                            -5.439749,
+                            36.135195
+                        ],
+                        [
+                            -5.439758,
+                            36.134984
+                        ],
+                        [
+                            -5.4389,
+                            36.134962
+                        ],
+                        [
+                            -5.438936,
+                            36.133892
+                        ],
+                        [
+                            -5.438357,
+                            36.133901
+                        ],
+                        [
+                            -5.438156,
+                            36.133685
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESALGAPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-10",
+                "remarks": "Top left corner of the pier - about 150m - is fenced off from the terminal. Check if this part belongs to the terminal or not.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.43815,
+                            36.133675
+                        ],
+                        [
+                            -5.437594,
+                            36.133096
+                        ],
+                        [
+                            -5.435201,
+                            36.134513
+                        ],
+                        [
+                            -5.434582,
+                            36.148993
+                        ],
+                        [
+                            -5.438804,
+                            36.149094
+                        ],
+                        [
+                            -5.438821,
+                            36.14844
+                        ],
+                        [
+                            -5.43554,
+                            36.148346
+                        ],
+                        [
+                            -5.436154,
+                            36.13487
+                        ],
+                        [
+                            -5.43815,
+                            36.133675
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "ESALGAPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-10",
+                "remarks": "Top left corner of the pier - about 150m - is fenced off from the terminal. Check if this part belongs to the terminal or not.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.439833,
+                    36.14138
+                ]
+            },
+            "properties": {
+                "code": "ESALGAPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-10",
+                "remarks": "Top left corner of the pier - about 150m - is fenced off from the terminal. Check if this part belongs to the terminal or not.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.437,
+                    36.140522
+                ]
+            },
+            "properties": {
+                "code": "ESALGAPM",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-10",
+                "remarks": "Top left corner of the pier - about 150m - is fenced off from the terminal. Check if this part belongs to the terminal or not.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

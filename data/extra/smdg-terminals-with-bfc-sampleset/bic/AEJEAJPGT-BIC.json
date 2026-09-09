@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.070028,
+                            24.840426
+                        ],
+                        [
+                            55.068761,
+                            24.839601
+                        ],
+                        [
+                            55.069277,
+                            24.838937
+                        ],
+                        [
+                            55.070603,
+                            24.83973
+                        ],
+                        [
+                            55.070028,
+                            24.840426
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "AEJEAJPGT",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-14",
+                "url": "https://www.bic-code.org/facility-codes/aejeajpgt/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.069739,
+                    24.839824
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "AEJEAJPGT",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-14",
+                "url": "https://www.bic-code.org/facility-codes/aejeajpgt/"
+            }
+        }
+    ]
+}

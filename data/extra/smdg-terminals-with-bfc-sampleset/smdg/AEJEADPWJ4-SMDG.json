@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.039301,
+                            25.033538
+                        ],
+                        [
+                            55.039316,
+                            25.033423
+                        ],
+                        [
+                            55.039349,
+                            25.033348
+                        ],
+                        [
+                            55.039395,
+                            25.033295
+                        ],
+                        [
+                            55.039831,
+                            25.032905
+                        ],
+                        [
+                            55.039864,
+                            25.032876
+                        ],
+                        [
+                            55.040109,
+                            25.032657
+                        ],
+                        [
+                            55.040154,
+                            25.032608
+                        ],
+                        [
+                            55.040214,
+                            25.032454
+                        ],
+                        [
+                            55.040662,
+                            25.031309
+                        ],
+                        [
+                            55.041075,
+                            25.030258
+                        ],
+                        [
+                            55.041299,
+                            25.029707
+                        ],
+                        [
+                            55.041359,
+                            25.029576
+                        ],
+                        [
+                            55.041416,
+                            25.029504
+                        ],
+                        [
+                            55.041488,
+                            25.029472
+                        ],
+                        [
+                            55.041788,
+                            25.029416
+                        ],
+                        [
+                            55.053798,
+                            25.031501
+                        ],
+                        [
+                            55.053887,
+                            25.03153
+                        ],
+                        [
+                            55.053889,
+                            25.031578
+                        ],
+                        [
+                            55.05389,
+                            25.031687
+                        ],
+                        [
+                            55.053854,
+                            25.031883
+                        ],
+                        [
+                            55.053781,
+                            25.032148
+                        ],
+                        [
+                            55.053717,
+                            25.032226
+                        ],
+                        [
+                            55.053601,
+                            25.032259
+                        ],
+                        [
+                            55.053475,
+                            25.032259
+                        ],
+                        [
+                            55.053356,
+                            25.032225
+                        ],
+                        [
+                            55.05296,
+                            25.032165
+                        ],
+                        [
+                            55.052896,
+                            25.03216
+                        ],
+                        [
+                            55.052875,
+                            25.032184
+                        ],
+                        [
+                            55.052791,
+                            25.032652
+                        ],
+                        [
+                            55.052076,
+                            25.03609
+                        ],
+                        [
+                            55.052048,
+                            25.036409
+                        ],
+                        [
+                            55.039766,
+                            25.034274
+                        ],
+                        [
+                            55.039692,
+                            25.034261
+                        ],
+                        [
+                            55.039637,
+                            25.034218
+                        ],
+                        [
+                            55.039615,
+                            25.034158
+                        ],
+                        [
+                            55.039662,
+                            25.033941
+                        ],
+                        [
+                            55.039679,
+                            25.033855
+                        ],
+                        [
+                            55.039653,
+                            25.033787
+                        ],
+                        [
+                            55.039595,
+                            25.033744
+                        ],
+                        [
+                            55.039456,
+                            25.033718
+                        ],
+                        [
+                            55.039368,
+                            25.033681
+                        ],
+                        [
+                            55.039313,
+                            25.033607
+                        ],
+                        [
+                            55.039301,
+                            25.033538
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.041495,
+                            25.029234
+                        ],
+                        [
+                            55.041617,
+                            25.028705
+                        ],
+                        [
+                            55.05404,
+                            25.030971
+                        ],
+                        [
+                            55.053918,
+                            25.031402
+                        ],
+                        [
+                            55.041495,
+                            25.029234
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.044869,
+                    25.032593
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.046513,
+                    25.029909
+                ]
+            },
+            "properties": {
+                "code": "AEJEADPWJ4",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.997554,
+                            -3.148135
+                        ],
+                        [
+                            -59.997918,
+                            -3.147605
+                        ],
+                        [
+                            -59.999016,
+                            -3.148432
+                        ],
+                        [
+                            -59.999045,
+                            -3.148557
+                        ],
+                        [
+                            -59.999634,
+                            -3.148681
+                        ],
+                        [
+                            -59.99914,
+                            -3.15034
+                        ],
+                        [
+                            -59.998971,
+                            -3.150938
+                        ],
+                        [
+                            -59.998646,
+                            -3.151471
+                        ],
+                        [
+                            -59.998282,
+                            -3.151815
+                        ],
+                        [
+                            -59.998217,
+                            -3.152198
+                        ],
+                        [
+                            -59.998108,
+                            -3.15306
+                        ],
+                        [
+                            -59.998507,
+                            -3.153673
+                        ],
+                        [
+                            -59.998292,
+                            -3.153772
+                        ],
+                        [
+                            -59.99932,
+                            -3.15569
+                        ],
+                        [
+                            -59.999498,
+                            -3.155768
+                        ],
+                        [
+                            -59.998048,
+                            -3.158716
+                        ],
+                        [
+                            -59.997199,
+                            -3.160295
+                        ],
+                        [
+                            -59.996915,
+                            -3.160736
+                        ],
+                        [
+                            -59.996789,
+                            -3.160668
+                        ],
+                        [
+                            -59.999231,
+                            -3.155795
+                        ],
+                        [
+                            -59.998188,
+                            -3.153812
+                        ],
+                        [
+                            -59.997879,
+                            -3.153977
+                        ],
+                        [
+                            -59.997527,
+                            -3.155352
+                        ],
+                        [
+                            -59.996549,
+                            -3.15514
+                        ],
+                        [
+                            -59.996677,
+                            -3.154639
+                        ],
+                        [
+                            -59.997971,
+                            -3.148842
+                        ],
+                        [
+                            -59.997554,
+                            -3.148135
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOSUPER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.999504,
+                            -3.155771
+                        ],
+                        [
+                            -59.999694,
+                            -3.155864
+                        ],
+                        [
+                            -59.998209,
+                            -3.158824
+                        ],
+                        [
+                            -59.997086,
+                            -3.16083
+                        ],
+                        [
+                            -59.996924,
+                            -3.160745
+                        ],
+                        [
+                            -59.997209,
+                            -3.160291
+                        ],
+                        [
+                            -59.999504,
+                            -3.155771
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOSUPER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.998173,
+                    -3.153194
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOSUPER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.998304,
+                    -3.158299
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRMAOSUPER",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

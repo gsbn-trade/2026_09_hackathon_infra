@@ -1,0 +1,625 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.214042,
+                            16.118196
+                        ],
+                        [
+                            108.214273,
+                            16.117923
+                        ],
+                        [
+                            108.215575,
+                            16.119007
+                        ],
+                        [
+                            108.215357,
+                            16.119273
+                        ],
+                        [
+                            108.214042,
+                            16.118196
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.210484,
+                            16.122132
+                        ],
+                        [
+                            108.210133,
+                            16.121862
+                        ],
+                        [
+                            108.212248,
+                            16.119354
+                        ],
+                        [
+                            108.214028,
+                            16.120776
+                        ],
+                        [
+                            108.213784,
+                            16.121072
+                        ],
+                        [
+                            108.212322,
+                            16.119929
+                        ],
+                        [
+                            108.210484,
+                            16.122132
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.214251,
+                            16.12062
+                        ],
+                        [
+                            108.212735,
+                            16.119402
+                        ],
+                        [
+                            108.212965,
+                            16.119131
+                        ],
+                        [
+                            108.214477,
+                            16.120342
+                        ],
+                        [
+                            108.214251,
+                            16.12062
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.216728,
+                            16.1167
+                        ],
+                        [
+                            108.215381,
+                            16.118303
+                        ],
+                        [
+                            108.215046,
+                            16.118039
+                        ],
+                        [
+                            108.2164,
+                            16.116423
+                        ],
+                        [
+                            108.216728,
+                            16.1167
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.219827,
+                            16.121077
+                        ],
+                        [
+                            108.219474,
+                            16.121684
+                        ],
+                        [
+                            108.219262,
+                            16.122155
+                        ],
+                        [
+                            108.21905,
+                            16.122283
+                        ],
+                        [
+                            108.217366,
+                            16.122125
+                        ],
+                        [
+                            108.215573,
+                            16.122121
+                        ],
+                        [
+                            108.214941,
+                            16.122142
+                        ],
+                        [
+                            108.214486,
+                            16.121981
+                        ],
+                        [
+                            108.214106,
+                            16.121782
+                        ],
+                        [
+                            108.213589,
+                            16.121374
+                        ],
+                        [
+                            108.213461,
+                            16.121366
+                        ],
+                        [
+                            108.213315,
+                            16.121489
+                        ],
+                        [
+                            108.213253,
+                            16.121637
+                        ],
+                        [
+                            108.21324,
+                            16.12266
+                        ],
+                        [
+                            108.212935,
+                            16.122656
+                        ],
+                        [
+                            108.212942,
+                            16.122491
+                        ],
+                        [
+                            108.212943,
+                            16.122225
+                        ],
+                        [
+                            108.212888,
+                            16.122005
+                        ],
+                        [
+                            108.212725,
+                            16.121657
+                        ],
+                        [
+                            108.212702,
+                            16.121386
+                        ],
+                        [
+                            108.212703,
+                            16.121277
+                        ],
+                        [
+                            108.212818,
+                            16.121223
+                        ],
+                        [
+                            108.213092,
+                            16.121237
+                        ],
+                        [
+                            108.21334,
+                            16.121097
+                        ],
+                        [
+                            108.212516,
+                            16.120458
+                        ],
+                        [
+                            108.212282,
+                            16.120489
+                        ],
+                        [
+                            108.210742,
+                            16.122328
+                        ],
+                        [
+                            108.210487,
+                            16.122133
+                        ],
+                        [
+                            108.212322,
+                            16.119937
+                        ],
+                        [
+                            108.213787,
+                            16.121084
+                        ],
+                        [
+                            108.213892,
+                            16.12107
+                        ],
+                        [
+                            108.214487,
+                            16.120347
+                        ],
+                        [
+                            108.212968,
+                            16.119128
+                        ],
+                        [
+                            108.213139,
+                            16.118922
+                        ],
+                        [
+                            108.214667,
+                            16.120126
+                        ],
+                        [
+                            108.215194,
+                            16.119481
+                        ],
+                        [
+                            108.213865,
+                            16.118412
+                        ],
+                        [
+                            108.214038,
+                            16.1182
+                        ],
+                        [
+                            108.21536,
+                            16.119278
+                        ],
+                        [
+                            108.215844,
+                            16.118687
+                        ],
+                        [
+                            108.215384,
+                            16.118305
+                        ],
+                        [
+                            108.216731,
+                            16.116702
+                        ],
+                        [
+                            108.216995,
+                            16.116925
+                        ],
+                        [
+                            108.21715,
+                            16.117054
+                        ],
+                        [
+                            108.217053,
+                            16.117308
+                        ],
+                        [
+                            108.217053,
+                            16.117554
+                        ],
+                        [
+                            108.217053,
+                            16.117673
+                        ],
+                        [
+                            108.217079,
+                            16.117847
+                        ],
+                        [
+                            108.217176,
+                            16.118004
+                        ],
+                        [
+                            108.21738,
+                            16.118204
+                        ],
+                        [
+                            108.218334,
+                            16.11893
+                        ],
+                        [
+                            108.220332,
+                            16.120478
+                        ],
+                        [
+                            108.219827,
+                            16.121077
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "5",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.214666,
+                            16.120116
+                        ],
+                        [
+                            108.213145,
+                            16.118914
+                        ],
+                        [
+                            108.213372,
+                            16.118647
+                        ],
+                        [
+                            108.214891,
+                            16.119834
+                        ],
+                        [
+                            108.214666,
+                            16.120116
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "6",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.214965,
+                            16.119747
+                        ],
+                        [
+                            108.213642,
+                            16.118684
+                        ],
+                        [
+                            108.213864,
+                            16.118415
+                        ],
+                        [
+                            108.215185,
+                            16.11948
+                        ],
+                        [
+                            108.214965,
+                            16.119747
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "7",
+                "category": "BERTH",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.214658,
+                    16.118519
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.211926,
+                    16.121037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.213736,
+                    16.120023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.216057,
+                    16.117233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.214965,
+                    16.120364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.214148,
+                    16.119525
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "6",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.214524,
+                    16.119215
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADDNT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "7",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Original BIC geofence provided by danangport.com. SMDG copied the geofence and added the berths. Berths to be confirmed by danangport.com",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

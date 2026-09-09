@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.502716,
+                            -22.950701
+                        ],
+                        [
+                            14.50242,
+                            -22.951006
+                        ],
+                        [
+                            14.50312,
+                            -22.951568
+                        ],
+                        [
+                            14.503485,
+                            -22.951322
+                        ],
+                        [
+                            14.502716,
+                            -22.950701
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBMANA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbmana/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.502891,
+                    -22.95106
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NAWVBMANA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-29",
+                "url": "https://www.bic-code.org/facility-codes/nawvbmana/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

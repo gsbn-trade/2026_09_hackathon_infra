@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.630308,
+                            13.106952
+                        ],
+                        [
+                            -59.62821,
+                            13.101137
+                        ],
+                        [
+                            -59.627789,
+                            13.101311
+                        ],
+                        [
+                            -59.627249,
+                            13.099839
+                        ],
+                        [
+                            -59.624503,
+                            13.0987
+                        ],
+                        [
+                            -59.624219,
+                            13.099357
+                        ],
+                        [
+                            -59.624682,
+                            13.100786
+                        ],
+                        [
+                            -59.624651,
+                            13.101025
+                        ],
+                        [
+                            -59.624511,
+                            13.102082
+                        ],
+                        [
+                            -59.625755,
+                            13.105409
+                        ],
+                        [
+                            -59.625927,
+                            13.106044
+                        ],
+                        [
+                            -59.627841,
+                            13.108722
+                        ],
+                        [
+                            -59.629743,
+                            13.10741
+                        ],
+                        [
+                            -59.629891,
+                            13.107456
+                        ],
+                        [
+                            -59.629971,
+                            13.107497
+                        ],
+                        [
+                            -59.630111,
+                            13.107529
+                        ],
+                        [
+                            -59.630227,
+                            13.107509
+                        ],
+                        [
+                            -59.630307,
+                            13.107493
+                        ],
+                        [
+                            -59.630342,
+                            13.107451
+                        ],
+                        [
+                            -59.630317,
+                            13.107351
+                        ],
+                        [
+                            -59.630425,
+                            13.107319
+                        ],
+                        [
+                            -59.630308,
+                            13.106952
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BBBGIBPI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.63049,
+                            13.107308
+                        ],
+                        [
+                            -59.631003,
+                            13.107155
+                        ],
+                        [
+                            -59.628776,
+                            13.101376
+                        ],
+                        [
+                            -59.628358,
+                            13.101412
+                        ],
+                        [
+                            -59.63049,
+                            13.107308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BBBGIBPI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.628059,
+                    13.104788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BBBGIBPI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.629823,
+                    13.104912
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BBBGIBPI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-21",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

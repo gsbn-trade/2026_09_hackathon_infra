@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.509129,
+                            -3.864774
+                        ],
+                        [
+                            -38.509724,
+                            -3.866482
+                        ],
+                        [
+                            -38.507997,
+                            -3.86722
+                        ],
+                        [
+                            -38.507477,
+                            -3.865508
+                        ],
+                        [
+                            -38.509129,
+                            -3.864774
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORLVJV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brforlvjv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.508691,
+                    -3.865752
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORLVJV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brforlvjv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

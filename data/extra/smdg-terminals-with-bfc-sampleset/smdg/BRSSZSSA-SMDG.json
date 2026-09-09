@@ -1,0 +1,241 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.289871,
+                            -23.966561
+                        ],
+                        [
+                            -46.289609,
+                            -23.966177
+                        ],
+                        [
+                            -46.28724,
+                            -23.965243
+                        ],
+                        [
+                            -46.287289,
+                            -23.964866
+                        ],
+                        [
+                            -46.286858,
+                            -23.964654
+                        ],
+                        [
+                            -46.288022,
+                            -23.963452
+                        ],
+                        [
+                            -46.289025,
+                            -23.963318
+                        ],
+                        [
+                            -46.289231,
+                            -23.963128
+                        ],
+                        [
+                            -46.288703,
+                            -23.96272
+                        ],
+                        [
+                            -46.290275,
+                            -23.961125
+                        ],
+                        [
+                            -46.289461,
+                            -23.960444
+                        ],
+                        [
+                            -46.289411,
+                            -23.960136
+                        ],
+                        [
+                            -46.288497,
+                            -23.959427
+                        ],
+                        [
+                            -46.288608,
+                            -23.959354
+                        ],
+                        [
+                            -46.288709,
+                            -23.959233
+                        ],
+                        [
+                            -46.290396,
+                            -23.957143
+                        ],
+                        [
+                            -46.290536,
+                            -23.957152
+                        ],
+                        [
+                            -46.29077,
+                            -23.957314
+                        ],
+                        [
+                            -46.291252,
+                            -23.957711
+                        ],
+                        [
+                            -46.291397,
+                            -23.957526
+                        ],
+                        [
+                            -46.291892,
+                            -23.957002
+                        ],
+                        [
+                            -46.292072,
+                            -23.957141
+                        ],
+                        [
+                            -46.292526,
+                            -23.956705
+                        ],
+                        [
+                            -46.292717,
+                            -23.956873
+                        ],
+                        [
+                            -46.29306,
+                            -23.957071
+                        ],
+                        [
+                            -46.296762,
+                            -23.960237
+                        ],
+                        [
+                            -46.297734,
+                            -23.959125
+                        ],
+                        [
+                            -46.298697,
+                            -23.95811
+                        ],
+                        [
+                            -46.300097,
+                            -23.956695
+                        ],
+                        [
+                            -46.300533,
+                            -23.957045
+                        ],
+                        [
+                            -46.299075,
+                            -23.958518
+                        ],
+                        [
+                            -46.290639,
+                            -23.967145
+                        ],
+                        [
+                            -46.290063,
+                            -23.966781
+                        ],
+                        [
+                            -46.289871,
+                            -23.966561
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZSSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-15",
+                "remarks": "The geofence suggestion encompasses the cont. terminal Tecon Santos Brasil and the vehicle terminal TEV. Check if the geofence should be separated.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.300539,
+                            -23.957055
+                        ],
+                        [
+                            -46.300983,
+                            -23.957451
+                        ],
+                        [
+                            -46.291166,
+                            -23.967566
+                        ],
+                        [
+                            -46.290645,
+                            -23.967149
+                        ],
+                        [
+                            -46.300539,
+                            -23.957055
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZSSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-05-15",
+                "remarks": "The geofence suggestion encompasses the cont. terminal Tecon Santos Brasil and the vehicle terminal TEV. Check if the geofence should be separated.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.291497,
+                    -23.960638
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZSSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-15",
+                "remarks": "The geofence suggestion encompasses the cont. terminal Tecon Santos Brasil and the vehicle terminal TEV. Check if the geofence should be separated.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.296774,
+                    -23.961255
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZSSA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-15",
+                "remarks": "The geofence suggestion encompasses the cont. terminal Tecon Santos Brasil and the vehicle terminal TEV. Check if the geofence should be separated.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

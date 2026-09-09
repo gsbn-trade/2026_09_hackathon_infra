@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            32.5316,
+                            -25.9426
+                        ],
+                        [
+                            32.5332,
+                            -25.9439
+                        ],
+                        [
+                            32.5348,
+                            -25.9455
+                        ],
+                        [
+                            32.5351,
+                            -25.9461
+                        ],
+                        [
+                            32.5368,
+                            -25.9477
+                        ],
+                        [
+                            32.5375,
+                            -25.9465
+                        ],
+                        [
+                            32.535,
+                            -25.944
+                        ],
+                        [
+                            32.5346,
+                            -25.9443
+                        ],
+                        [
+                            32.5334,
+                            -25.9427
+                        ],
+                        [
+                            32.5325,
+                            -25.9418
+                        ],
+                        [
+                            32.532,
+                            -25.9421
+                        ],
+                        [
+                            32.5316,
+                            -25.9426
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMPMSHFP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmpmshfp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.534008,
+                    -25.94415
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMPMSHFP",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmpmshfp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

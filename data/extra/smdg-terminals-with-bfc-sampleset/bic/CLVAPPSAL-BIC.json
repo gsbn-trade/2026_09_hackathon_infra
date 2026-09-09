@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.545623,
+                            -33.125028
+                        ],
+                        [
+                            -71.545742,
+                            -33.126099
+                        ],
+                        [
+                            -71.544283,
+                            -33.126224
+                        ],
+                        [
+                            -71.544077,
+                            -33.125701
+                        ],
+                        [
+                            -71.544155,
+                            -33.125613
+                        ],
+                        [
+                            -71.544544,
+                            -33.125107
+                        ],
+                        [
+                            -71.545623,
+                            -33.125028
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPPSAL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvappsal/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.544864,
+                    -33.125543
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPPSAL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvappsal/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

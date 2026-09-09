@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.307565,
+                            43.571705
+                        ],
+                        [
+                            10.308697,
+                            43.571321
+                        ],
+                        [
+                            10.308879,
+                            43.57172
+                        ],
+                        [
+                            10.308888,
+                            43.57172
+                        ],
+                        [
+                            10.308393,
+                            43.571809
+                        ],
+                        [
+                            10.308655,
+                            43.572185
+                        ],
+                        [
+                            10.30866,
+                            43.572241
+                        ],
+                        [
+                            10.308528,
+                            43.573003
+                        ],
+                        [
+                            10.308496,
+                            43.573528
+                        ],
+                        [
+                            10.308345,
+                            43.574695
+                        ],
+                        [
+                            10.308345,
+                            43.574772
+                        ],
+                        [
+                            10.30848,
+                            43.575473
+                        ],
+                        [
+                            10.30846,
+                            43.575675
+                        ],
+                        [
+                            10.308468,
+                            43.575715
+                        ],
+                        [
+                            10.308496,
+                            43.575758
+                        ],
+                        [
+                            10.308527,
+                            43.575795
+                        ],
+                        [
+                            10.308604,
+                            43.575862
+                        ],
+                        [
+                            10.308838,
+                            43.576096
+                        ],
+                        [
+                            10.308984,
+                            43.576203
+                        ],
+                        [
+                            10.309096,
+                            43.576138
+                        ],
+                        [
+                            10.309415,
+                            43.576362
+                        ],
+                        [
+                            10.309286,
+                            43.577163
+                        ],
+                        [
+                            10.309243,
+                            43.57722
+                        ],
+                        [
+                            10.309036,
+                            43.578652
+                        ],
+                        [
+                            10.306981,
+                            43.578491
+                        ],
+                        [
+                            10.306183,
+                            43.578393
+                        ],
+                        [
+                            10.306334,
+                            43.576505
+                        ],
+                        [
+                            10.30714,
+                            43.571901
+                        ],
+                        [
+                            10.307565,
+                            43.571705
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLOREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.306255,
+                            43.577603
+                        ],
+                        [
+                            10.305337,
+                            43.577584
+                        ],
+                        [
+                            10.306464,
+                            43.57177
+                        ],
+                        [
+                            10.307172,
+                            43.571827
+                        ],
+                        [
+                            10.306255,
+                            43.577603
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLOREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.308365,
+                    43.574752
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLOREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.306297,
+                    43.575277
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLOREN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

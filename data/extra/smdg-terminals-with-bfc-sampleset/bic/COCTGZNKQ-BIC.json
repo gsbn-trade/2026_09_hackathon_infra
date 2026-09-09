@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -75.505804,
+                            10.37119
+                        ],
+                        [
+                            -75.505973,
+                            10.370785
+                        ],
+                        [
+                            -75.504892,
+                            10.370727
+                        ],
+                        [
+                            -75.504325,
+                            10.370661
+                        ],
+                        [
+                            -75.503816,
+                            10.370634
+                        ],
+                        [
+                            -75.503773,
+                            10.370897
+                        ],
+                        [
+                            -75.5037,
+                            10.3712
+                        ],
+                        [
+                            -75.5043,
+                            10.3712
+                        ],
+                        [
+                            -75.5046,
+                            10.3712
+                        ],
+                        [
+                            -75.505804,
+                            10.37119
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGZNKQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/coctgznkq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.504699,
+                    10.370968
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "COCTGZNKQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/coctgznkq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.5183,
+                            45.5704
+                        ],
+                        [
+                            -73.517,
+                            45.5718
+                        ],
+                        [
+                            -73.5191,
+                            45.5725
+                        ],
+                        [
+                            -73.5198,
+                            45.5716
+                        ],
+                        [
+                            -73.5203,
+                            45.5711
+                        ],
+                        [
+                            -73.5192,
+                            45.5707
+                        ],
+                        [
+                            -73.5183,
+                            45.5704
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRHUNM",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrhunm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.518857,
+                    45.571214
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRHUNM",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2025-11-19",
+                "url": "https://www.bic-code.org/facility-codes/camtrhunm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.478769,
+                            -33.9058
+                        ],
+                        [
+                            18.4783,
+                            -33.9055
+                        ],
+                        [
+                            18.4777,
+                            -33.9062
+                        ],
+                        [
+                            18.476896,
+                            -33.907111
+                        ],
+                        [
+                            18.477407,
+                            -33.907433
+                        ],
+                        [
+                            18.4785,
+                            -33.9062
+                        ],
+                        [
+                            18.478769,
+                            -33.9058
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTBVFC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptbvfc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.478049,
+                    -33.906292
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTBVFC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/zacptbvfc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

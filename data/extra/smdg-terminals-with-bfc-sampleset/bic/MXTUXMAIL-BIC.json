@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -97.325384,
+                            20.961521
+                        ],
+                        [
+                            -97.325564,
+                            20.96176
+                        ],
+                        [
+                            -97.330775,
+                            20.960007
+                        ],
+                        [
+                            -97.33058,
+                            20.959726
+                        ],
+                        [
+                            -97.329602,
+                            20.957521
+                        ],
+                        [
+                            -97.32822,
+                            20.954529
+                        ],
+                        [
+                            -97.328116,
+                            20.954321
+                        ],
+                        [
+                            -97.328019,
+                            20.95437
+                        ],
+                        [
+                            -97.327779,
+                            20.954448
+                        ],
+                        [
+                            -97.325237,
+                            20.955432
+                        ],
+                        [
+                            -97.324325,
+                            20.955762
+                        ],
+                        [
+                            -97.323399,
+                            20.956147
+                        ],
+                        [
+                            -97.323317,
+                            20.956162
+                        ],
+                        [
+                            -97.32307,
+                            20.956276
+                        ],
+                        [
+                            -97.324643,
+                            20.959364
+                        ],
+                        [
+                            -97.325294,
+                            20.95939
+                        ],
+                        [
+                            -97.326475,
+                            20.959154
+                        ],
+                        [
+                            -97.327126,
+                            20.959151
+                        ],
+                        [
+                            -97.327647,
+                            20.959429
+                        ],
+                        [
+                            -97.328082,
+                            20.960481
+                        ],
+                        [
+                            -97.325384,
+                            20.961521
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXTUXMAIL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/mxtuxmail/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.326573,
+                    20.957927
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXTUXMAIL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/mxtuxmail/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

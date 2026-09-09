@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.249184,
+                            49.478905
+                        ],
+                        [
+                            0.247956,
+                            49.477981
+                        ],
+                        [
+                            0.247552,
+                            49.477605
+                        ],
+                        [
+                            0.249975,
+                            49.477409
+                        ],
+                        [
+                            0.252841,
+                            49.477121
+                        ],
+                        [
+                            0.25288,
+                            49.477398
+                        ],
+                        [
+                            0.252957,
+                            49.477729
+                        ],
+                        [
+                            0.253042,
+                            49.478207
+                        ],
+                        [
+                            0.252729,
+                            49.478231
+                        ],
+                        [
+                            0.252736,
+                            49.478402
+                        ],
+                        [
+                            0.250244,
+                            49.478704
+                        ],
+                        [
+                            0.250262,
+                            49.478875
+                        ],
+                        [
+                            0.249184,
+                            49.478905
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHARCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-21",
+                "url": "https://www.bic-code.org/facility-codes/frleharca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.250888,
+                    49.478113
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRLEHARCA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-21",
+                "url": "https://www.bic-code.org/facility-codes/frleharca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

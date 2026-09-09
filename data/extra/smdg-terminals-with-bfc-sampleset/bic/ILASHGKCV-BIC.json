@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.672141,
+                            31.820606
+                        ],
+                        [
+                            34.672132,
+                            31.819844
+                        ],
+                        [
+                            34.672466,
+                            31.819848
+                        ],
+                        [
+                            34.67248,
+                            31.819479
+                        ],
+                        [
+                            34.672007,
+                            31.819484
+                        ],
+                        [
+                            34.670995,
+                            31.819471
+                        ],
+                        [
+                            34.670656,
+                            31.819458
+                        ],
+                        [
+                            34.670576,
+                            31.819416
+                        ],
+                        [
+                            34.670571,
+                            31.819352
+                        ],
+                        [
+                            34.670442,
+                            31.817544
+                        ],
+                        [
+                            34.673148,
+                            31.817603
+                        ],
+                        [
+                            34.673208,
+                            31.820615
+                        ],
+                        [
+                            34.672141,
+                            31.820606
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHGKCV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/ilashgkcv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.671766,
+                    31.819487
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHGKCV",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://www.bic-code.org/facility-codes/ilashgkcv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

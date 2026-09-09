@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.563493,
+                            53.580105
+                        ],
+                        [
+                            8.562347,
+                            53.579646
+                        ],
+                        [
+                            8.560429,
+                            53.578982
+                        ],
+                        [
+                            8.560727,
+                            53.578744
+                        ],
+                        [
+                            8.561086,
+                            53.57866
+                        ],
+                        [
+                            8.561452,
+                            53.578535
+                        ],
+                        [
+                            8.561656,
+                            53.57841
+                        ],
+                        [
+                            8.561852,
+                            53.578346
+                        ],
+                        [
+                            8.562191,
+                            53.578112
+                        ],
+                        [
+                            8.562456,
+                            53.577798
+                        ],
+                        [
+                            8.562503,
+                            53.57773
+                        ],
+                        [
+                            8.562666,
+                            53.57721
+                        ],
+                        [
+                            8.5631,
+                            53.578217
+                        ],
+                        [
+                            8.563486,
+                            53.57901
+                        ],
+                        [
+                            8.56369,
+                            53.579449
+                        ],
+                        [
+                            8.564232,
+                            53.580596
+                        ],
+                        [
+                            8.563493,
+                            53.580105
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DEBRVATLA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-27",
+                "url": "https://www.bic-code.org/facility-codes/debrvatla/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.562403,
+                    53.578803
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "DEBRVATLA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-27",
+                "url": "https://www.bic-code.org/facility-codes/debrvatla/"
+            }
+        }
+    ]
+}

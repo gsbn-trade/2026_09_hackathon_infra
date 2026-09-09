@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -72.316174,
+                            18.570262
+                        ],
+                        [
+                            -72.315707,
+                            18.569634
+                        ],
+                        [
+                            -72.314615,
+                            18.570714
+                        ],
+                        [
+                            -72.31519,
+                            18.571278
+                        ],
+                        [
+                            -72.316174,
+                            18.570262
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFJMJW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/htlffjmjw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.315572,
+                    18.57043
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HTLFFJMJW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-09-11",
+                "url": "https://www.bic-code.org/facility-codes/htlffjmjw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

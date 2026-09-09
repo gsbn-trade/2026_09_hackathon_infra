@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.728912,
+                            56.013409
+                        ],
+                        [
+                            -3.729931,
+                            56.013875
+                        ],
+                        [
+                            -3.730736,
+                            56.013406
+                        ],
+                        [
+                            -3.731866,
+                            56.012865
+                        ],
+                        [
+                            -3.732996,
+                            56.012258
+                        ],
+                        [
+                            -3.731978,
+                            56.011747
+                        ],
+                        [
+                            -3.730804,
+                            56.012472
+                        ],
+                        [
+                            -3.729865,
+                            56.012862
+                        ],
+                        [
+                            -3.728912,
+                            56.013409
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGISOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgisoa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.730667,
+                    56.012923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBGRGISOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-04-29",
+                "url": "https://www.bic-code.org/facility-codes/gbgrgisoa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

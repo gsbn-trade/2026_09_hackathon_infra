@@ -1,0 +1,379 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.792937,
+                            10.759173
+                        ],
+                        [
+                            106.800214,
+                            10.762645
+                        ],
+                        [
+                            106.801088,
+                            10.764226
+                        ],
+                        [
+                            106.800815,
+                            10.764408
+                        ],
+                        [
+                            106.800736,
+                            10.764254
+                        ],
+                        [
+                            106.800634,
+                            10.764231
+                        ],
+                        [
+                            106.800473,
+                            10.764354
+                        ],
+                        [
+                            106.800801,
+                            10.765049
+                        ],
+                        [
+                            106.800732,
+                            10.765176
+                        ],
+                        [
+                            106.801018,
+                            10.766089
+                        ],
+                        [
+                            106.800297,
+                            10.766907
+                        ],
+                        [
+                            106.800218,
+                            10.767143
+                        ],
+                        [
+                            106.800727,
+                            10.767643
+                        ],
+                        [
+                            106.801055,
+                            10.767352
+                        ],
+                        [
+                            106.800916,
+                            10.767211
+                        ],
+                        [
+                            106.80155,
+                            10.766557
+                        ],
+                        [
+                            106.801832,
+                            10.766607
+                        ],
+                        [
+                            106.802068,
+                            10.76712
+                        ],
+                        [
+                            106.801915,
+                            10.767384
+                        ],
+                        [
+                            106.801508,
+                            10.767638
+                        ],
+                        [
+                            106.800167,
+                            10.768065
+                        ],
+                        [
+                            106.799908,
+                            10.76708
+                        ],
+                        [
+                            106.799127,
+                            10.767189
+                        ],
+                        [
+                            106.798185,
+                            10.768266
+                        ],
+                        [
+                            106.797762,
+                            10.768742
+                        ],
+                        [
+                            106.797485,
+                            10.769029
+                        ],
+                        [
+                            106.798365,
+                            10.771946
+                        ],
+                        [
+                            106.797584,
+                            10.772387
+                        ],
+                        [
+                            106.794143,
+                            10.768579
+                        ],
+                        [
+                            106.793421,
+                            10.768134
+                        ],
+                        [
+                            106.789759,
+                            10.766512
+                        ],
+                        [
+                            106.789597,
+                            10.766299
+                        ],
+                        [
+                            106.789624,
+                            10.766003
+                        ],
+                        [
+                            106.790216,
+                            10.764881
+                        ],
+                        [
+                            106.788043,
+                            10.763795
+                        ],
+                        [
+                            106.7882,
+                            10.763464
+                        ],
+                        [
+                            106.788667,
+                            10.763632
+                        ],
+                        [
+                            106.788806,
+                            10.763418
+                        ],
+                        [
+                            106.790378,
+                            10.764276
+                        ],
+                        [
+                            106.792937,
+                            10.759173
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-05-23",
+                "remarks": "Facility name should be Terminal B of Tan Cang Cat Lai terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.786761,
+                            10.760112
+                        ],
+                        [
+                            106.78708,
+                            10.759821
+                        ],
+                        [
+                            106.787924,
+                            10.760233
+                        ],
+                        [
+                            106.788769,
+                            10.758787
+                        ],
+                        [
+                            106.789955,
+                            10.758349
+                        ],
+                        [
+                            106.790267,
+                            10.758527
+                        ],
+                        [
+                            106.790505,
+                            10.758157
+                        ],
+                        [
+                            106.790488,
+                            10.758089
+                        ],
+                        [
+                            106.790193,
+                            10.757957
+                        ],
+                        [
+                            106.790349,
+                            10.757698
+                        ],
+                        [
+                            106.792964,
+                            10.75915
+                        ],
+                        [
+                            106.79268,
+                            10.759739
+                        ],
+                        [
+                            106.791318,
+                            10.762524
+                        ],
+                        [
+                            106.786761,
+                            10.760112
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-05-23",
+                "remarks": "Facility name should be Terminal A of Tan Cang Cat Lai terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79034,
+                            10.757671
+                        ],
+                        [
+                            106.790446,
+                            10.757472
+                        ],
+                        [
+                            106.800439,
+                            10.762322
+                        ],
+                        [
+                            106.801322,
+                            10.764143
+                        ],
+                        [
+                            106.801092,
+                            10.764219
+                        ],
+                        [
+                            106.800226,
+                            10.762627
+                        ],
+                        [
+                            106.797963,
+                            10.761537
+                        ],
+                        [
+                            106.796032,
+                            10.76063
+                        ],
+                        [
+                            106.791458,
+                            10.758292
+                        ],
+                        [
+                            106.79034,
+                            10.757671
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-05-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.797098,
+                    10.766051
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "remarks": "Facility name should be Terminal B of Tan Cang Cat Lai terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.789715,
+                    10.759233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "remarks": "Facility name should be Terminal A of Tan Cang Cat Lai terminal",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.795966,
+                    10.760658
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNSGNCATLAI",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-05-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

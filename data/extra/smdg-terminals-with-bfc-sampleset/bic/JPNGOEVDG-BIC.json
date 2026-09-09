@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            136.846364,
+                            35.037782
+                        ],
+                        [
+                            136.84742,
+                            35.036536
+                        ],
+                        [
+                            136.847868,
+                            35.036797
+                        ],
+                        [
+                            136.847149,
+                            35.037681
+                        ],
+                        [
+                            136.84683,
+                            35.038065
+                        ],
+                        [
+                            136.846364,
+                            35.037782
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOEVDG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngoevdg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.846999,
+                    35.037441
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPNGOEVDG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-12",
+                "url": "https://www.bic-code.org/facility-codes/jpngoevdg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

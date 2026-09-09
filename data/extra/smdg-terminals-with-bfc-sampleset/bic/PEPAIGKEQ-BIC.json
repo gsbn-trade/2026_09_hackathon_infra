@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.065574,
+                            -5.066187
+                        ],
+                        [
+                            -81.069951,
+                            -5.070045
+                        ],
+                        [
+                            -81.068331,
+                            -5.072033
+                        ],
+                        [
+                            -81.063868,
+                            -5.068143
+                        ],
+                        [
+                            -81.065574,
+                            -5.066187
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIGKEQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaigkeq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.064147,
+                            -5.068709
+                        ],
+                        [
+                            -81.068213,
+                            -5.072215
+                        ],
+                        [
+                            -81.067355,
+                            -5.073241
+                        ],
+                        [
+                            -81.063771,
+                            -5.071061
+                        ],
+                        [
+                            -81.063288,
+                            -5.070612
+                        ],
+                        [
+                            -81.062945,
+                            -5.070131
+                        ],
+                        [
+                            -81.064147,
+                            -5.068709
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIGKEQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaigkeq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.06666,
+                    -5.068519
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIGKEQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaigkeq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.064838,
+                    -5.070668
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAIGKEQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepaigkeq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

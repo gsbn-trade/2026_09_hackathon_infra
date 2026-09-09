@@ -1,0 +1,153 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.753042,
+                            25.148261
+                        ],
+                        [
+                            121.74946,
+                            25.146496
+                        ],
+                        [
+                            121.749881,
+                            25.145752
+                        ],
+                        [
+                            121.749895,
+                            25.144814
+                        ],
+                        [
+                            121.75363,
+                            25.145079
+                        ],
+                        [
+                            121.753214,
+                            25.148139
+                        ],
+                        [
+                            121.753042,
+                            25.148261
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELWUDU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.750346,
+                            25.146974
+                        ],
+                        [
+                            121.753041,
+                            25.148273
+                        ],
+                        [
+                            121.753231,
+                            25.14816
+                        ],
+                        [
+                            121.75363,
+                            25.145074
+                        ],
+                        [
+                            121.753972,
+                            25.145092
+                        ],
+                        [
+                            121.753686,
+                            25.148501
+                        ],
+                        [
+                            121.753227,
+                            25.148719
+                        ],
+                        [
+                            121.750527,
+                            25.147441
+                        ],
+                        [
+                            121.749586,
+                            25.148978
+                        ],
+                        [
+                            121.749266,
+                            25.148804
+                        ],
+                        [
+                            121.750346,
+                            25.146974
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELWUDU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.751738,
+                    25.146686
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELWUDU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.751896,
+                    25.147545
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKELWUDU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

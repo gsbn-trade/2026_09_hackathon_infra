@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.47055,
+                            51.505502
+                        ],
+                        [
+                            0.470865,
+                            51.504291
+                        ],
+                        [
+                            0.471701,
+                            51.504393
+                        ],
+                        [
+                            0.472509,
+                            51.50476
+                        ],
+                        [
+                            0.475193,
+                            51.505016
+                        ],
+                        [
+                            0.475234,
+                            51.505212
+                        ],
+                        [
+                            0.474973,
+                            51.506004
+                        ],
+                        [
+                            0.47055,
+                            51.505502
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLGPWWGF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/gblgpwwgf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.472697,
+                    51.505085
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLGPWWGF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://www.bic-code.org/facility-codes/gblgpwwgf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

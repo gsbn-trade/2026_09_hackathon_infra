@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -106.399981,
+                            23.307293
+                        ],
+                        [
+                            -106.400537,
+                            23.307383
+                        ],
+                        [
+                            -106.400966,
+                            23.307347
+                        ],
+                        [
+                            -106.401338,
+                            23.307182
+                        ],
+                        [
+                            -106.401639,
+                            23.306919
+                        ],
+                        [
+                            -106.401771,
+                            23.306634
+                        ],
+                        [
+                            -106.401856,
+                            23.306368
+                        ],
+                        [
+                            -106.40092,
+                            23.306242
+                        ],
+                        [
+                            -106.400139,
+                            23.306149
+                        ],
+                        [
+                            -106.40009,
+                            23.306595
+                        ],
+                        [
+                            -106.399981,
+                            23.307293
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXMZTCPFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/mxmztcpfa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.400838,
+                    23.306855
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXMZTCPFA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-27",
+                "url": "https://www.bic-code.org/facility-codes/mxmztcpfa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

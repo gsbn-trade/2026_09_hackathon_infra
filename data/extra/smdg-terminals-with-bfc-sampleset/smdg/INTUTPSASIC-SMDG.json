@@ -1,0 +1,151 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.215905,
+                            8.750928,
+                            0
+                        ],
+                        [
+                            78.21298,
+                            8.749473,
+                            0
+                        ],
+                        [
+                            78.21398,
+                            8.747385,
+                            0
+                        ],
+                        [
+                            78.216267,
+                            8.748524,
+                            0
+                        ],
+                        [
+                            78.216551,
+                            8.747953,
+                            0
+                        ],
+                        [
+                            78.21681,
+                            8.748084,
+                            0
+                        ],
+                        [
+                            78.217,
+                            8.747733,
+                            0
+                        ],
+                        [
+                            78.217387,
+                            8.747922,
+                            0
+                        ],
+                        [
+                            78.215905,
+                            8.750928,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTPSASIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            78.21591,
+                            8.750931,
+                            0
+                        ],
+                        [
+                            78.217396,
+                            8.747928,
+                            0
+                        ],
+                        [
+                            78.217975,
+                            8.748225,
+                            0
+                        ],
+                        [
+                            78.216477,
+                            8.751241,
+                            0
+                        ],
+                        [
+                            78.21591,
+                            8.750931,
+                            0
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTPSASIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.215865,
+                    8.74877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTPSASIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.216734,
+                    8.749851
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INTUTPSASIC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

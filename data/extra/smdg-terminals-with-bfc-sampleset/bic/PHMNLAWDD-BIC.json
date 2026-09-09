@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.96172,
+                            14.638722
+                        ],
+                        [
+                            120.961795,
+                            14.638881
+                        ],
+                        [
+                            120.962176,
+                            14.639318
+                        ],
+                        [
+                            120.962513,
+                            14.639633
+                        ],
+                        [
+                            120.962673,
+                            14.639898
+                        ],
+                        [
+                            120.962741,
+                            14.64003
+                        ],
+                        [
+                            120.962747,
+                            14.640261
+                        ],
+                        [
+                            120.96273,
+                            14.640419
+                        ],
+                        [
+                            120.962677,
+                            14.64062
+                        ],
+                        [
+                            120.962599,
+                            14.640802
+                        ],
+                        [
+                            120.962385,
+                            14.64104
+                        ],
+                        [
+                            120.959842,
+                            14.63851
+                        ],
+                        [
+                            120.959404,
+                            14.638049
+                        ],
+                        [
+                            120.959932,
+                            14.637627
+                        ],
+                        [
+                            120.960731,
+                            14.63843
+                        ],
+                        [
+                            120.961052,
+                            14.638155
+                        ],
+                        [
+                            120.96113,
+                            14.63835
+                        ],
+                        [
+                            120.961487,
+                            14.638208
+                        ],
+                        [
+                            120.961588,
+                            14.638503
+                        ],
+                        [
+                            120.96172,
+                            14.638722
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLAWDD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phmnlawdd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.961682,
+                    14.639209
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLAWDD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-05-30",
+                "url": "https://www.bic-code.org/facility-codes/phmnlawdd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

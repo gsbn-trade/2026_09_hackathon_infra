@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -81.05609,
+                            -5.052205
+                        ],
+                        [
+                            -81.057356,
+                            -5.056063
+                        ],
+                        [
+                            -81.053633,
+                            -5.057442
+                        ],
+                        [
+                            -81.052227,
+                            -5.053627
+                        ],
+                        [
+                            -81.05609,
+                            -5.052205
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAINEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepainepa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.055079,
+                    -5.054308
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PEPAINEPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-15",
+                "url": "https://www.bic-code.org/facility-codes/pepainepa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

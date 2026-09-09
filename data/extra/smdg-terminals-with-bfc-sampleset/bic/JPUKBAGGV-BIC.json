@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.276945,
+                            34.682341
+                        ],
+                        [
+                            135.277267,
+                            34.680216
+                        ],
+                        [
+                            135.280837,
+                            34.680649
+                        ],
+                        [
+                            135.280384,
+                            34.682661
+                        ],
+                        [
+                            135.276945,
+                            34.682341
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBAGGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-10",
+                "url": "https://www.bic-code.org/facility-codes/jpukbaggv/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.278476,
+                    34.681642
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPUKBAGGV",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-10",
+                "url": "https://www.bic-code.org/facility-codes/jpukbaggv/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

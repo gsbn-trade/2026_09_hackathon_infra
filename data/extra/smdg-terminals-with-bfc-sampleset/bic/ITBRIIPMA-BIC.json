@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.866532,
+                            41.143247
+                        ],
+                        [
+                            16.867178,
+                            41.143214
+                        ],
+                        [
+                            16.867867,
+                            41.143105
+                        ],
+                        [
+                            16.86975,
+                            41.142513
+                        ],
+                        [
+                            16.87099,
+                            41.141867
+                        ],
+                        [
+                            16.871677,
+                            41.141212
+                        ],
+                        [
+                            16.872286,
+                            41.140461
+                        ],
+                        [
+                            16.872452,
+                            41.140019
+                        ],
+                        [
+                            16.872589,
+                            41.139462
+                        ],
+                        [
+                            16.872608,
+                            41.138726
+                        ],
+                        [
+                            16.87253,
+                            41.137993
+                        ],
+                        [
+                            16.872411,
+                            41.135898
+                        ],
+                        [
+                            16.872407,
+                            41.135612
+                        ],
+                        [
+                            16.87095,
+                            41.135649
+                        ],
+                        [
+                            16.870983,
+                            41.136178
+                        ],
+                        [
+                            16.871208,
+                            41.139784
+                        ],
+                        [
+                            16.868755,
+                            41.141585
+                        ],
+                        [
+                            16.867492,
+                            41.142517
+                        ],
+                        [
+                            16.86689,
+                            41.142938
+                        ],
+                        [
+                            16.866532,
+                            41.143247
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIIPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/itbriipma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.865795,
+                            41.140275
+                        ],
+                        [
+                            16.865584,
+                            41.137685
+                        ],
+                        [
+                            16.865657,
+                            41.137062
+                        ],
+                        [
+                            16.865639,
+                            41.136667
+                        ],
+                        [
+                            16.860931,
+                            41.136861
+                        ],
+                        [
+                            16.860996,
+                            41.137782
+                        ],
+                        [
+                            16.863956,
+                            41.137658
+                        ],
+                        [
+                            16.864158,
+                            41.140344
+                        ],
+                        [
+                            16.865795,
+                            41.140275
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIIPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/itbriipma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.870204,
+                    41.140261
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIIPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/itbriipma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.864279,
+                    41.13829
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITBRIIPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-21",
+                "url": "https://www.bic-code.org/facility-codes/itbriipma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

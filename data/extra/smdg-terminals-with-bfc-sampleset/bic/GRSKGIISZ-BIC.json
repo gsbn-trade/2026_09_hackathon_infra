@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.869953,
+                            40.647501
+                        ],
+                        [
+                            22.869155,
+                            40.64753
+                        ],
+                        [
+                            22.868243,
+                            40.646765
+                        ],
+                        [
+                            22.868275,
+                            40.646175
+                        ],
+                        [
+                            22.870118,
+                            40.646172
+                        ],
+                        [
+                            22.870197,
+                            40.646142
+                        ],
+                        [
+                            22.870316,
+                            40.646189
+                        ],
+                        [
+                            22.870572,
+                            40.646059
+                        ],
+                        [
+                            22.871132,
+                            40.646197
+                        ],
+                        [
+                            22.871658,
+                            40.646355
+                        ],
+                        [
+                            22.871666,
+                            40.646407
+                        ],
+                        [
+                            22.871596,
+                            40.646462
+                        ],
+                        [
+                            22.871426,
+                            40.646533
+                        ],
+                        [
+                            22.871559,
+                            40.646595
+                        ],
+                        [
+                            22.87171,
+                            40.646523
+                        ],
+                        [
+                            22.871777,
+                            40.646628
+                        ],
+                        [
+                            22.871771,
+                            40.646896
+                        ],
+                        [
+                            22.869972,
+                            40.646872
+                        ],
+                        [
+                            22.869953,
+                            40.647501
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GRSKGIISZ",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-07",
+                "url": "https://www.bic-code.org/facility-codes/grskgiisz/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.870582,
+                    40.646605
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GRSKGIISZ",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-07",
+                "url": "https://www.bic-code.org/facility-codes/grskgiisz/"
+            }
+        }
+    ]
+}

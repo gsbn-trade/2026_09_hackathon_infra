@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -43.207421,
+                            -22.875088
+                        ],
+                        [
+                            -43.208907,
+                            -22.873937
+                        ],
+                        [
+                            -43.209481,
+                            -22.874552
+                        ],
+                        [
+                            -43.209967,
+                            -22.87495
+                        ],
+                        [
+                            -43.210267,
+                            -22.875301
+                        ],
+                        [
+                            -43.210325,
+                            -22.875416
+                        ],
+                        [
+                            -43.21035,
+                            -22.875987
+                        ],
+                        [
+                            -43.210395,
+                            -22.876168
+                        ],
+                        [
+                            -43.210605,
+                            -22.876626
+                        ],
+                        [
+                            -43.210654,
+                            -22.876814
+                        ],
+                        [
+                            -43.210663,
+                            -22.877068
+                        ],
+                        [
+                            -43.210639,
+                            -22.877671
+                        ],
+                        [
+                            -43.210632,
+                            -22.877826
+                        ],
+                        [
+                            -43.21064,
+                            -22.877995
+                        ],
+                        [
+                            -43.21067,
+                            -22.878152
+                        ],
+                        [
+                            -43.21082,
+                            -22.878736
+                        ],
+                        [
+                            -43.212562,
+                            -22.880591
+                        ],
+                        [
+                            -43.211427,
+                            -22.88148
+                        ],
+                        [
+                            -43.210976,
+                            -22.881825
+                        ],
+                        [
+                            -43.205882,
+                            -22.876368
+                        ],
+                        [
+                            -43.207421,
+                            -22.875088
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOMROP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "remarks": "www.multiterminais.com.br shows a geofence which includes an area to the west of the elevated road. MultiRio CT berth was extended from 533m to 800m.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -43.20587,
+                            -22.876374
+                        ],
+                        [
+                            -43.21096,
+                            -22.881838
+                        ],
+                        [
+                            -43.210536,
+                            -22.882164
+                        ],
+                        [
+                            -43.205501,
+                            -22.876691
+                        ],
+                        [
+                            -43.20587,
+                            -22.876374
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOMROP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-19",
+                "remarks": "www.multiterminais.com.br shows a geofence which includes an area to the west of the elevated road. MultiRio CT berth was extended from 533m to 800m.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.210034,
+                    -22.87703
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOMROP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "remarks": "www.multiterminais.com.br shows a geofence which includes an area to the west of the elevated road. MultiRio CT berth was extended from 533m to 800m.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.207747,
+                    -22.878688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOMROP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "remarks": "www.multiterminais.com.br shows a geofence which includes an area to the west of the elevated road. MultiRio CT berth was extended from 533m to 800m.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

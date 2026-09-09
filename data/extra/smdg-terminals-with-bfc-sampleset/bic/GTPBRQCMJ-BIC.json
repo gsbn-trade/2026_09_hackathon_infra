@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.575744,
+                            15.688006
+                        ],
+                        [
+                            -88.576756,
+                            15.688022
+                        ],
+                        [
+                            -88.577177,
+                            15.688554
+                        ],
+                        [
+                            -88.577659,
+                            15.688238
+                        ],
+                        [
+                            -88.577894,
+                            15.687659
+                        ],
+                        [
+                            -88.577911,
+                            15.687569
+                        ],
+                        [
+                            -88.576915,
+                            15.687364
+                        ],
+                        [
+                            -88.57715,
+                            15.686479
+                        ],
+                        [
+                            -88.57599,
+                            15.686316
+                        ],
+                        [
+                            -88.575804,
+                            15.687158
+                        ],
+                        [
+                            -88.575744,
+                            15.688006
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRQCMJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtpbrqcmj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.576795,
+                    15.687579
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTPBRQCMJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtpbrqcmj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.887797,
+                            13.061817
+                        ],
+                        [
+                            100.889627,
+                            13.059009
+                        ],
+                        [
+                            100.891872,
+                            13.060426
+                        ],
+                        [
+                            100.890154,
+                            13.063154
+                        ],
+                        [
+                            100.887797,
+                            13.061817
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHTIPS4",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.887561,
+                            13.062236
+                        ],
+                        [
+                            100.887756,
+                            13.061885
+                        ],
+                        [
+                            100.890126,
+                            13.063195
+                        ],
+                        [
+                            100.889807,
+                            13.063586
+                        ],
+                        [
+                            100.887561,
+                            13.062236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "THLCHTIPS4",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.889449,
+                    13.061245
+                ]
+            },
+            "properties": {
+                "code": "THLCHTIPS4",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.888562,
+                    13.062628
+                ]
+            },
+            "properties": {
+                "code": "THLCHTIPS4",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-28",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

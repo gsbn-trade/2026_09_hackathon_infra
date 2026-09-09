@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.312313,
+                            43.573525
+                        ],
+                        [
+                            10.312464,
+                            43.573397
+                        ],
+                        [
+                            10.312941,
+                            43.573315
+                        ],
+                        [
+                            10.313142,
+                            43.573325
+                        ],
+                        [
+                            10.313519,
+                            43.57428
+                        ],
+                        [
+                            10.313689,
+                            43.574289
+                        ],
+                        [
+                            10.313708,
+                            43.574826
+                        ],
+                        [
+                            10.313425,
+                            43.576787
+                        ],
+                        [
+                            10.313214,
+                            43.5783
+                        ],
+                        [
+                            10.31313,
+                            43.578685
+                        ],
+                        [
+                            10.312577,
+                            43.578639
+                        ],
+                        [
+                            10.312602,
+                            43.577866
+                        ],
+                        [
+                            10.312602,
+                            43.577556
+                        ],
+                        [
+                            10.311748,
+                            43.576783
+                        ],
+                        [
+                            10.312313,
+                            43.573525
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itlivlora/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            10.308676,
+                            43.571251
+                        ],
+                        [
+                            10.308777,
+                            43.571542
+                        ],
+                        [
+                            10.307822,
+                            43.571834
+                        ],
+                        [
+                            10.306993,
+                            43.578386
+                        ],
+                        [
+                            10.306792,
+                            43.579455
+                        ],
+                        [
+                            10.306239,
+                            43.579433
+                        ],
+                        [
+                            10.30639,
+                            43.578368
+                        ],
+                        [
+                            10.306089,
+                            43.578331
+                        ],
+                        [
+                            10.30629,
+                            43.576985
+                        ],
+                        [
+                            10.307068,
+                            43.571834
+                        ],
+                        [
+                            10.308676,
+                            43.571251
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itlivlora/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.312892,
+                    43.575673
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itlivlora/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.307256,
+                    43.575334
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITLIVLORA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itlivlora/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

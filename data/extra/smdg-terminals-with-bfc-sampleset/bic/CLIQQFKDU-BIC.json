@@ -1,0 +1,97 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.13617,
+                            -20.191213
+                        ],
+                        [
+                            -70.136199,
+                            -20.190789
+                        ],
+                        [
+                            -70.136157,
+                            -20.190378
+                        ],
+                        [
+                            -70.136212,
+                            -20.190237
+                        ],
+                        [
+                            -70.136482,
+                            -20.189884
+                        ],
+                        [
+                            -70.136783,
+                            -20.189705
+                        ],
+                        [
+                            -70.136951,
+                            -20.189631
+                        ],
+                        [
+                            -70.13701,
+                            -20.189511
+                        ],
+                        [
+                            -70.137071,
+                            -20.18926
+                        ],
+                        [
+                            -70.137424,
+                            -20.189347
+                        ],
+                        [
+                            -70.13722,
+                            -20.190326
+                        ],
+                        [
+                            -70.137215,
+                            -20.191179
+                        ],
+                        [
+                            -70.136397,
+                            -20.191217
+                        ],
+                        [
+                            -70.13617,
+                            -20.191213
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQFKDU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/cliqqfkdu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.136676,
+                    -20.190278
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQFKDU",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/cliqqfkdu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

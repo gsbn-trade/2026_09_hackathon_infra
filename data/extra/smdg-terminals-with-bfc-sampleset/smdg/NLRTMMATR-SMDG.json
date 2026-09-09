@@ -1,0 +1,381 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.395887,
+                            51.881071
+                        ],
+                        [
+                            4.398801,
+                            51.8813
+                        ],
+                        [
+                            4.399331,
+                            51.88135
+                        ],
+                        [
+                            4.402403,
+                            51.8816
+                        ],
+                        [
+                            4.406216,
+                            51.881913
+                        ],
+                        [
+                            4.405922,
+                            51.883392
+                        ],
+                        [
+                            4.405477,
+                            51.883818
+                        ],
+                        [
+                            4.405472,
+                            51.883921
+                        ],
+                        [
+                            4.405703,
+                            51.883953
+                        ],
+                        [
+                            4.405861,
+                            51.883789
+                        ],
+                        [
+                            4.405876,
+                            51.883628
+                        ],
+                        [
+                            4.406185,
+                            51.883664
+                        ],
+                        [
+                            4.406129,
+                            51.883983
+                        ],
+                        [
+                            4.405903,
+                            51.884243
+                        ],
+                        [
+                            4.405242,
+                            51.884201
+                        ],
+                        [
+                            4.404799,
+                            51.884723
+                        ],
+                        [
+                            4.404682,
+                            51.884825
+                        ],
+                        [
+                            4.404812,
+                            51.884897
+                        ],
+                        [
+                            4.403384,
+                            51.885977
+                        ],
+                        [
+                            4.403051,
+                            51.885895
+                        ],
+                        [
+                            4.402576,
+                            51.8864
+                        ],
+                        [
+                            4.402127,
+                            51.88626
+                        ],
+                        [
+                            4.402005,
+                            51.886422
+                        ],
+                        [
+                            4.400196,
+                            51.885856
+                        ],
+                        [
+                            4.400048,
+                            51.885985
+                        ],
+                        [
+                            4.398762,
+                            51.88553
+                        ],
+                        [
+                            4.398583,
+                            51.885711
+                        ],
+                        [
+                            4.397305,
+                            51.885282
+                        ],
+                        [
+                            4.396966,
+                            51.884596
+                        ],
+                        [
+                            4.396859,
+                            51.884446
+                        ],
+                        [
+                            4.396906,
+                            51.884262
+                        ],
+                        [
+                            4.39911,
+                            51.884416
+                        ],
+                        [
+                            4.399139,
+                            51.8843
+                        ],
+                        [
+                            4.399827,
+                            51.884349
+                        ],
+                        [
+                            4.400097,
+                            51.884353
+                        ],
+                        [
+                            4.40008,
+                            51.884276
+                        ],
+                        [
+                            4.398348,
+                            51.884128
+                        ],
+                        [
+                            4.398287,
+                            51.884143
+                        ],
+                        [
+                            4.39761,
+                            51.88409
+                        ],
+                        [
+                            4.397063,
+                            51.883956
+                        ],
+                        [
+                            4.396634,
+                            51.883789
+                        ],
+                        [
+                            4.396088,
+                            51.883461
+                        ],
+                        [
+                            4.395438,
+                            51.883182
+                        ],
+                        [
+                            4.395552,
+                            51.882627
+                        ],
+                        [
+                            4.394856,
+                            51.882554
+                        ],
+                        [
+                            4.394692,
+                            51.882778
+                        ],
+                        [
+                            4.392146,
+                            51.881954
+                        ],
+                        [
+                            4.391868,
+                            51.881835
+                        ],
+                        [
+                            4.391645,
+                            51.881702
+                        ],
+                        [
+                            4.39148,
+                            51.881564
+                        ],
+                        [
+                            4.39133,
+                            51.881402
+                        ],
+                        [
+                            4.391107,
+                            51.881088
+                        ],
+                        [
+                            4.390841,
+                            51.880662
+                        ],
+                        [
+                            4.395887,
+                            51.881071
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.406223,
+                            51.881897
+                        ],
+                        [
+                            4.393132,
+                            51.880837
+                        ],
+                        [
+                            4.39319,
+                            51.880544
+                        ],
+                        [
+                            4.406282,
+                            51.881608
+                        ],
+                        [
+                            4.406223,
+                            51.881897
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.405886,
+                            51.883584
+                        ],
+                        [
+                            4.406237,
+                            51.881898
+                        ],
+                        [
+                            4.406614,
+                            51.881933
+                        ],
+                        [
+                            4.406244,
+                            51.883623
+                        ],
+                        [
+                            4.405886,
+                            51.883584
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399492,
+                    51.883714
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40101,
+                    51.881357
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406173,
+                    51.882924
+                ]
+            },
+            "properties": {
+                "code": "NLRTMMATR",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2023-11-29",
+                "remarks": "httpscity-terminal.nlnlhome",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

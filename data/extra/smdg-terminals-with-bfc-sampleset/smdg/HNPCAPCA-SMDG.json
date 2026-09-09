@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -85.968249,
+                            16.00842
+                        ],
+                        [
+                            -85.972179,
+                            16.00742
+                        ],
+                        [
+                            -85.971556,
+                            16.004796
+                        ],
+                        [
+                            -85.970855,
+                            16.004984
+                        ],
+                        [
+                            -85.970768,
+                            16.004687
+                        ],
+                        [
+                            -85.968697,
+                            16.005232
+                        ],
+                        [
+                            -85.968836,
+                            16.005653
+                        ],
+                        [
+                            -85.967605,
+                            16.005969
+                        ],
+                        [
+                            -85.968249,
+                            16.00842
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCAPCA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -85.970768,
+                            16.004677
+                        ],
+                        [
+                            -85.970711,
+                            16.004464
+                        ],
+                        [
+                            -85.96862,
+                            16.005029
+                        ],
+                        [
+                            -85.968702,
+                            16.005246
+                        ],
+                        [
+                            -85.970768,
+                            16.004677
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCAPCA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.969666,
+                    16.006176
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCAPCA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.969914,
+                    16.004819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "HNPCAPCA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-07-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.00508,
+                            5.278019
+                        ],
+                        [
+                            -4.005126,
+                            5.278027
+                        ],
+                        [
+                            -4.005126,
+                            5.276985
+                        ],
+                        [
+                            -4.005786,
+                            5.276977
+                        ],
+                        [
+                            -4.005799,
+                            5.276494
+                        ],
+                        [
+                            -4.004504,
+                            5.276529
+                        ],
+                        [
+                            -4.004541,
+                            5.277837
+                        ],
+                        [
+                            -4.004603,
+                            5.277837
+                        ],
+                        [
+                            -4.004616,
+                            5.277931
+                        ],
+                        [
+                            -4.004681,
+                            5.277936
+                        ],
+                        [
+                            -4.004684,
+                            5.277976
+                        ],
+                        [
+                            -4.00508,
+                            5.278019
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBMOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbmoa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.004969,
+                    5.277547
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJBMOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjbmoa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

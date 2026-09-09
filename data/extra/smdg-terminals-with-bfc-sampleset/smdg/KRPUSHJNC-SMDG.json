@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.785533,
+                            35.081667
+                        ],
+                        [
+                            128.784806,
+                            35.082261
+                        ],
+                        [
+                            128.784361,
+                            35.081953
+                        ],
+                        [
+                            128.785304,
+                            35.081163
+                        ],
+                        [
+                            128.78529,
+                            35.077595
+                        ],
+                        [
+                            128.797304,
+                            35.077563
+                        ],
+                        [
+                            128.797255,
+                            35.081667
+                        ],
+                        [
+                            128.791428,
+                            35.081683
+                        ],
+                        [
+                            128.785533,
+                            35.081667
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSHJNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.785286,
+                            35.077526
+                        ],
+                        [
+                            128.785256,
+                            35.077069
+                        ],
+                        [
+                            128.797317,
+                            35.076901
+                        ],
+                        [
+                            128.797305,
+                            35.077556
+                        ],
+                        [
+                            128.785286,
+                            35.077526
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSHJNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.788535,
+                    35.080802
+                ]
+            },
+            "properties": {
+                "code": "KRPUSHJNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.79009,
+                    35.077316
+                ]
+            },
+            "properties": {
+                "code": "KRPUSHJNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-15",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

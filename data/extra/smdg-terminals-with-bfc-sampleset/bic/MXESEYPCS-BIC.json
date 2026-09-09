@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.71074,
+                            31.906167
+                        ],
+                        [
+                            -116.711186,
+                            31.906234
+                        ],
+                        [
+                            -116.711348,
+                            31.905619
+                        ],
+                        [
+                            -116.710927,
+                            31.90553
+                        ],
+                        [
+                            -116.711055,
+                            31.905049
+                        ],
+                        [
+                            -116.710113,
+                            31.904873
+                        ],
+                        [
+                            -116.709951,
+                            31.905654
+                        ],
+                        [
+                            -116.710233,
+                            31.905728
+                        ],
+                        [
+                            -116.71021,
+                            31.905868
+                        ],
+                        [
+                            -116.710267,
+                            31.905874
+                        ],
+                        [
+                            -116.710236,
+                            31.905957
+                        ],
+                        [
+                            -116.71077,
+                            31.90604
+                        ],
+                        [
+                            -116.71074,
+                            31.906167
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEYPCS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseypcs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.710598,
+                    31.905751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEYPCS",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseypcs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

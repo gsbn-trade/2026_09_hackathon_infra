@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.92396,
+                            -37.808885
+                        ],
+                        [
+                            144.916087,
+                            -37.808048
+                        ],
+                        [
+                            144.916087,
+                            -37.808277
+                        ],
+                        [
+                            144.916284,
+                            -37.808355
+                        ],
+                        [
+                            144.916341,
+                            -37.809008
+                        ],
+                        [
+                            144.916305,
+                            -37.809371
+                        ],
+                        [
+                            144.917054,
+                            -37.809655
+                        ],
+                        [
+                            144.923847,
+                            -37.810308
+                        ],
+                        [
+                            144.92396,
+                            -37.808885
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELBUNX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelbunx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.918881,
+                    -37.808977
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUMELBUNX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aumelbunx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

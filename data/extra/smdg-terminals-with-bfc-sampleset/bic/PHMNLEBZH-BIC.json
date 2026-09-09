@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.958392,
+                            14.622832
+                        ],
+                        [
+                            120.958344,
+                            14.621933
+                        ],
+                        [
+                            120.95975,
+                            14.621823
+                        ],
+                        [
+                            120.959836,
+                            14.622744
+                        ],
+                        [
+                            120.958392,
+                            14.622832
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLEBZH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-06-06",
+                "url": "https://www.bic-code.org/facility-codes/phmnlebzh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.958943,
+                    14.622433
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLEBZH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-06-06",
+                "url": "https://www.bic-code.org/facility-codes/phmnlebzh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

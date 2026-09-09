@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.819468,
+                            37.981328
+                        ],
+                        [
+                            -8.818684,
+                            37.981334
+                        ],
+                        [
+                            -8.81872,
+                            37.982303
+                        ],
+                        [
+                            -8.81948,
+                            37.9823
+                        ],
+                        [
+                            -8.819468,
+                            37.981328
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIEUPFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptsieupfe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -8.817512,
+                            37.980837
+                        ],
+                        [
+                            -8.817627,
+                            37.980827
+                        ],
+                        [
+                            -8.817685,
+                            37.979904
+                        ],
+                        [
+                            -8.814282,
+                            37.979868
+                        ],
+                        [
+                            -8.814302,
+                            37.980832
+                        ],
+                        [
+                            -8.817512,
+                            37.980837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIEUPFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptsieupfe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.819164,
+                    37.981719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIEUPFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptsieupfe/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.816487,
+                    37.980517
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTSIEUPFE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-01",
+                "url": "https://www.bic-code.org/facility-codes/ptsieupfe/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

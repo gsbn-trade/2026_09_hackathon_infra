@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.526026,
+                            45.556922
+                        ],
+                        [
+                            -73.527593,
+                            45.551772
+                        ],
+                        [
+                            -73.528384,
+                            45.550249
+                        ],
+                        [
+                            -73.531069,
+                            45.547066
+                        ],
+                        [
+                            -73.531645,
+                            45.546109
+                        ],
+                        [
+                            -73.528977,
+                            45.54687
+                        ],
+                        [
+                            -73.521776,
+                            45.555423
+                        ],
+                        [
+                            -73.523835,
+                            45.556392
+                        ],
+                        [
+                            -73.525054,
+                            45.556772
+                        ],
+                        [
+                            -73.526026,
+                            45.556922
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRVIAU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -73.521655,
+                            45.555395
+                        ],
+                        [
+                            -73.528983,
+                            45.54683
+                        ],
+                        [
+                            -73.527605,
+                            45.547139
+                        ],
+                        [
+                            -73.52058,
+                            45.555029
+                        ],
+                        [
+                            -73.521655,
+                            45.555395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRVIAU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.527038,
+                    45.55245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRVIAU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.524096,
+                    45.551958
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAMTRVIAU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

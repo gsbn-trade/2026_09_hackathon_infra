@@ -1,0 +1,141 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -104.267963,
+                            19.109308
+                        ],
+                        [
+                            -104.26913,
+                            19.107773
+                        ],
+                        [
+                            -104.267215,
+                            19.106336
+                        ],
+                        [
+                            -104.26698,
+                            19.106637
+                        ],
+                        [
+                            -104.266801,
+                            19.106832
+                        ],
+                        [
+                            -104.26653,
+                            19.107062
+                        ],
+                        [
+                            -104.267175,
+                            19.107498
+                        ],
+                        [
+                            -104.266578,
+                            19.108473
+                        ],
+                        [
+                            -104.267963,
+                            19.109308
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLODMZG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Apporouval",
+                "url": "https://www.bic-code.org/facility-codes/mxzlodmzg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -104.2674,
+                            19.106701
+                        ],
+                        [
+                            -104.26734,
+                            19.106774
+                        ],
+                        [
+                            -104.267068,
+                            19.106531
+                        ],
+                        [
+                            -104.267126,
+                            19.106472
+                        ],
+                        [
+                            -104.2674,
+                            19.106701
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLODMZG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Apporouval",
+                "url": "https://www.bic-code.org/facility-codes/mxzlodmzg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.267371,
+                    19.107692
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLODMZG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Apporouval",
+                "url": "https://www.bic-code.org/facility-codes/mxzlodmzg/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.267267,
+                    19.106636
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXZLODMZG",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Apporouval",
+                "url": "https://www.bic-code.org/facility-codes/mxzlodmzg/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

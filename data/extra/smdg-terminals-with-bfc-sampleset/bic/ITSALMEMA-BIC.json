@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.760427,
+                            40.689716
+                        ],
+                        [
+                            14.760835,
+                            40.689735
+                        ],
+                        [
+                            14.761034,
+                            40.689788
+                        ],
+                        [
+                            14.761443,
+                            40.689786
+                        ],
+                        [
+                            14.761275,
+                            40.690146
+                        ],
+                        [
+                            14.760516,
+                            40.690626
+                        ],
+                        [
+                            14.760175,
+                            40.690727
+                        ],
+                        [
+                            14.760084,
+                            40.690653
+                        ],
+                        [
+                            14.760422,
+                            40.69034
+                        ],
+                        [
+                            14.760427,
+                            40.689716
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITSALMEMA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itsalmema/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.760664,
+                    40.690123
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITSALMEMA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itsalmema/"
+            }
+        }
+    ]
+}

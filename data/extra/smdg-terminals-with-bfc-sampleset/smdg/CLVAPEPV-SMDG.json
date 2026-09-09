@@ -1,0 +1,265 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.626752,
+                            -33.037779
+                        ],
+                        [
+                            -71.627201,
+                            -33.037996
+                        ],
+                        [
+                            -71.626044,
+                            -33.038966
+                        ],
+                        [
+                            -71.62549,
+                            -33.03943
+                        ],
+                        [
+                            -71.625395,
+                            -33.039366
+                        ],
+                        [
+                            -71.625696,
+                            -33.038674
+                        ],
+                        [
+                            -71.625236,
+                            -33.036587
+                        ],
+                        [
+                            -71.62595,
+                            -33.035667
+                        ],
+                        [
+                            -71.62608,
+                            -33.035638
+                        ],
+                        [
+                            -71.626752,
+                            -33.037779
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.625229,
+                            -33.036585
+                        ],
+                        [
+                            -71.625689,
+                            -33.038692
+                        ],
+                        [
+                            -71.625508,
+                            -33.038709
+                        ],
+                        [
+                            -71.625019,
+                            -33.03665
+                        ],
+                        [
+                            -71.625229,
+                            -33.036585
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.626087,
+                            -33.035645
+                        ],
+                        [
+                            -71.626311,
+                            -33.03558
+                        ],
+                        [
+                            -71.626869,
+                            -33.037692
+                        ],
+                        [
+                            -71.626757,
+                            -33.03778
+                        ],
+                        [
+                            -71.626087,
+                            -33.035645
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.626063,
+                            -33.035588
+                        ],
+                        [
+                            -71.625915,
+                            -33.035678
+                        ],
+                        [
+                            -71.625238,
+                            -33.036573
+                        ],
+                        [
+                            -71.625013,
+                            -33.036644
+                        ],
+                        [
+                            -71.624965,
+                            -33.036521
+                        ],
+                        [
+                            -71.625935,
+                            -33.035427
+                        ],
+                        [
+                            -71.626063,
+                            -33.035588
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.62606,
+                    -33.037788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.625335,
+                    -33.037444
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.626422,
+                    -33.036468
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.625599,
+                    -33.036003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPEPV",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

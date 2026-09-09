@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.960592,
+                            40.351691
+                        ],
+                        [
+                            27.959656,
+                            40.350791
+                        ],
+                        [
+                            27.96136,
+                            40.350332
+                        ],
+                        [
+                            27.962267,
+                            40.351327
+                        ],
+                        [
+                            27.964341,
+                            40.353769
+                        ],
+                        [
+                            27.963014,
+                            40.354465
+                        ],
+                        [
+                            27.960592,
+                            40.351691
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMOZRM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trbdmozrm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.961689,
+                    40.352009
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRBDMOZRM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-22",
+                "url": "https://www.bic-code.org/facility-codes/trbdmozrm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

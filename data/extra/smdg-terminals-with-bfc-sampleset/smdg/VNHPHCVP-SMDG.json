@@ -1,0 +1,181 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.724352,
+                            20.863312
+                        ],
+                        [
+                            106.723691,
+                            20.862581
+                        ],
+                        [
+                            106.723725,
+                            20.8624
+                        ],
+                        [
+                            106.724004,
+                            20.862479
+                        ],
+                        [
+                            106.724556,
+                            20.862129
+                        ],
+                        [
+                            106.723479,
+                            20.860765
+                        ],
+                        [
+                            106.727132,
+                            20.858422
+                        ],
+                        [
+                            106.728223,
+                            20.857985
+                        ],
+                        [
+                            106.729664,
+                            20.857087
+                        ],
+                        [
+                            106.730436,
+                            20.856582
+                        ],
+                        [
+                            106.731896,
+                            20.858161
+                        ],
+                        [
+                            106.731568,
+                            20.858356
+                        ],
+                        [
+                            106.731692,
+                            20.858541
+                        ],
+                        [
+                            106.727521,
+                            20.860952
+                        ],
+                        [
+                            106.725187,
+                            20.863037
+                        ],
+                        [
+                            106.725109,
+                            20.862933
+                        ],
+                        [
+                            106.72489,
+                            20.863
+                        ],
+                        [
+                            106.724352,
+                            20.863312
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCVP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.72519,
+                            20.863041
+                        ],
+                        [
+                            106.72755,
+                            20.860954
+                        ],
+                        [
+                            106.731694,
+                            20.858549
+                        ],
+                        [
+                            106.731903,
+                            20.858858
+                        ],
+                        [
+                            106.727768,
+                            20.861255
+                        ],
+                        [
+                            106.725426,
+                            20.863335
+                        ],
+                        [
+                            106.72519,
+                            20.863041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCVP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.726749,
+                    20.860669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCVP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.727817,
+                    20.86129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHCVP",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

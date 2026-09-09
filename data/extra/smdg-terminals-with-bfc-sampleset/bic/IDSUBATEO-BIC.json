@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            112.656706,
+                            -7.220774
+                        ],
+                        [
+                            112.656123,
+                            -7.220151
+                        ],
+                        [
+                            112.657341,
+                            -7.220077
+                        ],
+                        [
+                            112.65856,
+                            -7.219922
+                        ],
+                        [
+                            112.659941,
+                            -7.219109
+                        ],
+                        [
+                            112.661156,
+                            -7.218359
+                        ],
+                        [
+                            112.66242,
+                            -7.217864
+                        ],
+                        [
+                            112.663548,
+                            -7.21737
+                        ],
+                        [
+                            112.663695,
+                            -7.217936
+                        ],
+                        [
+                            112.661184,
+                            -7.218898
+                        ],
+                        [
+                            112.660621,
+                            -7.219231
+                        ],
+                        [
+                            112.660162,
+                            -7.219848
+                        ],
+                        [
+                            112.658956,
+                            -7.220423
+                        ],
+                        [
+                            112.65725,
+                            -7.221094
+                        ],
+                        [
+                            112.656706,
+                            -7.220774
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "IDSUBATEO",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/idsubateo/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.659625,
+                    -7.219455
+                ]
+            },
+            "properties": {
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "code": "IDSUBATEO",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/idsubateo/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.135746,
+                            62.47041
+                        ],
+                        [
+                            6.136049,
+                            62.469764
+                        ],
+                        [
+                            6.134849,
+                            62.469564
+                        ],
+                        [
+                            6.135629,
+                            62.468708
+                        ],
+                        [
+                            6.135525,
+                            62.468611
+                        ],
+                        [
+                            6.139242,
+                            62.468094
+                        ],
+                        [
+                            6.139709,
+                            62.468568
+                        ],
+                        [
+                            6.139639,
+                            62.469872
+                        ],
+                        [
+                            6.135909,
+                            62.470432
+                        ],
+                        [
+                            6.135746,
+                            62.47041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESNAKO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/noaesnako/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.136804,
+                    62.469443
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOAESNAKO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "url": "https://www.bic-code.org/facility-codes/noaesnako/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

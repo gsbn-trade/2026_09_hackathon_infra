@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.546016,
+                            -33.1281
+                        ],
+                        [
+                            -71.546113,
+                            -33.128886
+                        ],
+                        [
+                            -71.544852,
+                            -33.129075
+                        ],
+                        [
+                            -71.544694,
+                            -33.128205
+                        ],
+                        [
+                            -71.546016,
+                            -33.1281
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPGQYY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvapgqyy/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.545538,
+                    -33.128473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPGQYY",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/clvapgqyy/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

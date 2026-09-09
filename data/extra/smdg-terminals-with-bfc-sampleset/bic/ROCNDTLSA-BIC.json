@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.654517,
+                            44.090241
+                        ],
+                        [
+                            28.654441,
+                            44.089221
+                        ],
+                        [
+                            28.655375,
+                            44.089196
+                        ],
+                        [
+                            28.65548,
+                            44.089652
+                        ],
+                        [
+                            28.655525,
+                            44.089943
+                        ],
+                        [
+                            28.655566,
+                            44.090263
+                        ],
+                        [
+                            28.655538,
+                            44.090355
+                        ],
+                        [
+                            28.654517,
+                            44.090241
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDTLSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-26",
+                "url": "https://www.bic-code.org/facility-codes/rocndtlsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.65512,
+                    44.089889
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDTLSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-26",
+                "url": "https://www.bic-code.org/facility-codes/rocndtlsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

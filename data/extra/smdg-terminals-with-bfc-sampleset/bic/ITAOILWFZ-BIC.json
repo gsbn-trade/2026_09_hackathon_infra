@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.300931,
+                            43.560786
+                        ],
+                        [
+                            13.302711,
+                            43.561608
+                        ],
+                        [
+                            13.303177,
+                            43.562205
+                        ],
+                        [
+                            13.303212,
+                            43.562404
+                        ],
+                        [
+                            13.299569,
+                            43.566248
+                        ],
+                        [
+                            13.297833,
+                            43.565474
+                        ],
+                        [
+                            13.298233,
+                            43.565077
+                        ],
+                        [
+                            13.297057,
+                            43.564543
+                        ],
+                        [
+                            13.300426,
+                            43.560894
+                        ],
+                        [
+                            13.300931,
+                            43.560786
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITAOILWFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-12",
+                "url": "https://www.bic-code.org/facility-codes/itaoilwfz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.299591,
+                            43.558675
+                        ],
+                        [
+                            13.301447,
+                            43.559574
+                        ],
+                        [
+                            13.30111,
+                            43.559688
+                        ],
+                        [
+                            13.301021,
+                            43.559755
+                        ],
+                        [
+                            13.30089,
+                            43.55981
+                        ],
+                        [
+                            13.297498,
+                            43.563509
+                        ],
+                        [
+                            13.297332,
+                            43.56358
+                        ],
+                        [
+                            13.297211,
+                            43.563626
+                        ],
+                        [
+                            13.29577,
+                            43.562922
+                        ],
+                        [
+                            13.299591,
+                            43.558675
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITAOILWFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-03-12",
+                "url": "https://www.bic-code.org/facility-codes/itaoilwfz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.300408,
+                    43.563003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITAOILWFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://www.bic-code.org/facility-codes/itaoilwfz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.299146,
+                    43.560981
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITAOILWFZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://www.bic-code.org/facility-codes/itaoilwfz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

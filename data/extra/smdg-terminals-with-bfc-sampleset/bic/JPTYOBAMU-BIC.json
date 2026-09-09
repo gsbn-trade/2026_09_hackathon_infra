@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.777135,
+                            35.61368
+                        ],
+                        [
+                            139.779231,
+                            35.611093
+                        ],
+                        [
+                            139.782466,
+                            35.61285
+                        ],
+                        [
+                            139.781743,
+                            35.613723
+                        ],
+                        [
+                            139.782597,
+                            35.614181
+                        ],
+                        [
+                            139.783072,
+                            35.613626
+                        ],
+                        [
+                            139.782923,
+                            35.61353
+                        ],
+                        [
+                            139.783198,
+                            35.613225
+                        ],
+                        [
+                            139.784409,
+                            35.613921
+                        ],
+                        [
+                            139.782437,
+                            35.616436
+                        ],
+                        [
+                            139.777135,
+                            35.61368
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "JPTYOBAMU",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/jptyobamu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.781486,
+                    35.613631
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "JPTYOBAMU",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-13",
+                "url": "https://www.bic-code.org/facility-codes/jptyobamu/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.185549,
+                            26.436492
+                        ],
+                        [
+                            50.183763,
+                            26.437203
+                        ],
+                        [
+                            50.182818,
+                            26.435276
+                        ],
+                        [
+                            50.182945,
+                            26.434921
+                        ],
+                        [
+                            50.184549,
+                            26.434338
+                        ],
+                        [
+                            50.185549,
+                            26.436492
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SADMMKWEI",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/sadmmkwei/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.184195,
+                    26.435787
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SADMMKWEI",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-08",
+                "url": "https://www.bic-code.org/facility-codes/sadmmkwei/"
+            }
+        }
+    ]
+}

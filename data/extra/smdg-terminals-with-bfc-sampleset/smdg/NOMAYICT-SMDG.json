@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.12193,
+                            61.940112
+                        ],
+                        [
+                            5.121175,
+                            61.939616
+                        ],
+                        [
+                            5.121163,
+                            61.939511
+                        ],
+                        [
+                            5.120892,
+                            61.939123
+                        ],
+                        [
+                            5.121283,
+                            61.939091
+                        ],
+                        [
+                            5.121356,
+                            61.938506
+                        ],
+                        [
+                            5.121739,
+                            61.938794
+                        ],
+                        [
+                            5.122945,
+                            61.939726
+                        ],
+                        [
+                            5.12193,
+                            61.940112
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.122953,
+                            61.939722
+                        ],
+                        [
+                            5.121373,
+                            61.938482
+                        ],
+                        [
+                            5.121283,
+                            61.939086
+                        ],
+                        [
+                            5.120881,
+                            61.939117
+                        ],
+                        [
+                            5.120914,
+                            61.938233
+                        ],
+                        [
+                            5.121325,
+                            61.938235
+                        ],
+                        [
+                            5.123147,
+                            61.939673
+                        ],
+                        [
+                            5.122953,
+                            61.939722
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.121601,
+                    61.939399
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.121854,
+                    61.939034
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOMAYICT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-23",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

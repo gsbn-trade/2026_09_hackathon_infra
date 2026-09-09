@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.206251,
+                            53.338199
+                        ],
+                        [
+                            -6.206445,
+                            53.338237
+                        ],
+                        [
+                            -6.206802,
+                            53.338309
+                        ],
+                        [
+                            -6.207071,
+                            53.338347
+                        ],
+                        [
+                            -6.207251,
+                            53.338373
+                        ],
+                        [
+                            -6.207733,
+                            53.338442
+                        ],
+                        [
+                            -6.207915,
+                            53.338414
+                        ],
+                        [
+                            -6.208012,
+                            53.338391
+                        ],
+                        [
+                            -6.208152,
+                            53.338358
+                        ],
+                        [
+                            -6.208906,
+                            53.33785
+                        ],
+                        [
+                            -6.207927,
+                            53.337341
+                        ],
+                        [
+                            -6.208353,
+                            53.337095
+                        ],
+                        [
+                            -6.207945,
+                            53.336893
+                        ],
+                        [
+                            -6.207801,
+                            53.336853
+                        ],
+                        [
+                            -6.207242,
+                            53.336759
+                        ],
+                        [
+                            -6.207085,
+                            53.336734
+                        ],
+                        [
+                            -6.206251,
+                            53.338199
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBEVTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/iedubevta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.207479,
+                    53.337811
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "IEDUBEVTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-25",
+                "url": "https://www.bic-code.org/facility-codes/iedubevta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

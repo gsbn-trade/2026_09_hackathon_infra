@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.682629,
+                            22.738518
+                        ],
+                        [
+                            69.688954,
+                            22.73848
+                        ],
+                        [
+                            69.688937,
+                            22.742795
+                        ],
+                        [
+                            69.683618,
+                            22.742791
+                        ],
+                        [
+                            69.683608,
+                            22.742079
+                        ],
+                        [
+                            69.682624,
+                            22.742059
+                        ],
+                        [
+                            69.682629,
+                            22.738518
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNACMTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            69.682616,
+                            22.738499
+                        ],
+                        [
+                            69.682607,
+                            22.737841
+                        ],
+                        [
+                            69.688957,
+                            22.737828
+                        ],
+                        [
+                            69.688953,
+                            22.738471
+                        ],
+                        [
+                            69.682616,
+                            22.738499
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNACMTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.684714,
+                    22.740749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNACMTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.68515,
+                    22.738228
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMUNACMTPL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-08-08",
+                "remarks": "Cleaned up boundaries.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

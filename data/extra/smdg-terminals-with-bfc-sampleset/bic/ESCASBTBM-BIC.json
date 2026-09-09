@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            0.028513,
+                            39.967258
+                        ],
+                        [
+                            0.028292,
+                            39.966611
+                        ],
+                        [
+                            0.028047,
+                            39.965697
+                        ],
+                        [
+                            0.027621,
+                            39.964028
+                        ],
+                        [
+                            0.027534,
+                            39.963814
+                        ],
+                        [
+                            0.026527,
+                            39.960398
+                        ],
+                        [
+                            0.029738,
+                            39.959792
+                        ],
+                        [
+                            0.031912,
+                            39.968004
+                        ],
+                        [
+                            0.031846,
+                            39.968396
+                        ],
+                        [
+                            0.031714,
+                            39.968661
+                        ],
+                        [
+                            0.031582,
+                            39.968851
+                        ],
+                        [
+                            0.031318,
+                            39.969053
+                        ],
+                        [
+                            0.031136,
+                            39.969205
+                        ],
+                        [
+                            0.029156,
+                            39.967928
+                        ],
+                        [
+                            0.028975,
+                            39.967207
+                        ],
+                        [
+                            0.028513,
+                            39.967258
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCASBTBM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/escasbtbm/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.029527,
+                    39.966385
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESCASBTBM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/escasbtbm/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

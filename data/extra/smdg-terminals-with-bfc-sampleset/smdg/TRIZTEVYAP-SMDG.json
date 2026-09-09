@@ -1,0 +1,375 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.71402,
+                            40.774826
+                        ],
+                        [
+                            29.714227,
+                            40.775081
+                        ],
+                        [
+                            29.714098,
+                            40.775154
+                        ],
+                        [
+                            29.714212,
+                            40.775306
+                        ],
+                        [
+                            29.715144,
+                            40.774832
+                        ],
+                        [
+                            29.716807,
+                            40.773996
+                        ],
+                        [
+                            29.717412,
+                            40.774772
+                        ],
+                        [
+                            29.717688,
+                            40.774642
+                        ],
+                        [
+                            29.717976,
+                            40.77505
+                        ],
+                        [
+                            29.718427,
+                            40.775673
+                        ],
+                        [
+                            29.718477,
+                            40.775934
+                        ],
+                        [
+                            29.718493,
+                            40.776021
+                        ],
+                        [
+                            29.718986,
+                            40.77595
+                        ],
+                        [
+                            29.719041,
+                            40.776158
+                        ],
+                        [
+                            29.717989,
+                            40.776329
+                        ],
+                        [
+                            29.713398,
+                            40.777075
+                        ],
+                        [
+                            29.713373,
+                            40.777003
+                        ],
+                        [
+                            29.713322,
+                            40.776853
+                        ],
+                        [
+                            29.7133,
+                            40.776789
+                        ],
+                        [
+                            29.712587,
+                            40.776871
+                        ],
+                        [
+                            29.712418,
+                            40.776861
+                        ],
+                        [
+                            29.712275,
+                            40.776806
+                        ],
+                        [
+                            29.712102,
+                            40.776719
+                        ],
+                        [
+                            29.711987,
+                            40.776649
+                        ],
+                        [
+                            29.711698,
+                            40.776723
+                        ],
+                        [
+                            29.711468,
+                            40.776786
+                        ],
+                        [
+                            29.711443,
+                            40.776741
+                        ],
+                        [
+                            29.711362,
+                            40.776589
+                        ],
+                        [
+                            29.711966,
+                            40.77639
+                        ],
+                        [
+                            29.712635,
+                            40.776111
+                        ],
+                        [
+                            29.714084,
+                            40.775376
+                        ],
+                        [
+                            29.713965,
+                            40.77522
+                        ],
+                        [
+                            29.713125,
+                            40.775651
+                        ],
+                        [
+                            29.71231,
+                            40.776043
+                        ],
+                        [
+                            29.711836,
+                            40.77622
+                        ],
+                        [
+                            29.711289,
+                            40.776403
+                        ],
+                        [
+                            29.710548,
+                            40.77659
+                        ],
+                        [
+                            29.710206,
+                            40.776662
+                        ],
+                        [
+                            29.709661,
+                            40.776748
+                        ],
+                        [
+                            29.709199,
+                            40.776807
+                        ],
+                        [
+                            29.708232,
+                            40.776874
+                        ],
+                        [
+                            29.705738,
+                            40.777012
+                        ],
+                        [
+                            29.70574,
+                            40.776932
+                        ],
+                        [
+                            29.706181,
+                            40.776222
+                        ],
+                        [
+                            29.706743,
+                            40.774278
+                        ],
+                        [
+                            29.707738,
+                            40.774456
+                        ],
+                        [
+                            29.711764,
+                            40.775146
+                        ],
+                        [
+                            29.712406,
+                            40.774626
+                        ],
+                        [
+                            29.709191,
+                            40.772258
+                        ],
+                        [
+                            29.709456,
+                            40.772044
+                        ],
+                        [
+                            29.712628,
+                            40.774474
+                        ],
+                        [
+                            29.713226,
+                            40.774003
+                        ],
+                        [
+                            29.713645,
+                            40.774338
+                        ],
+                        [
+                            29.71402,
+                            40.774826
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.706723,
+                            40.774257
+                        ],
+                        [
+                            29.706937,
+                            40.773614
+                        ],
+                        [
+                            29.711638,
+                            40.774685
+                        ],
+                        [
+                            29.711746,
+                            40.775121
+                        ],
+                        [
+                            29.706723,
+                            40.774257
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.712194,
+                            40.774486
+                        ],
+                        [
+                            29.711911,
+                            40.7747
+                        ],
+                        [
+                            29.70879,
+                            40.772433
+                        ],
+                        [
+                            29.709132,
+                            40.772211
+                        ],
+                        [
+                            29.712194,
+                            40.774486
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.712801,
+                    40.775739
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.708753,
+                    40.774387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.710844,
+                    40.773663
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TRIZTEVYAP",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

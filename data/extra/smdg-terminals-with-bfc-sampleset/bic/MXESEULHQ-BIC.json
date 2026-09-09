@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.679211,
+                            31.879648
+                        ],
+                        [
+                            -116.681623,
+                            31.878447
+                        ],
+                        [
+                            -116.680649,
+                            31.876757
+                        ],
+                        [
+                            -116.677387,
+                            31.879082
+                        ],
+                        [
+                            -116.679211,
+                            31.879648
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEULHQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseulhq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.679616,
+                    31.878716
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEULHQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxeseulhq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

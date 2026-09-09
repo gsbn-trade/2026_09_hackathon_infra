@@ -1,0 +1,301 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.763223,
+                            36.894655
+                        ],
+                        [
+                            7.763228,
+                            36.894919
+                        ],
+                        [
+                            7.760726,
+                            36.894906
+                        ],
+                        [
+                            7.760724,
+                            36.894641
+                        ],
+                        [
+                            7.763223,
+                            36.894655
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.763225,
+                            36.89465
+                        ],
+                        [
+                            7.760721,
+                            36.894638
+                        ],
+                        [
+                            7.760669,
+                            36.896861
+                        ],
+                        [
+                            7.76042,
+                            36.896854
+                        ],
+                        [
+                            7.760323,
+                            36.896811
+                        ],
+                        [
+                            7.76028,
+                            36.896693
+                        ],
+                        [
+                            7.760292,
+                            36.895404
+                        ],
+                        [
+                            7.760329,
+                            36.893573
+                        ],
+                        [
+                            7.76059,
+                            36.893464
+                        ],
+                        [
+                            7.76029,
+                            36.892839
+                        ],
+                        [
+                            7.759921,
+                            36.892953
+                        ],
+                        [
+                            7.759073,
+                            36.891461
+                        ],
+                        [
+                            7.759112,
+                            36.891443
+                        ],
+                        [
+                            7.759022,
+                            36.891219
+                        ],
+                        [
+                            7.759073,
+                            36.891067
+                        ],
+                        [
+                            7.759193,
+                            36.890978
+                        ],
+                        [
+                            7.760442,
+                            36.890477
+                        ],
+                        [
+                            7.760508,
+                            36.8906
+                        ],
+                        [
+                            7.760708,
+                            36.890527
+                        ],
+                        [
+                            7.761756,
+                            36.892875
+                        ],
+                        [
+                            7.761761,
+                            36.893696
+                        ],
+                        [
+                            7.761666,
+                            36.893692
+                        ],
+                        [
+                            7.761555,
+                            36.893687
+                        ],
+                        [
+                            7.761553,
+                            36.893765
+                        ],
+                        [
+                            7.761772,
+                            36.893771
+                        ],
+                        [
+                            7.761792,
+                            36.892785
+                        ],
+                        [
+                            7.761948,
+                            36.892795
+                        ],
+                        [
+                            7.761981,
+                            36.893718
+                        ],
+                        [
+                            7.762787,
+                            36.893711
+                        ],
+                        [
+                            7.762795,
+                            36.893748
+                        ],
+                        [
+                            7.762952,
+                            36.893771
+                        ],
+                        [
+                            7.762956,
+                            36.89388
+                        ],
+                        [
+                            7.763221,
+                            36.89392
+                        ],
+                        [
+                            7.763225,
+                            36.89465
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.760693,
+                            36.896793
+                        ],
+                        [
+                            7.76072,
+                            36.894642
+                        ],
+                        [
+                            7.761133,
+                            36.894651
+                        ],
+                        [
+                            7.761094,
+                            36.896779
+                        ],
+                        [
+                            7.760693,
+                            36.896793
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.762225,
+                    36.894755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.761115,
+                    36.89344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.760867,
+                    36.895932
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZAAEEPAN",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-05",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

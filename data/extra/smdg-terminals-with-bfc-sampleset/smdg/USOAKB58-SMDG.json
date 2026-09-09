@@ -1,0 +1,369 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.322702,
+                            37.80532
+                        ],
+                        [
+                            -122.324975,
+                            37.799909
+                        ],
+                        [
+                            -122.325201,
+                            37.798754
+                        ],
+                        [
+                            -122.305295,
+                            37.793679
+                        ],
+                        [
+                            -122.305151,
+                            37.794167
+                        ],
+                        [
+                            -122.304703,
+                            37.795103
+                        ],
+                        [
+                            -122.304574,
+                            37.796554
+                        ],
+                        [
+                            -122.304181,
+                            37.797059
+                        ],
+                        [
+                            -122.304676,
+                            37.797318
+                        ],
+                        [
+                            -122.305088,
+                            37.797564
+                        ],
+                        [
+                            -122.30529,
+                            37.79774
+                        ],
+                        [
+                            -122.305443,
+                            37.79791
+                        ],
+                        [
+                            -122.30562,
+                            37.798068
+                        ],
+                        [
+                            -122.305685,
+                            37.798138
+                        ],
+                        [
+                            -122.305674,
+                            37.798194
+                        ],
+                        [
+                            -122.30609,
+                            37.798788
+                        ],
+                        [
+                            -122.306165,
+                            37.798874
+                        ],
+                        [
+                            -122.306262,
+                            37.798902
+                        ],
+                        [
+                            -122.306575,
+                            37.798953
+                        ],
+                        [
+                            -122.306846,
+                            37.798856
+                        ],
+                        [
+                            -122.306948,
+                            37.798826
+                        ],
+                        [
+                            -122.307015,
+                            37.798858
+                        ],
+                        [
+                            -122.307778,
+                            37.799085
+                        ],
+                        [
+                            -122.311156,
+                            37.799935
+                        ],
+                        [
+                            -122.31082,
+                            37.8007
+                        ],
+                        [
+                            -122.313081,
+                            37.801469
+                        ],
+                        [
+                            -122.314562,
+                            37.80192
+                        ],
+                        [
+                            -122.31613,
+                            37.802436
+                        ],
+                        [
+                            -122.316209,
+                            37.802266
+                        ],
+                        [
+                            -122.316402,
+                            37.801883
+                        ],
+                        [
+                            -122.319781,
+                            37.802852
+                        ],
+                        [
+                            -122.3194,
+                            37.803538
+                        ],
+                        [
+                            -122.3213,
+                            37.804249
+                        ],
+                        [
+                            -122.322001,
+                            37.804785
+                        ],
+                        [
+                            -122.322275,
+                            37.805181
+                        ],
+                        [
+                            -122.32238,
+                            37.805379
+                        ],
+                        [
+                            -122.322702,
+                            37.80532
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.325282,
+                            37.798806
+                        ],
+                        [
+                            -122.325432,
+                            37.798283
+                        ],
+                        [
+                            -122.305614,
+                            37.793273
+                        ],
+                        [
+                            -122.305539,
+                            37.793712
+                        ],
+                        [
+                            -122.325282,
+                            37.798806
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.306555,
+                            37.799334
+                        ],
+                        [
+                            -122.310814,
+                            37.80067
+                        ],
+                        [
+                            -122.311135,
+                            37.79996
+                        ],
+                        [
+                            -122.307004,
+                            37.79886
+                        ],
+                        [
+                            -122.306645,
+                            37.799094
+                        ],
+                        [
+                            -122.306555,
+                            37.799334
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "TRUCK_QUEUE",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.319398,
+                            37.803534
+                        ],
+                        [
+                            -122.319778,
+                            37.802856
+                        ],
+                        [
+                            -122.316416,
+                            37.801903
+                        ],
+                        [
+                            -122.316128,
+                            37.802446
+                        ],
+                        [
+                            -122.319398,
+                            37.803534
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "TRUCK_QUEUE",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.311787,
+                    37.79996
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.31743,
+                    37.796576
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.308118,
+                    37.799542
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.318224,
+                    37.802855
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USOAKB58",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2024-08-29",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

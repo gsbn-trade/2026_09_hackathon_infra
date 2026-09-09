@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -89.678606,
+                            21.347004
+                        ],
+                        [
+                            -89.678571,
+                            21.344789
+                        ],
+                        [
+                            -89.675944,
+                            21.344874
+                        ],
+                        [
+                            -89.674485,
+                            21.346285
+                        ],
+                        [
+                            -89.674093,
+                            21.346714
+                        ],
+                        [
+                            -89.674809,
+                            21.347608
+                        ],
+                        [
+                            -89.675481,
+                            21.348175
+                        ],
+                        [
+                            -89.678537,
+                            21.348684
+                        ],
+                        [
+                            -89.678579,
+                            21.348431
+                        ],
+                        [
+                            -89.678566,
+                            21.347793
+                        ],
+                        [
+                            -89.678606,
+                            21.347004
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTERA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgotera/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.676934,
+                    21.347033
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXPGOTERA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-02",
+                "url": "https://www.bic-code.org/facility-codes/mxpgotera/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

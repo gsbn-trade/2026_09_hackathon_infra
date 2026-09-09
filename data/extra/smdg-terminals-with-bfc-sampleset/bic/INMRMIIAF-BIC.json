@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            74.024,
+                            15.148
+                        ],
+                        [
+                            74.0227,
+                            15.148
+                        ],
+                        [
+                            74.0238,
+                            15.146
+                        ],
+                        [
+                            74.025,
+                            15.1446
+                        ],
+                        [
+                            74.0257,
+                            15.1447
+                        ],
+                        [
+                            74.026,
+                            15.1449
+                        ],
+                        [
+                            74.026,
+                            15.145
+                        ],
+                        [
+                            74.024,
+                            15.148
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMIIAF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inmrmiiaf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    74.02465,
+                    15.14615
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMRMIIAF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-11-15",
+                "url": "https://www.bic-code.org/facility-codes/inmrmiiaf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

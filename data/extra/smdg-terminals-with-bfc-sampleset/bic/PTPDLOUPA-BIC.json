@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -25.668491,
+                            37.735423
+                        ],
+                        [
+                            -25.668507,
+                            37.735195
+                        ],
+                        [
+                            -25.670036,
+                            37.735269
+                        ],
+                        [
+                            -25.670084,
+                            37.734892
+                        ],
+                        [
+                            -25.664581,
+                            37.734138
+                        ],
+                        [
+                            -25.664436,
+                            37.734121
+                        ],
+                        [
+                            -25.664237,
+                            37.734126
+                        ],
+                        [
+                            -25.664032,
+                            37.734155
+                        ],
+                        [
+                            -25.66297,
+                            37.734488
+                        ],
+                        [
+                            -25.660888,
+                            37.735153
+                        ],
+                        [
+                            -25.660088,
+                            37.735407
+                        ],
+                        [
+                            -25.658079,
+                            37.736066
+                        ],
+                        [
+                            -25.657841,
+                            37.736147
+                        ],
+                        [
+                            -25.65779,
+                            37.736161
+                        ],
+                        [
+                            -25.657942,
+                            37.736471
+                        ],
+                        [
+                            -25.663877,
+                            37.734598
+                        ],
+                        [
+                            -25.664194,
+                            37.735226
+                        ],
+                        [
+                            -25.668491,
+                            37.735423
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLOUPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://www.bic-code.org/facility-codes/ptpdloupa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.663698,
+                    37.735137
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTPDLOUPA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-09-24",
+                "remarks": "Based on Google Maps satellite imagery. Google Maps shows quay extension, but OSM still shows quay area before extension.",
+                "url": "https://www.bic-code.org/facility-codes/ptpdloupa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

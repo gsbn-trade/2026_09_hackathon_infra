@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.290504,
+                            -18.393627
+                        ],
+                        [
+                            -70.290618,
+                            -18.393993
+                        ],
+                        [
+                            -70.290909,
+                            -18.395627
+                        ],
+                        [
+                            -70.290772,
+                            -18.395686
+                        ],
+                        [
+                            -70.289489,
+                            -18.395912
+                        ],
+                        [
+                            -70.289135,
+                            -18.39398
+                        ],
+                        [
+                            -70.290504,
+                            -18.393627
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARIDXEZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/claridxez/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.290276,
+                    -18.394636
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLARIDXEZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-01-21",
+                "url": "https://www.bic-code.org/facility-codes/claridxez/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

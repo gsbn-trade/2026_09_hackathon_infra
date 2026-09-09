@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.818996,
+                            35.082574
+                        ],
+                        [
+                            128.818988,
+                            35.082994
+                        ],
+                        [
+                            128.797571,
+                            35.083014
+                        ],
+                        [
+                            128.797584,
+                            35.082459
+                        ],
+                        [
+                            128.79729,
+                            35.082411
+                        ],
+                        [
+                            128.797131,
+                            35.077608
+                        ],
+                        [
+                            128.819098,
+                            35.07765
+                        ],
+                        [
+                            128.818996,
+                            35.082574
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSPNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.797154,
+                            35.077579
+                        ],
+                        [
+                            128.797108,
+                            35.076833
+                        ],
+                        [
+                            128.819098,
+                            35.076889
+                        ],
+                        [
+                            128.819121,
+                            35.077598
+                        ],
+                        [
+                            128.797154,
+                            35.077579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "KRPUSPNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.808207,
+                    35.081411
+                ]
+            },
+            "properties": {
+                "code": "KRPUSPNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.805927,
+                    35.077296
+                ]
+            },
+            "properties": {
+                "code": "KRPUSPNC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-02-22",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

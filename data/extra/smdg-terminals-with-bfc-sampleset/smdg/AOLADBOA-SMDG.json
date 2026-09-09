@@ -1,0 +1,245 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.250133,
+                            -8.799339
+                        ],
+                        [
+                            13.25042,
+                            -8.801158
+                        ],
+                        [
+                            13.250785,
+                            -8.801372
+                        ],
+                        [
+                            13.251622,
+                            -8.801198
+                        ],
+                        [
+                            13.251692,
+                            -8.80181
+                        ],
+                        [
+                            13.252661,
+                            -8.801696
+                        ],
+                        [
+                            13.252755,
+                            -8.802334
+                        ],
+                        [
+                            13.253127,
+                            -8.802269
+                        ],
+                        [
+                            13.253106,
+                            -8.801915
+                        ],
+                        [
+                            13.254046,
+                            -8.801808
+                        ],
+                        [
+                            13.254034,
+                            -8.801354
+                        ],
+                        [
+                            13.255524,
+                            -8.800529
+                        ],
+                        [
+                            13.254844,
+                            -8.799174
+                        ],
+                        [
+                            13.255072,
+                            -8.799015
+                        ],
+                        [
+                            13.254891,
+                            -8.798659
+                        ],
+                        [
+                            13.254966,
+                            -8.798468
+                        ],
+                        [
+                            13.254834,
+                            -8.798242
+                        ],
+                        [
+                            13.253459,
+                            -8.798914
+                        ],
+                        [
+                            13.250132,
+                            -8.799303
+                        ],
+                        [
+                            13.250133,
+                            -8.799339
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.250135,
+                            -8.79928
+                        ],
+                        [
+                            13.253453,
+                            -8.798897
+                        ],
+                        [
+                            13.253387,
+                            -8.798368
+                        ],
+                        [
+                            13.250092,
+                            -8.798794
+                        ],
+                        [
+                            13.250135,
+                            -8.79928
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.253393,
+                            -8.798379
+                        ],
+                        [
+                            13.253447,
+                            -8.798886
+                        ],
+                        [
+                            13.2548,
+                            -8.798212
+                        ],
+                        [
+                            13.254604,
+                            -8.797797
+                        ],
+                        [
+                            13.253393,
+                            -8.798379
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.252912,
+                    -8.800395
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.25144,
+                    -8.798924
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.253927,
+                    -8.798331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADBOA",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-06",
+                "remarks": "CMA CGM",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

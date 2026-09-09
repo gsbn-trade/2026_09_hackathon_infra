@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -88.59,
+                            15.6966
+                        ],
+                        [
+                            -88.5897,
+                            15.6967
+                        ],
+                        [
+                            -88.5893,
+                            15.697
+                        ],
+                        [
+                            -88.5888,
+                            15.6996
+                        ],
+                        [
+                            -88.5893,
+                            15.7002
+                        ],
+                        [
+                            -88.5911,
+                            15.7003
+                        ],
+                        [
+                            -88.5911,
+                            15.6972
+                        ],
+                        [
+                            -88.59,
+                            15.6966
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTSTCHYAG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtstchyag/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.589912,
+                    15.698025
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GTSTCHYAG",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-07-24",
+                "url": "https://www.bic-code.org/facility-codes/gtstchyag/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

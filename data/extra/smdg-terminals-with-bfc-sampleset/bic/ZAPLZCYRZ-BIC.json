@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.581,
+                            -33.9072
+                        ],
+                        [
+                            25.5807,
+                            -33.9071
+                        ],
+                        [
+                            25.5801,
+                            -33.9076
+                        ],
+                        [
+                            25.5807,
+                            -33.9082
+                        ],
+                        [
+                            25.5812,
+                            -33.908
+                        ],
+                        [
+                            25.581,
+                            -33.9072
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZCYRZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzcyrz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.580783,
+                    -33.90755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZCYRZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/zaplzcyrz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

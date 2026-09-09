@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            16.226816,
+                            58.625076
+                        ],
+                        [
+                            16.226665,
+                            58.624338
+                        ],
+                        [
+                            16.228445,
+                            58.624259
+                        ],
+                        [
+                            16.231079,
+                            58.624003
+                        ],
+                        [
+                            16.231329,
+                            58.624119
+                        ],
+                        [
+                            16.23148,
+                            58.624228
+                        ],
+                        [
+                            16.231493,
+                            58.624372
+                        ],
+                        [
+                            16.231421,
+                            58.624522
+                        ],
+                        [
+                            16.231256,
+                            58.624676
+                        ],
+                        [
+                            16.230987,
+                            58.624806
+                        ],
+                        [
+                            16.230738,
+                            58.624892
+                        ],
+                        [
+                            16.230501,
+                            58.624923
+                        ],
+                        [
+                            16.226816,
+                            58.625076
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKQVFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-30",
+                "url": "https://www.bic-code.org/facility-codes/senrkqvfp/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.229925,
+                    58.624561
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SENRKQVFP",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-30",
+                "url": "https://www.bic-code.org/facility-codes/senrkqvfp/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

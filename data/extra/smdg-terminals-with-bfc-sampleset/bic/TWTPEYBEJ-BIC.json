@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.389781,
+                            25.16886
+                        ],
+                        [
+                            121.387765,
+                            25.167962
+                        ],
+                        [
+                            121.378755,
+                            25.16388
+                        ],
+                        [
+                            121.37933,
+                            25.162753
+                        ],
+                        [
+                            121.379776,
+                            25.162028
+                        ],
+                        [
+                            121.380211,
+                            25.161161
+                        ],
+                        [
+                            121.380313,
+                            25.160822
+                        ],
+                        [
+                            121.380462,
+                            25.160561
+                        ],
+                        [
+                            121.38055,
+                            25.160344
+                        ],
+                        [
+                            121.380807,
+                            25.160417
+                        ],
+                        [
+                            121.381039,
+                            25.160103
+                        ],
+                        [
+                            121.393219,
+                            25.165533
+                        ],
+                        [
+                            121.393223,
+                            25.165752
+                        ],
+                        [
+                            121.393177,
+                            25.165883
+                        ],
+                        [
+                            121.389781,
+                            25.16886
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTPEYBEJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/twtpeybej/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.384546,
+                    25.163661
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWTPEYBEJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-12",
+                "url": "https://www.bic-code.org/facility-codes/twtpeybej/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

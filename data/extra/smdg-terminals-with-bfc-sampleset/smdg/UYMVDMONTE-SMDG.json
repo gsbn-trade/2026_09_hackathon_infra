@@ -1,0 +1,343 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.211466,
+                            -34.902966
+                        ],
+                        [
+                            -56.211177,
+                            -34.903599
+                        ],
+                        [
+                            -56.205946,
+                            -34.901994
+                        ],
+                        [
+                            -56.205338,
+                            -34.902014
+                        ],
+                        [
+                            -56.202069,
+                            -34.901366
+                        ],
+                        [
+                            -56.202483,
+                            -34.90014
+                        ],
+                        [
+                            -56.204448,
+                            -34.900838
+                        ],
+                        [
+                            -56.207371,
+                            -34.898978
+                        ],
+                        [
+                            -56.208945,
+                            -34.899499
+                        ],
+                        [
+                            -56.206536,
+                            -34.901338
+                        ],
+                        [
+                            -56.211466,
+                            -34.902966
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.197533,
+                            -34.893679
+                        ],
+                        [
+                            -56.200419,
+                            -34.894524
+                        ],
+                        [
+                            -56.198305,
+                            -34.899293
+                        ],
+                        [
+                            -56.197822,
+                            -34.899346
+                        ],
+                        [
+                            -56.196975,
+                            -34.898527
+                        ],
+                        [
+                            -56.196749,
+                            -34.898052
+                        ],
+                        [
+                            -56.197039,
+                            -34.896319
+                        ],
+                        [
+                            -56.197211,
+                            -34.896055
+                        ],
+                        [
+                            -56.197533,
+                            -34.893679
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.208901,
+                            -34.899514
+                        ],
+                        [
+                            -56.209474,
+                            -34.899641
+                        ],
+                        [
+                            -56.207432,
+                            -34.901239
+                        ],
+                        [
+                            -56.21181,
+                            -34.902495
+                        ],
+                        [
+                            -56.211516,
+                            -34.90299
+                        ],
+                        [
+                            -56.206535,
+                            -34.901353
+                        ],
+                        [
+                            -56.208901,
+                            -34.899514
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.200411,
+                            -34.894542
+                        ],
+                        [
+                            -56.200968,
+                            -34.894694
+                        ],
+                        [
+                            -56.198756,
+                            -34.8994
+                        ],
+                        [
+                            -56.198385,
+                            -34.899248
+                        ],
+                        [
+                            -56.200411,
+                            -34.894542
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.207293,
+                            -34.898956
+                        ],
+                        [
+                            -56.204459,
+                            -34.900831
+                        ],
+                        [
+                            -56.204165,
+                            -34.900602
+                        ],
+                        [
+                            -56.207011,
+                            -34.898712
+                        ],
+                        [
+                            -56.207293,
+                            -34.898956
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "BERTH",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.207022,
+                    -34.901427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.197732,
+                    -34.896608
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.209224,
+                    -34.900964
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.199786,
+                    -34.896485
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.206044,
+                    -34.899611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDMONTE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2025-08-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

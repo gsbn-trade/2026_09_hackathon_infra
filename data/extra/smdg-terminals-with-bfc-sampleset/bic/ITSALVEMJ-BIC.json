@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.666601,
+                            40.770051
+                        ],
+                        [
+                            14.666328,
+                            40.769858
+                        ],
+                        [
+                            14.665906,
+                            40.769661
+                        ],
+                        [
+                            14.665445,
+                            40.769537
+                        ],
+                        [
+                            14.665032,
+                            40.769472
+                        ],
+                        [
+                            14.665359,
+                            40.768782
+                        ],
+                        [
+                            14.667012,
+                            40.769507
+                        ],
+                        [
+                            14.666601,
+                            40.770051
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSALVEMJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-04-23",
+                "url": "https://www.bic-code.org/facility-codes/itsalvemj/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.666035,
+                    40.769615
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSALVEMJ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-04-23",
+                "url": "https://www.bic-code.org/facility-codes/itsalvemj/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.147683,
+                            49.025034
+                        ],
+                        [
+                            -123.149845,
+                            49.022964
+                        ],
+                        [
+                            -123.154057,
+                            49.024623
+                        ],
+                        [
+                            -123.154122,
+                            49.024892
+                        ],
+                        [
+                            -123.153695,
+                            49.025341
+                        ],
+                        [
+                            -123.152924,
+                            49.026094
+                        ],
+                        [
+                            -123.153153,
+                            49.027067
+                        ],
+                        [
+                            -123.150894,
+                            49.029653
+                        ],
+                        [
+                            -123.149649,
+                            49.030673
+                        ],
+                        [
+                            -123.15152,
+                            49.031047
+                        ],
+                        [
+                            -123.153705,
+                            49.029339
+                        ],
+                        [
+                            -123.158638,
+                            49.02375
+                        ],
+                        [
+                            -123.161032,
+                            49.023465
+                        ],
+                        [
+                            -123.163861,
+                            49.024511
+                        ],
+                        [
+                            -123.165457,
+                            49.024606
+                        ],
+                        [
+                            -123.166799,
+                            49.024178
+                        ],
+                        [
+                            -123.167851,
+                            49.023203
+                        ],
+                        [
+                            -123.167996,
+                            49.022204
+                        ],
+                        [
+                            -123.16738,
+                            49.021466
+                        ],
+                        [
+                            -123.154793,
+                            49.016162
+                        ],
+                        [
+                            -123.146486,
+                            49.024487
+                        ],
+                        [
+                            -123.147683,
+                            49.025034
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANDLT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -123.146473,
+                            49.024479
+                        ],
+                        [
+                            -123.15483,
+                            49.016168
+                        ],
+                        [
+                            -123.153431,
+                            49.015454
+                        ],
+                        [
+                            -123.145073,
+                            49.023739
+                        ],
+                        [
+                            -123.146473,
+                            49.024479
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANDLT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.156328,
+                    49.024991
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANDLT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.149256,
+                    49.020864
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANDLT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

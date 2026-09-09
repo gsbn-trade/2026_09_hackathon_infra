@@ -1,0 +1,335 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.760354,
+                            23.008891
+                        ],
+                        [
+                            -82.761505,
+                            23.010459
+                        ],
+                        [
+                            -82.761814,
+                            23.010474
+                        ],
+                        [
+                            -82.762385,
+                            23.010185
+                        ],
+                        [
+                            -82.762519,
+                            23.010186
+                        ],
+                        [
+                            -82.763023,
+                            23.010847
+                        ],
+                        [
+                            -82.763236,
+                            23.010846
+                        ],
+                        [
+                            -82.764149,
+                            23.010299
+                        ],
+                        [
+                            -82.764393,
+                            23.010426
+                        ],
+                        [
+                            -82.764698,
+                            23.010802
+                        ],
+                        [
+                            -82.764769,
+                            23.011285
+                        ],
+                        [
+                            -82.76441,
+                            23.011311
+                        ],
+                        [
+                            -82.764452,
+                            23.011722
+                        ],
+                        [
+                            -82.765823,
+                            23.011712
+                        ],
+                        [
+                            -82.765858,
+                            23.010612
+                        ],
+                        [
+                            -82.76583,
+                            23.009747
+                        ],
+                        [
+                            -82.765551,
+                            23.009666
+                        ],
+                        [
+                            -82.767661,
+                            23.00822
+                        ],
+                        [
+                            -82.767883,
+                            23.008162
+                        ],
+                        [
+                            -82.768278,
+                            23.008032
+                        ],
+                        [
+                            -82.768846,
+                            23.007938
+                        ],
+                        [
+                            -82.769303,
+                            23.007853
+                        ],
+                        [
+                            -82.773519,
+                            23.005248
+                        ],
+                        [
+                            -82.779404,
+                            23.001493
+                        ],
+                        [
+                            -82.782578,
+                            22.999359
+                        ],
+                        [
+                            -82.782437,
+                            22.999122
+                        ],
+                        [
+                            -82.77171,
+                            23.005365
+                        ],
+                        [
+                            -82.768615,
+                            23.007293
+                        ],
+                        [
+                            -82.767263,
+                            23.007807
+                        ],
+                        [
+                            -82.765772,
+                            23.005641
+                        ],
+                        [
+                            -82.765162,
+                            23.004904
+                        ],
+                        [
+                            -82.765323,
+                            23.004815
+                        ],
+                        [
+                            -82.765637,
+                            23.004617
+                        ],
+                        [
+                            -82.765446,
+                            23.004323
+                        ],
+                        [
+                            -82.763747,
+                            23.005371
+                        ],
+                        [
+                            -82.761761,
+                            23.006586
+                        ],
+                        [
+                            -82.759736,
+                            23.007843
+                        ],
+                        [
+                            -82.759885,
+                            23.008061
+                        ],
+                        [
+                            -82.759894,
+                            23.008124
+                        ],
+                        [
+                            -82.759878,
+                            23.008235
+                        ],
+                        [
+                            -82.759923,
+                            23.008351
+                        ],
+                        [
+                            -82.760354,
+                            23.008891
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.759681,
+                            23.007814
+                        ],
+                        [
+                            -82.765446,
+                            23.004322
+                        ],
+                        [
+                            -82.765254,
+                            23.003922
+                        ],
+                        [
+                            -82.75928,
+                            23.007352
+                        ],
+                        [
+                            -82.759681,
+                            23.007814
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -82.764435,
+                            23.011705
+                        ],
+                        [
+                            -82.764452,
+                            23.012075
+                        ],
+                        [
+                            -82.766274,
+                            23.012013
+                        ],
+                        [
+                            -82.766173,
+                            23.009729
+                        ],
+                        [
+                            -82.765848,
+                            23.009759
+                        ],
+                        [
+                            -82.765814,
+                            23.011713
+                        ],
+                        [
+                            -82.764435,
+                            23.011705
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.765828,
+                    23.007884
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.761868,
+                    23.006245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.765347,
+                    23.011243
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CUMARTCM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-09-17",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

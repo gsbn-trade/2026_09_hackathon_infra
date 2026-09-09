@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.65209,
+                            44.08996
+                        ],
+                        [
+                            28.651566,
+                            44.089861
+                        ],
+                        [
+                            28.651493,
+                            44.089764
+                        ],
+                        [
+                            28.651495,
+                            44.089695
+                        ],
+                        [
+                            28.6516,
+                            44.089563
+                        ],
+                        [
+                            28.651904,
+                            44.089444
+                        ],
+                        [
+                            28.652348,
+                            44.089374
+                        ],
+                        [
+                            28.652809,
+                            44.089322
+                        ],
+                        [
+                            28.653759,
+                            44.089244
+                        ],
+                        [
+                            28.653751,
+                            44.089482
+                        ],
+                        [
+                            28.65411,
+                            44.089499
+                        ],
+                        [
+                            28.654102,
+                            44.090167
+                        ],
+                        [
+                            28.65209,
+                            44.08996
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDSEBH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "url": "https://www.bic-code.org/facility-codes/rocndsebh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.652547,
+                    44.089641
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDSEBH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "url": "https://www.bic-code.org/facility-codes/rocndsebh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.540678,
+                            -33.56085
+                        ],
+                        [
+                            -71.544626,
+                            -33.560226
+                        ],
+                        [
+                            -71.546121,
+                            -33.564279
+                        ],
+                        [
+                            -71.541807,
+                            -33.565242
+                        ],
+                        [
+                            -71.540678,
+                            -33.56085
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIEMSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/clsaiemsa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.542782,
+                    -33.562289
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLSAIEMSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-19",
+                "url": "https://www.bic-code.org/facility-codes/clsaiemsa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.282672,
+                            -8.78995
+                        ],
+                        [
+                            13.284051,
+                            -8.792208
+                        ],
+                        [
+                            13.285242,
+                            -8.79153
+                        ],
+                        [
+                            13.283863,
+                            -8.789309
+                        ],
+                        [
+                            13.282672,
+                            -8.78995
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADLOVE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladlove/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.2837,
+                    -8.790589
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AOLADLOVE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-20",
+                "url": "https://www.bic-code.org/facility-codes/aoladlove/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.000636,
+                            33.963556
+                        ],
+                        [
+                            131.001027,
+                            33.964287
+                        ],
+                        [
+                            131.002346,
+                            33.965314
+                        ],
+                        [
+                            131.001989,
+                            33.965701
+                        ],
+                        [
+                            130.999847,
+                            33.9641
+                        ],
+                        [
+                            130.9998,
+                            33.964019
+                        ],
+                        [
+                            130.999812,
+                            33.963819
+                        ],
+                        [
+                            131.000636,
+                            33.963556
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJEOOM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-02-28",
+                "remarks": "This is a container depot.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojeoom/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.000762,
+                    33.964294
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPMOJEOOM",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-02-28",
+                "remarks": "This is a container depot.",
+                "url": "https://www.bic-code.org/facility-codes/jpmojeoom/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

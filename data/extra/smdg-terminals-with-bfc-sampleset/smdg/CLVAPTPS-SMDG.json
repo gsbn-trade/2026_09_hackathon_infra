@@ -1,0 +1,227 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.62796,
+                            -33.027667
+                        ],
+                        [
+                            -71.629261,
+                            -33.027985
+                        ],
+                        [
+                            -71.628574,
+                            -33.030837
+                        ],
+                        [
+                            -71.629816,
+                            -33.031472
+                        ],
+                        [
+                            -71.630035,
+                            -33.031593
+                        ],
+                        [
+                            -71.629971,
+                            -33.031802
+                        ],
+                        [
+                            -71.629693,
+                            -33.032131
+                        ],
+                        [
+                            -71.629242,
+                            -33.032791
+                        ],
+                        [
+                            -71.629157,
+                            -33.033767
+                        ],
+                        [
+                            -71.629073,
+                            -33.034124
+                        ],
+                        [
+                            -71.629213,
+                            -33.034406
+                        ],
+                        [
+                            -71.628672,
+                            -33.036369
+                        ],
+                        [
+                            -71.628164,
+                            -33.036298
+                        ],
+                        [
+                            -71.627119,
+                            -33.034329
+                        ],
+                        [
+                            -71.627089,
+                            -33.034119
+                        ],
+                        [
+                            -71.626269,
+                            -33.034278
+                        ],
+                        [
+                            -71.62796,
+                            -33.027667
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.627944,
+                            -33.027666
+                        ],
+                        [
+                            -71.626265,
+                            -33.034299
+                        ],
+                        [
+                            -71.625673,
+                            -33.034382
+                        ],
+                        [
+                            -71.627351,
+                            -33.027593
+                        ],
+                        [
+                            -71.627944,
+                            -33.027666
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.62704,
+                            -33.034142
+                        ],
+                        [
+                            -71.627955,
+                            -33.035913
+                        ],
+                        [
+                            -71.627619,
+                            -33.036026
+                        ],
+                        [
+                            -71.626461,
+                            -33.0343
+                        ],
+                        [
+                            -71.62704,
+                            -33.034142
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.628663,
+                    -33.032449
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.627035,
+                    -33.030321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.627223,
+                    -33.034905
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLVAPTPS",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.123407,
+                            -32.115893
+                        ],
+                        [
+                            -52.125058,
+                            -32.116802
+                        ],
+                        [
+                            -52.125499,
+                            -32.116237
+                        ],
+                        [
+                            -52.125807,
+                            -32.115902
+                        ],
+                        [
+                            -52.125118,
+                            -32.11551
+                        ],
+                        [
+                            -52.124913,
+                            -32.115388
+                        ],
+                        [
+                            -52.124261,
+                            -32.115008
+                        ],
+                        [
+                            -52.123844,
+                            -32.115427
+                        ],
+                        [
+                            -52.123407,
+                            -32.115893
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGBRGZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigbrgz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.12459,
+                    -32.115784
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGBRGZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigbrgz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

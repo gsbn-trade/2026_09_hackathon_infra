@@ -1,0 +1,201 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.134207,
+                            -34.029712
+                        ],
+                        [
+                            -59.134345,
+                            -34.029937
+                        ],
+                        [
+                            -59.133802,
+                            -34.030181
+                        ],
+                        [
+                            -59.133726,
+                            -34.030044
+                        ],
+                        [
+                            -59.131539,
+                            -34.030831
+                        ],
+                        [
+                            -59.130702,
+                            -34.02928
+                        ],
+                        [
+                            -59.130372,
+                            -34.028741
+                        ],
+                        [
+                            -59.132283,
+                            -34.028007
+                        ],
+                        [
+                            -59.13047,
+                            -34.024149
+                        ],
+                        [
+                            -59.129022,
+                            -34.025683
+                        ],
+                        [
+                            -59.127119,
+                            -34.024938
+                        ],
+                        [
+                            -59.125592,
+                            -34.021979
+                        ],
+                        [
+                            -59.126578,
+                            -34.021075
+                        ],
+                        [
+                            -59.12684,
+                            -34.021184
+                        ],
+                        [
+                            -59.126979,
+                            -34.021994
+                        ],
+                        [
+                            -59.127564,
+                            -34.021914
+                        ],
+                        [
+                            -59.127328,
+                            -34.021039
+                        ],
+                        [
+                            -59.127948,
+                            -34.020959
+                        ],
+                        [
+                            -59.127608,
+                            -34.019939
+                        ],
+                        [
+                            -59.125339,
+                            -34.019404
+                        ],
+                        [
+                            -59.125347,
+                            -34.019165
+                        ],
+                        [
+                            -59.127494,
+                            -34.018066
+                        ],
+                        [
+                            -59.130671,
+                            -34.024099
+                        ],
+                        [
+                            -59.133743,
+                            -34.029849
+                        ],
+                        [
+                            -59.134207,
+                            -34.029712
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARLPSLPMOL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -59.127435,
+                            -34.018063
+                        ],
+                        [
+                            -59.125328,
+                            -34.019156
+                        ],
+                        [
+                            -59.124973,
+                            -34.018634
+                        ],
+                        [
+                            -59.12712,
+                            -34.017556
+                        ],
+                        [
+                            -59.127435,
+                            -34.018063
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARLPSLPMOL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.129633,
+                    -34.024875
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARLPSLPMOL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.126458,
+                    -34.018294
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ARLPSLPMOL",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

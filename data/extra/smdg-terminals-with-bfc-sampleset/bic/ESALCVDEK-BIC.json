@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.496647,
+                            38.330382
+                        ],
+                        [
+                            -0.496357,
+                            38.330996
+                        ],
+                        [
+                            -0.499196,
+                            38.33189
+                        ],
+                        [
+                            -0.502014,
+                            38.327777
+                        ],
+                        [
+                            -0.500739,
+                            38.327198
+                        ],
+                        [
+                            -0.499018,
+                            38.33004
+                        ],
+                        [
+                            -0.497218,
+                            38.329373
+                        ],
+                        [
+                            -0.496647,
+                            38.330382
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCVDEK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcvdek/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.498479,
+                    38.329755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESALCVDEK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-02-17",
+                "url": "https://www.bic-code.org/facility-codes/esalcvdek/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

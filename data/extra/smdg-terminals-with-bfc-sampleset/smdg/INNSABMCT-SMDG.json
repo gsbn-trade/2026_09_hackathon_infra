@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.93921,
+                            18.942119
+                        ],
+                        [
+                            72.932935,
+                            18.935312
+                        ],
+                        [
+                            72.937156,
+                            18.931818
+                        ],
+                        [
+                            72.941806,
+                            18.936917
+                        ],
+                        [
+                            72.94218,
+                            18.936609
+                        ],
+                        [
+                            72.943098,
+                            18.93762
+                        ],
+                        [
+                            72.943331,
+                            18.937639
+                        ],
+                        [
+                            72.946296,
+                            18.934714
+                        ],
+                        [
+                            72.94828,
+                            18.932789
+                        ],
+                        [
+                            72.95013,
+                            18.930266
+                        ],
+                        [
+                            72.951819,
+                            18.928509
+                        ],
+                        [
+                            72.952566,
+                            18.929148
+                        ],
+                        [
+                            72.94423,
+                            18.937487
+                        ],
+                        [
+                            72.943886,
+                            18.937925
+                        ],
+                        [
+                            72.94175,
+                            18.939999
+                        ],
+                        [
+                            72.940599,
+                            18.941013
+                        ],
+                        [
+                            72.93921,
+                            18.942119
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSABMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.932927,
+                            18.935321
+                        ],
+                        [
+                            72.939198,
+                            18.942125
+                        ],
+                        [
+                            72.938599,
+                            18.942631
+                        ],
+                        [
+                            72.9323,
+                            18.935866
+                        ],
+                        [
+                            72.932927,
+                            18.935321
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSABMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.94344,
+                    18.936
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSABMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.93519,
+                    18.938253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSABMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

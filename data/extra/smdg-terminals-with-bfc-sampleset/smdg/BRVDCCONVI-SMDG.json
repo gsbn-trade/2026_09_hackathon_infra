@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.739231,
+                            -1.548338
+                        ],
+                        [
+                            -48.747718,
+                            -1.543286
+                        ],
+                        [
+                            -48.748948,
+                            -1.545258
+                        ],
+                        [
+                            -48.749905,
+                            -1.543295
+                        ],
+                        [
+                            -48.749612,
+                            -1.542641
+                        ],
+                        [
+                            -48.750482,
+                            -1.542055
+                        ],
+                        [
+                            -48.753773,
+                            -1.539156
+                        ],
+                        [
+                            -48.749671,
+                            -1.534157
+                        ],
+                        [
+                            -48.750032,
+                            -1.533835
+                        ],
+                        [
+                            -48.752015,
+                            -1.536216
+                        ],
+                        [
+                            -48.75395,
+                            -1.538555
+                        ],
+                        [
+                            -48.755991,
+                            -1.541104
+                        ],
+                        [
+                            -48.755669,
+                            -1.541357
+                        ],
+                        [
+                            -48.754096,
+                            -1.539512
+                        ],
+                        [
+                            -48.75059,
+                            -1.542324
+                        ],
+                        [
+                            -48.749125,
+                            -1.545507
+                        ],
+                        [
+                            -48.75057,
+                            -1.547918
+                        ],
+                        [
+                            -48.748129,
+                            -1.549441
+                        ],
+                        [
+                            -48.745277,
+                            -1.545058
+                        ],
+                        [
+                            -48.741966,
+                            -1.547079
+                        ],
+                        [
+                            -48.739524,
+                            -1.548738
+                        ],
+                        [
+                            -48.739231,
+                            -1.548338
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVDCCONVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.750036,
+                            -1.533832
+                        ],
+                        [
+                            -48.75051,
+                            -1.53352
+                        ],
+                        [
+                            -48.756438,
+                            -1.540785
+                        ],
+                        [
+                            -48.755987,
+                            -1.541143
+                        ],
+                        [
+                            -48.750036,
+                            -1.533832
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVDCCONVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.748887,
+                    -1.542871
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVDCCONVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.752601,
+                    -1.536622
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRVDCCONVI",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-07",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.73375,
+                            -32.050473
+                        ],
+                        [
+                            115.733569,
+                            -32.050473
+                        ],
+                        [
+                            115.732052,
+                            -32.052705
+                        ],
+                        [
+                            115.732271,
+                            -32.053133
+                        ],
+                        [
+                            115.732568,
+                            -32.053255
+                        ],
+                        [
+                            115.73533,
+                            -32.052984
+                        ],
+                        [
+                            115.734516,
+                            -32.051929
+                        ],
+                        [
+                            115.734686,
+                            -32.051695
+                        ],
+                        [
+                            115.734202,
+                            -32.051456
+                        ],
+                        [
+                            115.734617,
+                            -32.050847
+                        ],
+                        [
+                            115.73375,
+                            -32.050473
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFREVBJK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aufrevbjk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    115.733756,
+                    -32.051766
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "AUFREVBJK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-18",
+                "url": "https://www.bic-code.org/facility-codes/aufrevbjk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

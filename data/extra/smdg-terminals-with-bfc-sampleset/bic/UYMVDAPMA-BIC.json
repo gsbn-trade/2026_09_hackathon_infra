@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -56.278442,
+                            -34.855457
+                        ],
+                        [
+                            -56.278513,
+                            -34.855448
+                        ],
+                        [
+                            -56.27788,
+                            -34.858728
+                        ],
+                        [
+                            -56.276809,
+                            -34.858557
+                        ],
+                        [
+                            -56.277477,
+                            -34.855351
+                        ],
+                        [
+                            -56.278442,
+                            -34.855457
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-08-06",
+                "url": "https://www.bic-code.org/facility-codes/uymvdapma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.277927,
+                    -34.8565
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "UYMVDAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-08-06",
+                "url": "https://www.bic-code.org/facility-codes/uymvdapma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

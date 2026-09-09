@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.6507,
+                            9.89458
+                        ],
+                        [
+                            -84.6502,
+                            9.89516
+                        ],
+                        [
+                            -84.6505,
+                            9.89582
+                        ],
+                        [
+                            -84.6508,
+                            9.89666
+                        ],
+                        [
+                            -84.652,
+                            9.89616
+                        ],
+                        [
+                            -84.6519,
+                            9.89583
+                        ],
+                        [
+                            -84.6522,
+                            9.89538
+                        ],
+                        [
+                            -84.6507,
+                            9.89458
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALTTBU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalttbu/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.651125,
+                    9.895521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CRCALTTBU",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-09-03",
+                "url": "https://www.bic-code.org/facility-codes/crcalttbu/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

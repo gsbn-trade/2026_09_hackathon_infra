@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -7.458184,
+                            33.617855
+                        ],
+                        [
+                            -7.456968,
+                            33.617518
+                        ],
+                        [
+                            -7.456903,
+                            33.616492
+                        ],
+                        [
+                            -7.456013,
+                            33.616594
+                        ],
+                        [
+                            -7.456085,
+                            33.616954
+                        ],
+                        [
+                            -7.456189,
+                            33.617232
+                        ],
+                        [
+                            -7.456221,
+                            33.617372
+                        ],
+                        [
+                            -7.456294,
+                            33.617681
+                        ],
+                        [
+                            -7.456343,
+                            33.619292
+                        ],
+                        [
+                            -7.457123,
+                            33.619551
+                        ],
+                        [
+                            -7.458196,
+                            33.617878
+                        ],
+                        [
+                            -7.458184,
+                            33.617855
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASAHRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-10-22",
+                "url": "https://www.bic-code.org/facility-codes/macasahra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.456892,
+                    33.61769
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MACASAHRA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-10-22",
+                "url": "https://www.bic-code.org/facility-codes/macasahra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

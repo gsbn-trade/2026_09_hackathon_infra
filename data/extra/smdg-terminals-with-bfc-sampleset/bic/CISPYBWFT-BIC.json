@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -6.627626,
+                            4.753987
+                        ],
+                        [
+                            -6.628044,
+                            4.754164
+                        ],
+                        [
+                            -6.629268,
+                            4.754244
+                        ],
+                        [
+                            -6.629273,
+                            4.752768
+                        ],
+                        [
+                            -6.627572,
+                            4.752784
+                        ],
+                        [
+                            -6.627385,
+                            4.752827
+                        ],
+                        [
+                            -6.62739,
+                            4.753383
+                        ],
+                        [
+                            -6.62747,
+                            4.753827
+                        ],
+                        [
+                            -6.627626,
+                            4.753987
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYBWFT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispybwft/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.627962,
+                    4.753552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CISPYBWFT",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/cispybwft/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

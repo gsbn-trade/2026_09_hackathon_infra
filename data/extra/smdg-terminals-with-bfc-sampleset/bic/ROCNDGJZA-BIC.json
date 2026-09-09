@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            28.6413,
+                            44.1577
+                        ],
+                        [
+                            28.6435,
+                            44.1566
+                        ],
+                        [
+                            28.6537,
+                            44.1557
+                        ],
+                        [
+                            28.654,
+                            44.1574
+                        ],
+                        [
+                            28.6437,
+                            44.1582
+                        ],
+                        [
+                            28.642734,
+                            44.15841
+                        ],
+                        [
+                            28.640116,
+                            44.158639
+                        ],
+                        [
+                            28.640125,
+                            44.15939
+                        ],
+                        [
+                            28.639936,
+                            44.159463
+                        ],
+                        [
+                            28.638876,
+                            44.15937
+                        ],
+                        [
+                            28.63829,
+                            44.159304
+                        ],
+                        [
+                            28.637995,
+                            44.159307
+                        ],
+                        [
+                            28.637765,
+                            44.159433
+                        ],
+                        [
+                            28.637801,
+                            44.159018
+                        ],
+                        [
+                            28.637845,
+                            44.158667
+                        ],
+                        [
+                            28.6413,
+                            44.1577
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDGJZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-01",
+                "url": "https://www.bic-code.org/facility-codes/rocndgjza/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.641811,
+                    44.158394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ROCNDGJZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-01",
+                "url": "https://www.bic-code.org/facility-codes/rocndgjza/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

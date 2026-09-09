@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.327206,
+                            22.567961
+                        ],
+                        [
+                            120.328511,
+                            22.568902
+                        ],
+                        [
+                            120.327167,
+                            22.570471
+                        ],
+                        [
+                            120.325955,
+                            22.569501
+                        ],
+                        [
+                            120.326341,
+                            22.568917
+                        ],
+                        [
+                            120.327206,
+                            22.567961
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCTMK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/twkhhctmk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.327064,
+                    22.568952
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "TWKHHCTMK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-28",
+                "url": "https://www.bic-code.org/facility-codes/twkhhctmk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

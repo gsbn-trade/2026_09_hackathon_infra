@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.657477,
+                            31.848142
+                        ],
+                        [
+                            34.643787,
+                            31.848434
+                        ],
+                        [
+                            34.642714,
+                            31.847887
+                        ],
+                        [
+                            34.642413,
+                            31.845809
+                        ],
+                        [
+                            34.642542,
+                            31.842856
+                        ],
+                        [
+                            34.651082,
+                            31.842783
+                        ],
+                        [
+                            34.650954,
+                            31.844606
+                        ],
+                        [
+                            34.651683,
+                            31.845481
+                        ],
+                        [
+                            34.656876,
+                            31.845335
+                        ],
+                        [
+                            34.657777,
+                            31.847121
+                        ],
+                        [
+                            34.657477,
+                            31.848142
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.642542,
+                            31.84282
+                        ],
+                        [
+                            34.642499,
+                            31.841799
+                        ],
+                        [
+                            34.651254,
+                            31.841835
+                        ],
+                        [
+                            34.651168,
+                            31.842674
+                        ],
+                        [
+                            34.642542,
+                            31.84282
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.650435,
+                    31.846054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.646001,
+                    31.84239
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ILASHHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-03-26",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

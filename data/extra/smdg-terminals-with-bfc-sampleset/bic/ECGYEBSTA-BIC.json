@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.8928,
+                            -2.28137
+                        ],
+                        [
+                            -79.8919,
+                            -2.28127
+                        ],
+                        [
+                            -79.891834,
+                            -2.278021
+                        ],
+                        [
+                            -79.894561,
+                            -2.278313
+                        ],
+                        [
+                            -79.894604,
+                            -2.281278
+                        ],
+                        [
+                            -79.894294,
+                            -2.281581
+                        ],
+                        [
+                            -79.894974,
+                            -2.282198
+                        ],
+                        [
+                            -79.894944,
+                            -2.2823
+                        ],
+                        [
+                            -79.894341,
+                            -2.281816
+                        ],
+                        [
+                            -79.894311,
+                            -2.282011
+                        ],
+                        [
+                            -79.894664,
+                            -2.282345
+                        ],
+                        [
+                            -79.894655,
+                            -2.283662
+                        ],
+                        [
+                            -79.894581,
+                            -2.286068
+                        ],
+                        [
+                            -79.894057,
+                            -2.286065
+                        ],
+                        [
+                            -79.893947,
+                            -2.286521
+                        ],
+                        [
+                            -79.893711,
+                            -2.286462
+                        ],
+                        [
+                            -79.893849,
+                            -2.285985
+                        ],
+                        [
+                            -79.893344,
+                            -2.285854
+                        ],
+                        [
+                            -79.89284,
+                            -2.285851
+                        ],
+                        [
+                            -79.8928,
+                            -2.28137
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBSTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyebsta/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.893851,
+                    -2.283017
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEBSTA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-03-20",
+                "url": "https://www.bic-code.org/facility-codes/ecgyebsta/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

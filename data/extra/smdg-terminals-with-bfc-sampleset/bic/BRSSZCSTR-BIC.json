@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.390737,
+                            -23.922765
+                        ],
+                        [
+                            -46.390726,
+                            -23.922745
+                        ],
+                        [
+                            -46.393473,
+                            -23.923287
+                        ],
+                        [
+                            -46.393453,
+                            -23.923433
+                        ],
+                        [
+                            -46.393168,
+                            -23.923414
+                        ],
+                        [
+                            -46.392937,
+                            -23.923406
+                        ],
+                        [
+                            -46.39271,
+                            -23.923429
+                        ],
+                        [
+                            -46.392543,
+                            -23.923447
+                        ],
+                        [
+                            -46.390979,
+                            -23.923927
+                        ],
+                        [
+                            -46.390737,
+                            -23.922765
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZCSTR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszcstr/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.392146,
+                    -23.923262
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZCSTR",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszcstr/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

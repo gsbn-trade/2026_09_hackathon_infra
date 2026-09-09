@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            51.587639,
+                            24.945859
+                        ],
+                        [
+                            51.586076,
+                            24.946532
+                        ],
+                        [
+                            51.585018,
+                            24.945046
+                        ],
+                        [
+                            51.584796,
+                            24.945092
+                        ],
+                        [
+                            51.583891,
+                            24.944736
+                        ],
+                        [
+                            51.582977,
+                            24.943343
+                        ],
+                        [
+                            51.585257,
+                            24.942135
+                        ],
+                        [
+                            51.587639,
+                            24.945859
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAUMSCT7",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by GAC",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            51.587626,
+                            24.945854
+                        ],
+                        [
+                            51.585251,
+                            24.942107
+                        ],
+                        [
+                            51.585616,
+                            24.941924
+                        ],
+                        [
+                            51.588059,
+                            24.945655
+                        ],
+                        [
+                            51.587626,
+                            24.945854
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAUMSCT7",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "Provided by GAC",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.585412,
+                    24.944825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAUMSCT7",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by GAC",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.586836,
+                    24.944279
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAUMSCT7",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by GAC",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

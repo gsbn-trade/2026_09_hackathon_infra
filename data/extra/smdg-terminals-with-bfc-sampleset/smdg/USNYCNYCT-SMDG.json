@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.193852,
+                            40.637253
+                        ],
+                        [
+                            -74.190137,
+                            40.635924
+                        ],
+                        [
+                            -74.184551,
+                            40.634134
+                        ],
+                        [
+                            -74.183346,
+                            40.633819
+                        ],
+                        [
+                            -74.183087,
+                            40.634095
+                        ],
+                        [
+                            -74.183295,
+                            40.634221
+                        ],
+                        [
+                            -74.183191,
+                            40.6343
+                        ],
+                        [
+                            -74.18384,
+                            40.635446
+                        ],
+                        [
+                            -74.184194,
+                            40.636664
+                        ],
+                        [
+                            -74.184957,
+                            40.636912
+                        ],
+                        [
+                            -74.184448,
+                            40.637879
+                        ],
+                        [
+                            -74.183809,
+                            40.637927
+                        ],
+                        [
+                            -74.183729,
+                            40.638328
+                        ],
+                        [
+                            -74.183409,
+                            40.639286
+                        ],
+                        [
+                            -74.183005,
+                            40.640042
+                        ],
+                        [
+                            -74.183101,
+                            40.641267
+                        ],
+                        [
+                            -74.184188,
+                            40.642237
+                        ],
+                        [
+                            -74.185482,
+                            40.643001
+                        ],
+                        [
+                            -74.186249,
+                            40.643571
+                        ],
+                        [
+                            -74.193773,
+                            40.637593
+                        ],
+                        [
+                            -74.193597,
+                            40.637459
+                        ],
+                        [
+                            -74.193852,
+                            40.637253
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNYCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -74.193786,
+                            40.637601
+                        ],
+                        [
+                            -74.186241,
+                            40.643571
+                        ],
+                        [
+                            -74.186578,
+                            40.643874
+                        ],
+                        [
+                            -74.194239,
+                            40.637851
+                        ],
+                        [
+                            -74.193786,
+                            40.637601
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNYCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.18605,
+                    40.637664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNYCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.190926,
+                    40.6401
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USNYCNYCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

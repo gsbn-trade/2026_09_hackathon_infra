@@ -1,0 +1,99 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            5.316877,
+                            60.384124
+                        ],
+                        [
+                            5.317507,
+                            60.384525
+                        ],
+                        [
+                            5.317147,
+                            60.384763
+                        ],
+                        [
+                            5.316471,
+                            60.385638
+                        ],
+                        [
+                            5.316787,
+                            60.386195
+                        ],
+                        [
+                            5.316664,
+                            60.386425
+                        ],
+                        [
+                            5.31631,
+                            60.386698
+                        ],
+                        [
+                            5.315315,
+                            60.387552
+                        ],
+                        [
+                            5.31502,
+                            60.38746
+                        ],
+                        [
+                            5.314475,
+                            60.388085
+                        ],
+                        [
+                            5.313585,
+                            60.387729
+                        ],
+                        [
+                            5.312893,
+                            60.387313
+                        ],
+                        [
+                            5.311625,
+                            60.386581
+                        ],
+                        [
+                            5.316877,
+                            60.384124
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOBGOKAZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-02",
+                "remarks": "Operator as from 2024 is Nor Lines AS",
+                "url": "https://www.bic-code.org/facility-codes/nobgokaza/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.31554,
+                    60.386229
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NOBGOKAZA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-02",
+                "remarks": "Operator as from 2024 is Nor Lines AS",
+                "url": "https://www.bic-code.org/facility-codes/nobgokaza/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

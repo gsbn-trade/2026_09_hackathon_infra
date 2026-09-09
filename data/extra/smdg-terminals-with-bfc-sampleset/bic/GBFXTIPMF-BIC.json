@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.314038,
+                            51.962678
+                        ],
+                        [
+                            1.31385,
+                            51.962609
+                        ],
+                        [
+                            1.312021,
+                            51.961482
+                        ],
+                        [
+                            1.312209,
+                            51.961263
+                        ],
+                        [
+                            1.312675,
+                            51.960893
+                        ],
+                        [
+                            1.313239,
+                            51.960473
+                        ],
+                        [
+                            1.313512,
+                            51.960404
+                        ],
+                        [
+                            1.314966,
+                            51.960609
+                        ],
+                        [
+                            1.316119,
+                            51.961415
+                        ],
+                        [
+                            1.314923,
+                            51.962136
+                        ],
+                        [
+                            1.314038,
+                            51.962678
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GBFXTIPMF",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-01-31",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtipmf/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.313781,
+                    51.961513
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "GBFXTIPMF",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-01-31",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtipmf/"
+            }
+        }
+    ]
+}

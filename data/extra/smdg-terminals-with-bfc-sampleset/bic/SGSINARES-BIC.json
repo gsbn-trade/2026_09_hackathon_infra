@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.690996,
+                            1.313627
+                        ],
+                        [
+                            103.69087,
+                            1.313564
+                        ],
+                        [
+                            103.689518,
+                            1.312439
+                        ],
+                        [
+                            103.69053,
+                            1.311381
+                        ],
+                        [
+                            103.691198,
+                            1.311937
+                        ],
+                        [
+                            103.690965,
+                            1.312188
+                        ],
+                        [
+                            103.691667,
+                            1.312789
+                        ],
+                        [
+                            103.691249,
+                            1.313245
+                        ],
+                        [
+                            103.691069,
+                            1.31348
+                        ],
+                        [
+                            103.690996,
+                            1.313627
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SGSINARES",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-08",
+                "url": "https://www.bic-code.org/facility-codes/sgsinares/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.690906,
+                    1.312828
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SGSINARES",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-08",
+                "url": "https://www.bic-code.org/facility-codes/sgsinares/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.200672,
+                            60.213417
+                        ],
+                        [
+                            25.198821,
+                            60.214499
+                        ],
+                        [
+                            25.195731,
+                            60.216442
+                        ],
+                        [
+                            25.192098,
+                            60.218566
+                        ],
+                        [
+                            25.191455,
+                            60.218316
+                        ],
+                        [
+                            25.190771,
+                            60.218001
+                        ],
+                        [
+                            25.189875,
+                            60.217635
+                        ],
+                        [
+                            25.189246,
+                            60.217408
+                        ],
+                        [
+                            25.197993,
+                            60.212283
+                        ],
+                        [
+                            25.200672,
+                            60.213417
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFSHVU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.193225,
+                            60.215073
+                        ],
+                        [
+                            25.189254,
+                            60.217412
+                        ],
+                        [
+                            25.18823,
+                            60.217013
+                        ],
+                        [
+                            25.196928,
+                            60.211832
+                        ],
+                        [
+                            25.197964,
+                            60.212304
+                        ],
+                        [
+                            25.193225,
+                            60.215073
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFSHVU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.194733,
+                    60.215998
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFSHVU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.193138,
+                    60.214785
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFSHVU",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

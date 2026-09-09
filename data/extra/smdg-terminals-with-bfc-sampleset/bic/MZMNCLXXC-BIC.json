@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.6812,
+                            -14.5801
+                        ],
+                        [
+                            40.6798,
+                            -14.5801
+                        ],
+                        [
+                            40.6798,
+                            -14.5796
+                        ],
+                        [
+                            40.6801,
+                            -14.5796
+                        ],
+                        [
+                            40.6801,
+                            -14.5782
+                        ],
+                        [
+                            40.6794,
+                            -14.5781
+                        ],
+                        [
+                            40.679,
+                            -14.5782
+                        ],
+                        [
+                            40.679,
+                            -14.5789
+                        ],
+                        [
+                            40.6789,
+                            -14.579
+                        ],
+                        [
+                            40.679,
+                            -14.5814
+                        ],
+                        [
+                            40.6812,
+                            -14.5813
+                        ],
+                        [
+                            40.6812,
+                            -14.5801
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCLXXC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmnclxxc/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.679892,
+                    -14.57955
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZMNCLXXC",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzmnclxxc/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

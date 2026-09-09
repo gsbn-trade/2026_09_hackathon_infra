@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.073125,
+                            31.314136
+                        ],
+                        [
+                            30.073198,
+                            31.311543
+                        ],
+                        [
+                            30.076566,
+                            31.311457
+                        ],
+                        [
+                            30.076544,
+                            31.309191
+                        ],
+                        [
+                            30.086014,
+                            31.309363
+                        ],
+                        [
+                            30.085759,
+                            31.314405
+                        ],
+                        [
+                            30.077483,
+                            31.314198
+                        ],
+                        [
+                            30.073125,
+                            31.314136
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGAKIAQCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "remarks": "Provided by hutchisonportsabuqir",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            30.073109,
+                            31.314152
+                        ],
+                        [
+                            30.085759,
+                            31.314385
+                        ],
+                        [
+                            30.085723,
+                            31.315149
+                        ],
+                        [
+                            30.07309,
+                            31.31493
+                        ],
+                        [
+                            30.073109,
+                            31.314152
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGAKIAQCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-01-29",
+                "remarks": "Provided by hutchisonportsabuqir",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.077727,
+                    31.312304
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGAKIAQCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by hutchisonportsabuqir",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.078158,
+                    31.314554
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EGAKIAQCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "remarks": "Provided by hutchisonportsabuqir",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

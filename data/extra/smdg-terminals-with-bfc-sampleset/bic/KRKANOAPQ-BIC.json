@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            127.681058,
+                            34.909218
+                        ],
+                        [
+                            127.67726,
+                            34.913577
+                        ],
+                        [
+                            127.668763,
+                            34.908414
+                        ],
+                        [
+                            127.669753,
+                            34.907348
+                        ],
+                        [
+                            127.670269,
+                            34.907654
+                        ],
+                        [
+                            127.673139,
+                            34.9044
+                        ],
+                        [
+                            127.681058,
+                            34.909218
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANOAPQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-01-29",
+                "url": "https://www.bic-code.org/facility-codes/krkanoapq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    127.674471,
+                    34.908547
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRKANOAPQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-01-29",
+                "url": "https://www.bic-code.org/facility-codes/krkanoapq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.855716,
+                            44.106602
+                        ],
+                        [
+                            9.854765,
+                            44.106401
+                        ],
+                        [
+                            9.854799,
+                            44.10633
+                        ],
+                        [
+                            9.85299,
+                            44.105888
+                        ],
+                        [
+                            9.853653,
+                            44.104607
+                        ],
+                        [
+                            9.855509,
+                            44.105055
+                        ],
+                        [
+                            9.855638,
+                            44.104819
+                        ],
+                        [
+                            9.856035,
+                            44.104041
+                        ],
+                        [
+                            9.856118,
+                            44.103879
+                        ],
+                        [
+                            9.85619,
+                            44.103737
+                        ],
+                        [
+                            9.856391,
+                            44.103791
+                        ],
+                        [
+                            9.856326,
+                            44.103916
+                        ],
+                        [
+                            9.8572,
+                            44.104154
+                        ],
+                        [
+                            9.857174,
+                            44.104295
+                        ],
+                        [
+                            9.857229,
+                            44.104322
+                        ],
+                        [
+                            9.856985,
+                            44.104866
+                        ],
+                        [
+                            9.856882,
+                            44.10521
+                        ],
+                        [
+                            9.856803,
+                            44.105472
+                        ],
+                        [
+                            9.856355,
+                            44.106734
+                        ],
+                        [
+                            9.855716,
+                            44.106602
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPETDG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.854801,
+                            44.106348
+                        ],
+                        [
+                            9.854726,
+                            44.10648
+                        ],
+                        [
+                            9.852622,
+                            44.105956
+                        ],
+                        [
+                            9.853514,
+                            44.10436
+                        ],
+                        [
+                            9.85532,
+                            44.104795
+                        ],
+                        [
+                            9.855845,
+                            44.103968
+                        ],
+                        [
+                            9.856039,
+                            44.104034
+                        ],
+                        [
+                            9.855499,
+                            44.105043
+                        ],
+                        [
+                            9.853633,
+                            44.104585
+                        ],
+                        [
+                            9.852984,
+                            44.105897
+                        ],
+                        [
+                            9.854801,
+                            44.106348
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPETDG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.855924,
+                    44.105036
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPETDG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.854526,
+                    44.105256
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITSPETDG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-03-12",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

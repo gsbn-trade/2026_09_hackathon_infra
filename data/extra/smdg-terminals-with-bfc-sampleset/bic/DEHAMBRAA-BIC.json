@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "DEHAMBRAA",
+                "category": "geofence",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehambraa/"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.9889552,
+                            53.4977555
+                        ],
+                        [
+                            9.9888587,
+                            53.4970151
+                        ],
+                        [
+                            9.9903044,
+                            53.4969497
+                        ],
+                        [
+                            9.9903795,
+                            53.4975656
+                        ],
+                        [
+                            9.9904251,
+                            53.4979437
+                        ],
+                        [
+                            9.9903419,
+                            53.4982038
+                        ],
+                        [
+                            9.9902105,
+                            53.4984032
+                        ],
+                        [
+                            9.9899584,
+                            53.4986569
+                        ],
+                        [
+                            9.9894487,
+                            53.4989393
+                        ],
+                        [
+                            9.9887621,
+                            53.4991435
+                        ],
+                        [
+                            9.9881345,
+                            53.4993063
+                        ],
+                        [
+                            9.9879923,
+                            53.4983203
+                        ],
+                        [
+                            9.9879387,
+                            53.4978177
+                        ],
+                        [
+                            9.9889552,
+                            53.4977555
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.989333,
+                    53.498127
+                ]
+            },
+            "properties": {
+                "code": "DEHAMBRAA",
+                "category": "centroid",
+                "codeProvider": "BIC",
+                "version": "2023-01-05",
+                "url": "https://www.bic-code.org/facility-codes/dehambraa/"
+            }
+        }
+    ]
+}

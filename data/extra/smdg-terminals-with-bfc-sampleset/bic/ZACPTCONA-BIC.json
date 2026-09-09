@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.770657,
+                            -34.069283
+                        ],
+                        [
+                            18.769981,
+                            -34.069863
+                        ],
+                        [
+                            18.769901,
+                            -34.070054
+                        ],
+                        [
+                            18.770713,
+                            -34.070666
+                        ],
+                        [
+                            18.771553,
+                            -34.069938
+                        ],
+                        [
+                            18.770657,
+                            -34.069283
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCONA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-09",
+                "url": "https://www.bic-code.org/facility-codes/zacptcona/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.770577,
+                    -34.069848
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZACPTCONA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-09",
+                "url": "https://www.bic-code.org/facility-codes/zacptcona/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

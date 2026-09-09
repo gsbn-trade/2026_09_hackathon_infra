@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.905695,
+                            6.936423
+                        ],
+                        [
+                            79.90593,
+                            6.937159
+                        ],
+                        [
+                            79.906318,
+                            6.937672
+                        ],
+                        [
+                            79.905704,
+                            6.938066
+                        ],
+                        [
+                            79.905663,
+                            6.93943
+                        ],
+                        [
+                            79.905149,
+                            6.939553
+                        ],
+                        [
+                            79.905088,
+                            6.939526
+                        ],
+                        [
+                            79.90494,
+                            6.939148
+                        ],
+                        [
+                            79.905104,
+                            6.939012
+                        ],
+                        [
+                            79.904709,
+                            6.93809
+                        ],
+                        [
+                            79.904337,
+                            6.936961
+                        ],
+                        [
+                            79.904928,
+                            6.936771
+                        ],
+                        [
+                            79.90513,
+                            6.936489
+                        ],
+                        [
+                            79.905695,
+                            6.936423
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "LKCMBABCA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbabca/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.905314,
+                    6.937909
+                ]
+            },
+            "properties": {
+                "trustGrade": "FACILITY_PROVIDED",
+                "code": "LKCMBABCA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2023-12-15",
+                "url": "https://www.bic-code.org/facility-codes/lkcmbabca/"
+            }
+        }
+    ]
+}

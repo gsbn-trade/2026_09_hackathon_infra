@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.313439,
+                            40.850268
+                        ],
+                        [
+                            14.313758,
+                            40.850347
+                        ],
+                        [
+                            14.314252,
+                            40.849632
+                        ],
+                        [
+                            14.314419,
+                            40.849315
+                        ],
+                        [
+                            14.313801,
+                            40.848939
+                        ],
+                        [
+                            14.313634,
+                            40.848871
+                        ],
+                        [
+                            14.313533,
+                            40.849006
+                        ],
+                        [
+                            14.313548,
+                            40.849027
+                        ],
+                        [
+                            14.312864,
+                            40.850062
+                        ],
+                        [
+                            14.313339,
+                            40.850253
+                        ],
+                        [
+                            14.313439,
+                            40.850268
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPMESA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-06-10",
+                "url": "https://www.bic-code.org/facility-codes/itnapmesa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.313639,
+                    40.849635
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPMESA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-06-10",
+                "url": "https://www.bic-code.org/facility-codes/itnapmesa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

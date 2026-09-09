@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.114986,
+                            -32.121256
+                        ],
+                        [
+                            -52.114942,
+                            -32.121232
+                        ],
+                        [
+                            -52.116969,
+                            -32.118773
+                        ],
+                        [
+                            -52.118573,
+                            -32.116781
+                        ],
+                        [
+                            -52.118881,
+                            -32.116548
+                        ],
+                        [
+                            -52.120371,
+                            -32.117426
+                        ],
+                        [
+                            -52.120567,
+                            -32.117568
+                        ],
+                        [
+                            -52.118811,
+                            -32.11978
+                        ],
+                        [
+                            -52.117915,
+                            -32.119239
+                        ],
+                        [
+                            -52.115826,
+                            -32.121756
+                        ],
+                        [
+                            -52.114986,
+                            -32.121256
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGCWOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigcwoa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.11753,
+                    -32.119238
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGCWOA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigcwoa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

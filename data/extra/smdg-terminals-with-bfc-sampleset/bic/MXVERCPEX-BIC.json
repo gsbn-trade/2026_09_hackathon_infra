@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -96.229959,
+                            19.231852
+                        ],
+                        [
+                            -96.231329,
+                            19.232425
+                        ],
+                        [
+                            -96.23276,
+                            19.232582
+                        ],
+                        [
+                            -96.233871,
+                            19.232703
+                        ],
+                        [
+                            -96.234663,
+                            19.231712
+                        ],
+                        [
+                            -96.233509,
+                            19.23159
+                        ],
+                        [
+                            -96.232944,
+                            19.231538
+                        ],
+                        [
+                            -96.232183,
+                            19.231509
+                        ],
+                        [
+                            -96.231864,
+                            19.23173
+                        ],
+                        [
+                            -96.231397,
+                            19.231683
+                        ],
+                        [
+                            -96.231115,
+                            19.231532
+                        ],
+                        [
+                            -96.23098,
+                            19.230756
+                        ],
+                        [
+                            -96.230949,
+                            19.230222
+                        ],
+                        [
+                            -96.230151,
+                            19.22904
+                        ],
+                        [
+                            -96.229862,
+                            19.229167
+                        ],
+                        [
+                            -96.230071,
+                            19.23035
+                        ],
+                        [
+                            -96.230163,
+                            19.230993
+                        ],
+                        [
+                            -96.229991,
+                            19.23155
+                        ],
+                        [
+                            -96.229836,
+                            19.231795
+                        ],
+                        [
+                            -96.229959,
+                            19.231852
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCPEX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-04-30",
+                "url": "https://www.bic-code.org/facility-codes/mxvercpex/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.231378,
+                    19.231329
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXVERCPEX",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-04-30",
+                "url": "https://www.bic-code.org/facility-codes/mxvercpex/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

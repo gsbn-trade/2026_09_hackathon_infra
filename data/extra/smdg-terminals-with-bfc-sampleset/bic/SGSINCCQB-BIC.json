@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.631473,
+                            1.291428
+                        ],
+                        [
+                            103.631419,
+                            1.290879
+                        ],
+                        [
+                            103.631376,
+                            1.290347
+                        ],
+                        [
+                            103.631317,
+                            1.289253
+                        ],
+                        [
+                            103.631352,
+                            1.289128
+                        ],
+                        [
+                            103.631471,
+                            1.289082
+                        ],
+                        [
+                            103.631571,
+                            1.289072
+                        ],
+                        [
+                            103.631893,
+                            1.289052
+                        ],
+                        [
+                            103.631933,
+                            1.289046
+                        ],
+                        [
+                            103.632492,
+                            1.289011
+                        ],
+                        [
+                            103.63265,
+                            1.291297
+                        ],
+                        [
+                            103.631473,
+                            1.291428
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SGSINCCQB",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-02-01",
+                "url": "https://www.bic-code.org/facility-codes/sgsinccqb/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.631702,
+                    1.289919
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "SGSINCCQB",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-02-01",
+                "url": "https://www.bic-code.org/facility-codes/sgsinccqb/"
+            }
+        }
+    ]
+}

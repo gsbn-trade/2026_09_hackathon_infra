@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.903599,
+                            49.195343
+                        ],
+                        [
+                            -122.903854,
+                            49.195469
+                        ],
+                        [
+                            -122.904373,
+                            49.195448
+                        ],
+                        [
+                            -122.904793,
+                            49.195416
+                        ],
+                        [
+                            -122.905436,
+                            49.195146
+                        ],
+                        [
+                            -122.905798,
+                            49.194904
+                        ],
+                        [
+                            -122.906037,
+                            49.194549
+                        ],
+                        [
+                            -122.906193,
+                            49.194145
+                        ],
+                        [
+                            -122.906391,
+                            49.193847
+                        ],
+                        [
+                            -122.90621,
+                            49.193604
+                        ],
+                        [
+                            -122.908368,
+                            49.192006
+                        ],
+                        [
+                            -122.905345,
+                            49.190294
+                        ],
+                        [
+                            -122.902965,
+                            49.192124
+                        ],
+                        [
+                            -122.90294,
+                            49.192361
+                        ],
+                        [
+                            -122.903261,
+                            49.193039
+                        ],
+                        [
+                            -122.903838,
+                            49.193529
+                        ],
+                        [
+                            -122.904991,
+                            49.193965
+                        ],
+                        [
+                            -122.904447,
+                            49.194374
+                        ],
+                        [
+                            -122.904768,
+                            49.194525
+                        ],
+                        [
+                            -122.903599,
+                            49.195343
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANAQTO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/cavanaqto/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.90486,
+                    49.193972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CAVANAQTO",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-27",
+                "url": "https://www.bic-code.org/facility-codes/cavanaqto/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

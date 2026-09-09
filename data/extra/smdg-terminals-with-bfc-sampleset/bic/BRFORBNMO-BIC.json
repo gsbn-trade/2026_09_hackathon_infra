@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.622573,
+                            -3.823397
+                        ],
+                        [
+                            -38.622822,
+                            -3.823738
+                        ],
+                        [
+                            -38.622522,
+                            -3.82398
+                        ],
+                        [
+                            -38.622271,
+                            -3.824047
+                        ],
+                        [
+                            -38.62215,
+                            -3.824019
+                        ],
+                        [
+                            -38.621991,
+                            -3.823789
+                        ],
+                        [
+                            -38.622573,
+                            -3.823397
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORBNMO",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brforbnmo/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.622415,
+                    -3.823767
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRFORBNMO",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brforbnmo/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,313 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            129.078761,
+                            35.103606
+                        ],
+                        [
+                            129.090306,
+                            35.103611
+                        ],
+                        [
+                            129.090315,
+                            35.108697
+                        ],
+                        [
+                            129.090309,
+                            35.108862
+                        ],
+                        [
+                            129.080468,
+                            35.10836
+                        ],
+                        [
+                            129.079918,
+                            35.108345
+                        ],
+                        [
+                            129.078781,
+                            35.108417
+                        ],
+                        [
+                            129.078761,
+                            35.103606
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            129.093108,
+                            35.109634
+                        ],
+                        [
+                            129.094056,
+                            35.108653
+                        ],
+                        [
+                            129.094105,
+                            35.107466
+                        ],
+                        [
+                            129.093803,
+                            35.10735
+                        ],
+                        [
+                            129.094038,
+                            35.105638
+                        ],
+                        [
+                            129.094398,
+                            35.101732
+                        ],
+                        [
+                            129.095206,
+                            35.093867
+                        ],
+                        [
+                            129.095632,
+                            35.093877
+                        ],
+                        [
+                            129.095663,
+                            35.093528
+                        ],
+                        [
+                            129.097196,
+                            35.092731
+                        ],
+                        [
+                            129.098707,
+                            35.091862
+                        ],
+                        [
+                            129.098015,
+                            35.099409
+                        ],
+                        [
+                            129.097307,
+                            35.099431
+                        ],
+                        [
+                            129.097075,
+                            35.10155
+                        ],
+                        [
+                            129.09732,
+                            35.101892
+                        ],
+                        [
+                            129.098882,
+                            35.104204
+                        ],
+                        [
+                            129.098256,
+                            35.109829
+                        ],
+                        [
+                            129.095943,
+                            35.112246
+                        ],
+                        [
+                            129.093108,
+                            35.109634
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            129.078762,
+                            35.103603
+                        ],
+                        [
+                            129.078763,
+                            35.10301
+                        ],
+                        [
+                            129.090331,
+                            35.103013
+                        ],
+                        [
+                            129.090309,
+                            35.103599
+                        ],
+                        [
+                            129.078762,
+                            35.103603
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            129.093742,
+                            35.107347
+                        ],
+                        [
+                            129.093325,
+                            35.107289
+                        ],
+                        [
+                            129.09457,
+                            35.09396
+                        ],
+                        [
+                            129.095209,
+                            35.093872
+                        ],
+                        [
+                            129.093742,
+                            35.107347
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    129.083452,
+                    35.106688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    129.095885,
+                    35.102344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    129.083385,
+                    35.103366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    129.094118,
+                    35.101963
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "KRPUSKBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-02-09",
+                "remarks": "Gamman Pier 1B is occupied by HBCT.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

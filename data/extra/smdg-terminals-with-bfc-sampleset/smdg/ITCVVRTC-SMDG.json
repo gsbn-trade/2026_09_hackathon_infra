@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.772714,
+                            42.104133
+                        ],
+                        [
+                            11.773591,
+                            42.104606
+                        ],
+                        [
+                            11.774144,
+                            42.104045
+                        ],
+                        [
+                            11.776323,
+                            42.105235
+                        ],
+                        [
+                            11.775594,
+                            42.10595
+                        ],
+                        [
+                            11.773683,
+                            42.107959
+                        ],
+                        [
+                            11.773455,
+                            42.108809
+                        ],
+                        [
+                            11.772764,
+                            42.108411
+                        ],
+                        [
+                            11.772837,
+                            42.108309
+                        ],
+                        [
+                            11.770077,
+                            42.106811
+                        ],
+                        [
+                            11.772714,
+                            42.104133
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-06-26",
+                "remarks": "taken from the 3rd party suggestions adding berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.770071,
+                            42.106816
+                        ],
+                        [
+                            11.769478,
+                            42.106488
+                        ],
+                        [
+                            11.772095,
+                            42.103786
+                        ],
+                        [
+                            11.7727,
+                            42.104123
+                        ],
+                        [
+                            11.770071,
+                            42.106816
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-06-26",
+                "remarks": "taken from the 3rd party suggestions adding berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.773445,
+                    42.106218
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "remarks": "taken from the 3rd party suggestions adding berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.770883,
+                    42.105606
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITCVVRTC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-06-26",
+                "remarks": "taken from the 3rd party suggestions adding berth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -77.93405,
+                            18.463262
+                        ],
+                        [
+                            -77.934715,
+                            18.46371
+                        ],
+                        [
+                            -77.934179,
+                            18.464575
+                        ],
+                        [
+                            -77.934426,
+                            18.464809
+                        ],
+                        [
+                            -77.935584,
+                            18.463618
+                        ],
+                        [
+                            -77.936764,
+                            18.460697
+                        ],
+                        [
+                            -77.93582,
+                            18.459415
+                        ],
+                        [
+                            -77.936711,
+                            18.458815
+                        ],
+                        [
+                            -77.937683,
+                            18.460177
+                        ],
+                        [
+                            -77.93784,
+                            18.460192
+                        ],
+                        [
+                            -77.937829,
+                            18.459459
+                        ],
+                        [
+                            -77.937859,
+                            18.458612
+                        ],
+                        [
+                            -77.937882,
+                            18.458153
+                        ],
+                        [
+                            -77.937909,
+                            18.457585
+                        ],
+                        [
+                            -77.936743,
+                            18.457563
+                        ],
+                        [
+                            -77.93581,
+                            18.457593
+                        ],
+                        [
+                            -77.934415,
+                            18.458
+                        ],
+                        [
+                            -77.934479,
+                            18.461695
+                        ],
+                        [
+                            -77.934308,
+                            18.461807
+                        ],
+                        [
+                            -77.933986,
+                            18.461817
+                        ],
+                        [
+                            -77.93405,
+                            18.463262
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMMBJTOLE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmmbjtole/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.935859,
+                    18.460706
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JMMBJTOLE",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-08-21",
+                "url": "https://www.bic-code.org/facility-codes/jmmbjtole/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

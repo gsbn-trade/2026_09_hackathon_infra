@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -43.201312,
+                            -22.870496
+                        ],
+                        [
+                            -43.202946,
+                            -22.872206
+                        ],
+                        [
+                            -43.204029,
+                            -22.871331
+                        ],
+                        [
+                            -43.204506,
+                            -22.871828
+                        ],
+                        [
+                            -43.204872,
+                            -22.871509
+                        ],
+                        [
+                            -43.20655,
+                            -22.873259
+                        ],
+                        [
+                            -43.207639,
+                            -22.872433
+                        ],
+                        [
+                            -43.209632,
+                            -22.8745
+                        ],
+                        [
+                            -43.210002,
+                            -22.874782
+                        ],
+                        [
+                            -43.209903,
+                            -22.874892
+                        ],
+                        [
+                            -43.20949,
+                            -22.87456
+                        ],
+                        [
+                            -43.20891,
+                            -22.873933
+                        ],
+                        [
+                            -43.208882,
+                            -22.873917
+                        ],
+                        [
+                            -43.20742,
+                            -22.875088
+                        ],
+                        [
+                            -43.205883,
+                            -22.876372
+                        ],
+                        [
+                            -43.200794,
+                            -22.870917
+                        ],
+                        [
+                            -43.201312,
+                            -22.870496
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOLIBRJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-17",
+                "remarks": "www.ictsi.com. Berth extended to 800m. Verify gate area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -43.200786,
+                            -22.870924
+                        ],
+                        [
+                            -43.205867,
+                            -22.876384
+                        ],
+                        [
+                            -43.205456,
+                            -22.87674
+                        ],
+                        [
+                            -43.200317,
+                            -22.871303
+                        ],
+                        [
+                            -43.200786,
+                            -22.870924
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOLIBRJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-17",
+                "remarks": "www.ictsi.com. Berth extended to 800m. Verify gate area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.206122,
+                    -22.873089
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOLIBRJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-17",
+                "remarks": "www.ictsi.com. Berth extended to 800m. Verify gate area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.202642,
+                    -22.873255
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIOLIBRJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-17",
+                "remarks": "www.ictsi.com. Berth extended to 800m. Verify gate area.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

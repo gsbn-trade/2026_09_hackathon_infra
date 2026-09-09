@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.904448,
+                            53.349778
+                        ],
+                        [
+                            -2.906266,
+                            53.350493
+                        ],
+                        [
+                            -2.90635,
+                            53.350782
+                        ],
+                        [
+                            -2.906527,
+                            53.35083
+                        ],
+                        [
+                            -2.906956,
+                            53.350426
+                        ],
+                        [
+                            -2.90746,
+                            53.349971
+                        ],
+                        [
+                            -2.906312,
+                            53.3491
+                        ],
+                        [
+                            -2.905894,
+                            53.348879
+                        ],
+                        [
+                            -2.905411,
+                            53.348956
+                        ],
+                        [
+                            -2.905062,
+                            53.349196
+                        ],
+                        [
+                            -2.904448,
+                            53.349778
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCONA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-05-05",
+                "url": "https://www.bic-code.org/facility-codes/gblivcona/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.905921,
+                    53.349835
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBLIVCONA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-05-05",
+                "url": "https://www.bic-code.org/facility-codes/gblivcona/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

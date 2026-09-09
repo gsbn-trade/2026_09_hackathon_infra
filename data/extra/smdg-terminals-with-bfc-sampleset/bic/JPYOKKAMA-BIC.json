@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.664442,
+                            35.450187
+                        ],
+                        [
+                            139.663358,
+                            35.448886
+                        ],
+                        [
+                            139.662225,
+                            35.447464
+                        ],
+                        [
+                            139.663656,
+                            35.446704
+                        ],
+                        [
+                            139.665817,
+                            35.449472
+                        ],
+                        [
+                            139.664442,
+                            35.450187
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKKAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokkama/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.66399,
+                    35.448817
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKKAMA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokkama/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

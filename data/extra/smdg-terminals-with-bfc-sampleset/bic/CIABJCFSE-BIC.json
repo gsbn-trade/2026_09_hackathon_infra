@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.00645,
+                            5.270387
+                        ],
+                        [
+                            -4.005934,
+                            5.269908
+                        ],
+                        [
+                            -4.005911,
+                            5.269866
+                        ],
+                        [
+                            -4.00591,
+                            5.269827
+                        ],
+                        [
+                            -4.005832,
+                            5.269275
+                        ],
+                        [
+                            -4.006392,
+                            5.268611
+                        ],
+                        [
+                            -4.006438,
+                            5.268556
+                        ],
+                        [
+                            -4.006639,
+                            5.268766
+                        ],
+                        [
+                            -4.006586,
+                            5.268929
+                        ],
+                        [
+                            -4.006545,
+                            5.269139
+                        ],
+                        [
+                            -4.006532,
+                            5.269357
+                        ],
+                        [
+                            -4.006532,
+                            5.269522
+                        ],
+                        [
+                            -4.006555,
+                            5.269704
+                        ],
+                        [
+                            -4.006601,
+                            5.269917
+                        ],
+                        [
+                            -4.006514,
+                            5.270334
+                        ],
+                        [
+                            -4.00645,
+                            5.270387
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJCFSE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjcfse/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.006364,
+                    5.26953
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CIABJCFSE",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-12-03",
+                "url": "https://www.bic-code.org/facility-codes/ciabjcfse/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

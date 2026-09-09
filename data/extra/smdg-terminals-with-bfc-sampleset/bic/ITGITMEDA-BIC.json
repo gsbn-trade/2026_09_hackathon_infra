@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            15.924263,
+                            38.463568
+                        ],
+                        [
+                            15.922558,
+                            38.464303
+                        ],
+                        [
+                            15.921903,
+                            38.46353
+                        ],
+                        [
+                            15.923604,
+                            38.462824
+                        ],
+                        [
+                            15.924263,
+                            38.463568
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITGITMEDA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itgitmeda/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.923318,
+                    38.463559
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITGITMEDA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itgitmeda/"
+            }
+        }
+    ]
+}

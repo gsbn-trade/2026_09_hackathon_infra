@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.07413,
+                            43.355704
+                        ],
+                        [
+                            -3.073664,
+                            43.355608
+                        ],
+                        [
+                            -3.072672,
+                            43.355422
+                        ],
+                        [
+                            -3.07167,
+                            43.3579
+                        ],
+                        [
+                            -3.07338,
+                            43.3583
+                        ],
+                        [
+                            -3.07376,
+                            43.3575
+                        ],
+                        [
+                            -3.07407,
+                            43.3567
+                        ],
+                        [
+                            -3.074409,
+                            43.355739
+                        ],
+                        [
+                            -3.07413,
+                            43.355704
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIORXSF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esbiorxsf/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.073543,
+                    43.356509
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIORXSF",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esbiorxsf/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

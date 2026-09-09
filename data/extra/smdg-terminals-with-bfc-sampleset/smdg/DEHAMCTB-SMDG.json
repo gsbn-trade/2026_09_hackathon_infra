@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.927109,
+                            53.527257
+                        ],
+                        [
+                            9.92816,
+                            53.528271
+                        ],
+                        [
+                            9.92728,
+                            53.528692
+                        ],
+                        [
+                            9.928954,
+                            53.53014
+                        ],
+                        [
+                            9.931132,
+                            53.531957
+                        ],
+                        [
+                            9.931046,
+                            53.532818
+                        ],
+                        [
+                            9.930424,
+                            53.533915
+                        ],
+                        [
+                            9.929823,
+                            53.535126
+                        ],
+                        [
+                            9.929276,
+                            53.53593
+                        ],
+                        [
+                            9.92831,
+                            53.536708
+                        ],
+                        [
+                            9.927334,
+                            53.537014
+                        ],
+                        [
+                            9.925875,
+                            53.537511
+                        ],
+                        [
+                            9.925006,
+                            53.537849
+                        ],
+                        [
+                            9.921476,
+                            53.539303
+                        ],
+                        [
+                            9.921133,
+                            53.539564
+                        ],
+                        [
+                            9.905329,
+                            53.539647
+                        ],
+                        [
+                            9.90505,
+                            53.539143
+                        ],
+                        [
+                            9.905157,
+                            53.539092
+                        ],
+                        [
+                            9.909771,
+                            53.539041
+                        ],
+                        [
+                            9.909772,
+                            53.53573
+                        ],
+                        [
+                            9.909693,
+                            53.535733
+                        ],
+                        [
+                            9.909688,
+                            53.535492
+                        ],
+                        [
+                            9.909202,
+                            53.535503
+                        ],
+                        [
+                            9.909224,
+                            53.534961
+                        ],
+                        [
+                            9.908998,
+                            53.534795
+                        ],
+                        [
+                            9.92595,
+                            53.527748
+                        ],
+                        [
+                            9.927109,
+                            53.527257
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.908987,
+                            53.53479
+                        ],
+                        [
+                            9.908194,
+                            53.53411
+                        ],
+                        [
+                            9.926549,
+                            53.526687
+                        ],
+                        [
+                            9.92714,
+                            53.527235
+                        ],
+                        [
+                            9.908987,
+                            53.53479
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.921107,
+                            53.539592
+                        ],
+                        [
+                            9.921126,
+                            53.54002
+                        ],
+                        [
+                            9.905279,
+                            53.540042
+                        ],
+                        [
+                            9.905298,
+                            53.53968
+                        ],
+                        [
+                            9.921107,
+                            53.539592
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.909032,
+                            53.539048
+                        ],
+                        [
+                            9.908988,
+                            53.535747
+                        ],
+                        [
+                            9.909764,
+                            53.53574
+                        ],
+                        [
+                            9.909777,
+                            53.539048
+                        ],
+                        [
+                            9.909032,
+                            53.539048
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "BERTH",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92027,
+                    53.534674
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.915971,
+                    53.531522
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.914783,
+                    53.539785
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.909319,
+                    53.537726
+                ]
+            },
+            "properties": {
+                "code": "DEHAMCTB",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2023-12-08",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

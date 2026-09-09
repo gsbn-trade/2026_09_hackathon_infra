@@ -1,0 +1,211 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.676336,
+                            35.44319
+                        ],
+                        [
+                            139.676104,
+                            35.443157
+                        ],
+                        [
+                            139.673242,
+                            35.438503
+                        ],
+                        [
+                            139.673835,
+                            35.438302
+                        ],
+                        [
+                            139.673466,
+                            35.437911
+                        ],
+                        [
+                            139.672079,
+                            35.435615
+                        ],
+                        [
+                            139.672202,
+                            35.435378
+                        ],
+                        [
+                            139.675702,
+                            35.434003
+                        ],
+                        [
+                            139.675143,
+                            35.433183
+                        ],
+                        [
+                            139.676082,
+                            35.432773
+                        ],
+                        [
+                            139.681442,
+                            35.441522
+                        ],
+                        [
+                            139.676777,
+                            35.443486
+                        ],
+                        [
+                            139.676336,
+                            35.44319
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.676804,
+                            35.443524
+                        ],
+                        [
+                            139.681544,
+                            35.441488
+                        ],
+                        [
+                            139.681822,
+                            35.442107
+                        ],
+                        [
+                            139.677119,
+                            35.444007
+                        ],
+                        [
+                            139.676804,
+                            35.443524
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.68147,
+                            35.441473
+                        ],
+                        [
+                            139.676082,
+                            35.432724
+                        ],
+                        [
+                            139.676564,
+                            35.432513
+                        ],
+                        [
+                            139.682192,
+                            35.441156
+                        ],
+                        [
+                            139.68147,
+                            35.441473
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.675288,
+                    35.438478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.678819,
+                    35.44293
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.679556,
+                    35.437868
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKHBC",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

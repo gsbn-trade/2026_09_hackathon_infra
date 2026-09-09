@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1.331927,
+                            51.952152
+                        ],
+                        [
+                            1.329557,
+                            51.952975
+                        ],
+                        [
+                            1.328874,
+                            51.952163
+                        ],
+                        [
+                            1.330132,
+                            51.951895
+                        ],
+                        [
+                            1.331451,
+                            51.951678
+                        ],
+                        [
+                            1.331927,
+                            51.952152
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBFXTELPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtelpa/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.330645,
+                    51.952169
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBFXTELPA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/gbfxtelpa/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

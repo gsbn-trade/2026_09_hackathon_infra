@@ -1,0 +1,261 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.68263,
+                            20.86635
+                        ],
+                        [
+                            106.682717,
+                            20.866221
+                        ],
+                        [
+                            106.682765,
+                            20.865923
+                        ],
+                        [
+                            106.68275,
+                            20.865712
+                        ],
+                        [
+                            106.682631,
+                            20.86553
+                        ],
+                        [
+                            106.682482,
+                            20.865376
+                        ],
+                        [
+                            106.682807,
+                            20.865121
+                        ],
+                        [
+                            106.682779,
+                            20.86453
+                        ],
+                        [
+                            106.683464,
+                            20.864603
+                        ],
+                        [
+                            106.684857,
+                            20.864892
+                        ],
+                        [
+                            106.687534,
+                            20.865389
+                        ],
+                        [
+                            106.689124,
+                            20.865734
+                        ],
+                        [
+                            106.690275,
+                            20.865946
+                        ],
+                        [
+                            106.691794,
+                            20.866461
+                        ],
+                        [
+                            106.694436,
+                            20.867346
+                        ],
+                        [
+                            106.694735,
+                            20.867349
+                        ],
+                        [
+                            106.696778,
+                            20.867148
+                        ],
+                        [
+                            106.697843,
+                            20.867155
+                        ],
+                        [
+                            106.697881,
+                            20.867415
+                        ],
+                        [
+                            106.69769,
+                            20.86755
+                        ],
+                        [
+                            106.697577,
+                            20.867728
+                        ],
+                        [
+                            106.697515,
+                            20.867976
+                        ],
+                        [
+                            106.697509,
+                            20.868224
+                        ],
+                        [
+                            106.697628,
+                            20.86869
+                        ],
+                        [
+                            106.697641,
+                            20.868903
+                        ],
+                        [
+                            106.697617,
+                            20.869026
+                        ],
+                        [
+                            106.697106,
+                            20.869943
+                        ],
+                        [
+                            106.697042,
+                            20.870037
+                        ],
+                        [
+                            106.696937,
+                            20.870138
+                        ],
+                        [
+                            106.696752,
+                            20.870258
+                        ],
+                        [
+                            106.695843,
+                            20.870677
+                        ],
+                        [
+                            106.695535,
+                            20.870795
+                        ],
+                        [
+                            106.694901,
+                            20.87085
+                        ],
+                        [
+                            106.691584,
+                            20.868785
+                        ],
+                        [
+                            106.687177,
+                            20.867257
+                        ],
+                        [
+                            106.68263,
+                            20.86635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMAIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.682635,
+                            20.866364
+                        ],
+                        [
+                            106.687174,
+                            20.867268
+                        ],
+                        [
+                            106.691582,
+                            20.868795
+                        ],
+                        [
+                            106.694892,
+                            20.87086
+                        ],
+                        [
+                            106.694694,
+                            20.87109
+                        ],
+                        [
+                            106.691462,
+                            20.869007
+                        ],
+                        [
+                            106.687099,
+                            20.867492
+                        ],
+                        [
+                            106.682577,
+                            20.866611
+                        ],
+                        [
+                            106.682635,
+                            20.866364
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMAIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.69136,
+                    20.867427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMAIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.688306,
+                    20.868206
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMAIN",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

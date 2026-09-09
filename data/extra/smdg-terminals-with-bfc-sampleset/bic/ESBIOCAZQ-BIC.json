@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.040279,
+                            43.349527
+                        ],
+                        [
+                            -3.045831,
+                            43.343087
+                        ],
+                        [
+                            -3.053553,
+                            43.346598
+                        ],
+                        [
+                            -3.05598,
+                            43.343907
+                        ],
+                        [
+                            -3.047529,
+                            43.341183
+                        ],
+                        [
+                            -3.043231,
+                            43.34129
+                        ],
+                        [
+                            -3.037257,
+                            43.348181
+                        ],
+                        [
+                            -3.040279,
+                            43.349527
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOCAZQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/esbiocazq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.045492,
+                    43.345413
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOCAZQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-11-28",
+                "url": "https://www.bic-code.org/facility-codes/esbiocazq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

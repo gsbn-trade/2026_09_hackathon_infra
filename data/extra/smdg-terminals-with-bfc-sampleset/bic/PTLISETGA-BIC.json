@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -9.183958,
+                            38.770389
+                        ],
+                        [
+                            -9.183812,
+                            38.770164
+                        ],
+                        [
+                            -9.183492,
+                            38.770229
+                        ],
+                        [
+                            -9.182802,
+                            38.769127
+                        ],
+                        [
+                            -9.181934,
+                            38.769818
+                        ],
+                        [
+                            -9.182279,
+                            38.77026
+                        ],
+                        [
+                            -9.182418,
+                            38.770193
+                        ],
+                        [
+                            -9.18277,
+                            38.770819
+                        ],
+                        [
+                            -9.183958,
+                            38.770389
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISETGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-10-08",
+                "url": "https://www.bic-code.org/facility-codes/ptlisetga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.183047,
+                    38.770154
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PTLISETGA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-10-08",
+                "url": "https://www.bic-code.org/facility-codes/ptlisetga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

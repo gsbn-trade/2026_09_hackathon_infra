@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            3.392633,
+                            6.436374
+                        ],
+                        [
+                            3.392767,
+                            6.436339
+                        ],
+                        [
+                            3.39329,
+                            6.436424
+                        ],
+                        [
+                            3.393539,
+                            6.436669
+                        ],
+                        [
+                            3.393687,
+                            6.436464
+                        ],
+                        [
+                            3.39379,
+                            6.43658
+                        ],
+                        [
+                            3.393985,
+                            6.436503
+                        ],
+                        [
+                            3.394234,
+                            6.43714
+                        ],
+                        [
+                            3.394863,
+                            6.436909
+                        ],
+                        [
+                            3.394704,
+                            6.436549
+                        ],
+                        [
+                            3.39447,
+                            6.436
+                        ],
+                        [
+                            3.394328,
+                            6.43563
+                        ],
+                        [
+                            3.394202,
+                            6.435251
+                        ],
+                        [
+                            3.393459,
+                            6.435585
+                        ],
+                        [
+                            3.393365,
+                            6.435697
+                        ],
+                        [
+                            3.393373,
+                            6.435715
+                        ],
+                        [
+                            3.393148,
+                            6.435803
+                        ],
+                        [
+                            3.393204,
+                            6.435923
+                        ],
+                        [
+                            3.392606,
+                            6.43616
+                        ],
+                        [
+                            3.392568,
+                            6.436246
+                        ],
+                        [
+                            3.392633,
+                            6.436374
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPITEZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappitez/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.393564,
+                    6.436206
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "NGAPPITEZ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/ngappitez/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

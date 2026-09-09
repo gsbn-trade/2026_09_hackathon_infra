@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.700013,
+                            56.028966
+                        ],
+                        [
+                            12.699429,
+                            56.028247
+                        ],
+                        [
+                            12.700386,
+                            56.027998
+                        ],
+                        [
+                            12.700695,
+                            56.02831
+                        ],
+                        [
+                            12.700829,
+                            56.028285
+                        ],
+                        [
+                            12.701193,
+                            56.028652
+                        ],
+                        [
+                            12.700013,
+                            56.028966
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELCTRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/sehelctra/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.700365,
+                    56.028489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "SEHELCTRA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-01-23",
+                "url": "https://www.bic-code.org/facility-codes/sehelctra/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

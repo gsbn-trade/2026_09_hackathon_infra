@@ -1,0 +1,157 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.626166,
+                            -33.956594
+                        ],
+                        [
+                            25.626171,
+                            -33.956855
+                        ],
+                        [
+                            25.632859,
+                            -33.956171
+                        ],
+                        [
+                            25.633348,
+                            -33.959175
+                        ],
+                        [
+                            25.640684,
+                            -33.958379
+                        ],
+                        [
+                            25.640811,
+                            -33.957999
+                        ],
+                        [
+                            25.639016,
+                            -33.95509
+                        ],
+                        [
+                            25.638554,
+                            -33.955129
+                        ],
+                        [
+                            25.638566,
+                            -33.955425
+                        ],
+                        [
+                            25.636066,
+                            -33.955658
+                        ],
+                        [
+                            25.633714,
+                            -33.955936
+                        ],
+                        [
+                            25.633173,
+                            -33.955987
+                        ],
+                        [
+                            25.628003,
+                            -33.956519
+                        ],
+                        [
+                            25.626166,
+                            -33.956594
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZTNPE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.633325,
+                            -33.959182
+                        ],
+                        [
+                            25.633403,
+                            -33.95965
+                        ],
+                        [
+                            25.640838,
+                            -33.958806
+                        ],
+                        [
+                            25.64067,
+                            -33.958407
+                        ],
+                        [
+                            25.633325,
+                            -33.959182
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZTNPE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.633807,
+                    -33.956536
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZTNPE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.636312,
+                    -33.959045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ZAPLZTNPE",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-11-13",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,101 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.837401,
+                            -3.578538
+                        ],
+                        [
+                            -38.837649,
+                            -3.578761
+                        ],
+                        [
+                            -38.837017,
+                            -3.579329
+                        ],
+                        [
+                            -38.837277,
+                            -3.579552
+                        ],
+                        [
+                            -38.838913,
+                            -3.580887
+                        ],
+                        [
+                            -38.84004,
+                            -3.581963
+                        ],
+                        [
+                            -38.840808,
+                            -3.582025
+                        ],
+                        [
+                            -38.841155,
+                            -3.581617
+                        ],
+                        [
+                            -38.841576,
+                            -3.581864
+                        ],
+                        [
+                            -38.841117,
+                            -3.582136
+                        ],
+                        [
+                            -38.840709,
+                            -3.582247
+                        ],
+                        [
+                            -38.839829,
+                            -3.582062
+                        ],
+                        [
+                            -38.837661,
+                            -3.58472
+                        ],
+                        [
+                            -38.835766,
+                            -3.580492
+                        ],
+                        [
+                            -38.837401,
+                            -3.578538
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecapma/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.838955,
+                    -3.580982
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPECAPMA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-03-11",
+                "url": "https://www.bic-code.org/facility-codes/brpecapma/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

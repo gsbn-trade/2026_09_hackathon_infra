@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.80362,
+                            20.8276
+                        ],
+                        [
+                            106.803463,
+                            20.821024
+                        ],
+                        [
+                            106.806283,
+                            20.821002
+                        ],
+                        [
+                            106.806262,
+                            20.824933
+                        ],
+                        [
+                            106.806323,
+                            20.825245
+                        ],
+                        [
+                            106.806997,
+                            20.826485
+                        ],
+                        [
+                            106.806967,
+                            20.826604
+                        ],
+                        [
+                            106.807146,
+                            20.826942
+                        ],
+                        [
+                            106.807093,
+                            20.826943
+                        ],
+                        [
+                            106.807286,
+                            20.827247
+                        ],
+                        [
+                            106.807293,
+                            20.827586
+                        ],
+                        [
+                            106.80362,
+                            20.8276
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.803622,
+                            20.827619
+                        ],
+                        [
+                            106.807295,
+                            20.827598
+                        ],
+                        [
+                            106.807298,
+                            20.828026
+                        ],
+                        [
+                            106.803619,
+                            20.828042
+                        ],
+                        [
+                            106.803622,
+                            20.827619
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.806029,
+                    20.825768
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.805091,
+                    20.827781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNHPHMPC",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-09-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

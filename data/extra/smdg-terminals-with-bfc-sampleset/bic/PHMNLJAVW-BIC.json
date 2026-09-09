@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            120.96781,
+                            14.622462
+                        ],
+                        [
+                            120.967833,
+                            14.62185
+                        ],
+                        [
+                            120.968235,
+                            14.621706
+                        ],
+                        [
+                            120.968127,
+                            14.621147
+                        ],
+                        [
+                            120.968833,
+                            14.621026
+                        ],
+                        [
+                            120.968963,
+                            14.621023
+                        ],
+                        [
+                            120.968975,
+                            14.621468
+                        ],
+                        [
+                            120.969343,
+                            14.621334
+                        ],
+                        [
+                            120.969377,
+                            14.62149
+                        ],
+                        [
+                            120.969638,
+                            14.622298
+                        ],
+                        [
+                            120.96781,
+                            14.622462
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLJAVW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-06-27",
+                "url": "https://www.bic-code.org/facility-codes/phmnljavw/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.968631,
+                    14.621661
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PHMNLJAVW",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-06-27",
+                "url": "https://www.bic-code.org/facility-codes/phmnljavw/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.568902,
+                            -25.222952
+                        ],
+                        [
+                            -57.566311,
+                            -25.223527
+                        ],
+                        [
+                            -57.565139,
+                            -25.223805
+                        ],
+                        [
+                            -57.56451,
+                            -25.223916
+                        ],
+                        [
+                            -57.564073,
+                            -25.224082
+                        ],
+                        [
+                            -57.563797,
+                            -25.224013
+                        ],
+                        [
+                            -57.56415,
+                            -25.223819
+                        ],
+                        [
+                            -57.564019,
+                            -25.223417
+                        ],
+                        [
+                            -57.563897,
+                            -25.223319
+                        ],
+                        [
+                            -57.563437,
+                            -25.223354
+                        ],
+                        [
+                            -57.562985,
+                            -25.223514
+                        ],
+                        [
+                            -57.56277,
+                            -25.223729
+                        ],
+                        [
+                            -57.562371,
+                            -25.224283
+                        ],
+                        [
+                            -57.562157,
+                            -25.223805
+                        ],
+                        [
+                            -57.561266,
+                            -25.22234
+                        ],
+                        [
+                            -57.562745,
+                            -25.221772
+                        ],
+                        [
+                            -57.562638,
+                            -25.221425
+                        ],
+                        [
+                            -57.566693,
+                            -25.220197
+                        ],
+                        [
+                            -57.568902,
+                            -25.222952
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPSJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -57.5689,
+                            -25.22295
+                        ],
+                        [
+                            -57.566716,
+                            -25.220197
+                        ],
+                        [
+                            -57.566946,
+                            -25.220045
+                        ],
+                        [
+                            -57.569245,
+                            -25.222819
+                        ],
+                        [
+                            -57.5689,
+                            -25.22295
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPSJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.564251,
+                    -25.22317
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPSJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.568141,
+                    -25.221792
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "PYASUPSJ",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-08-19",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

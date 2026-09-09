@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            51.601568,
+                            25.029667
+                        ],
+                        [
+                            51.606148,
+                            25.013967
+                        ],
+                        [
+                            51.606477,
+                            25.014044
+                        ],
+                        [
+                            51.606496,
+                            25.014021
+                        ],
+                        [
+                            51.606514,
+                            25.014014
+                        ],
+                        [
+                            51.606534,
+                            25.014011
+                        ],
+                        [
+                            51.60655,
+                            25.014011
+                        ],
+                        [
+                            51.606574,
+                            25.014011
+                        ],
+                        [
+                            51.606597,
+                            25.014017
+                        ],
+                        [
+                            51.608072,
+                            25.014373
+                        ],
+                        [
+                            51.608063,
+                            25.014423
+                        ],
+                        [
+                            51.610836,
+                            25.015102
+                        ],
+                        [
+                            51.6106,
+                            25.015879
+                        ],
+                        [
+                            51.610665,
+                            25.015898
+                        ],
+                        [
+                            51.610475,
+                            25.016604
+                        ],
+                        [
+                            51.611316,
+                            25.01681
+                        ],
+                        [
+                            51.611307,
+                            25.017329
+                        ],
+                        [
+                            51.610845,
+                            25.018924
+                        ],
+                        [
+                            51.610393,
+                            25.018821
+                        ],
+                        [
+                            51.609292,
+                            25.022589
+                        ],
+                        [
+                            51.608929,
+                            25.023148
+                        ],
+                        [
+                            51.608612,
+                            25.023622
+                        ],
+                        [
+                            51.608524,
+                            25.023994
+                        ],
+                        [
+                            51.609313,
+                            25.024176
+                        ],
+                        [
+                            51.607283,
+                            25.031085
+                        ],
+                        [
+                            51.601568,
+                            25.029667
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAHMDHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "Adjusted geofence using the OSM map. Excluded future expansion areas of phases 3 and 4 of CT2. Only CT1 and phases 1 and 2 of CT2 are operational.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            51.606138,
+                            25.013963
+                        ],
+                        [
+                            51.601568,
+                            25.029666
+                        ],
+                        [
+                            51.600773,
+                            25.029488
+                        ],
+                        [
+                            51.60531,
+                            25.013758
+                        ],
+                        [
+                            51.606138,
+                            25.013963
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAHMDHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "remarks": "Adjusted geofence using the OSM map. Excluded future expansion areas of phases 3 and 4 of CT2. Only CT1 and phases 1 and 2 of CT2 are operational.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.60806,
+                    25.018623
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAHMDHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Adjusted geofence using the OSM map. Excluded future expansion areas of phases 3 and 4 of CT2. Only CT1 and phases 1 and 2 of CT2 are operational.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.603985,
+                    25.020168
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "QAHMDHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Adjusted geofence using the OSM map. Excluded future expansion areas of phases 3 and 4 of CT2. Only CT1 and phases 1 and 2 of CT2 are operational.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

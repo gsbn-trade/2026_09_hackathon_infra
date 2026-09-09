@@ -1,0 +1,69 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -48.561548,
+                            -25.547265
+                        ],
+                        [
+                            -48.561738,
+                            -25.547599
+                        ],
+                        [
+                            -48.562025,
+                            -25.548288
+                        ],
+                        [
+                            -48.561261,
+                            -25.548569
+                        ],
+                        [
+                            -48.561092,
+                            -25.548104
+                        ],
+                        [
+                            -48.560944,
+                            -25.547526
+                        ],
+                        [
+                            -48.561548,
+                            -25.547265
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGBLZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngblzk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.561451,
+                    -25.547802
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRPNGBLZK",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/brpngblzk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

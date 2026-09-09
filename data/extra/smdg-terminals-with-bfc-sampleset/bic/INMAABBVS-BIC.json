@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            80.2398,
+                            13.1298
+                        ],
+                        [
+                            80.2388,
+                            13.1298
+                        ],
+                        [
+                            80.2387,
+                            13.1289
+                        ],
+                        [
+                            80.2394,
+                            13.1288
+                        ],
+                        [
+                            80.2399,
+                            13.1287
+                        ],
+                        [
+                            80.24,
+                            13.1289
+                        ],
+                        [
+                            80.2401,
+                            13.1288
+                        ],
+                        [
+                            80.24,
+                            13.1293
+                        ],
+                        [
+                            80.2401,
+                            13.1296
+                        ],
+                        [
+                            80.2398,
+                            13.1298
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAABBVS",
+                "codeProvider": "BIC",
+                "category": "FACILITY",
+                "version": "2024-11-26",
+                "url": "https://www.bic-code.org/facility-codes/inmaabbvs/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.23966,
+                    13.12924
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INMAABBVS",
+                "codeProvider": "BIC",
+                "category": "CENTROID",
+                "version": "2024-11-26",
+                "url": "https://www.bic-code.org/facility-codes/inmaabbvs/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

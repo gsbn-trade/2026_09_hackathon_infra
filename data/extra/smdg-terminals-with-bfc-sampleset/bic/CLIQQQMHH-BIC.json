@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.157961,
+                            -20.209526
+                        ],
+                        [
+                            -70.158183,
+                            -20.209001
+                        ],
+                        [
+                            -70.158385,
+                            -20.20888
+                        ],
+                        [
+                            -70.159147,
+                            -20.209052
+                        ],
+                        [
+                            -70.16073,
+                            -20.209312
+                        ],
+                        [
+                            -70.160639,
+                            -20.210211
+                        ],
+                        [
+                            -70.160164,
+                            -20.210531
+                        ],
+                        [
+                            -70.159839,
+                            -20.210437
+                        ],
+                        [
+                            -70.158475,
+                            -20.20984
+                        ],
+                        [
+                            -70.157913,
+                            -20.20958
+                        ],
+                        [
+                            -70.157961,
+                            -20.209526
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQQMHH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqqmhh/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.159036,
+                    -20.209627
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CLIQQQMHH",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-12-27",
+                "url": "https://www.bic-code.org/facility-codes/cliqqqmhh/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.01117,
+                            18.423395
+                        ],
+                        [
+                            -70.011829,
+                            18.423949
+                        ],
+                        [
+                            -70.011319,
+                            18.424588
+                        ],
+                        [
+                            -70.012328,
+                            18.425466
+                        ],
+                        [
+                            -70.012825,
+                            18.42488
+                        ],
+                        [
+                            -70.014811,
+                            18.4267
+                        ],
+                        [
+                            -70.015014,
+                            18.426907
+                        ],
+                        [
+                            -70.015481,
+                            18.426997
+                        ],
+                        [
+                            -70.016003,
+                            18.427008
+                        ],
+                        [
+                            -70.016323,
+                            18.426991
+                        ],
+                        [
+                            -70.016589,
+                            18.426714
+                        ],
+                        [
+                            -70.017342,
+                            18.42597
+                        ],
+                        [
+                            -70.017557,
+                            18.425754
+                        ],
+                        [
+                            -70.018259,
+                            18.421089
+                        ],
+                        [
+                            -70.017713,
+                            18.420963
+                        ],
+                        [
+                            -70.016357,
+                            18.422392
+                        ],
+                        [
+                            -70.014884,
+                            18.42118
+                        ],
+                        [
+                            -70.016031,
+                            18.419884
+                        ],
+                        [
+                            -70.01511,
+                            18.41906
+                        ],
+                        [
+                            -70.014366,
+                            18.419834
+                        ],
+                        [
+                            -70.014349,
+                            18.420379
+                        ],
+                        [
+                            -70.012675,
+                            18.421791
+                        ],
+                        [
+                            -70.01117,
+                            18.423395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -70.01634,
+                            18.422373
+                        ],
+                        [
+                            -70.017682,
+                            18.420961
+                        ],
+                        [
+                            -70.018257,
+                            18.421091
+                        ],
+                        [
+                            -70.017563,
+                            18.425735
+                        ],
+                        [
+                            -70.01634,
+                            18.427001
+                        ],
+                        [
+                            -70.016632,
+                            18.427243
+                        ],
+                        [
+                            -70.017984,
+                            18.425952
+                        ],
+                        [
+                            -70.018925,
+                            18.420553
+                        ],
+                        [
+                            -70.017701,
+                            18.420363
+                        ],
+                        [
+                            -70.016075,
+                            18.422139
+                        ],
+                        [
+                            -70.01634,
+                            18.422373
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.014761,
+                    18.423708
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.017258,
+                    18.423253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DOHAIHIT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-09-04",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

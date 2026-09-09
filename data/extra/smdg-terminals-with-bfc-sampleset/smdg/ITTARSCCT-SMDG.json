@@ -1,0 +1,217 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.162213,
+                            40.506519
+                        ],
+                        [
+                            17.162691,
+                            40.506136
+                        ],
+                        [
+                            17.1575,
+                            40.502441
+                        ],
+                        [
+                            17.157571,
+                            40.50238
+                        ],
+                        [
+                            17.147223,
+                            40.495113
+                        ],
+                        [
+                            17.147046,
+                            40.495126
+                        ],
+                        [
+                            17.146869,
+                            40.495268
+                        ],
+                        [
+                            17.14473,
+                            40.495012
+                        ],
+                        [
+                            17.144624,
+                            40.495079
+                        ],
+                        [
+                            17.147884,
+                            40.501853
+                        ],
+                        [
+                            17.149753,
+                            40.505672
+                        ],
+                        [
+                            17.150623,
+                            40.50724
+                        ],
+                        [
+                            17.150959,
+                            40.50716
+                        ],
+                        [
+                            17.151339,
+                            40.507032
+                        ],
+                        [
+                            17.151348,
+                            40.506924
+                        ],
+                        [
+                            17.151454,
+                            40.506904
+                        ],
+                        [
+                            17.15172,
+                            40.507519
+                        ],
+                        [
+                            17.152657,
+                            40.506753
+                        ],
+                        [
+                            17.15294,
+                            40.506477
+                        ],
+                        [
+                            17.15563,
+                            40.508315
+                        ],
+                        [
+                            17.155906,
+                            40.508642
+                        ],
+                        [
+                            17.158814,
+                            40.507405
+                        ],
+                        [
+                            17.159698,
+                            40.507008
+                        ],
+                        [
+                            17.159513,
+                            40.506706
+                        ],
+                        [
+                            17.1603,
+                            40.506377
+                        ],
+                        [
+                            17.162213,
+                            40.506519
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTARSCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            17.162713,
+                            40.506133
+                        ],
+                        [
+                            17.163239,
+                            40.505626
+                        ],
+                        [
+                            17.14769,
+                            40.494711
+                        ],
+                        [
+                            17.147233,
+                            40.495136
+                        ],
+                        [
+                            17.157559,
+                            40.502375
+                        ],
+                        [
+                            17.157484,
+                            40.502445
+                        ],
+                        [
+                            17.160091,
+                            40.504277
+                        ],
+                        [
+                            17.162713,
+                            40.506133
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTARSCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.153585,
+                    40.504138
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTARSCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.15734,
+                    40.502105
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITTARSCCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-05-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

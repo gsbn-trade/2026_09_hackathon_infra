@@ -1,0 +1,321 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.972267,
+                            59.485504
+                        ],
+                        [
+                            24.973407,
+                            59.485977
+                        ],
+                        [
+                            24.973447,
+                            59.486076
+                        ],
+                        [
+                            24.973596,
+                            59.48605
+                        ],
+                        [
+                            24.977296,
+                            59.487611
+                        ],
+                        [
+                            24.980514,
+                            59.488979
+                        ],
+                        [
+                            24.979238,
+                            59.489674
+                        ],
+                        [
+                            24.977256,
+                            59.48886
+                        ],
+                        [
+                            24.971475,
+                            59.49146
+                        ],
+                        [
+                            24.974099,
+                            59.492935
+                        ],
+                        [
+                            24.969617,
+                            59.494897
+                        ],
+                        [
+                            24.969888,
+                            59.495063
+                        ],
+                        [
+                            24.968749,
+                            59.495557
+                        ],
+                        [
+                            24.966081,
+                            59.494129
+                        ],
+                        [
+                            24.964325,
+                            59.493121
+                        ],
+                        [
+                            24.970841,
+                            59.490064
+                        ],
+                        [
+                            24.971048,
+                            59.489607
+                        ],
+                        [
+                            24.970291,
+                            59.489216
+                        ],
+                        [
+                            24.969897,
+                            59.489044
+                        ],
+                        [
+                            24.969404,
+                            59.488926
+                        ],
+                        [
+                            24.967867,
+                            59.488685
+                        ],
+                        [
+                            24.967509,
+                            59.488595
+                        ],
+                        [
+                            24.967445,
+                            59.488493
+                        ],
+                        [
+                            24.967608,
+                            59.488092
+                        ],
+                        [
+                            24.967513,
+                            59.487805
+                        ],
+                        [
+                            24.967355,
+                            59.487559
+                        ],
+                        [
+                            24.967766,
+                            59.486564
+                        ],
+                        [
+                            24.96782,
+                            59.486529
+                        ],
+                        [
+                            24.970103,
+                            59.485557
+                        ],
+                        [
+                            24.970568,
+                            59.485714
+                        ],
+                        [
+                            24.971084,
+                            59.485884
+                        ],
+                        [
+                            24.971823,
+                            59.4854
+                        ],
+                        [
+                            24.970687,
+                            59.484756
+                        ],
+                        [
+                            24.969155,
+                            59.483828
+                        ],
+                        [
+                            24.969516,
+                            59.483642
+                        ],
+                        [
+                            24.970924,
+                            59.484428
+                        ],
+                        [
+                            24.971293,
+                            59.484764
+                        ],
+                        [
+                            24.971736,
+                            59.484977
+                        ],
+                        [
+                            24.972373,
+                            59.485307
+                        ],
+                        [
+                            24.972267,
+                            59.485504
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "remarks": "Port Gate entry at 59.483814,24.969407",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.964336,
+                            59.493095
+                        ],
+                        [
+                            24.96388,
+                            59.492876
+                        ],
+                        [
+                            24.970443,
+                            59.489737
+                        ],
+                        [
+                            24.970848,
+                            59.490033
+                        ],
+                        [
+                            24.964336,
+                            59.493095
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.964319,
+                            59.49312
+                        ],
+                        [
+                            24.968761,
+                            59.49556
+                        ],
+                        [
+                            24.968216,
+                            59.495856
+                        ],
+                        [
+                            24.963745,
+                            59.493392
+                        ],
+                        [
+                            24.964319,
+                            59.49312
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.970879,
+                    59.488121
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "remarks": "Port Gate entry at 59.483814,24.969407",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.966769,
+                    59.491767
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.965872,
+                    59.49421
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "EEMUGTKM",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

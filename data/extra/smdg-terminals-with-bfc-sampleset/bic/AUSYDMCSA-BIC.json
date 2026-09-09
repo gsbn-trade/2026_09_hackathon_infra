@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            151.169066,
+                            -33.920785
+                        ],
+                        [
+                            151.169729,
+                            -33.921242
+                        ],
+                        [
+                            151.170867,
+                            -33.922202
+                        ],
+                        [
+                            151.172363,
+                            -33.921172
+                        ],
+                        [
+                            151.173,
+                            -33.9217
+                        ],
+                        [
+                            151.174883,
+                            -33.920425
+                        ],
+                        [
+                            151.174204,
+                            -33.919797
+                        ],
+                        [
+                            151.176576,
+                            -33.917925
+                        ],
+                        [
+                            151.17526,
+                            -33.916466
+                        ],
+                        [
+                            151.175097,
+                            -33.916588
+                        ],
+                        [
+                            151.175023,
+                            -33.916637
+                        ],
+                        [
+                            151.174674,
+                            -33.916771
+                        ],
+                        [
+                            151.17448,
+                            -33.916658
+                        ],
+                        [
+                            151.174,
+                            -33.9169
+                        ],
+                        [
+                            151.169066,
+                            -33.920785
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AUSYDMCSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/ausydmcsa/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.173219,
+                    -33.91907
+                ]
+            },
+            "properties": {
+                "code": "AUSYDMCSA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/ausydmcsa/"
+            }
+        }
+    ]
+}

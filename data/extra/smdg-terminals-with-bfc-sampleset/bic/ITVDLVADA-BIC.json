@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            8.423534,
+                            44.263807
+                        ],
+                        [
+                            8.424046,
+                            44.262474
+                        ],
+                        [
+                            8.425119,
+                            44.262689
+                        ],
+                        [
+                            8.424907,
+                            44.263233
+                        ],
+                        [
+                            8.424647,
+                            44.264043
+                        ],
+                        [
+                            8.424521,
+                            44.264003
+                        ],
+                        [
+                            8.424113,
+                            44.263903
+                        ],
+                        [
+                            8.423534,
+                            44.263807
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVADA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-04-14",
+                "url": "https://www.bic-code.org/facility-codes/itvdlvada/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.424303,
+                    44.263495
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITVDLVADA",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-04-14",
+                "url": "https://www.bic-code.org/facility-codes/itvdlvada/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

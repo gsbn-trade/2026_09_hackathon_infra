@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.011133,
+                            53.528355
+                        ],
+                        [
+                            10.011739,
+                            53.528785
+                        ],
+                        [
+                            10.011867,
+                            53.528706
+                        ],
+                        [
+                            10.012592,
+                            53.529385
+                        ],
+                        [
+                            10.013343,
+                            53.52949
+                        ],
+                        [
+                            10.013986,
+                            53.530411
+                        ],
+                        [
+                            10.007705,
+                            53.533017
+                        ],
+                        [
+                            10.007538,
+                            53.53293
+                        ],
+                        [
+                            10.001471,
+                            53.535134
+                        ],
+                        [
+                            10.000742,
+                            53.53521
+                        ],
+                        [
+                            10.000055,
+                            53.534751
+                        ],
+                        [
+                            10.000162,
+                            53.534203
+                        ],
+                        [
+                            9.998596,
+                            53.533208
+                        ],
+                        [
+                            9.997909,
+                            53.533119
+                        ],
+                        [
+                            9.99748,
+                            53.533425
+                        ],
+                        [
+                            9.997502,
+                            53.533603
+                        ],
+                        [
+                            9.994433,
+                            53.535605
+                        ],
+                        [
+                            9.992845,
+                            53.534815
+                        ],
+                        [
+                            10.000699,
+                            53.530325
+                        ],
+                        [
+                            10.000441,
+                            53.530109
+                        ],
+                        [
+                            10.001138,
+                            53.529697
+                        ],
+                        [
+                            10.001781,
+                            53.530208
+                        ],
+                        [
+                            10.002205,
+                            53.530007
+                        ],
+                        [
+                            10.003042,
+                            53.530619
+                        ],
+                        [
+                            10.004024,
+                            53.530131
+                        ],
+                        [
+                            10.004491,
+                            53.530479
+                        ],
+                        [
+                            10.004721,
+                            53.530393
+                        ],
+                        [
+                            10.004796,
+                            53.530469
+                        ],
+                        [
+                            10.005156,
+                            53.530501
+                        ],
+                        [
+                            10.009399,
+                            53.528346
+                        ],
+                        [
+                            10.009488,
+                            53.528412
+                        ],
+                        [
+                            10.009893,
+                            53.528217
+                        ],
+                        [
+                            10.010051,
+                            53.528216
+                        ],
+                        [
+                            10.010263,
+                            53.528371
+                        ],
+                        [
+                            10.010555,
+                            53.528466
+                        ],
+                        [
+                            10.010928,
+                            53.528449
+                        ],
+                        [
+                            10.011133,
+                            53.528355
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMUCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-03-22",
+                "remarks": "httpswww.hafen-hamburg.deenportmap",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.992809,
+                            53.534795
+                        ],
+                        [
+                            9.99216,
+                            53.534441
+                        ],
+                        [
+                            10.000097,
+                            53.530024
+                        ],
+                        [
+                            10.00062,
+                            53.530324
+                        ],
+                        [
+                            9.992809,
+                            53.534795
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "DEHAMUCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-03-22",
+                "remarks": "httpswww.hafen-hamburg.deenportmap",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.005008,
+                    53.530917
+                ]
+            },
+            "properties": {
+                "code": "DEHAMUCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswww.hafen-hamburg.deenportmap",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995699,
+                    53.532876
+                ]
+            },
+            "properties": {
+                "code": "DEHAMUCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-03-22",
+                "remarks": "httpswww.hafen-hamburg.deenportmap",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

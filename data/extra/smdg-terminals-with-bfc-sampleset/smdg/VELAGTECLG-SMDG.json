@@ -1,0 +1,161 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.951878,
+                            10.603999
+                        ],
+                        [
+                            -66.952027,
+                            10.603508
+                        ],
+                        [
+                            -66.952064,
+                            10.602629
+                        ],
+                        [
+                            -66.952027,
+                            10.601156
+                        ],
+                        [
+                            -66.950715,
+                            10.601083
+                        ],
+                        [
+                            -66.950178,
+                            10.600959
+                        ],
+                        [
+                            -66.949373,
+                            10.600687
+                        ],
+                        [
+                            -66.947987,
+                            10.600057
+                        ],
+                        [
+                            -66.947734,
+                            10.6006
+                        ],
+                        [
+                            -66.947525,
+                            10.600863
+                        ],
+                        [
+                            -66.947227,
+                            10.600841
+                        ],
+                        [
+                            -66.947242,
+                            10.6006
+                        ],
+                        [
+                            -66.945863,
+                            10.601779
+                        ],
+                        [
+                            -66.945736,
+                            10.602307
+                        ],
+                        [
+                            -66.951878,
+                            10.603999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGTECLG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-10-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -66.951854,
+                            10.60403
+                        ],
+                        [
+                            -66.94572,
+                            10.602308
+                        ],
+                        [
+                            -66.945645,
+                            10.602623
+                        ],
+                        [
+                            -66.951764,
+                            10.604338
+                        ],
+                        [
+                            -66.951854,
+                            10.60403
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGTECLG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-10-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.949297,
+                    10.601671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGTECLG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.949367,
+                    10.603466
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VELAGTECLG",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-10-14",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

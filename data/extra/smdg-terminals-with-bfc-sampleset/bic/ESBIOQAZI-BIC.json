@@ -1,0 +1,81 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -3.05443,
+                            43.3426
+                        ],
+                        [
+                            -3.05434,
+                            43.3419
+                        ],
+                        [
+                            -3.0536,
+                            43.3415
+                        ],
+                        [
+                            -3.05256,
+                            43.3411
+                        ],
+                        [
+                            -3.05134,
+                            43.3408
+                        ],
+                        [
+                            -3.04838,
+                            43.3403
+                        ],
+                        [
+                            -3.04812,
+                            43.3409
+                        ],
+                        [
+                            -3.0509,
+                            43.3417
+                        ],
+                        [
+                            -3.05396,
+                            43.3427
+                        ],
+                        [
+                            -3.05443,
+                            43.3426
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOQAZI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esbioqazi/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.052206,
+                    43.34161
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ESBIOQAZI",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-04-24",
+                "url": "https://www.bic-code.org/facility-codes/esbioqazi/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

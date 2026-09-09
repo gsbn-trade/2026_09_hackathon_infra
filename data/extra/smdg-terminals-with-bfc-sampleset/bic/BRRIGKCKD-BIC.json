@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -52.132193,
+                            -32.127668
+                        ],
+                        [
+                            -52.130147,
+                            -32.130163
+                        ],
+                        [
+                            -52.129235,
+                            -32.129635
+                        ],
+                        [
+                            -52.131245,
+                            -32.127159
+                        ],
+                        [
+                            -52.132193,
+                            -32.127668
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGKCKD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigkckd/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.131003,
+                    -32.128459
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRRIGKCKD",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-12-13",
+                "url": "https://www.bic-code.org/facility-codes/brrigkckd/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

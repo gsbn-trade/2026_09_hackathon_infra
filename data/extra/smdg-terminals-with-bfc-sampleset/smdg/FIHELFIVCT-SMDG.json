@@ -1,0 +1,189 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.190181,
+                            60.213515
+                        ],
+                        [
+                            25.185943,
+                            60.216011
+                        ],
+                        [
+                            25.18773,
+                            60.216761
+                        ],
+                        [
+                            25.185962,
+                            60.217884
+                        ],
+                        [
+                            25.185466,
+                            60.218016
+                        ],
+                        [
+                            25.185261,
+                            60.217985
+                        ],
+                        [
+                            25.184791,
+                            60.21776
+                        ],
+                        [
+                            25.184836,
+                            60.217435
+                        ],
+                        [
+                            25.184573,
+                            60.217157
+                        ],
+                        [
+                            25.184547,
+                            60.216866
+                        ],
+                        [
+                            25.184746,
+                            60.21633
+                        ],
+                        [
+                            25.184638,
+                            60.215837
+                        ],
+                        [
+                            25.184839,
+                            60.215651
+                        ],
+                        [
+                            25.184412,
+                            60.215384
+                        ],
+                        [
+                            25.183845,
+                            60.215156
+                        ],
+                        [
+                            25.183338,
+                            60.214896
+                        ],
+                        [
+                            25.183217,
+                            60.214527
+                        ],
+                        [
+                            25.182987,
+                            60.21446
+                        ],
+                        [
+                            25.187401,
+                            60.211483
+                        ],
+                        [
+                            25.190411,
+                            60.212717
+                        ],
+                        [
+                            25.189426,
+                            60.213226
+                        ],
+                        [
+                            25.190181,
+                            60.213515
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFIVCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            25.18601,
+                            60.216006
+                        ],
+                        [
+                            25.190195,
+                            60.21352
+                        ],
+                        [
+                            25.190513,
+                            60.213674
+                        ],
+                        [
+                            25.186328,
+                            60.216145
+                        ],
+                        [
+                            25.18601,
+                            60.216006
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFIVCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.185851,
+                    60.215571
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFIVCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.187811,
+                    60.21507
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FIHELFIVCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-12-03",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

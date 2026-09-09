@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.868455,
+                            2.716688
+                        ],
+                        [
+                            9.867914,
+                            2.716849
+                        ],
+                        [
+                            9.867045,
+                            2.717021
+                        ],
+                        [
+                            9.865892,
+                            2.717358
+                        ],
+                        [
+                            9.865479,
+                            2.717519
+                        ],
+                        [
+                            9.865449,
+                            2.717184
+                        ],
+                        [
+                            9.865246,
+                            2.716757
+                        ],
+                        [
+                            9.868179,
+                            2.71586
+                        ],
+                        [
+                            9.868455,
+                            2.716688
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMKBIPZCN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmkbipzcn/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.866902,
+                    2.71688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CMKBIPZCN",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-17",
+                "url": "https://www.bic-code.org/facility-codes/cmkbipzcn/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

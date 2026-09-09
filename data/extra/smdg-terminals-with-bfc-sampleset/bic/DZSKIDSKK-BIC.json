@@ -1,0 +1,133 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.927788,
+                            36.872028
+                        ],
+                        [
+                            6.928807,
+                            36.870543
+                        ],
+                        [
+                            6.929022,
+                            36.870646
+                        ],
+                        [
+                            6.929376,
+                            36.870062
+                        ],
+                        [
+                            6.930138,
+                            36.870594
+                        ],
+                        [
+                            6.928743,
+                            36.87244
+                        ],
+                        [
+                            6.927788,
+                            36.872028
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIDSKK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzskidskk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            6.928095,
+                            36.872173
+                        ],
+                        [
+                            6.928267,
+                            36.872241
+                        ],
+                        [
+                            6.928362,
+                            36.872111
+                        ],
+                        [
+                            6.92819,
+                            36.872033
+                        ],
+                        [
+                            6.928095,
+                            36.872173
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIDSKK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzskidskk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.928809,
+                    36.871192
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIDSKK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzskidskk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.928202,
+                    36.872146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DZSKIDSKK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/dzskidskk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

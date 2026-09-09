@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108.180859,
+                            16.006529
+                        ],
+                        [
+                            108.18189,
+                            16.006518
+                        ],
+                        [
+                            108.181923,
+                            16.008431
+                        ],
+                        [
+                            108.180842,
+                            16.008415
+                        ],
+                        [
+                            108.180859,
+                            16.006529
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADQESX",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "FACILITY",
+                "version": "2025-10-15",
+                "remarks": "Its very useful",
+                "url": "https://www.bic-code.org/facility-codes/vndadqesx/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.181275,
+                    16.007284
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "VNDADQESX",
+                "codeProvider": "BIC",
+                "trustGrade": "FACILITY_PROVIDED",
+                "category": "CENTROID",
+                "version": "2025-10-15",
+                "remarks": "Its very useful",
+                "url": "https://www.bic-code.org/facility-codes/vndadqesx/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

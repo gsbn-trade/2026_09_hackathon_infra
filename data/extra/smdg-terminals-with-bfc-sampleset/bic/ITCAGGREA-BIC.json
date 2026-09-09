@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.077261,
+                            39.209501
+                        ],
+                        [
+                            9.077548,
+                            39.209726
+                        ],
+                        [
+                            9.079061,
+                            39.20851
+                        ],
+                        [
+                            9.079241,
+                            39.208657
+                        ],
+                        [
+                            9.079024,
+                            39.208829
+                        ],
+                        [
+                            9.079264,
+                            39.209014
+                        ],
+                        [
+                            9.079023,
+                            39.209213
+                        ],
+                        [
+                            9.080854,
+                            39.21067
+                        ],
+                        [
+                            9.080158,
+                            39.211202
+                        ],
+                        [
+                            9.080614,
+                            39.211538
+                        ],
+                        [
+                            9.082053,
+                            39.212617
+                        ],
+                        [
+                            9.081375,
+                            39.213121
+                        ],
+                        [
+                            9.080153,
+                            39.212582
+                        ],
+                        [
+                            9.079051,
+                            39.211963
+                        ],
+                        [
+                            9.078156,
+                            39.212678
+                        ],
+                        [
+                            9.077944,
+                            39.212525
+                        ],
+                        [
+                            9.07907,
+                            39.211624
+                        ],
+                        [
+                            9.077054,
+                            39.210098
+                        ],
+                        [
+                            9.076962,
+                            39.210173
+                        ],
+                        [
+                            9.076694,
+                            39.209958
+                        ],
+                        [
+                            9.077261,
+                            39.209501
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITCAGGREA",
+                "category": "FACILITY",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itcaggrea/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.078944,
+                    39.210652
+                ]
+            },
+            "properties": {
+                "trustGrade": "REVIEW_PANEL",
+                "code": "ITCAGGREA",
+                "category": "CENTROID",
+                "codeProvider": "BIC",
+                "version": "2024-03-28",
+                "url": "https://www.bic-code.org/facility-codes/itcaggrea/"
+            }
+        }
+    ]
+}

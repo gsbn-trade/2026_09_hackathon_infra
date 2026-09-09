@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153.178569,
+                            -27.371057
+                        ],
+                        [
+                            153.181215,
+                            -27.372443
+                        ],
+                        [
+                            153.182618,
+                            -27.370357
+                        ],
+                        [
+                            153.179976,
+                            -27.368939
+                        ],
+                        [
+                            153.178569,
+                            -27.371057
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "AUBNEWDTH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/aubnewdth/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.180189,
+                    -27.370771
+                ]
+            },
+            "properties": {
+                "code": "AUBNEWDTH",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2024-01-10",
+                "remarks": "adjusted",
+                "url": "https://www.bic-code.org/facility-codes/aubnewdth/"
+            }
+        }
+    ]
+}

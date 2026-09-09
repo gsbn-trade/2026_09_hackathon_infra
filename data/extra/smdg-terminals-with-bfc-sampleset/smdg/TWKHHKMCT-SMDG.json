@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.327579,
+                            22.53738
+                        ],
+                        [
+                            120.331204,
+                            22.540029
+                        ],
+                        [
+                            120.322149,
+                            22.550648
+                        ],
+                        [
+                            120.321828,
+                            22.550424
+                        ],
+                        [
+                            120.321658,
+                            22.549995
+                        ],
+                        [
+                            120.319325,
+                            22.550385
+                        ],
+                        [
+                            120.317793,
+                            22.549288
+                        ],
+                        [
+                            120.320108,
+                            22.546699
+                        ],
+                        [
+                            120.319687,
+                            22.546389
+                        ],
+                        [
+                            120.327579,
+                            22.53738
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "TWKHHKMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2023-11-06",
+                "remarks": "AddedSMDGBerth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.322194,
+                            22.550648
+                        ],
+                        [
+                            120.331234,
+                            22.540041
+                        ],
+                        [
+                            120.331989,
+                            22.540518
+                        ],
+                        [
+                            120.322909,
+                            22.551125
+                        ],
+                        [
+                            120.322194,
+                            22.550648
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "TWKHHKMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2023-11-06",
+                "remarks": "AddedSMDGBerth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322891,
+                    22.545862
+                ]
+            },
+            "properties": {
+                "code": "TWKHHKMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "AddedSMDGBerth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326104,
+                    22.546596
+                ]
+            },
+            "properties": {
+                "code": "TWKHHKMCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2023-11-06",
+                "remarks": "AddedSMDGBerth",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

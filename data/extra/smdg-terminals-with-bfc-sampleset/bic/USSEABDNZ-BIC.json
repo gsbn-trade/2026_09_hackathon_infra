@@ -1,0 +1,109 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.345161,
+                            47.570659
+                        ],
+                        [
+                            -122.345665,
+                            47.569291
+                        ],
+                        [
+                            -122.345619,
+                            47.569235
+                        ],
+                        [
+                            -122.345377,
+                            47.569145
+                        ],
+                        [
+                            -122.345212,
+                            47.569093
+                        ],
+                        [
+                            -122.340725,
+                            47.569089
+                        ],
+                        [
+                            -122.340848,
+                            47.569561
+                        ],
+                        [
+                            -122.341074,
+                            47.5697
+                        ],
+                        [
+                            -122.341424,
+                            47.569891
+                        ],
+                        [
+                            -122.341676,
+                            47.570044
+                        ],
+                        [
+                            -122.341845,
+                            47.570205
+                        ],
+                        [
+                            -122.341969,
+                            47.570497
+                        ],
+                        [
+                            -122.341979,
+                            47.570535
+                        ],
+                        [
+                            -122.342442,
+                            47.570639
+                        ],
+                        [
+                            -122.34254,
+                            47.570653
+                        ],
+                        [
+                            -122.343101,
+                            47.570688
+                        ],
+                        [
+                            -122.345161,
+                            47.570659
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEABDNZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-06-11",
+                "url": "https://www.bic-code.org/facility-codes/usseabdnz/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.343048,
+                    47.569976
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "USSEABDNZ",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-06-11",
+                "url": "https://www.bic-code.org/facility-codes/usseabdnz/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

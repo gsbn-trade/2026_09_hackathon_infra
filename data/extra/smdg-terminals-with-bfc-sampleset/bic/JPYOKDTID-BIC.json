@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.671216,
+                            35.402896
+                        ],
+                        [
+                            139.671307,
+                            35.401743
+                        ],
+                        [
+                            139.674744,
+                            35.399654
+                        ],
+                        [
+                            139.676403,
+                            35.399753
+                        ],
+                        [
+                            139.682283,
+                            35.404446
+                        ],
+                        [
+                            139.683755,
+                            35.403176
+                        ],
+                        [
+                            139.685369,
+                            35.401933
+                        ],
+                        [
+                            139.677852,
+                            35.395949
+                        ],
+                        [
+                            139.682331,
+                            35.393101
+                        ],
+                        [
+                            139.689282,
+                            35.398873
+                        ],
+                        [
+                            139.686279,
+                            35.40133
+                        ],
+                        [
+                            139.68735,
+                            35.402295
+                        ],
+                        [
+                            139.68504,
+                            35.404585
+                        ],
+                        [
+                            139.68385,
+                            35.405448
+                        ],
+                        [
+                            139.683325,
+                            35.404947
+                        ],
+                        [
+                            139.682524,
+                            35.404818
+                        ],
+                        [
+                            139.681412,
+                            35.405458
+                        ],
+                        [
+                            139.680079,
+                            35.406607
+                        ],
+                        [
+                            139.677926,
+                            35.408377
+                        ],
+                        [
+                            139.676891,
+                            35.40746
+                        ],
+                        [
+                            139.671216,
+                            35.402896
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDTID",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokdtid/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.680497,
+                    35.402655
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "JPYOKDTID",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-11-06",
+                "url": "https://www.bic-code.org/facility-codes/jpyokdtid/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,129 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.687679,
+                            31.915237
+                        ],
+                        [
+                            -116.687008,
+                            31.914639
+                        ],
+                        [
+                            -116.686161,
+                            31.915505
+                        ],
+                        [
+                            -116.685705,
+                            31.915788
+                        ],
+                        [
+                            -116.686386,
+                            31.916357
+                        ],
+                        [
+                            -116.687679,
+                            31.915237
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEDSZL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxesedszl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -116.686537,
+                            31.916225
+                        ],
+                        [
+                            -116.686247,
+                            31.915963
+                        ],
+                        [
+                            -116.686408,
+                            31.915843
+                        ],
+                        [
+                            -116.686691,
+                            31.916094
+                        ],
+                        [
+                            -116.686537,
+                            31.916225
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEDSZL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "GATE",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxesedszl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.68677,
+                    31.91546
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEDSZL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxesedszl/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.686484,
+                    31.91607
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MXESEDSZL",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-18",
+                "remarks": "CCIS HO APPROVAL",
+                "url": "https://www.bic-code.org/facility-codes/mxesedszl/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

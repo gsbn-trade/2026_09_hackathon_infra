@@ -1,0 +1,307 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.838685,
+                            -19.821531
+                        ],
+                        [
+                            34.838614,
+                            -19.82201
+                        ],
+                        [
+                            34.837946,
+                            -19.822113
+                        ],
+                        [
+                            34.835356,
+                            -19.821825
+                        ],
+                        [
+                            34.835312,
+                            -19.821979
+                        ],
+                        [
+                            34.833728,
+                            -19.821688
+                        ],
+                        [
+                            34.834291,
+                            -19.81862
+                        ],
+                        [
+                            34.834532,
+                            -19.817961
+                        ],
+                        [
+                            34.834586,
+                            -19.817317
+                        ],
+                        [
+                            34.834822,
+                            -19.816703
+                        ],
+                        [
+                            34.83486,
+                            -19.815982
+                        ],
+                        [
+                            34.834975,
+                            -19.816003
+                        ],
+                        [
+                            34.834644,
+                            -19.813175
+                        ],
+                        [
+                            34.836374,
+                            -19.813236
+                        ],
+                        [
+                            34.836544,
+                            -19.814586
+                        ],
+                        [
+                            34.83828,
+                            -19.814406
+                        ],
+                        [
+                            34.838302,
+                            -19.814808
+                        ],
+                        [
+                            34.839802,
+                            -19.814669
+                        ],
+                        [
+                            34.840065,
+                            -19.816884
+                        ],
+                        [
+                            34.839419,
+                            -19.816869
+                        ],
+                        [
+                            34.838652,
+                            -19.818064
+                        ],
+                        [
+                            34.840591,
+                            -19.81929
+                        ],
+                        [
+                            34.840273,
+                            -19.819681
+                        ],
+                        [
+                            34.839266,
+                            -19.819063
+                        ],
+                        [
+                            34.839058,
+                            -19.819383
+                        ],
+                        [
+                            34.838603,
+                            -19.819156
+                        ],
+                        [
+                            34.837623,
+                            -19.819027
+                        ],
+                        [
+                            34.83748,
+                            -19.819764
+                        ],
+                        [
+                            34.837349,
+                            -19.820604
+                        ],
+                        [
+                            34.837557,
+                            -19.821129
+                        ],
+                        [
+                            34.837962,
+                            -19.821423
+                        ],
+                        [
+                            34.838685,
+                            -19.821531
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.834695,
+                            -19.814
+                        ],
+                        [
+                            34.834166,
+                            -19.814038
+                        ],
+                        [
+                            34.834288,
+                            -19.81599
+                        ],
+                        [
+                            34.833027,
+                            -19.821539
+                        ],
+                        [
+                            34.833698,
+                            -19.82173
+                        ],
+                        [
+                            34.834471,
+                            -19.817942
+                        ],
+                        [
+                            34.834837,
+                            -19.81664
+                        ],
+                        [
+                            34.834796,
+                            -19.81599
+                        ],
+                        [
+                            34.834959,
+                            -19.81599
+                        ],
+                        [
+                            34.834695,
+                            -19.814
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.839093,
+                            -19.818347
+                        ],
+                        [
+                            34.838764,
+                            -19.818892
+                        ],
+                        [
+                            34.840298,
+                            -19.819665
+                        ],
+                        [
+                            34.840564,
+                            -19.819282
+                        ],
+                        [
+                            34.839093,
+                            -19.818347
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "GATE",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.83732,
+                    -19.818453
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.834363,
+                    -19.816786
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.839562,
+                    -19.818907
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWBCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

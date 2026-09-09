@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.94954,
+                            -2.080496
+                        ],
+                        [
+                            -79.948435,
+                            -2.07961
+                        ],
+                        [
+                            -79.949433,
+                            -2.078345
+                        ],
+                        [
+                            -79.951535,
+                            -2.079309
+                        ],
+                        [
+                            -79.951139,
+                            -2.079925
+                        ],
+                        [
+                            -79.950177,
+                            -2.079511
+                        ],
+                        [
+                            -79.94954,
+                            -2.080496
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEARTB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-04-15",
+                "remarks": "This new location has been registered and the geofence is being added.",
+                "url": "https://www.bic-code.org/facility-codes/ecgyeartb/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.949971,
+                    -2.07967
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ECGYEARTB",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-04-15",
+                "remarks": "This new location has been registered and the geofence is being added.",
+                "url": "https://www.bic-code.org/facility-codes/ecgyeartb/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

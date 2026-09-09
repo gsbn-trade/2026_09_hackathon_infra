@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -35.010699,
+                            -8.263968
+                        ],
+                        [
+                            -35.010198,
+                            -8.264197
+                        ],
+                        [
+                            -35.010261,
+                            -8.264378
+                        ],
+                        [
+                            -35.010179,
+                            -8.264571
+                        ],
+                        [
+                            -35.010065,
+                            -8.26468
+                        ],
+                        [
+                            -35.009815,
+                            -8.26478
+                        ],
+                        [
+                            -35.009566,
+                            -8.264919
+                        ],
+                        [
+                            -35.009328,
+                            -8.264992
+                        ],
+                        [
+                            -35.009086,
+                            -8.264942
+                        ],
+                        [
+                            -35.008941,
+                            -8.264656
+                        ],
+                        [
+                            -35.008816,
+                            -8.264347
+                        ],
+                        [
+                            -35.008953,
+                            -8.264142
+                        ],
+                        [
+                            -35.009078,
+                            -8.263933
+                        ],
+                        [
+                            -35.008996,
+                            -8.2634
+                        ],
+                        [
+                            -35.009059,
+                            -8.263246
+                        ],
+                        [
+                            -35.00923,
+                            -8.262307
+                        ],
+                        [
+                            -35.009324,
+                            -8.262318
+                        ],
+                        [
+                            -35.009676,
+                            -8.262364
+                        ],
+                        [
+                            -35.009734,
+                            -8.262596
+                        ],
+                        [
+                            -35.010031,
+                            -8.262616
+                        ],
+                        [
+                            -35.010699,
+                            -8.263968
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUACUEL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuacuel/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.009606,
+                    -8.263872
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSUACUEL",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-07",
+                "url": "https://www.bic-code.org/facility-codes/brsuacuel/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.755219,
+                            46.489123
+                        ],
+                        [
+                            30.755716,
+                            46.488256
+                        ],
+                        [
+                            30.756267,
+                            46.487359
+                        ],
+                        [
+                            30.756846,
+                            46.486864
+                        ],
+                        [
+                            30.758374,
+                            46.485148
+                        ],
+                        [
+                            30.75881,
+                            46.485094
+                        ],
+                        [
+                            30.759249,
+                            46.484223
+                        ],
+                        [
+                            30.759442,
+                            46.483292
+                        ],
+                        [
+                            30.76027,
+                            46.482039
+                        ],
+                        [
+                            30.762392,
+                            46.482405
+                        ],
+                        [
+                            30.76116,
+                            46.486148
+                        ],
+                        [
+                            30.764823,
+                            46.486719
+                        ],
+                        [
+                            30.762905,
+                            46.492397
+                        ],
+                        [
+                            30.761057,
+                            46.493463
+                        ],
+                        [
+                            30.76106,
+                            46.49322
+                        ],
+                        [
+                            30.760939,
+                            46.492754
+                        ],
+                        [
+                            30.760487,
+                            46.492211
+                        ],
+                        [
+                            30.759446,
+                            46.49123
+                        ],
+                        [
+                            30.758988,
+                            46.491553
+                        ],
+                        [
+                            30.755219,
+                            46.489123
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2024-04-05",
+                "remarks": "removed previous facility ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.762917,
+                            46.492431
+                        ],
+                        [
+                            30.764868,
+                            46.486739
+                        ],
+                        [
+                            30.76577,
+                            46.486879
+                        ],
+                        [
+                            30.763791,
+                            46.492541
+                        ],
+                        [
+                            30.762917,
+                            46.492431
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.75898,
+                            46.491569
+                        ],
+                        [
+                            30.758653,
+                            46.49184
+                        ],
+                        [
+                            30.754942,
+                            46.48933
+                        ],
+                        [
+                            30.755204,
+                            46.489129
+                        ],
+                        [
+                            30.75898,
+                            46.491569
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "BERTH",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.759433,
+                    46.488131
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "remarks": "removed previous facility ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.764053,
+                    46.490204
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.757352,
+                    46.490687
+                ]
+            },
+            "properties": {
+                "code": "UAODSCTO",
+                "codeProvider": "SMDG",
+                "trustGrade": "FACILITY_PROVIDED",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2024-04-05",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ]
+}

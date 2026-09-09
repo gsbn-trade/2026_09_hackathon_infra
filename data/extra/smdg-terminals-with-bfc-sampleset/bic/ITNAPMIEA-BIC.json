@@ -1,0 +1,61 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.300746,
+                            40.851703
+                        ],
+                        [
+                            14.302577,
+                            40.851932
+                        ],
+                        [
+                            14.302467,
+                            40.852461
+                        ],
+                        [
+                            14.300703,
+                            40.852238
+                        ],
+                        [
+                            14.300746,
+                            40.851703
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPMIEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itnapmiea/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.301448,
+                    40.852007
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "ITNAPMIEA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2025-05-16",
+                "url": "https://www.bic-code.org/facility-codes/itnapmiea/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

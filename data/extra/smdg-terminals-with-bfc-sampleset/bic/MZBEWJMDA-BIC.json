@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            34.8476,
+                            -19.8136
+                        ],
+                        [
+                            34.8461,
+                            -19.8127
+                        ],
+                        [
+                            34.8452,
+                            -19.814
+                        ],
+                        [
+                            34.8452,
+                            -19.8143
+                        ],
+                        [
+                            34.8466,
+                            -19.8151
+                        ],
+                        [
+                            34.8476,
+                            -19.8136
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWJMDA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewjmda/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.846383,
+                    -19.813883
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "MZBEWJMDA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-30",
+                "url": "https://www.bic-code.org/facility-codes/mzbewjmda/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

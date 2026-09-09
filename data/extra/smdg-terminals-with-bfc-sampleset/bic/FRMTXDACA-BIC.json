@@ -1,0 +1,334 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.161333,
+                            47.31967
+                        ],
+                        [
+                            -2.161333,
+                            47.319665
+                        ],
+                        [
+                            -2.161319,
+                            47.319665
+                        ],
+                        [
+                            -2.161319,
+                            47.31967
+                        ],
+                        [
+                            -2.161333,
+                            47.31967
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.161005,
+                            47.31943
+                        ],
+                        [
+                            -2.161086,
+                            47.319403
+                        ],
+                        [
+                            -2.160973,
+                            47.319272
+                        ],
+                        [
+                            -2.160893,
+                            47.319294
+                        ],
+                        [
+                            -2.161005,
+                            47.31943
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.161239,
+                            47.319643
+                        ],
+                        [
+                            -2.161062,
+                            47.319697
+                        ],
+                        [
+                            -2.161102,
+                            47.319746
+                        ],
+                        [
+                            -2.161287,
+                            47.319692
+                        ],
+                        [
+                            -2.161239,
+                            47.319643
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.16222,
+                            47.319528
+                        ],
+                        [
+                            -2.162148,
+                            47.318727
+                        ],
+                        [
+                            -2.161375,
+                            47.31889
+                        ],
+                        [
+                            -2.160233,
+                            47.317958
+                        ],
+                        [
+                            -2.159131,
+                            47.318061
+                        ],
+                        [
+                            -2.159775,
+                            47.318721
+                        ],
+                        [
+                            -2.158021,
+                            47.319741
+                        ],
+                        [
+                            -2.158841,
+                            47.320641
+                        ],
+                        [
+                            -2.16222,
+                            47.319528
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 3,
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "FACILITY",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.159774,
+                            47.318005
+                        ],
+                        [
+                            -2.159846,
+                            47.318133
+                        ],
+                        [
+                            -2.16001,
+                            47.318319
+                        ],
+                        [
+                            -2.160192,
+                            47.318477
+                        ],
+                        [
+                            -2.160067,
+                            47.318524
+                        ],
+                        [
+                            -2.159713,
+                            47.318196
+                        ],
+                        [
+                            -2.15962,
+                            47.318016
+                        ],
+                        [
+                            -2.159774,
+                            47.318005
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "GATE",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.161327,
+                    47.319668
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.160992,
+                    47.319366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.161186,
+                    47.319684
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "3",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.16044,
+                    47.319088
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "4",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.159874,
+                    47.318209
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "FRMTXDACA",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "5",
+                "category": "CENTROID",
+                "version": "2026-06-30",
+                "remarks": "CCIS HO Approuval",
+                "url": "https://www.bic-code.org/facility-codes/frmtxdaca/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

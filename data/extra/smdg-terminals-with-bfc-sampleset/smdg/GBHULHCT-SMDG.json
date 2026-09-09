@@ -1,0 +1,225 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.253049,
+                            53.736497
+                        ],
+                        [
+                            -0.254925,
+                            53.737224
+                        ],
+                        [
+                            -0.252855,
+                            53.739453
+                        ],
+                        [
+                            -0.254747,
+                            53.73994
+                        ],
+                        [
+                            -0.255394,
+                            53.740113
+                        ],
+                        [
+                            -0.256591,
+                            53.740285
+                        ],
+                        [
+                            -0.255733,
+                            53.74149
+                        ],
+                        [
+                            -0.258192,
+                            53.742007
+                        ],
+                        [
+                            -0.258289,
+                            53.741882
+                        ],
+                        [
+                            -0.257804,
+                            53.741796
+                        ],
+                        [
+                            -0.257868,
+                            53.741614
+                        ],
+                        [
+                            -0.258402,
+                            53.741671
+                        ],
+                        [
+                            -0.25858,
+                            53.741423
+                        ],
+                        [
+                            -0.264548,
+                            53.742561
+                        ],
+                        [
+                            -0.265427,
+                            53.741021
+                        ],
+                        [
+                            -0.257389,
+                            53.739548
+                        ],
+                        [
+                            -0.257971,
+                            53.738208
+                        ],
+                        [
+                            -0.26636,
+                            53.739711
+                        ],
+                        [
+                            -0.266198,
+                            53.740027
+                        ],
+                        [
+                            -0.267379,
+                            53.739969
+                        ],
+                        [
+                            -0.269465,
+                            53.741921
+                        ],
+                        [
+                            -0.273088,
+                            53.740639
+                        ],
+                        [
+                            -0.273315,
+                            53.740323
+                        ],
+                        [
+                            -0.273072,
+                            53.740141
+                        ],
+                        [
+                            -0.270468,
+                            53.739376
+                        ],
+                        [
+                            -0.260052,
+                            53.736229
+                        ],
+                        [
+                            -0.259729,
+                            53.736133
+                        ],
+                        [
+                            -0.259454,
+                            53.736411
+                        ],
+                        [
+                            -0.256316,
+                            53.736573
+                        ],
+                        [
+                            -0.254052,
+                            53.735674
+                        ],
+                        [
+                            -0.253049,
+                            53.736497
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.266182,
+                            53.740036
+                        ],
+                        [
+                            -0.26636,
+                            53.73973
+                        ],
+                        [
+                            -0.257982,
+                            53.738199
+                        ],
+                        [
+                            -0.257836,
+                            53.738506
+                        ],
+                        [
+                            -0.266182,
+                            53.740036
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.260637,
+                    53.73956
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.262908,
+                    53.739301
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GBHULHCT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2025-06-02",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

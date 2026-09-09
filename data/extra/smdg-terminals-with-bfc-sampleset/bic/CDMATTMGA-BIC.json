@@ -1,0 +1,117 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            13.505657,
+                            -5.837757
+                        ],
+                        [
+                            13.505459,
+                            -5.838569
+                        ],
+                        [
+                            13.501899,
+                            -5.837752
+                        ],
+                        [
+                            13.501915,
+                            -5.837287
+                        ],
+                        [
+                            13.50213,
+                            -5.837095
+                        ],
+                        [
+                            13.502489,
+                            -5.837367
+                        ],
+                        [
+                            13.502667,
+                            -5.837266
+                        ],
+                        [
+                            13.502817,
+                            -5.837469
+                        ],
+                        [
+                            13.50286,
+                            -5.83741
+                        ],
+                        [
+                            13.503461,
+                            -5.837699
+                        ],
+                        [
+                            13.503918,
+                            -5.837624
+                        ],
+                        [
+                            13.503966,
+                            -5.837175
+                        ],
+                        [
+                            13.504406,
+                            -5.837271
+                        ],
+                        [
+                            13.504369,
+                            -5.837474
+                        ],
+                        [
+                            13.504557,
+                            -5.837538
+                        ],
+                        [
+                            13.504841,
+                            -5.836983
+                        ],
+                        [
+                            13.50548,
+                            -5.837218
+                        ],
+                        [
+                            13.505298,
+                            -5.837645
+                        ],
+                        [
+                            13.505657,
+                            -5.837757
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATTMGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "FACILITY",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmattmga/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.503887,
+                    -5.837492
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "CDMATTMGA",
+                "codeProvider": "BIC",
+                "trustGrade": "REVIEW_PANEL",
+                "category": "CENTROID",
+                "version": "2026-06-19",
+                "url": "https://www.bic-code.org/facility-codes/cdmattmga/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

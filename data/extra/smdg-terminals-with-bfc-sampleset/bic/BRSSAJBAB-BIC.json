@@ -1,0 +1,121 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -38.403172,
+                            -12.829494
+                        ],
+                        [
+                            -38.403544,
+                            -12.830204
+                        ],
+                        [
+                            -38.403497,
+                            -12.830371
+                        ],
+                        [
+                            -38.403719,
+                            -12.830591
+                        ],
+                        [
+                            -38.404168,
+                            -12.830718
+                        ],
+                        [
+                            -38.405269,
+                            -12.8304
+                        ],
+                        [
+                            -38.405483,
+                            -12.829753
+                        ],
+                        [
+                            -38.405696,
+                            -12.829983
+                        ],
+                        [
+                            -38.405873,
+                            -12.830871
+                        ],
+                        [
+                            -38.406364,
+                            -12.831424
+                        ],
+                        [
+                            -38.406476,
+                            -12.832739
+                        ],
+                        [
+                            -38.406269,
+                            -12.832941
+                        ],
+                        [
+                            -38.405052,
+                            -12.833978
+                        ],
+                        [
+                            -38.40358,
+                            -12.832295
+                        ],
+                        [
+                            -38.403361,
+                            -12.832428
+                        ],
+                        [
+                            -38.403089,
+                            -12.832572
+                        ],
+                        [
+                            -38.402303,
+                            -12.831523
+                        ],
+                        [
+                            -38.403154,
+                            -12.830589
+                        ],
+                        [
+                            -38.402941,
+                            -12.829615
+                        ],
+                        [
+                            -38.403172,
+                            -12.829494
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSAJBAB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssajbab/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.404309,
+                    -12.831099
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSAJBAB",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2025-12-22",
+                "url": "https://www.bic-code.org/facility-codes/brssajbab/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.947955,
+                            18.958008
+                        ],
+                        [
+                            72.947139,
+                            18.958328
+                        ],
+                        [
+                            72.944562,
+                            18.952771
+                        ],
+                        [
+                            72.94529,
+                            18.952453
+                        ],
+                        [
+                            72.947955,
+                            18.958008
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "BERTH",
+                "version": "2024-10-25",
+                "remarks": "Geofence submission 1 had geofences for 3 terminals, NSICT, NSFT, and GTI. Isolated NSFT and adjusted boundaries. Awaiting verification from JMBaxi.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            72.945303,
+                            18.952446
+                        ],
+                        [
+                            72.947689,
+                            18.951423
+                        ],
+                        [
+                            72.947408,
+                            18.950823
+                        ],
+                        [
+                            72.947788,
+                            18.950661
+                        ],
+                        [
+                            72.947722,
+                            18.95051
+                        ],
+                        [
+                            72.950635,
+                            18.949295
+                        ],
+                        [
+                            72.952146,
+                            18.951181
+                        ],
+                        [
+                            72.954528,
+                            18.95019
+                        ],
+                        [
+                            72.955299,
+                            18.951797
+                        ],
+                        [
+                            72.958031,
+                            18.950593
+                        ],
+                        [
+                            72.9593,
+                            18.951988
+                        ],
+                        [
+                            72.960343,
+                            18.951948
+                        ],
+                        [
+                            72.960354,
+                            18.952659
+                        ],
+                        [
+                            72.958674,
+                            18.952668
+                        ],
+                        [
+                            72.949932,
+                            18.956382
+                        ],
+                        [
+                            72.949849,
+                            18.956465
+                        ],
+                        [
+                            72.948052,
+                            18.957239
+                        ],
+                        [
+                            72.948344,
+                            18.957836
+                        ],
+                        [
+                            72.947963,
+                            18.958006
+                        ],
+                        [
+                            72.945303,
+                            18.952446
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "FACILITY",
+                "version": "2024-10-25",
+                "remarks": "Geofence submission 1 had geofences for 3 terminals, NSICT, NSFT, and GTI. Isolated NSFT and adjusted boundaries. Awaiting verification from JMBaxi.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.94658,
+                    18.955914
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "remarks": "Geofence submission 1 had geofences for 3 terminals, NSICT, NSFT, and GTI. Isolated NSFT and adjusted boundaries. Awaiting verification from JMBaxi.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.951733,
+                    18.952828
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "INNSANSFT",
+                "codeProvider": "SMDG",
+                "trustGrade": "REVIEW_PANEL",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2024-10-25",
+                "remarks": "Geofence submission 1 had geofences for 3 terminals, NSICT, NSFT, and GTI. Isolated NSFT and adjusted boundaries. Awaiting verification from JMBaxi.",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

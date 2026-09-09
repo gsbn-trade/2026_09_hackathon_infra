@@ -1,0 +1,177 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.597752,
+                            55.712829
+                        ],
+                        [
+                            12.600106,
+                            55.712337
+                        ],
+                        [
+                            12.600115,
+                            55.712254
+                        ],
+                        [
+                            12.600159,
+                            55.712141
+                        ],
+                        [
+                            12.599976,
+                            55.711844
+                        ],
+                        [
+                            12.610439,
+                            55.709698
+                        ],
+                        [
+                            12.610258,
+                            55.709435
+                        ],
+                        [
+                            12.610935,
+                            55.709302
+                        ],
+                        [
+                            12.611181,
+                            55.709293
+                        ],
+                        [
+                            12.611488,
+                            55.709719
+                        ],
+                        [
+                            12.613588,
+                            55.710736
+                        ],
+                        [
+                            12.611894,
+                            55.711069
+                        ],
+                        [
+                            12.612755,
+                            55.712385
+                        ],
+                        [
+                            12.605753,
+                            55.713814
+                        ],
+                        [
+                            12.604825,
+                            55.712501
+                        ],
+                        [
+                            12.597511,
+                            55.713974
+                        ],
+                        [
+                            12.596882,
+                            55.713006
+                        ],
+                        [
+                            12.597752,
+                            55.712829
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHCMPDK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "FACILITY",
+                "version": "2026-04-21",
+                "remarks": "Provided by Gabriel at CMAho.gautrancma-cgm.com ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            12.599936,
+                            55.711837
+                        ],
+                        [
+                            12.599642,
+                            55.71134
+                        ],
+                        [
+                            12.610074,
+                            55.709205
+                        ],
+                        [
+                            12.610442,
+                            55.709702
+                        ],
+                        [
+                            12.599936,
+                            55.711837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHCMPDK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "BERTH",
+                "version": "2026-04-21",
+                "remarks": "Provided by Gabriel at CMAho.gautrancma-cgm.com ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.605187,
+                    55.71162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHCMPDK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "1",
+                "category": "CENTROID",
+                "version": "2026-04-21",
+                "remarks": "Provided by Gabriel at CMAho.gautrancma-cgm.com ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.604006,
+                    55.710784
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "DKCPHCMPDK",
+                "codeProvider": "SMDG",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "section": "2",
+                "category": "CENTROID",
+                "version": "2026-04-21",
+                "remarks": "Provided by Gabriel at CMAho.gautrancma-cgm.com ",
+                "url": "https://smdg.org/documents/smdg-code-lists/smdg-terminal-code-list/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            9.498118,
+                            0.290956
+                        ],
+                        [
+                            9.497441,
+                            0.290225
+                        ],
+                        [
+                            9.500212,
+                            0.287784
+                        ],
+                        [
+                            9.502373,
+                            0.285963
+                        ],
+                        [
+                            9.502773,
+                            0.286472
+                        ],
+                        [
+                            9.502979,
+                            0.286677
+                        ],
+                        [
+                            9.501858,
+                            0.287637
+                        ],
+                        [
+                            9.498118,
+                            0.290956
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVIXWK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvixwk/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.500484,
+                    0.288334
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "GALBVIXWK",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2026-07-02",
+                "url": "https://www.bic-code.org/facility-codes/galbvixwk/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -46.277297,
+                            -23.948847
+                        ],
+                        [
+                            -46.276987,
+                            -23.949696
+                        ],
+                        [
+                            -46.276368,
+                            -23.949542
+                        ],
+                        [
+                            -46.275721,
+                            -23.949332
+                        ],
+                        [
+                            -46.275084,
+                            -23.949151
+                        ],
+                        [
+                            -46.273398,
+                            -23.948587
+                        ],
+                        [
+                            -46.273228,
+                            -23.948231
+                        ],
+                        [
+                            -46.273521,
+                            -23.947673
+                        ],
+                        [
+                            -46.274537,
+                            -23.94802
+                        ],
+                        [
+                            -46.27673,
+                            -23.948691
+                        ],
+                        [
+                            -46.276833,
+                            -23.948726
+                        ],
+                        [
+                            -46.277297,
+                            -23.948847
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBQJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "FACILITY",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszbqjq/"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.275583,
+                    -23.948779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "code": "BRSSZBQJQ",
+                "codeProvider": "BIC",
+                "trustGrade": "LOCAL_KNOWLEDGE",
+                "category": "CENTROID",
+                "version": "2024-05-22",
+                "url": "https://www.bic-code.org/facility-codes/brsszbqjq/"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
