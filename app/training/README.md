@@ -13,12 +13,11 @@ per-team ones `/files/*` uses).
 ## Updating
 
 Add, replace, or remove files directly in this directory and redeploy
-(`git push` + the VM's usual `git pull && rsync && docker compose up -d`
-sequence — see `docs/ssh-connectivity/README.md` for the no-SSH deploy
-commands). No container restart needed for content changes — Caddy serves
-this directory's live contents on every request. A restart is only needed
-once, when the `/training/*` *route* itself is added or changed in
-`../Caddyfile`.
+(`git push` + `./deploy.sh`, or `../scripts/restart-dsh-team.sh` if only a
+team's harness needs recreating). No container restart needed for content
+changes — Caddy serves this directory's live contents on every request. A
+restart is only needed once, when the `/training/*` *route* itself is added
+or changed in `../Caddyfile`.
 
 ## Contents
 

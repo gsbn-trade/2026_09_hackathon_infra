@@ -18,9 +18,9 @@
 # not merely restarted.
 #
 # No SSH from this operator's Mac (JumpCloud EndpointSecurity blocks the SSH
-# protocol outright — see docs/ssh-connectivity/README.md), so this drives
-# the VM via `aliyun ecs RunCommand` (Cloud Assistant), same as that doc's
-# documented workaround.
+# protocol outright — TCP connects fine, but the banner exchange never
+# completes), so this drives the VM via `aliyun ecs RunCommand` (Cloud
+# Assistant) instead.
 #
 # Usage:
 #   scripts/restart-dsh-team.sh 0 2 5     # just teams 0, 2, 5

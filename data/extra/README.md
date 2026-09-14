@@ -16,6 +16,5 @@ carry SMDG carrier codes and BIC/SMDG facility codes).
 
 Same as every other folder under `data/` — no separate setup:
 
-- **Dify**: `GET http://data-server/extra/smdg-liner-codes.json` (internal-only, plain text)
 - **Open WebUI / Jupyter**: `~/data/extra/...`
 - **DeepSeek Harness**: `/workspace/data/extra/...`

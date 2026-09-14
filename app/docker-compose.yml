@@ -61,28 +61,11 @@ services:
       - boltdiy-team1
       - dsh-upload
 
-  # Plain static file server for data/ over HTTP — internal only (no host
-  # port, no Caddy route). Exists specifically so Dify's workflow HTTP
-  # Request nodes can fetch a track's brief.md directly: Dify's Code nodes
-  # run in a deliberately locked-down sandbox that can't read local files
-  # even when a path is mounted into it (confirmed: "operation not
-  # permitted" — a seccomp restriction, not a missing-mount problem), so
-  # this is the actual working path, not a workaround-of-convenience.
-  data-server:
-    image: nginx:alpine
-    restart: unless-stopped
-    volumes:
-      - ../data:/usr/share/nginx/html:ro
-      - ./data-server.nginx.conf:/etc/nginx/conf.d/default.conf:ro
-    networks:
-      - hackathon_shared
-
   # pgvector/pgvector:pg16 is a drop-in-compatible build of postgres:16 with
   # the pgvector extension added — same PGDATA format, existing data/volume
-  # untouched by this image swap. Reused for Dify's relational DB *and*
-  # vector store (a second "dify" database on this same server, with the
-  # extension enabled in it) instead of running Dify's own bundled Postgres
-  # + vector-store containers — see dify/README.md.
+  # untouched by this image swap. Only litellm actually needs it (its own
+  # DB); pgvector over plain postgres was picked in case a future service
+  # wants the vector-store extension too.
   postgres:
     image: pgvector/pgvector:pg16
     restart: unless-stopped
@@ -92,13 +75,6 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     volumes:
       - pg_data:/var/lib/postgresql/data
-    # Reachable from the separately-deployed Dify compose project (see
-    # dify/) on this external network, in addition to this project's own
-    # default network. Created once via `docker network create
-    # hackathon_shared` (deploy.sh does this automatically; idempotent).
-    networks:
-      - default
-      - hackathon_shared
 
   # litellm-database (not plain litellm) is the variant wired for Postgres —
   # it's what persists teams/virtual-keys/spend across restarts instead of
@@ -118,11 +94,6 @@ services:
     command: ["--config", "/app/config.yaml", "--port", "4000"]
     expose:
       - "4000"
-    # Reachable from Dify (separate compose project, see dify/) as its
-    # model provider — same shared-network pattern as postgres above.
-    networks:
-      - default
-      - hackathon_shared
 
   # Custom-built from the published bolt.diy image (see Dockerfile.boltdiy) —
   # bakes in two source patches (locks the provider dropdown to just
@@ -646,9 +617,3 @@ volumes:
 
 networks:
   default: {}
-  # Created once via `docker network create hackathon_shared` (deploy.sh
-  # does this automatically; idempotent) — lets Dify's separately-deployed
-  # compose project (see dify/) reach postgres/litellm by name without
-  # merging the two compose projects into one.
-  hackathon_shared:
-    external: true
